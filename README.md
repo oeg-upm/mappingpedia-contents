@@ -1,2 +1,2 @@
 # mappingpedia-contents
-Repository to store mappings of mappingpedia
+Repository for storing mappings of mappingpedia
