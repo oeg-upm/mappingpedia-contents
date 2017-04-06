@@ -10,7 +10,7 @@
 @prefix ex: <http://example.org/> .
 @base <http://mappingpedia.linkeddata.es/resource/> .
 
-<TriplesMapVenues>
+<TriplesMapVenues> a rr:TriplesMap;
 	rr:logicalTable [ 
         rr:tableName  "VENUES" # http://ma.tingtun.no/ogd/datasets/data/venues/?format=csv
     ];
@@ -61,7 +61,7 @@
     ];
 .
 
-<TriplesMapPostalAddress>
+<TriplesMapPostalAddress> a rr:TriplesMap;
 	rr:logicalTable [ 
         rr:tableName  "VENUES" # http://ma.tingtun.no/ogd/datasets/data/venues/?format=csv
     ];
@@ -77,7 +77,7 @@
     ];
 .
 
-<TriplesMapGeoCoordinates>
+<TriplesMapGeoCoordinates> a rr:TriplesMap;
 	rr:logicalTable [ 
         rr:tableName  "VENUES" # http://ma.tingtun.no/ogd/datasets/data/venues/?format=csv
     ];
