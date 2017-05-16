@@ -1,0 +1,37 @@
+@base <http://www.w3.org/2001/sw/rdb2rdf/test-cases/#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+# mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
+mpi:mappingdocument-c4187c46-c3ea-4fa3-aafb-826a07389c0d a mpv:R2RMLMappingDocument ;
+    dcterms:identifier "mappingdocument-c4187c46-c3ea-4fa3-aafb-826a07389c0d" ;
+    dcterms:title "venues 2" ;
+    dcterms:dateSubmitted "2017-05-16 13:26:04.995174"^^xsd:dateTime;
+    dcterms:creator "Ahmad Alobaid" ;
+    dcterms:license "Accept all the terms and conditions" ;
+    dcterms:subject "venues 2 subject" ;
+    mpv:hasDataset mpi:ds-c4187c46-c3ea-4fa3-aafb-826a07389c0d ;
+    mpv:hasMappingDocumentFile <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/c4187c46-c3ea-4fa3-aafb-826a07389c0d/venues.r2rml.ttl> ;
+.
+
+
+# mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpi:ds-c4187c46-c3ea-4fa3-aafb-826a07389c0d a mpv:Dataset ;
+    dcterms:identifier "data-c4187c46-c3ea-4fa3-aafb-826a07389c0d" ;
+    dcterms:title "venues" ;
+    dcat:keyword "venues"  ;
+    dcterms:publisher mpi:user-c4187c46-c3ea-4fa3-aafb-826a07389c0d ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    dcat:distribution mpi:ds-c4187c46-c3ea-4fa3-aafb-826a07389c0d_distribution-0 ;
+.
+
+mpi:ds-c4187c46-c3ea-4fa3-aafb-826a07389c0d_distribution-0 a dcat:Distribution;
+    dcat:accessURL <https://github.com/oeg-upm/mappingpedia-contents/blob/master/mappingpedia-testuser/c4187c46-c3ea-4fa3-aafb-826a07389c0d/venues.csv> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/c4187c46-c3ea-4fa3-aafb-826a07389c0d/venues.csv> ;
+    dcat:mediaType "text/csv" ;
+.
