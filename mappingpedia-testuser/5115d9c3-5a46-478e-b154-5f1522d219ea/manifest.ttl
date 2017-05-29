@@ -1,0 +1,37 @@
+@base <http://www.w3.org/2001/sw/rdb2rdf/test-cases/#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+# mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
+mpi:mappingdocument-e8514b2a-6796-410c-ba5a-371a30842021 a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingdocument-e8514b2a-6796-410c-ba5a-371a30842021" ;
+    mpv:mappingDocumentTitle "Title mappings" ;
+    mpv:mappingDocumentDateSubmitted "2017-05-29 08:50:45.103376"^^xsd:dateTime;
+    mpv:mappingDocumentCreator "Nelson Saturno" ;
+    mpv:mappingDocumentLicense "Accept all the terms and conditions" ;
+    mpv:mappingDocumentSubject "Subject Mapping" ;
+    mpv:hasDataset mpi:ds-e8514b2a-6796-410c-ba5a-371a30842021 ;
+    mpv:hasMappingDocumentFile <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/e8514b2a-6796-410c-ba5a-371a30842021/example1-mapping-csv.ttl> ;
+.
+
+
+# mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpi:ds-e8514b2a-6796-410c-ba5a-371a30842021 a mpv:Dataset ;
+    mpv:datasetIdentifier "data-e8514b2a-6796-410c-ba5a-371a30842021" ;
+    mpv:datasetTitle "Dataset request example" ;
+    mpv:datasetKeyword "Key1"  ;
+    mpv:datasetPublisher mpi:user-e8514b2a-6796-410c-ba5a-371a30842021 ;
+    mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    mpv:datasetDistribution mpi:ds-e8514b2a-6796-410c-ba5a-371a30842021_distribution-0 ;
+.
+
+mpi:ds-e8514b2a-6796-410c-ba5a-371a30842021_distribution-0 a mpv:DatasetDistribution;
+    mpv:distributionAccessURL <http://example.com> ;
+    mpv:distributionDownloadURL <http://example.com> ;
+    mpv:distributionMediaType "text/uri-list" ;
+.
