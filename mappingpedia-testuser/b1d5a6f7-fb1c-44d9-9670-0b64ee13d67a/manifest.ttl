@@ -1,0 +1,43 @@
+@base <http://www.w3.org/2001/sw/rdb2rdf/test-cases/#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+# mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
+mpi:mappingdocument-bb2637b5-acfe-419e-abf3-f91403bf03e1 a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingdocument-bb2637b5-acfe-419e-abf3-f91403bf03e1" ;
+    mpv:mappingDocumentTitle "Query translation" ;
+    mpv:mappingDocumentDateSubmitted "2017-05-30 09:11:48.680926"^^xsd:dateTime;
+    mpv:mappingDocumentCreator "Avelino Saturno" ;
+    mpv:mappingDocumentLicense "Accept all the terms and conditions" ;
+    mpv:mappingDocumentSubject "query translation" ;
+    mpv:hasDataset mpi:ds-bb2637b5-acfe-419e-abf3-f91403bf03e1 ;
+    mpv:hasMappingDocumentFile <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/bb2637b5-acfe-419e-abf3-f91403bf03e1/example1-mapping-csv.ttl> ;
+.
+
+
+# mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpi:ds-bb2637b5-acfe-419e-abf3-f91403bf03e1 a mpv:Dataset ;
+    mpv:datasetIdentifier "data-bb2637b5-acfe-419e-abf3-f91403bf03e1" ;
+    mpv:datasetTitle "Dataset Test" ;
+    mpv:datasetKeyword "dataset", "test", "query"  ;
+    mpv:datasetPublisher mpi:user-bb2637b5-acfe-419e-abf3-f91403bf03e1 ;
+    mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    mpv:datasetDistribution mpi:ds-bb2637b5-acfe-419e-abf3-f91403bf03e1_distribution-0 , mpi:ds-bb2637b5-acfe-419e-abf3-f91403bf03e1_distribution-1 ;
+.
+
+mpi:ds-bb2637b5-acfe-419e-abf3-f91403bf03e1_distribution-0 a mpv:DatasetDistribution;
+    mpv:distributionAccessURL <https://github.com/oeg-upm/mappingpedia-contents/blob/master/mappingpedia-testuser/bb2637b5-acfe-419e-abf3-f91403bf03e1/Sport.csv> ;
+    mpv:distributionDownloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/bb2637b5-acfe-419e-abf3-f91403bf03e1/Sport.csv> ;
+    mpv:distributionMediaType "text/csv" ;
+.
+
+mpi:ds-bb2637b5-acfe-419e-abf3-f91403bf03e1_distribution-1 a mpv:DatasetDistribution;
+    mpv:distributionAccessURL <https://github.com/oeg-upm/mappingpedia-contents/blob/master/mappingpedia-testuser/bb2637b5-acfe-419e-abf3-f91403bf03e1/Student.csv> ;
+    mpv:distributionDownloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/bb2637b5-acfe-419e-abf3-f91403bf03e1/Student.csv> ;
+    mpv:distributionMediaType "text/csv" ;
+.
