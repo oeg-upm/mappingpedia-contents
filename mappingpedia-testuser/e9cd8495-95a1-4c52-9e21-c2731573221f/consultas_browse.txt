@@ -1,0 +1,299 @@
+# Obtener todos los mappings del repositorio
+
+prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#>
+
+SELECT ?title ?date ?identifier ?subject
+WHERE {
+    ?mapping a mpv:R2RMLMappingDocument .
+    ?mapping mpv:mappingDocumentTitle ?title .
+    ?mapping mpv:mappingDocumentSubject ?subject .
+    ?mapping mpv:mappingDocumentDateSubmitted ?date .
+    ?mapping mpv:mappingDocumentIdentifier ?identifier .
+}
+ORDER BY DESC(?date)
+
+
+# Obtener top 10 keywords. Para los filtros
+
+prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#>
+
+SELECT ?keyword COUNT(?keyword) AS ?count
+WHERE {
+    ?s mpv:datasetKeyword ?keyword .
+} GROUP BY ?keyword ORDER BY DESC(?count) LIMIT 10
+
+
+# Obtener languages. Para los filtros
+
+prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#>
+
+SELECT ?lan COUNT(?lan) AS ?count
+WHERE {
+    ?s mpv:datasetLanguage ?lan .
+} GROUP BY ?lan ORDER BY DESC(?count) LIMIT 10
+
+
+# Filtrar por keyword (Se sustituye ?search por el keyword a buscar)
+
+prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#>
+
+SELECT DISTINCT ?mapping ?title ?date ?subject ?identifier
+WHERE {
+    ?mapping a mpv:R2RMLMappingDocument .
+    ?mapping mpv:mappingDocumentTitle ?title .
+    ?mapping mpv:mappingDocumentSubject ?subject .
+    ?mapping mpv:mappingDocumentDateSubmitted ?date .
+    ?mapping mpv:mappingDocumentIdentifier ?identifier .
+    ?mapping mpv:hasDataset ?ds .
+    ?ds mpv:datasetKeyword "?search"^^<http://www.w3.org/2001/XMLSchema#string> .
+}
+ORDER BY DESC(?date)
+
+
+# Filtrar por language (Se sustituye ?search por el idioma a buscar)
+
+prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#>
+
+SELECT DISTINCT ?mapping ?title ?date ?subject ?identifier
+WHERE {
+    ?mapping a mpv:R2RMLMappingDocument .
+    ?mapping mpv:mappingDocumentTitle ?title .
+    ?mapping mpv:mappingDocumentSubject ?subject .
+    ?mapping mpv:mappingDocumentDateSubmitted ?date .
+    ?mapping mpv:mappingDocumentIdentifier ?identifier .
+    ?mapping mpv:hasDataset ?ds .
+    ?ds mpv:datasetLanguage ?search .
+}
+ORDER BY DESC(?date)
+
+
+# Busqueda metadatos de los Mappings (Se sustituye ?search_field por el texto a buscar)
+
+prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#>
+
+SELECT DISTINCT ?mapping ?title ?date ?identifier ?subject
+WHERE {
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:mappingDocumentTitle ?title .
+        FILTER regex(?title, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:mappingDocumentCreator ?creator .
+        FILTER regex(?creator, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:mappingDocumentLicense ?license .
+        FILTER regex(?license, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:mappingDocumentSubject ?subject .
+        FILTER regex(?subject, "?search_field", "i") .
+    }
+    ?mapping mpv:mappingDocumentTitle ?title .
+    ?mapping mpv:mappingDocumentSubject ?subject .
+    ?mapping mpv:mappingDocumentDateSubmitted ?date .
+    ?mapping mpv:mappingDocumentIdentifier ?identifier .
+}
+ORDER BY DESC(?date)
+
+
+# Busqueda metadatos de los Dataset (Se sustituye ?search_field por el texto a buscar)
+
+prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#>
+
+SELECT DISTINCT ?mapping ?title ?date ?identifier ?subject
+WHERE {
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:hasDataset ?ds .
+        ?ds mpv:datasetTitle ?ds_title .
+        FILTER regex(?ds_title, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:hasDataset ?ds .
+        ?ds mpv:datasetLanguage ?ds_language .
+        FILTER regex(?ds_language, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:hasDataset ?ds .
+        ?ds mpv:datasetKeyword ?keyword .
+        FILTER regex(?keyword, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:hasDataset ?ds .
+        ?ds mpv:datasetDistribution ?ds_dist .
+        ?ds_dist mpv:distributionMediaType ?mt .
+        FILTER regex(?mt, "?search_field", "i") .
+    }
+    ?mapping mpv:mappingDocumentTitle ?title .
+    ?mapping mpv:mappingDocumentSubject ?subject .
+    ?mapping mpv:mappingDocumentDateSubmitted ?date .
+    ?mapping mpv:mappingDocumentIdentifier ?identifier .
+}
+ORDER BY DESC(?date)
+
+
+# Busqueda en todos los metadatos (Se sustituye ?search_field por el texto a buscar)
+
+prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#>
+
+SELECT DISTINCT ?mapping ?title ?date ?identifier ?subject
+WHERE {
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:mappingDocumentTitle ?title .
+        FILTER regex(?title, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:mappingDocumentCreator ?creator .
+        FILTER regex(?creator, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:mappingDocumentLicense ?license .
+        FILTER regex(?license, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:mappingDocumentSubject ?subject .
+        FILTER regex(?subject, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:hasDataset ?ds .
+        ?ds mpv:datasetTitle ?ds_title .
+        FILTER regex(?ds_title, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:hasDataset ?ds .
+        ?ds mpv:datasetLanguage ?ds_language .
+        FILTER regex(?ds_language, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:hasDataset ?ds .
+        ?ds mpv:datasetKeyword ?keyword .
+        FILTER regex(?keyword, "?search_field", "i") .
+    }
+    UNION
+    {
+        ?mapping a mpv:R2RMLMappingDocument .
+        ?mapping mpv:hasDataset ?ds .
+        ?ds mpv:datasetDistribution ?ds_dist .
+        ?ds_dist mpv:distributionMediaType ?mt .
+        FILTER regex(?mt, "?search_field", "i") .
+    }
+    ?mapping mpv:mappingDocumentTitle ?title .
+    ?mapping mpv:mappingDocumentSubject ?subject .
+    ?mapping mpv:mappingDocumentDateSubmitted ?date .
+    ?mapping mpv:mappingDocumentIdentifier ?identifier .
+}
+ORDER BY DESC(?date)
+
+
+##############################################
+
+# Obtener lista de elementos de ontologias
+
+    # class
+
+    prefix rr: <http://www.w3.org/ns/r2rml#>
+
+    SELECT DISTINCT ?class
+    WHERE {
+        ?sm rr:class ?class .
+    }
+
+
+    # constant
+
+    prefix rr: <http://www.w3.org/ns/r2rml#>
+
+    SELECT DISTINCT ?pi
+    WHERE {
+        ?obj rr:constant ?pi .
+    }
+
+
+    # predicate
+
+    prefix rr: <http://www.w3.org/ns/r2rml#>
+
+    SELECT DISTINCT ?pi
+    WHERE {
+        ?pom rr:predicate ?pi .
+    }
+
+
+# Busqueda por elemento de ontologia (Se sustituye searchurl por el elemento a buscar)
+
+prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#>
+prefix rr: <http://www.w3.org/ns/r2rml#>
+
+SELECT DISTINCT ?mapping ?title ?date ?identifier ?subject
+WHERE {
+    {
+        ?pom rr:predicate <?searchurl> .
+        ?tm rr:predicateObjectMap ?pom .
+        ?mapping mpv:hasTriplesMaps ?tm .
+    }
+    UNION
+    {
+        ?s rr:class <?searchurl> .
+        ?tm rr:subjectMap ?s .
+        ?mapping mpv:hasTriplesMaps ?tm .
+    }
+    UNION
+    {
+        ?pm rr:constant <?searchurl> .
+        ?pom rr:predicateMap ?pm .
+        ?tm rr:predicateObjectMap ?pom .
+        ?mapping mpv:hasTriplesMaps ?tm .
+    }
+    ?mapping mpv:mappingDocumentTitle ?title .
+    ?mapping mpv:mappingDocumentSubject ?subject .
+    ?mapping mpv:mappingDocumentDateSubmitted ?date .
+    ?mapping mpv:mappingDocumentIdentifier ?identifier .
+}
+ORDER BY DESC(?date)
+
+
+# Detalle del mapping (Se sustituye ?mapping por el identificador del mapping seleccionado)
+
+prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#>
+prefix mpi: <http://mappingpedia.linkeddata.es/instance#>
+
+SELECT ?title ?date ?creator ?subject ?file ?license ?ds_title ?language
+WHERE {
+    ?mapping mpv:mappingDocumentCreator ?creator .
+    ?mapping mpv:mappingDocumentTitle ?title .
+    ?mapping mpv:mappingDocumentSubject ?subject .
+    ?mapping mpv:mappingDocumentDateSubmitted ?date .
+    ?mapping mpv:hasMappingDocumentFile ?file .
+    ?mapping mpv:mappingDocumentLicense ?license .
+    ?mapping mpv:hasDataset ?ds .
+    ?ds mpv:datasetTitle ?ds_title .
+    ?ds mpv:datasetLanguage ?language .
+}
+
