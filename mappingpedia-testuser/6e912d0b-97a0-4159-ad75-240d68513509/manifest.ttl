@@ -1,0 +1,43 @@
+@base <http://www.w3.org/2001/sw/rdb2rdf/test-cases/#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+# mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
+mpi:mappingdocument-54302136-7d21-4b31-afb3-6708638e7e77 a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingdocument-54302136-7d21-4b31-afb3-6708638e7e77" ;
+    mpv:mappingDocumentTitle "Sports Mappings" ;
+    mpv:mappingDocumentDateSubmitted "2017-06-29 06:20:09.443326"^^xsd:dateTime;
+    mpv:mappingDocumentCreator "Nelson Saturno" ;
+    mpv:mappingDocumentLicense "Accept all the terms and conditions" ;
+    mpv:mappingDocumentSubject "About Sports" ;
+    mpv:hasDataset mpi:ds-54302136-7d21-4b31-afb3-6708638e7e77 ;
+    mpv:hasMappingDocumentFile <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/54302136-7d21-4b31-afb3-6708638e7e77/example1-mapping-csv.ttl> ;
+.
+
+
+# mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpi:ds-54302136-7d21-4b31-afb3-6708638e7e77 a mpv:Dataset ;
+    mpv:datasetIdentifier "data-54302136-7d21-4b31-afb3-6708638e7e77" ;
+    mpv:datasetTitle "Sports Mappings" ;
+    mpv:datasetKeyword "sports"  ;
+    mpv:datasetPublisher mpi:user-54302136-7d21-4b31-afb3-6708638e7e77 ;
+    mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    mpv:datasetDistribution mpi:ds-54302136-7d21-4b31-afb3-6708638e7e77_distribution-0 , mpi:ds-54302136-7d21-4b31-afb3-6708638e7e77_distribution-1 ;
+.
+
+mpi:ds-54302136-7d21-4b31-afb3-6708638e7e77_distribution-0 a mpv:DatasetDistribution;
+    mpv:distributionAccessURL <https://github.com/oeg-upm/mappingpedia-contents/blob/master/mappingpedia-testuser/54302136-7d21-4b31-afb3-6708638e7e77/Sport.csv> ;
+    mpv:distributionDownloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/54302136-7d21-4b31-afb3-6708638e7e77/Sport.csv> ;
+    mpv:distributionMediaType "text/csv" ;
+.
+
+mpi:ds-54302136-7d21-4b31-afb3-6708638e7e77_distribution-1 a mpv:DatasetDistribution;
+    mpv:distributionAccessURL <https://github.com/oeg-upm/mappingpedia-contents/blob/master/mappingpedia-testuser/54302136-7d21-4b31-afb3-6708638e7e77/Student.csv> ;
+    mpv:distributionDownloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/54302136-7d21-4b31-afb3-6708638e7e77/Student.csv> ;
+    mpv:distributionMediaType "text/csv" ;
+.
