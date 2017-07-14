@@ -1,1 +1,0 @@
-select ?s from {?s ?p ?o} limit 5
