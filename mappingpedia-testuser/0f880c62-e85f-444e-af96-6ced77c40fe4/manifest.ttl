@@ -1,0 +1,37 @@
+@base <http://www.w3.org/2001/sw/rdb2rdf/test-cases/#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+# mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
+mpi:mappingdocument-38c7e269-004e-45fc-baaf-baab1f37eb34 a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingdocument-38c7e269-004e-45fc-baaf-baab1f37eb34" ;
+    mpv:mappingDocumentTitle "Mapping6" ;
+    mpv:mappingDocumentDateSubmitted "2017-07-18 13:29:12.971225"^^xsd:dateTime;
+    mpv:mappingDocumentCreator "Edna Ruckhaus" ;
+    mpv:mappingDocumentLicense "Accept all the terms and conditions" ;
+    mpv:mappingDocumentSubject "venue" ;
+    mpv:hasDataset mpi:ds-38c7e269-004e-45fc-baaf-baab1f37eb34 ;
+    mpv:hasMappingDocumentFile <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/38c7e269-004e-45fc-baaf-baab1f37eb34/venues.r2rml.ttl> ;
+.
+
+
+# mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpi:ds-38c7e269-004e-45fc-baaf-baab1f37eb34 a mpv:Dataset ;
+    mpv:datasetIdentifier "data-38c7e269-004e-45fc-baaf-baab1f37eb34" ;
+    mpv:datasetTitle "Dataset6" ;
+    mpv:datasetKeyword "venue"  ;
+    mpv:datasetPublisher mpi:user-38c7e269-004e-45fc-baaf-baab1f37eb34 ;
+    mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/es> ;
+    mpv:datasetDistribution mpi:ds-38c7e269-004e-45fc-baaf-baab1f37eb34_distribution-0 ;
+.
+
+mpi:ds-38c7e269-004e-45fc-baaf-baab1f37eb34_distribution-0 a mpv:DatasetDistribution;
+    mpv:distributionAccessURL <https://github.com/oeg-upm/mappingpedia-contents/blob/master/mappingpedia-testuser/38c7e269-004e-45fc-baaf-baab1f37eb34/venues.csv> ;
+    mpv:distributionDownloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/38c7e269-004e-45fc-baaf-baab1f37eb34/venues.csv> ;
+    mpv:distributionMediaType "text/csv" ;
+.
