@@ -1,0 +1,27 @@
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-de9002f5-93b7-46e5-99c6-77d26c1a162d a mpv:Dataset ;
+    mpv:datasetIdentifier "dataset-de9002f5-93b7-46e5-99c6-77d26c1a162d" ;
+    dcterms:title "Dataset Title" ;
+    dcat:keyword "Dataset Keywords" ;
+    #mpv:datasetPublisher mpi:user-1 ;
+    #mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    dcat:distribution mpidd:distribution-de9002f5-93b7-46e5-99c6-77d26c1a162d ;
+.
+mpidd:distribution-de9002f5-93b7-46e5-99c6-77d26c1a162d a dcat:Distribution;
+    dcat:mediaType "text/csv" ;
+    dcat:accessURL <https://www.zaragoza.es/api/recurso/turismo/monumento.csv> ;
+    dcat:downloadURL <https://www.zaragoza.es/api/recurso/turismo/monumento.csv> ;
+.
