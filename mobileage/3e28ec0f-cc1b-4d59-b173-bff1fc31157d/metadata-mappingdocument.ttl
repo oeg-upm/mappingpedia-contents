@@ -12,10 +12,10 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
-mpimd:mappingDocument-c2da0846-d1d1-4f64-bb0e-b6b61fad488c a mpv:R2RMLMappingDocument ;
-    mpv:mappingDocumentIdentifier "mappingDocument-c2da0846-d1d1-4f64-bb0e-b6b61fad488c" ;
+mpimd:mappingDocument-76f29a74-a72b-4d1c-9d63-b6df2b43e00c a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingDocument-76f29a74-a72b-4d1c-9d63-b6df2b43e00c" ;
     mpv:mappingDocumentTitle "Mapping of Monuments in Zaragoza" ;
-    mpv:mappingDocumentDateSubmitted "2017-07-20T11:31:59"^^xsd:dateTime;
+    mpv:mappingDocumentDateSubmitted "2017-07-20T11:36:45"^^xsd:dateTime;
     mpv:mappingDocumentCreator "Freddy Priyatna" ;
     mpv:mappingDocumentSubject "Mapping Document Subjects" ;
     mpv:hasDataset mpids:dataset-3e28ec0f-cc1b-4d59-b173-bff1fc31157d ;
