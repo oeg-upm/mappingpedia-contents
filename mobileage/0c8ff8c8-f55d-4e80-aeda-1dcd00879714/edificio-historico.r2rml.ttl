@@ -14,7 +14,7 @@
     ];
 	
     rr:subjectMap [    
-		a rr:Subject; rr:termType rr:IRI; rr:class schema:TouristAttraction;
+		a rr:Subject; rr:termType rr:IRI; rr:class schema:LandmarksOrHistoricalBuildings;
 		rr:column "ID";
 	];
 
