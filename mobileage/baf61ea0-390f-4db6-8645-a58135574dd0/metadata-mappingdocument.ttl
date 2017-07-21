@@ -12,10 +12,10 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
-mpimd:mappingDocument-ba815f75-902a-428f-99fc-935943a2feb8 a mpv:R2RMLMappingDocument ;
-    mpv:mappingDocumentIdentifier "mappingDocument-ba815f75-902a-428f-99fc-935943a2feb8" ;
+mpimd:mappingDocument-e5532132-dd09-46fb-8f45-22526623d20a a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingDocument-e5532132-dd09-46fb-8f45-22526623d20a" ;
     mpv:mappingDocumentTitle "Mapping of Pharmacies Dataset in Zaragoza" ;
-    mpv:mappingDocumentDateSubmitted "2017-07-20T16:40:53"^^xsd:dateTime;
+    mpv:mappingDocumentDateSubmitted "2017-07-21T19:07:46"^^xsd:dateTime;
     mpv:mappingDocumentCreator "Freddy Priyatna" ;
     mpv:mappingDocumentSubject "Mapping Document Subjects" ;
     mpv:hasDataset mpids:dataset-baf61ea0-390f-4db6-8645-a58135574dd0 ;
