@@ -10,7 +10,7 @@
 
 <TriplesMapMonumento>
 	rr:logicalTable [ 
-        rr:tableName  "\"farmacia\"" # https://www.zaragoza.es/sede/servicio/farmacia.csv
+        rr:tableName  "FARMACIA" # https://www.zaragoza.es/sede/servicio/farmacia.csv
     ];
 	
     rr:subjectMap [    
