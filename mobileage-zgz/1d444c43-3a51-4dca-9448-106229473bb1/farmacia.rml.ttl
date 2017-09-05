@@ -1,0 +1,30 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix mail: <http://example.com/mail#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix ex: <http://www.example.com/> .
+@base <http://example.com/base> .
+@prefix schema: <http://schema.org/>.
+
+
+<#FromToMaps>
+	rml:logicalSource [ 
+		#rml:source "RML-Processor/src/test/resources/farmacia/farmacia.xml";
+		rml:source "http://www.zaragoza.es/sede/servicio/farmacia.xml";
+		
+		rml:referenceFormulation ql:XPath;
+		rml:iterator "/resultado/result/equipamiento";
+	];
+
+	rr:subjectMap [
+        rr:template "https://www.zaragoza.es/sede/servicio/farmacia/{id}"; 
+        rr:class schema:Pharmacy;
+	];
+
+    rr:predicateObjectMap [
+        rr:predicate schema:name;
+        rr:objectMap [ rml:reference "title" ];
+    ];
+	
+.
