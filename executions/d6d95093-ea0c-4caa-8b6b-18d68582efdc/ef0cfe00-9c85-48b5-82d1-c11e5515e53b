@@ -1,0 +1,17 @@
+
+<https://www.zaragoza.es/sede/servicio/farmacia/8765> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Feliu Boneta-Boneta Garrido" .
+
+<https://www.zaragoza.es/sede/servicio/farmacia/8767> a <http://schema.org/Pharmacy> .
+
+<https://www.zaragoza.es/sede/servicio/farmacia/8962> a <http://schema.org/Pharmacy> .
+
+<https://www.zaragoza.es/sede/servicio/farmacia/8686> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Arruti Guerrero, Lorea" .
+
+<https://www.zaragoza.es/sede/servicio/farmacia/8845> a <http://schema.org/Pharmacy> .
+
+<https://www.zaragoza.es/sede/servicio/farmacia/8896> a <http://schema.org/Pharmacy> .
+
+<https://www.zaragoza.es/sede/servicio/farmacia/8903> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sagardoy Aguado, Jesus-Javier" .
