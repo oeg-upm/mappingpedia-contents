@@ -11,7 +11,8 @@
 <#FromToMaps>
 	rml:logicalSource [ 
 		#rml:source "RML-Processor/src/test/resources/farmacia/farmacia.xml";
-		rml:source "http://www.zaragoza.es/sede/servicio/farmacia.xml";
+		#rml:source "http://www.zaragoza.es/sede/servicio/farmacia.xml";
+		rml:source "farmacia.xml";
 		
 		rml:referenceFormulation ql:XPath;
 		rml:iterator "/resultado/result/equipamiento";
