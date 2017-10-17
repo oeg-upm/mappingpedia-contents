@@ -12,10 +12,10 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
-mpimd:mappingDocument-2d2b47df-17fd-4033-8c27-0fa7a77d21a3 a mpv:R2RMLMappingDocument ;
-    mpv:mappingDocumentIdentifier "mappingDocument-2d2b47df-17fd-4033-8c27-0fa7a77d21a3" ;
+mpimd:mappingDocument-4ba95503-e923-4c85-ab86-bc6f92871f7c a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingDocument-4ba95503-e923-4c85-ab86-bc6f92871f7c" ;
     mpv:mappingDocumentTitle "Mapping of Historial Building Dataset in Zaragoza" ;
-    mpv:mappingDocumentDateSubmitted "2017-10-16T18:14:18"^^xsd:dateTime;
+    mpv:mappingDocumentDateSubmitted "2017-10-17T11:57:10"^^xsd:dateTime;
     mpv:mappingDocumentCreator "Freddy Priyatna" ;
     mpv:mappingDocumentSubject "Mapping Document Subjects" ;
     mpv:hasDataset mpids:dataset-665bab0c-daff-4661-ad02-0382ed1ef992 ;
