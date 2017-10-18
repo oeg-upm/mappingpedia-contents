@@ -12,10 +12,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
-mpimd:mappingDocument-5ffadb86-6cf4-4be2-a56f-65ce2e9023d5 a mpv:R2RMLMappingDocument ;
-    mpv:mappingDocumentIdentifier "mappingDocument-5ffadb86-6cf4-4be2-a56f-65ce2e9023d5" ;
+mpimd:mappingDocument-a9a2a3f0-2377-4dc0-a67c-f154f6e80fec a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingDocument-a9a2a3f0-2377-4dc0-a67c-f154f6e80fec" ;
     mpv:mappingDocumentTitle "" ;
-    mpv:mappingDocumentDateSubmitted "2017-10-18T15:11:02"^^xsd:dateTime;
+    mpv:mappingDocumentDateSubmitted "2017-10-18T15:12:34"^^xsd:dateTime;
     mpv:mappingDocumentCreator "" ;
     mpv:mappingDocumentSubject "" ;
     mpv:hasDataset mpids:dataset-735f5111-56ee-421c-aef5-c76d8a40845a ;
