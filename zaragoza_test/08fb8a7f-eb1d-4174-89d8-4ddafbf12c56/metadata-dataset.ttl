@@ -1,0 +1,29 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-08fb8a7f-eb1d-4174-89d8-4ddafbf12c56 a mpv:Dataset ;
+    mpv:datasetIdentifier "dataset-08fb8a7f-eb1d-4174-89d8-4ddafbf12c56" ;
+    dcterms:title "08fb8a7f-eb1d-4174-89d8-4ddafbf12c56" ;
+    dcat:keyword "" ;
+    #mpv:publisherId mpi:user-1 ;
+    #mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    dcat:distribution mpidd:distribution-08fb8a7f-eb1d-4174-89d8-4ddafbf12c56 ;
+.
+
+mpidd:distribution-08fb8a7f-eb1d-4174-89d8-4ddafbf12c56 a dcat:Distribution;
+    dcat:mediaType "text/csv" ;
+    dcat:accessURL <http://www.zaragoza.es/api/recurso/turismo/edificio-historico.csv> ;
+    dcat:downloadURL <http://www.zaragoza.es/api/recurso/turismo/edificio-historico.csv> ;
+.
+
