@@ -15,10 +15,10 @@
 
 
 mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
-mpimd:mappingDocument-a0a21204-c54d-4be1-ac4d-f90add855985 a mpv:R2RMLMappingDocument ;
-    mpv:mappingDocumentIdentifier "mappingDocument-a0a21204-c54d-4be1-ac4d-f90add855985" ;
+mpimd:mappingDocument-0927ab9f-704c-4850-b4c8-57fa56220a0f a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingDocument-0927ab9f-704c-4850-b4c8-57fa56220a0f" ;
     mpv:mappingDocumentTitle "" ;
-    mpv:mappingDocumentDateSubmitted "2017-10-31T12:59:11"^^xsd:dateTime;
+    mpv:mappingDocumentDateSubmitted "2017-10-31T13:03:05"^^xsd:dateTime;
     mpv:mappingDocumentCreator "" ;
     mpv:mappingDocumentSubject "" ;
     mpv:hasDataset mpids:dataset-02b1de49-901b-4ca0-80bd-c28bcba1791f ;
