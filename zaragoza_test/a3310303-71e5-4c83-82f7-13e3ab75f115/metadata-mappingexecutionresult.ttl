@@ -18,12 +18,12 @@
 #mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
 #mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
 
-mpimd:mappingExecutionResult-9902665c-7e2a-4c4d-88fc-5cbffdf9769e a mpv:MappingExecutionResultEntity ;
-    dcterms:identifier "mappingExecutionResult-9902665c-7e2a-4c4d-88fc-5cbffdf9769e" ;
+mpimd:mappingExecutionResult-af359d48-d42f-4846-83c3-5f8a2c692061 a mpv:MappingExecutionResultEntity ;
+    dcterms:identifier "mappingExecutionResult-af359d48-d42f-4846-83c3-5f8a2c692061" ;
     dcterms:title "" ;
     prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
     prov:wasAttributedTo mpimd:mappingpediaAgent ;
-    prov:wasDerivedFrom <es.upm.fi.dia.oeg.mappingpedia.model.Distribution@7cfa131b.dcatDownloadURL> ; #Assume the source is only one distribution
-    prov:hadPrimarySource mpimd:mappingDocument-c7b67faf-9e39-4325-8b3b-6e9cede87c8f ;
+    prov:wasDerivedFrom <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/zaragoza_test/a3310303-71e5-4c83-82f7-13e3ab75f115/edificio-historico.csv> ; #Assume the source is only one distribution
+    prov:hadPrimarySource mpimd:mappingDocument-ad4ec9b5-d915-429d-969b-583f458346cb ;
 .
 
