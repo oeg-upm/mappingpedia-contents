@@ -18,12 +18,12 @@
 #mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
 #mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
 
-mpimd:mappingExecutionResult-d6006899-813f-483c-9beb-5f28c09b9e8d a mpv:MappingExecutionResultEntity ;
-    dcterms:identifier "mappingExecutionResult-d6006899-813f-483c-9beb-5f28c09b9e8d" ;
+mpimd:mappingExecutionResult-a70a2304-33cd-47ab-b05c-43e522c56577 a mpv:MappingExecutionResultEntity ;
+    dcterms:identifier "mappingExecutionResult-a70a2304-33cd-47ab-b05c-43e522c56577" ;
     dcterms:title "" ;
     prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
     prov:wasAttributedTo mpimd:mappingpediaAgent ;
-    prov:wasDerivedFrom mpidd:distribution- ; #Assume the source is only one distribution
-    prov:hadPrimarySource mpimd:mappingDocument-f450c2fc-618e-48a8-a953-17960b335832 ;
+    prov:wasDerivedFrom mpidd:distribution-http://www.zaragoza.es/api/recurso/turismo/edificio-historico.csv ; #Assume the source is only one distribution
+    prov:hadPrimarySource mpimd:mappingDocument-913169a1-0883-4355-8a8b-e01df81938d4 ;
 .
 
