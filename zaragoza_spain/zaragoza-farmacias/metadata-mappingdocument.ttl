@@ -15,10 +15,10 @@
 
 
 mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
-mpimd:mappingDocument-d42b5beb-fa2f-4f20-a785-fbbc6a232e42 a mpv:R2RMLMappingDocument ;
-    mpv:mappingDocumentIdentifier "mappingDocument-d42b5beb-fa2f-4f20-a785-fbbc6a232e42" ;
+mpimd:mappingDocument-4bc96704-535b-4484-8f4d-3abbd33a5cef a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingDocument-4bc96704-535b-4484-8f4d-3abbd33a5cef" ;
     mpv:mappingDocumentTitle "" ;
-    mpv:mappingDocumentDateSubmitted "2017-11-06T11:42:28"^^xsd:dateTime;
+    mpv:mappingDocumentDateSubmitted "2017-11-06T11:42:47"^^xsd:dateTime;
     mpv:mappingDocumentCreator "" ;
     mpv:mappingDocumentSubject "" ;
     mpv:hasDataset mpids:dataset-zaragoza-farmacias ;
