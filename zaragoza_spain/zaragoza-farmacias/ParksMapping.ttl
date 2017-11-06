@@ -1,0 +1,17 @@
+<#ParkMapping>
+
+  rml:logicalSource [
+    rml:source "https://www.zaragoza.es/sede/servicio/equipamiento/category/820.json";
+    rml:referenceFormulation ql:JSONPath;
+    rml:iterator "$.equipamiento.[*]" 
+  ];
+
+  rr:subjectMap [ 
+     rml:reference "sameAs";
+ ];
+
+  rr:predicateObjectMap [ 
+    rr:predicate schema:name;
+    rr:objectMap [ rml:reference "title" ] 
+  ];
+.
