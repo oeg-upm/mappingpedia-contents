@@ -16,7 +16,7 @@
   ];
 
   rr:subjectMap [ 
-     rml2:reference "sameAs";
+     rml:reference "sameAs";
  ];
 
   rr:predicateObjectMap [ 
