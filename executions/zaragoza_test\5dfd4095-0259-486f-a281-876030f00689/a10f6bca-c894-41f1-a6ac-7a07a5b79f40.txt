@@ -1,0 +1,2 @@
+
+<http://ex.com/Ronald%20Anderson> a <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
