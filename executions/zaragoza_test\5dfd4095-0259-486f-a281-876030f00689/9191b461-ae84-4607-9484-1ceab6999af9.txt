@@ -1,0 +1,3 @@
+
+<http://ex.com/Ronald%20Anderson> a <http://www.cidoc-crm.org/cidoc-crm/E21_Person> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Ronald Anderson" .
