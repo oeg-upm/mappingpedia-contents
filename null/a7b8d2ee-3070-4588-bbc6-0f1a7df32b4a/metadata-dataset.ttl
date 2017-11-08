@@ -1,11 +1,3 @@
-mpids:dataset-a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a dcat:distribution mpidd:distribution-a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a .
-
-mpidd:distribution-a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a a dcat:Distribution;
-    dcat:mediaType "text/csv" ;
-    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/null/a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a/edificio-historico.csv?ref=master> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/null/a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a/edificio-historico.csv> ;
-.
-
 @base <http://mappingpedia.linkeddata.es/instance#> .
 @prefix dcterms: <http://purl.org/dc/elements/1.1/> .
 @prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
@@ -27,9 +19,17 @@ mpids:dataset-a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a a mpv:Dataset ;
     mpv:datasetIdentifier "dataset-a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a" ;
     dcterms:title "" ;
     dcat:keyword "" ;
-    dcterms:issued "2017-11-08T12:34:27"^^xsd:dateTime;
-    dcterms:modified "2017-11-08T12:34:27"^^xsd:dateTime;
+    dcterms:issued "2017-11-08T12:36:46"^^xsd:dateTime;
+    dcterms:modified "2017-11-08T12:36:46"^^xsd:dateTime;
     #mpv:publisherId mpi:user-1 ;
     #mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+.
+
+mpids:dataset-a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a dcat:distribution mpidd:distribution-a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a .
+
+mpidd:distribution-a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a a dcat:Distribution;
+    dcat:mediaType "text/csv" ;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/null/a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a/edificio-historico.csv?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/null/a7b8d2ee-3070-4588-bbc6-0f1a7df32b4a/edificio-historico.csv> ;
 .
 
