@@ -1,0 +1,30 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-98604b03-b963-45a2-a74f-051c50d3e95c a mpv:MappingExecutionResultEntity ;
+    dcterms:identifier "mappingExecutionResult-98604b03-b963-45a2-a74f-051c50d3e95c" ;
+    dcterms:title "Annotated Dataset 98604b03-b963-45a2-a74f-051c50d3e95c" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com//oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/2247f2ec-8ce7-47e2-9055-b20315604707/edificio-historico.r2rml.ttl" ;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom <https://github.com/oeg-upm/mappingpedia-contents/blob/master/mappingpedia-testuser/2247f2ec-8ce7-47e2-9055-b20315604707/edificio-historico.csv> ;
+    prov:hadPrimarySource mpimd:mappingDocument-14221434-2e61-483b-86a5-2bd28ba83a56 ;
+.
+
