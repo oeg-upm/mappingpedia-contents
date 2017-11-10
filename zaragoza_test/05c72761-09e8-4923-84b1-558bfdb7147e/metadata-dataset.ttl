@@ -1,0 +1,30 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-05c72761-09e8-4923-84b1-558bfdb7147e a mpv:Dataset ;
+    dcterms:title "05c72761-09e8-4923-84b1-558bfdb7147e" ;
+    dcterms:description "05c72761-09e8-4923-84b1-558bfdb7147e" ;
+    dcterms:issued "2017-11-10T16:21:32"^^xsd:dateTime;
+    dcterms:modified "2017-11-10T16:21:32"^^xsd:dateTime;
+    dcterms:identifier "05c72761-09e8-4923-84b1-558bfdb7147e" ;
+    dcat:keyword "" ;
+    #dcterms:language <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    mpv:datasetIdentifier "dataset-05c72761-09e8-4923-84b1-558bfdb7147e" ;
+    #mpv:publisherId mpi:user-1 ;
+    #mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+.
+
