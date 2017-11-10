@@ -1,0 +1,42 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-2247f2ec-8ce7-47e2-9055-b20315604707 a mpv:Dataset ;
+    dcterms:title "2247f2ec-8ce7-47e2-9055-b20315604707" ;
+    dcterms:description "2247f2ec-8ce7-47e2-9055-b20315604707" ;
+    dcterms:issued "2017-11-10T15:15:04"^^xsd:dateTime;
+    dcterms:modified "2017-11-10T15:15:04"^^xsd:dateTime;
+    dcterms:identifier "2247f2ec-8ce7-47e2-9055-b20315604707" ;
+    dcat:keyword "" ;
+    #dcterms:language <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    mpv:datasetIdentifier "dataset-2247f2ec-8ce7-47e2-9055-b20315604707" ;
+    #mpv:publisherId mpi:user-1 ;
+    #mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+.
+
+mpids:dataset-2247f2ec-8ce7-47e2-9055-b20315604707 dcat:distribution mpidd:distribution-aa38ed5b-47ce-468d-ab59-cfb40cfc640e .
+
+mpidd:distribution-aa38ed5b-47ce-468d-ab59-cfb40cfc640e a dcat:Distribution;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2017-11-10T15:15:04"^^xsd:dateTime;
+    dcterms:modified "2017-11-10T15:15:04"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/mappingpedia-testuser/2247f2ec-8ce7-47e2-9055-b20315604707/edificio-historico.csv?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/2247f2ec-8ce7-47e2-9055-b20315604707/edificio-historico.csv> ;
+    dcat:mediaType "text/csv" ;
+.
+
