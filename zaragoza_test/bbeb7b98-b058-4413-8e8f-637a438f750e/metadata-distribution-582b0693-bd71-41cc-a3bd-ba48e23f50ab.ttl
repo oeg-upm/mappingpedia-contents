@@ -1,0 +1,42 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-bbeb7b98-b058-4413-8e8f-637a438f750e a mpv:Dataset ;
+    dcterms:title "bbeb7b98-b058-4413-8e8f-637a438f750e" ;
+    dcterms:description "bbeb7b98-b058-4413-8e8f-637a438f750e" ;
+    dcterms:issued "2017-11-13T12:57:11"^^xsd:dateTime;
+    dcterms:modified "2017-11-13T12:57:11"^^xsd:dateTime;
+    dcterms:identifier "bbeb7b98-b058-4413-8e8f-637a438f750e" ;
+    dcat:keyword "" ;
+    #dcterms:language <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    mpv:datasetIdentifier "dataset-bbeb7b98-b058-4413-8e8f-637a438f750e" ;
+    #mpv:publisherId mpi:user-1 ;
+    #mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+.
+
+mpids:dataset-bbeb7b98-b058-4413-8e8f-637a438f750e dcat:distribution mpidd:distribution-582b0693-bd71-41cc-a3bd-ba48e23f50ab .
+
+mpidd:distribution-582b0693-bd71-41cc-a3bd-ba48e23f50ab a dcat:Distribution;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2017-11-13T12:57:11"^^xsd:dateTime;
+    dcterms:modified "2017-11-13T12:57:11"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/zaragoza_test/bbeb7b98-b058-4413-8e8f-637a438f750e/edificiohistorico.csv?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/zaragoza_test/bbeb7b98-b058-4413-8e8f-637a438f750e/edificiohistorico.csv> ;
+    dcat:mediaType "text/csv" ;
+.
+
