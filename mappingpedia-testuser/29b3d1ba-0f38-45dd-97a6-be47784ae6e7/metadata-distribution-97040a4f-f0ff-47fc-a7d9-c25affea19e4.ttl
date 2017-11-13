@@ -1,0 +1,42 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-29b3d1ba-0f38-45dd-97a6-be47784ae6e7 a mpv:Dataset ;
+    dcterms:title "29b3d1ba-0f38-45dd-97a6-be47784ae6e7" ;
+    dcterms:description "29b3d1ba-0f38-45dd-97a6-be47784ae6e7" ;
+    dcterms:issued "2017-11-13T17:59:24"^^xsd:dateTime;
+    dcterms:modified "2017-11-13T17:59:24"^^xsd:dateTime;
+    dcterms:identifier "29b3d1ba-0f38-45dd-97a6-be47784ae6e7" ;
+    dcat:keyword "" ;
+    #dcterms:language <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    mpv:datasetIdentifier "dataset-29b3d1ba-0f38-45dd-97a6-be47784ae6e7" ;
+    #mpv:publisherId mpi:user-1 ;
+    #mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+.
+
+mpids:dataset-29b3d1ba-0f38-45dd-97a6-be47784ae6e7 dcat:distribution mpidd:distribution-97040a4f-f0ff-47fc-a7d9-c25affea19e4 .
+
+mpidd:distribution-97040a4f-f0ff-47fc-a7d9-c25affea19e4 a dcat:Distribution;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2017-11-13T17:59:24"^^xsd:dateTime;
+    dcterms:modified "2017-11-13T17:59:24"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/mappingpedia-testuser/29b3d1ba-0f38-45dd-97a6-be47784ae6e7/monumento.csv?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/29b3d1ba-0f38-45dd-97a6-be47784ae6e7/monumento.csv> ;
+    dcat:mediaType "text/csv" ;
+.
+
