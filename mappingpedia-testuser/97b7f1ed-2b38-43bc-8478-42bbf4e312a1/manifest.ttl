@@ -1,0 +1,37 @@
+@base <http://www.w3.org/2001/sw/rdb2rdf/test-cases/#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+# mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
+mpi:mappingdocument-29b3d1ba-0f38-45dd-97a6-be47784ae6e7 a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingdocument-29b3d1ba-0f38-45dd-97a6-be47784ae6e7" ;
+    mpv:mappingDocumentTitle "monumentos2rdf" ;
+    mpv:mappingDocumentDateSubmitted "2017-11-13 17:05:25.753843"^^xsd:dateTime;
+    mpv:mappingDocumentCreator "javier Sanchez" ;
+    mpv:mappingDocumentLicense "Accept all the terms and conditions" ;
+    mpv:mappingDocumentSubject "monuments" ;
+    mpv:hasDataset mpi:ds-29b3d1ba-0f38-45dd-97a6-be47784ae6e7 ;
+    mpv:hasMappingDocumentFile <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/29b3d1ba-0f38-45dd-97a6-be47784ae6e7/monumento.mappingpedia.r2rml.ttl> ;
+.
+
+
+# mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpi:ds-29b3d1ba-0f38-45dd-97a6-be47784ae6e7 a mpv:Dataset ;
+    mpv:datasetIdentifier "data-29b3d1ba-0f38-45dd-97a6-be47784ae6e7" ;
+    mpv:datasetTitle "HistoricMonuments" ;
+    mpv:datasetKeyword "Monuments", "history"  ;
+    mpv:datasetPublisher mpi:user-29b3d1ba-0f38-45dd-97a6-be47784ae6e7 ;
+    mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    mpv:datasetDistribution mpi:ds-29b3d1ba-0f38-45dd-97a6-be47784ae6e7_distribution-0 ;
+.
+
+mpi:ds-29b3d1ba-0f38-45dd-97a6-be47784ae6e7_distribution-0 a mpv:DatasetDistribution;
+    mpv:distributionAccessURL <https://github.com/oeg-upm/mappingpedia-contents/blob/master/mappingpedia-testuser/29b3d1ba-0f38-45dd-97a6-be47784ae6e7/monumento.csv> ;
+    mpv:distributionDownloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/29b3d1ba-0f38-45dd-97a6-be47784ae6e7/monumento.csv> ;
+    mpv:distributionMediaType "text/csv" ;
+.
