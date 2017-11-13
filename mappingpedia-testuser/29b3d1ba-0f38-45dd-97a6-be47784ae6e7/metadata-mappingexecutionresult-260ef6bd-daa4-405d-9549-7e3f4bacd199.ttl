@@ -1,0 +1,30 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-260ef6bd-daa4-405d-9549-7e3f4bacd199 a mpv:MappingExecutionResultEntity ;
+    dcterms:identifier "mappingExecutionResult-260ef6bd-daa4-405d-9549-7e3f4bacd199" ;
+    dcterms:title "Annotated Dataset 260ef6bd-daa4-405d-9549-7e3f4bacd199" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com//oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/29b3d1ba-0f38-45dd-97a6-be47784ae6e7/monumento.mappingpedia.r2rml.ttl" ;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom <https://github.com/oeg-upm/mappingpedia-contents/blob/master/mappingpedia-testuser/29b3d1ba-0f38-45dd-97a6-be47784ae6e7/monumento.csv> ;
+    prov:hadPrimarySource mpimd:mappingDocument-1c170056-a942-425d-b8d0-2868e291a526 ;
+.
+
