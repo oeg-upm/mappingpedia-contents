@@ -1,0 +1,37 @@
+@base <http://www.w3.org/2001/sw/rdb2rdf/test-cases/#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+# mpv:R2RMLMappingDocument rdfs:subClassOf dcterms:BibliographicResource .
+mpi:mappingdocument-f3b8c179-f5fa-40fc-9a55-66b297362482 a mpv:R2RMLMappingDocument ;
+    mpv:mappingDocumentIdentifier "mappingdocument-f3b8c179-f5fa-40fc-9a55-66b297362482" ;
+    mpv:mappingDocumentTitle "Mappings of Historical Buildings in Zaragoza" ;
+    mpv:mappingDocumentDateSubmitted "2017-11-13 09:02:10.607533"^^xsd:dateTime;
+    mpv:mappingDocumentCreator "User1 bold12017" ;
+    mpv:mappingDocumentLicense "Accept all the terms and conditions" ;
+    mpv:mappingDocumentSubject "Mappings of Historical Buildings in Zaragoza" ;
+    mpv:hasDataset mpi:ds-f3b8c179-f5fa-40fc-9a55-66b297362482 ;
+    mpv:hasMappingDocumentFile <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/f3b8c179-f5fa-40fc-9a55-66b297362482/edificio-historico.r2rml.ttl> ;
+.
+
+
+# mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpi:ds-f3b8c179-f5fa-40fc-9a55-66b297362482 a mpv:Dataset ;
+    mpv:datasetIdentifier "data-f3b8c179-f5fa-40fc-9a55-66b297362482" ;
+    mpv:datasetTitle "Historical Buildings in Zaragoza" ;
+    mpv:datasetKeyword "ZGZ"  ;
+    mpv:datasetPublisher mpi:user-f3b8c179-f5fa-40fc-9a55-66b297362482 ;
+    mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/es> ;
+    mpv:datasetDistribution mpi:ds-f3b8c179-f5fa-40fc-9a55-66b297362482_distribution-0 ;
+.
+
+mpi:ds-f3b8c179-f5fa-40fc-9a55-66b297362482_distribution-0 a mpv:DatasetDistribution;
+    mpv:distributionAccessURL <https://github.com/oeg-upm/mappingpedia-contents/blob/master/mappingpedia-testuser/f3b8c179-f5fa-40fc-9a55-66b297362482/edificio-historico.csv> ;
+    mpv:distributionDownloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/mappingpedia-testuser/f3b8c179-f5fa-40fc-9a55-66b297362482/edificio-historico.csv> ;
+    mpv:distributionMediaType "text/csv" ;
+.
