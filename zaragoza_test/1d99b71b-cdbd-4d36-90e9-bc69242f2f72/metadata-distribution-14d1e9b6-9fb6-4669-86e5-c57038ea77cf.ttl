@@ -1,0 +1,42 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-1d99b71b-cdbd-4d36-90e9-bc69242f2f72 a mpv:Dataset ;
+    dcterms:title "Test Dataset of Historial Buildings  in Zaragoza" ;
+    dcterms:description "This dataset contains a list of historical buildings in the city of Zaragoza" ;
+    dcterms:issued "2017-11-14T10:42:00"^^xsd:dateTime;
+    dcterms:modified "2017-11-14T10:42:00"^^xsd:dateTime;
+    dcterms:identifier "1d99b71b-cdbd-4d36-90e9-bc69242f2f72" ;
+    dcat:keyword "ZGZ" ;
+    #dcterms:language <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    mpv:datasetIdentifier "dataset-1d99b71b-cdbd-4d36-90e9-bc69242f2f72" ;
+    #mpv:publisherId mpi:user-1 ;
+    #mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+.
+
+mpids:dataset-1d99b71b-cdbd-4d36-90e9-bc69242f2f72 dcat:distribution mpidd:distribution-14d1e9b6-9fb6-4669-86e5-c57038ea77cf .
+
+mpidd:distribution-14d1e9b6-9fb6-4669-86e5-c57038ea77cf a dcat:Distribution;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2017-11-14T10:42:00"^^xsd:dateTime;
+    dcterms:modified "2017-11-14T10:42:00"^^xsd:dateTime;
+    dcat:accessURL <http://www.zaragoza.es/api/recurso/turismo/edificio-historico.csv> ;
+    dcat:downloadURL <http://www.zaragoza.es/api/recurso/turismo/edificio-historico.csv> ;
+    dcat:mediaType "text/csv" ;
+.
+
