@@ -21,7 +21,7 @@
 	];
     
 	rr:subjectMap [
-		rr:reference "sameAs";
+		rml:reference "sameAs";
 		rr:class schema:CreativeWork 
 	];
 
