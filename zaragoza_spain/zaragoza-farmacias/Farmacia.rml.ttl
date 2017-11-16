@@ -22,7 +22,7 @@
     
 	rr:subjectMap [
 		rml:reference "sameAs";
-		rr:class schema:CreativeWork 
+		rr:class schema:Pharmacy
 	];
 
 	rr:predicateObjectMap [
