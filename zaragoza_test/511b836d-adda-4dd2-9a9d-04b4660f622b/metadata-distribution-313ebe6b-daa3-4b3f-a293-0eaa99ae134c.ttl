@@ -1,0 +1,29 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpids:dataset-511b836d-adda-4dd2-9a9d-04b4660f622b dcat:distribution mpidd:distribution-313ebe6b-daa3-4b3f-a293-0eaa99ae134c .
+
+mpidd:distribution-313ebe6b-daa3-4b3f-a293-0eaa99ae134c a dcat:Distribution;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2017-11-16T12:02:06"^^xsd:dateTime;
+    dcterms:modified "2017-11-16T12:02:06"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/zaragoza_test/511b836d-adda-4dd2-9a9d-04b4660f622b/edificio-historico.csv?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/zaragoza_test/511b836d-adda-4dd2-9a9d-04b4660f622b/edificio-historico.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "a4bb1dedb676d48916aa9264599095828730d419" ;
+.
+
