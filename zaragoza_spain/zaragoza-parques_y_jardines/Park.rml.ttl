@@ -15,7 +15,7 @@
 <#ExpresionArtisticaMapping>
 
 	rml:logicalSource [
-		rml:source "37.json";
+		rml:source "820.json";
 		rml:referenceFormulation ql:JSONPath;
 		rml:iterator "$.equipamiento.*"
 	];
