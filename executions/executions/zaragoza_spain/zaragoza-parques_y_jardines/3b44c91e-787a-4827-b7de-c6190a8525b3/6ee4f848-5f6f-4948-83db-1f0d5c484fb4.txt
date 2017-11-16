@@ -1,0 +1,150 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9385> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardines García Laborda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9327> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardín Acuático" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9322> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardín Botánico Charles Darwin" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9339> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardín del Portazgo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9332> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardines Acuáticos Carlos Pau" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9264> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardines de Al Andalus" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5645> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardines de la Taifa de Saraqusta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9326> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardines Jesús Gracia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9257> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardínes Tosos - Anento - Cadetre - Botorrita" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9320> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Lagos de Penélope Cruz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9386> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Paque Che Guevara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9258> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Bruil" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9259> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Bruno Solano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9260> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Cabezo Buena Vista" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9261> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Caprichos de Goya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9262> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Castillo Palomar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9329> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Ciudad de Maska" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9387> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Clemente Mateo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9388> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Crónica del Alba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9265> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Alfocea" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9263> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Atenas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9266> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Avempace" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9267> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Avicebrón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9268> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Casetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9269> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Garrapinillos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9316> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Alameda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9270> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Aljafería" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9321> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Cruz Roja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9330> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Palabra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9271> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de La Paz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9272> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Química" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9405> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Razon" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9273> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Sedetania" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9334> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Tolerancia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9325> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de las Garzas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9406> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de los Cineastas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9274> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de los Incrédulos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9275> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de los Muros Cartujanos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9333> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de los Pinos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9407> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de los Poetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9276> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Montañana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9277> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Movera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9278> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Vadorrey" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9279> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Villamayor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6085> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del Agua (Luis Buñuel)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9285> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del Antiguo Canódromo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9318> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del buen humor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9408> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del Conocimiento" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9286> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del Oeste" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9409> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del Respeto" .
