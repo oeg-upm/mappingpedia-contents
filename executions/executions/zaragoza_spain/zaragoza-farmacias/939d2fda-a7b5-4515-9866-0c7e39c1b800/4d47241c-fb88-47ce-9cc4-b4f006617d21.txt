@@ -1,0 +1,138 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13000> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Antigua Capitanía General" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2479> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Centro de Historias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11548> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Escuela de Bellas Artes y Diseño de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12920> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Espacio Pignatelli. Sala María Moliner y Hnos. Bayeu" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13062> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Estudio de Arte María Urra and Noemí Morais" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20329> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Estudio Garno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20373> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Institucion Fernando el Catolico" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20325> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Mù Restauracion" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13020> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Palacio de la Aljafería" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8147> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Puerta Cinegia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20377> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala Angel  Sanvicente Pino" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13052> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala Asociación De Artistas Plásticos De Goya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13180> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Arte San José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13021> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Bantierra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12962> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones CAI Luzán" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/699> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Casa de los Morlanes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6165> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Centro Joaquín Roncal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/15940> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Colegio Oficial de Arquitectos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6166> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Cubit" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11598> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones de la Biblioteca Pública de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13140> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones de la Facultad de Filosofía" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13200> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones de la Real Sociedad Fotográfica" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13022> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones del ámbito cultural de El Corte Inglés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13240> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones del Centro de Artesanía de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/15941> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones del Colegio Oficial de Médicos(Espacio de arte)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13280> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Fnac Plaza España" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13281> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Fnac Plaza Imperial" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2177> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Fortea" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13161> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Hotel Boston" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12980> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Ibercaja Patio de la Infanta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2178> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Juana Francés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/700> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones La Lonja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6185> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Nueva Escuela de Arte" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6186> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Nuevo Teatro Arbolé" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11413> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Obra Social Caja Madrid" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6205> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Palacio de Congresos Expo Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/702> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Palacio de Montemuzo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12205> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Palacio de Sástago. 4º Espacio." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6245> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Paraninfo de la Universidad de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13084> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Producciones Capitel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13220> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Propuesta Arte Joven de Ibercaja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12940> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Sala Goya (entrada Pza San Pedro Nolasco)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13221> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala del comendador. Albergue del Comendador" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6146> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Salas de Exposiciones del Centro de Historias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8105> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Salón de Actos CAI Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/930> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Universidad Popular" .
