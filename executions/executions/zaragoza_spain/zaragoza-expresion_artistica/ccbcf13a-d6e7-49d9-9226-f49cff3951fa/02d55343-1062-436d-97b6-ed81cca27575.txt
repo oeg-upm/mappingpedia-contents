@@ -1,0 +1,51 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13681> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Academia Conchita Trigo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13662> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Academia Da Vinci" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13683> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Academia de Arte, Dibujo y Pintura. Estudio Calon" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13664> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Academia de dibujo y Pintura Barbasán" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13661> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Academia de Dibujo y Pintura. Manuel y Arte" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13684> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Centro de Estudios de Arte" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2447> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Centro de Rehabilitación, Conservación y Restauración del Patrimonio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12243> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Escuela de Arte de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5865> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Estudio Cañada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5845> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Estudio Sierra Barseló" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/934> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Filmoteca de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13663> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Galería de arte y Academia de Dibujo y Pintura Badanes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13042> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Galería Spectrum Sotos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/699> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Casa de los Morlanes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2178> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones Juana Francés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/700> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "Sala de Exposiciones La Lonja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5825> a <http://schema.org/CreativeWork> ;
+	<http://schema.org/name> "ZPhoto" .
