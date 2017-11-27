@@ -1,0 +1,30 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpids:dataset-ae3bae4a-b2ea-4d11-a1fb-467072ad5323 dcat:distribution mpidd:distribution-ba0172f6-19a2-4662-85a2-90ab1f712792 .
+
+mpidd:distribution-ba0172f6-19a2-4662-85a2-90ab1f712792 a dcat:Distribution;
+    dcterms:identifier "ba0172f6-19a2-4662-85a2-90ab1f712792" ;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2017-11-27T18:43:15"^^xsd:dateTime;
+    dcterms:modified "2017-11-27T18:43:15"^^xsd:dateTime;
+    dcat:accessURL  ;
+    dcat:downloadURL  ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "" ;
+.
+
