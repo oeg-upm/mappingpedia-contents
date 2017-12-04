@@ -1,0 +1,31 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpids:dataset-bf57f26a-e181-4ed8-8a8a-ae771834864c dcat:distribution mpidd:distribution-3ac4490a-5c14-43b1-8086-15d00e6d7848 .
+
+mpidd:distribution-3ac4490a-5c14-43b1-8086-15d00e6d7848 a dcat:Distribution;
+    dcterms:identifier "3ac4490a-5c14-43b1-8086-15d00e6d7848" ;
+    mpv:ckanResourceId "0f7fd18b-ea2a-486c-9bd8-b4756c72e300" ;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2017-12-04T11:13:54"^^xsd:dateTime;
+    dcterms:modified "2017-12-04T11:13:54"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/zaragoza_test/bf57f26a-e181-4ed8-8a8a-ae771834864c/paris-park.csv?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/zaragoza_test/bf57f26a-e181-4ed8-8a8a-ae771834864c/paris-park.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "" ;
+.
+
