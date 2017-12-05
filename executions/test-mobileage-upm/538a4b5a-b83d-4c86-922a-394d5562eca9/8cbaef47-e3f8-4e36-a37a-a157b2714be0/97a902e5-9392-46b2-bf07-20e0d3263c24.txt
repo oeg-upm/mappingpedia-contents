@@ -1,0 +1,100 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5331> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5322> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5334> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28070> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6089> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28068> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5306> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5308> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22268> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5310> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5311> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25420> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5313> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5317> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2452> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20391> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5321> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28051> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5324> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28067> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27927> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5345> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5325> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5326> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20392> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5328> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5333> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5335> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5336> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22244> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5323> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5342> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5349> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5352> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5353> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5355> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5360> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5359> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5363> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5364> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5365> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5369> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2806> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5371> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5372> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5373> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5374> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5376> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12291> a <http://schema.org/GroceryStore> .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28052> a <http://schema.org/GroceryStore> .
