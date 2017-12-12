@@ -1,0 +1,342 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2572> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Actividades didácticas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8466> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "C.P. Marie Curie" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8647> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Primaria y Secundaria La Alfranca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13800> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Adventista - Rigel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13802> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Agustín Gericó (Montemolín Patronato)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13803> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Atades, C.E.Especial San Martín de Porres" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13804> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Bajo Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13805> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Británico de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13806> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Calasancio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13807> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Calasanz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13808> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Cantín y Gamboa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13809> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Cardenal Xavierre" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13810> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Compañía de María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11990> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Corazonistas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13811> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Cristo Rey" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8596> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Agustina de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8597> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Antonio Beltrán Martínez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8665> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Lucien Briet" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8957> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Ronda Norte" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8958> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Rosales del Canal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8985> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Valdespartera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28066> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Zaragoza Sur" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13947> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio de San Vicente de Paul" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13820> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Don Bosco" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13840> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio El Buen Pastor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13841> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio El Cariño" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13842> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio El Pilar - Maristas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13843> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Escolanía Infantes del Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13844> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Escuelas Pías" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13860> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Escuelas Pías - Santa Engracia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13861> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Hijas de San José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13882> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Inmaculada Concepción" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13862> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Inmaculada Concepción" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13863> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Jesús María el Salvador" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13880> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Juan de Lanuza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13881> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio La Anunciata" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13883> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio La Milagrosa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13884> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio La Purísima para Niños Sordos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13885> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio La Purísima y San Antonio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13886> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio La Salle Franciscanas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13887> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio La Salle Montemolín" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13902> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Liceo Europa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13903> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Lycée Français Molière" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13904> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Madre María Rosa Molas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13906> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio María Auxiliadora" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13907> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio María Inmaculada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11989> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Moncayo San Valero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13908> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Montearagón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13909> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Montessori" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8349> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Ntra. Sra. del Carmen y San José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13911> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Nuestra Señora de la Merced" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2714> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Ana Mayayo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/548> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Andres Manjon" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/549> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Andres Olivan" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/550> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Angel Escoriaza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2716> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Antonio Beltran" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/551> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Antonio Martinez Garay" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/552> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Basilio Paraiso" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/553> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Calixto Ariño" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/554> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Candido Domingo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/555> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Cesar Augusto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/556> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Cesareo Alierta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/557> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Ciudad de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/558> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Cortes de Aragon" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/559> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Doctor Azua" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/560> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Domingo Miral" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/561> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Eliseo Godoy" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/562> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Emilio Moreno Calvete" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3074> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Espartidero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/563> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Eugenio Lopez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/564> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Fernandez Vizarra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/565> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Fernando El Catolico" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/566> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Florencio Jardiel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/567> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Gascon y Marin" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/568> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Gloria Arenillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/570> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Guillermo Fatas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/571> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Gustavo Adolfo Becquer" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/572> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Hermanos Argensola" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/573> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Hermanos Marx" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/574> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Hilarion Gimeno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/575> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Hispanidad" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/576> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Jeronimo Blancas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/577> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Jeronimo Zurita" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/578> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Joaquin Costa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/569> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico José Antonio Labordeta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/579> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Público José Camón Aznar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/580> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Público José María Mir" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/581> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Juan Pablo Bonet" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/582> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Juan XXIII" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/583> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Julian Nieto Tapia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/584> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Julian Sanz Ibañez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/585> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico La Almozara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/586> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico La Estrella" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/587> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico La Jota" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/588> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Las Fuentes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/589> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Luis Vives" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/590> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Marcos Frechin" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/593> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Miraflores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3906> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Público Miralbueno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/594> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Monsalud" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3075> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Montecanal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/595> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Pedro Oros" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/780> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Puerta Sancho" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/596> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Ramiro Solans" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/597> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Ramon Sainz de Varanda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/598> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Rio Ebro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/599> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico San Braulio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/600> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Público San José de Calasanz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/601> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Santo Domingo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/602> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Tenerias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/603> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Tio Jorge" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/604> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Tomas Alvira" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/605> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Torre Ramona" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/606> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/name> "Colegio Publico Zalfonada" .
