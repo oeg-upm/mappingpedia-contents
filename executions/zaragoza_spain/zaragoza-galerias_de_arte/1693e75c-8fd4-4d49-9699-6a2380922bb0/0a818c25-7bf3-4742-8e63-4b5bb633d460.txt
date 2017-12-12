@@ -1,0 +1,81 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13102> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería  Zeus" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13104> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería A Del Arte" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13040> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Antonia Puyó" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13060> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Aroya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13047> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Arteymagen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13101> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería C.A.C (Cameros Art Consulting)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13082> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Caja Roja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13061> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Calvo i Mayayo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13105> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Cristina Marín" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13160> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería de arte Agrupación Artística Aragonesa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6225> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería de arte San Cayetano 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13663> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería de arte y Academia de Dibujo y Pintura Badanes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13048> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Espacio Orienta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13049> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Fernando Latorre" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13103> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Finestra Estudio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13120> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Lauman" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5765> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Librería La Casa Amarilla" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13083> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Margó Venegas Pérez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13044> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Miguel Marcos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13046> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Pilar Ginés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13081> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Sala 8" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13080> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Salduba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13042> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Spectrum Sotos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13045> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Zaragoza Gráfica(Espacio Víctor Mira)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13050> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería2MIL2ART" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20330> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Queroche" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20630> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Victoria Almacén de Arte" .
