@@ -1,0 +1,162 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8506> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Andarines" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8510> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Bolandrina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8512> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Chicotes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8513> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Children" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8514> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Chip y Chop" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8515> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Chiquitines II" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8516> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Cu Cu-Tas Tas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8519> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Cuéntame" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8520> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Divina Pastora" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8521> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Duendeduca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8522> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Educando" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8523> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil El Arka de Kupplu" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8525> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil El Barquito de Papel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8526> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil El Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8527> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil El Manzano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8528> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil El Nido de Patricia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8529> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil El Oso del Parque" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8530> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil El Tren Chu-Chu" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8545> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Es-Cool" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8547> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Heidi" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8548> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Hermandad del Refugio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8550> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Jesús Reparador" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8552> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Karacol" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8553> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil La Casita de Nany" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8554> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil La Locomotora" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8555> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil La Pequeña Cometa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8556> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil La Virgen Niña" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8557> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Las Torres de Montecanal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8558> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Madre de Dios de Begoña" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8559> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Mi Cole" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8560> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Montessori" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8561> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Muñecos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8562> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Nenetes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8564> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Nuestra Señora de la Paz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8563> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Nuestra Señora de los Dolores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8567> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Patinete" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8568> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Peluche" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8569> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Pequeninos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8570> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Pequeninos Montes del Canal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8586> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Saltarines" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8587> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil San José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8588> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Siervas de los Pobres" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8589> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Soletes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8590> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Tic Tac" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8592> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Virgen de Guadalupe" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8593> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Zagalines" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8594> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Zaraduendes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8595> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Zarapeques" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8546> a <http://schema.org/School> ;
+	<http://schema.org/name> "Escuela de Educación Infantil de la Delegación Especial de Economía" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8566> a <http://schema.org/School> ;
+	<http://schema.org/name> "Escuela de Educación Infantil Nuestra Señora de Loreto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8467> a <http://schema.org/School> ;
+	<http://schema.org/name> "Escuela Infantil Monsalud" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3526> a <http://schema.org/School> ;
+	<http://schema.org/name> "Escuela Infantil Municipal Brioletas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3525> a <http://schema.org/School> ;
+	<http://schema.org/name> "Escuela Infantil Municipal La Paz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10725> a <http://schema.org/School> ;
+	<http://schema.org/name> "Escuela Infantil Municipal Parque Bruil" .
