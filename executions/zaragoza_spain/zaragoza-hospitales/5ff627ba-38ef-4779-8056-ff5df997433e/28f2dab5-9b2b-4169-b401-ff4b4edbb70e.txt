@@ -1,0 +1,150 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/939> a <http://schema.org/School> ;
+	<http://schema.org/name> "Auditorio de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/732> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Actur" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/734> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Arrabal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/735> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Casablanca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/736> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Casco Viejo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/737> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Casetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/738> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/744> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Garrapinillos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/745> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Juslibol" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/733> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud La Almozara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/746> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud La Cartuja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/739> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud La Jota" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/740> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Las Fuentes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/747> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Miralbueno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/748> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Montañana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2131> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Monzalbarba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/838> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Movera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/834> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Oliver" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/749> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Peñaflor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/750> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud San Gregorio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/833> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud San José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/751> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud San Juan de Mozarrifar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/832> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud San Pablo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/831> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Santa Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2090> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Torrero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/742> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Universidad" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/743> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de Juventud Valdefierro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2133> a <http://schema.org/School> ;
+	<http://schema.org/name> "Casa de la Mujer" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3036> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Casetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2944> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico de Miralbueno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/753> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4925> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Esquinas del Psiquiátrico" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2743> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Estación del Norte" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3031> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Garrapinillos Antonio Beltrán Martínez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/33> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico La Almozara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/810> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico La Cartuja Baja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4065> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico La Jota (Distrito 14)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3946> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Manuel Vazquez Guardiola (Oliver)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2960> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Peñaflor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/534> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Rio Ebro . Edificio José Martí" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/785> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Rio Ebro. Edificio Fernández Ordoñez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/754> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Salvador Allende (Las Fuentes)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3134> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Santa Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/846> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Teodoro Sánchez Púnter" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/710> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Tio Jorge" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/784> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Torrero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2119> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Universidad" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/535> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro Cívico Valdefierro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/499> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Alfocea" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/503> a <http://schema.org/School> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Casablanca" .
