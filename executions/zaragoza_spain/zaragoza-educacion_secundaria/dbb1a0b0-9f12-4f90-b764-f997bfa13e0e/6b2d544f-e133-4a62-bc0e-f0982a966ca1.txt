@@ -1,0 +1,99 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13807> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Calasanz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13842> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio El Pilar - Maristas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13914> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Obra Diocesana Santo Domingo de Silos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7997> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "CPIFP Los Enlaces (Centro Público Integrado de Formación Profesional)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7985> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Andalán" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7987> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Avempace" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7988> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Corona de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7989> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) El Portillo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7990> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Elaios" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7991> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Félix de Azara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7992> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Grande Covián" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7993> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Itaca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7994> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Jerónimo Zurita" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7995> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) José Manuel Blecua" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7999> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) María Moliner" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8000> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Medina Albaida" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8001> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Miguel Catalán" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8002> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Miguel de Molinos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8003> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Miralbueno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8004> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Pablo Gargallo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8005> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Pablo Serrano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8007> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Pedro de Luna" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8008> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Pilar Lorengar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8009> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Ramón Pignatelli" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8010> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Ramón y Cajal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8011> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Río Gállego" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8012> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Santiago Hernández" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8013> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Tiempos Modernos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8014> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Virgen del Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7998> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES (Instituto de Enseñanza Secundaria) Luis Buñuel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7996> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES La Azucarera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8006> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES Parque Goya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27879> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "IES Picarral" .
