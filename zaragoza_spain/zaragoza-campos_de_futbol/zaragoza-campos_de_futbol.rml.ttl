@@ -15,7 +15,7 @@
 <#StadiumOrArenaMapping>
 
 	rml:logicalSource [
-		rml:source "820.json";
+		rml:source "55.json";
 		rml:referenceFormulation ql:JSONPath;
 		rml:iterator "$.equipamiento.*"
 	];
