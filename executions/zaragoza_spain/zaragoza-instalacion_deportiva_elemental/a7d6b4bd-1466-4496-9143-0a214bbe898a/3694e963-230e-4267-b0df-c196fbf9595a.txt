@@ -1,0 +1,456 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4530> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Alarife Marien Demarguan" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20617> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Alcalde Caballero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4527> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Almenara S.Antonio Padua" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20601> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Arcadas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20596> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Autonomía de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4606> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Avda.Santa Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20623> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Avicebron" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4666> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Balsa del Ojo del Cura" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4194> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Boggiero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20609> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Calle  África" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4706> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle 14 de Septiembre" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4685> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Aragon" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4353> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Arcipreste de Hita" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4766> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Cristo Rey" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4588> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle El Coloso" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4366> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Florentino Ballesteros" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20608> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Calle Juventud-Sta. Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4567> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Luciano Gracia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4556> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Margarita Xirgú" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4514> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Monzón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4686> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Ntra.Sra Rosario" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4517> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Nuestra Señora de la Oliva" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4745> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Padre Claret Movera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20602> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Calle Palafox" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20616> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Calle Privilegio de la Unión" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4552> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Salvador Allende" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20618> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Calle Sauce" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4352> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Sicilia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20597> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Camino de las Torres" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4649> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Camino del Pilon" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4651> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Camino del Pilon (C/Ibon Trigonero)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4195> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Casta Alvarez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4768> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental CDM San Juan" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2694> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental de Baloncesto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3037> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental de Baloncesto García Márquez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2751> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental de Baloncesto y Balonmano / Fútbol Sala" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2693> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental de Fútbol Sala y Vestuarios" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4726> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental detrás CDM Montañana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4765> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Detrás del C.Cívico Peñaflor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4192> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Echegaray y Caballero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4529> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Esclusas de Valdegurriana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20613> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Expo Pabellón España" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4508> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Federico Ozanam" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20606> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Gabriela Mistral" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4605> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Glorieta J.R. Arana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4557> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Gomez de Avellaneda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4507> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Grupo Gral Urrutia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4627> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Jardin Estepario" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4445> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Jardines de Atenas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4305> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Jardines de Avempace" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4425> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Jardines de Lisboa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4707> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Jardines García Laborda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20612> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Jesús Gracia Mallén" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4608> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Juan Manuel Perez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4769> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Junta Vecinal El Paradero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4727> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Junta Vecinal Monzalbarba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4591> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Kasan" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4646> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Lago Rosales del Canal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20620> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental María de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20611> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Marqués de San Felices Corredor Oliver" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4549> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Matilde Sangüesa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20619> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Monasterio de Samos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4565> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Mújica Laínez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4687> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Ntra.Sra de Loreto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4509> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Oceano Atlántico" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20626> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Octavio Paz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4585> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Paque Che Guevara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4510> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Avda. de los Volcanes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4205> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Bruil" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4650> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque calle Ibon de Anayet" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4525> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Calle Oviedo-Avda. América" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4589> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Caprichos de Goya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4245> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Castillo Palomar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20607> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque Ciudad de Maska" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4667> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Clemente Mateo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28064> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque Clemente Mateo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4367> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Cº Las Torres" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4705> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Cº Los Muros" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4670> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Cº Monzalbarba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4516> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Crónica del Alba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4347> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de Al Andalus" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4668> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de la Alameda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4485> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de la Aljaferia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20614> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque de la Palabra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4629> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de la Razon" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4345> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de la Taifa de Saracosta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4587> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de los Cineastas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4626> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de los Incredulos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4586> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de los Poetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4553> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de Oriente" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20615> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque del Agua" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4555> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque del Buen Humor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4645> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque del Conocimiento" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4566> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque del Respeto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4265> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4511> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Estrella Polar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4628> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Felix de Azara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20625> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque Goya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4325> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Grande" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4708> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Huerto Frison" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4725> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque junto Plaza de las Vaquillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4348> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque La Granja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4349> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque la Memoria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4513> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque La Paz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4226> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Miraflores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4505> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Oliver" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4648> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Paco Lacasa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4354> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Pignatelli" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4665> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Ricardo Mur" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4548> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Royo del Rabal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4526> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque S. Viator-C/Pedrola" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20599> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque San Pablo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4285> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Sedetania" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4590> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Tapices de Goya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4225> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Tenerias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4545> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Tio Jorge" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4365> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Torre Ramona" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4554> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Paseo de la Ribera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4515> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Paseo Tierno Galván" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4568> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Pedro Saputo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20610> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Pinares de Torrero- Barranco de la muerte" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4528> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Pinares Valdegurriana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4669> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza castillo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4512> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza de la Inmaculada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4267> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Domingo Savio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4506> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Lolita Parra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4350> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Mayor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4592> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Ortilla" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4647> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Peñetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4351> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Pintor Aguayo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20622> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Puente de la Almozara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4385> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Ribera del Ebro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4550> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Ribera del Gállego" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4767> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Riberas del Gallego San Juan Mozarrifar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4547> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Río Perejiles" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4546> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Río Piedra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4266> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Roger de Flor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20605> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Salvador Madariaga" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20603> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental San Blas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20624> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental San José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20604> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Serrato" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4405> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Sierra de Vicor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4607> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Sta Nunila" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4306> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Terrazas de CDM Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20621> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Toño Andía" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4551> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Vadorrey" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20600> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Valdespartera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28065> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Valmadrid" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4671> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Venta del Olivar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4346> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Vía Hispanidad" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4625> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación deportiva elemental Viñedo Viejo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20598> a <http://schema.org/SportsClub> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Volver a Empezar" .
