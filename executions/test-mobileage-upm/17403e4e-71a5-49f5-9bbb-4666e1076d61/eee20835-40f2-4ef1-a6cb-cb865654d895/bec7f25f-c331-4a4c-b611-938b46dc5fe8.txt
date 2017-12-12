@@ -1,0 +1,150 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5331> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Centro Comercial las Fuentes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5322> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado  Caspe" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5334> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado  Gran Via" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28070> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Agroecológico" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6089> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Almozara \"El Rastro\"" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28068> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Almozara \"Venta Ambulante\"" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5306> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Altabas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5308> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Andrés Vicente" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22268> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Antigüedades San Bruno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5310> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Arrabal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5311> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Arzobispo Domenech" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25420> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Avenida de Madrid" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5313> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Azoque" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5317> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Casablanca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2452> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Central Lanuza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20391> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Ciudad Jardín" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5321> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Coimbra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28051> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Cuarzo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5324> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Cuellar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28067> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado de las Armas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27927> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado del Coleccionismo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5345> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5325> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Delicias -Andres Vicente" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5326> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Doce de Octubre" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20392> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Doctor Casas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5328> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Ebro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5333> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Ganivet" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5335> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Hernan Cortes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5336> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Hípica" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22244> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado La Jota" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5323> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Las Fuentes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5342> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Leyva" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5349> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Montemolin" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5352> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Nuevo Fleta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5353> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Octubre" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5355> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Paris" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5360> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Puerta del Ps Mª Agustín" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5359> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Puerta Sancho" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5363> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Romareda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5364> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Rosales" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5365> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado San Antonio Maria Claret" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5369> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado San Miguel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2806> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado San Vicente de Paul" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5371> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Santander" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5372> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Siro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5373> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Tenor Fleta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5374> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Teruel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5376> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Torrero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12291> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Valdespartera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28052> a <http://schema.org/GroceryStore> ;
+	<http://schema.org/legalName> "Mercado Venecia" .
