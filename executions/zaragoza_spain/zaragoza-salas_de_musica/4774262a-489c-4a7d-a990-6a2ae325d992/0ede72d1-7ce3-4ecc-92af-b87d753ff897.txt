@@ -1,0 +1,153 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11026> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Café Botánico" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7525> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Café Da Luxe" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20683> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Café DPch Rock" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10405> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Café Meccano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7745> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Café New York" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9966> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Café Solanet (Graus)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7405> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Café-Billar El Buscavidas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20460> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Café-pub Voltaire" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13282> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Lata de Bombillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13283> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Arena Rock" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5885> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Azul Rock Café" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5888> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Boranda Latin Palace" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5506> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Bóveda del Albergue" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13310> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Cabaret Pop" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13285> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Café Hispano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9367> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Creedence" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13284> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. De Luxe Café Cantante" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13286> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Devizio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13312> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. El Páramo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5886> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. El refugio del crápula." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13287> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. El Sol" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13300> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. El Zorro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13301> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Juan Sebastián Bar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7285> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. La Bóveda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5626> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. La Campana Underground" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13303> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. La Casa Del Loco" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13304> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. La Ley Seca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5605> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. López" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5887> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Muffin club" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5905> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Reset" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13313> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Rock and  Blues" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13305> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Sala Morrisey" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13309> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Sala Oasis" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13311> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Sala Ozono" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13308> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Sala Zeta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20336> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Musica. Teatro Arbole" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20335> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Musica. Teatro de la Estacion." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13307> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. The Cavern Prior" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8127> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Musica. The Royal Club" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13320> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Ultimatum" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13306> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música.The Preacher s Son" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10406> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala Green" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20307> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala King Kong" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8125> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala López" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11357> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala Mile End" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11356> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala Mile End" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20468> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala Roxy" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9685> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala Saratoga" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20440> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala Utopía" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9605> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala. de Musica. Explosivo Club de Baile" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12009> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Salas de Música. La Botica" .
