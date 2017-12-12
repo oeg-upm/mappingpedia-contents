@@ -1,0 +1,90 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2839> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Actur" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2833> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol César Láinez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6506> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2824> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol El Gállego" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6485> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol El Rabal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2830> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Enrique Escuer" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2303> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Entrerrios" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2835> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol García Traid" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2825> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Gran Capitán" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2837> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol J. L. Violeta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2826> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Juslibol" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2823> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol La Almozara-El Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3026> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol La Azucarera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2828> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol La Manzanera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3027> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol La Nueva Camisera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2827> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Mariano Estrada Fortún (La Cartuja Baja)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2829> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Miralbueno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2838> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Nuevo Fleta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2840> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Parque Oliver" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2841> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Picarral" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2842> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Ranillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2831> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol San Gregorio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3028> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol San José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2832> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol San Lorenzo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6505> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol San Miguel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2834> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Santa Engracia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2692> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Torre Ramona-Joaquín González" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2843> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Torrero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2845> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Valdefierro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2822> a <http://schema.org/StadiumOrArena> ;
+	<http://schema.org/name> "Estadio de Fútbol La Romareda" .
