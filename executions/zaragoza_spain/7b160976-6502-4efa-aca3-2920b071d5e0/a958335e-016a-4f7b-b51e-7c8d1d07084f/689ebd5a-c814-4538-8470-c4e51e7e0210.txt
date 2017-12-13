@@ -1,0 +1,75 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13422> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música Puerta Sancho" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13441> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música y Canto Bosco Yamaha" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13442> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música y Canto. Música Nova" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13444> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música y Canto. Nairi Grigorian Arakimov" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13541> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música y Danza Estampa Baturra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13446> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música y Danza Miralbueno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13560> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "ACGF Nobleza Baturra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13580> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Agrupación Folklorica Aragonesa Aires de Albada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13910> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "C. Niccolo Paganini" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13380> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Estudios Musicales Manuel de Falla" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13480> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Conservatorio de Música. Santa Cecilia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/694> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Conservatorio Municipal Elemental de Música" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7705> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Conservatorio Profesional de Música de Zaragoza." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12480> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Conservatorio Superior de Música de Aragón (CSMA)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13440> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuela de Música Amadeu" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13421> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuela de Música y Danza Ángel Mingote C.A.M." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13424> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuela de Música y Danza Balluarte Aragonés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/696> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuela Municipal de Música y Danza I (Música Clásica y Folclore) -  C/ Domingo Miral" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuela Municipal de Musica y Danza II (Música Moderna) - C/ Armas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13361> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuela Privada de Música y Danza Federico Chopin" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13363> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuelas de Música Yamaha" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13447> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Estudio de Música Adagio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13460> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Estudio de Música Eva María Pallás" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13445> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Instituto de Música de Zaragoza S.L." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13340> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Swing Escuela de Música" .
