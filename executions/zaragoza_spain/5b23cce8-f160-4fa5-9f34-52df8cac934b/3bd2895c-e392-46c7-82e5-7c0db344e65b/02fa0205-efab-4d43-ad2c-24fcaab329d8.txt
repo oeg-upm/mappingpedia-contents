@@ -1,0 +1,42 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9066> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de Alfocea" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9065> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de Casetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20303> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de Garrapinillos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20315> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de Juslibol" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20464> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de La  Cartuja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20316> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de Montañana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12502> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de Monzalbarba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20304> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de Movera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20317> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de Peñaflor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10285> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de San Juan de Mozarrifar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12501> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de Torrecilla de Valmadrid" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2729> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio de Torrero: Complejo Funerario" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10145> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Cementerio Torrero: Entrada Antigua y Oficinas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/544> a <http://schema.org/AnimalShelter> ;
+	<http://schema.org/name> "Oficinas del Cementerio Municipal de Torrero" .
