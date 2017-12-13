@@ -1,0 +1,31 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpids:dataset-eb24e40d-c72f-4b05-b4d6-abe21143de5a dcat:distribution mpidd:distribution-de9f54f0-203d-45e6-9ef0-ee04b14e5cae .
+
+mpidd:distribution-de9f54f0-203d-45e6-9ef0-ee04b14e5cae a dcat:Distribution;
+    dcterms:identifier "de9f54f0-203d-45e6-9ef0-ee04b14e5cae" ;
+    mpv:ckanResourceId "b04cb5ef-a37f-4dfa-b2e2-971cd8eacb16" ;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2017-12-13T14:47:34"^^xsd:dateTime;
+    dcterms:modified "2017-12-13T14:47:34"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/test-mobileage-upm/eb24e40d-c72f-4b05-b4d6-abe21143de5a/720-ontros-organismos.json?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/test-mobileage-upm/eb24e40d-c72f-4b05-b4d6-abe21143de5a/720-ontros-organismos.json> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "3674edafcd917915cfd6fdcb9a9f543449057845" ;
+.
+
