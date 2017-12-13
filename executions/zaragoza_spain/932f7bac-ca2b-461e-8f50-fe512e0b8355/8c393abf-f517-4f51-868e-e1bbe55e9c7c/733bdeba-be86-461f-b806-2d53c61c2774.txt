@@ -1,0 +1,156 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/939> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Auditorio de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8642> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Auditorio Eduardo del Pueyo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9846> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Auditorio Pilar Bayona" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/18260> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Basílica de Santa Engracia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12139> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Caja Inmaculada (CAI). Servicio Cultural" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/18323> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa Amparo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3036> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Casetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2944> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico de Miralbueno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/753> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4925> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Esquinas del Psiquiátrico" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2743> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Estación del Norte" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3031> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Garrapinillos Antonio Beltrán Martínez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2112> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Isaac Valero (Casablanca)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/33> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico La Almozara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/810> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico La Cartuja Baja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4065> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico La Jota (Distrito 14)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3946> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Manuel Vazquez Guardiola (Oliver)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2960> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Peñaflor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/534> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Rio Ebro . Edificio José Martí" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/785> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Rio Ebro. Edificio Fernández Ordoñez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/754> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Salvador Allende (Las Fuentes)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3134> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Santa Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/846> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Teodoro Sánchez Púnter" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/710> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Tio Jorge" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/784> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Torrero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2119> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Universidad" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/535> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Valdefierro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12201> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Joaquín Roncal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2822> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Estadio de Fútbol La Romareda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12170> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Feria de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/18301> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Iglesia de San Gil" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/18220> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Iglesia de San Pablo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/18320> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Iglesia de Santa Isabel de Portugal (San Cayetano)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13282> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Lata de Bombillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2174> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Museo Pablo Gargallo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13241> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Palacio de Congresos de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11452> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Palacio de Sástago. Diputación Provincial de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12238> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Paraninfo de la Universidad de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12980> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Exposiciones Ibercaja Patio de la Infanta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13283> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Arena Rock" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13310> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Cabaret Pop" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13285> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Café Hispano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13284> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. De Luxe Café Cantante" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13286> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Devizio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13312> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. El Páramo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13287> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. El Sol" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13300> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. El Zorro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13301> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Juan Sebastián Bar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13303> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. La Casa Del Loco" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13304> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. La Ley Seca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13313> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Rock and  Blues" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13305> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala de Música. Sala Morrisey" .
