@@ -1,0 +1,489 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23419> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CAPRICHOS" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24349> a <http://schema.org/Store> ;
+	<http://schema.org/name> "\"\"\" SUPER DELICIAS\"\"\"" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27203> a <http://schema.org/Store> ;
+	<http://schema.org/name> "A+B" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21799> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ALIMENTACION" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23877> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ALIMENTACION" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21043> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ALIMENTACION BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23354> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ALIMENTACIÓN Y BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24898> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ALIMENTACION Y BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21057> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ALIMENTOS Y FRUTOS SECOS BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21981> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ALMACEN CIEN X CIEN OCASION" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25239> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27081> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23557> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ALIMENTACION" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26494> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ALIMENTACIÓN" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25447> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR AMISTAD" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21854> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ASIA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26467> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ASIATICO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26490> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ATLAS" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26487> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR CEUTA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21461> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR CHEN" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22741> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR DE SONIA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21247> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR DOBLE FELIZ" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25613> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR DRAGON" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25412> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR FAFA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22748> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR FELISA GALE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23481> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR JUAN JUAN" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25114> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR LAS TORRES" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24842> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR LEYVA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27022> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR MUNDO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22191> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR NAVARRA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22427> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23465> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23466> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21260> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23169> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23621> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22824> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26496> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24673> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTAL 100" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26425> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21989> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ORIENTE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25658> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR RIOJA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24679> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR ROMAREDA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23702> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR RONG HE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21466> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR RONG XING" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24139> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR SUPER EURO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25831> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR SUR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22399> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR TANGER" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21829> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR TOMAS BRETÓN" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22807> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR UNIVERSAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25573> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR Y ALIMENTACIÓN" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24698> a <http://schema.org/Store> ;
+	<http://schema.org/name> "BAZAR Y ALIMENTACIÓN" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23979> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CALALANDA BAZAR ORIENTE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27316> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CASA SUN" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24070> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CASH CONVERTERS" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25445> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHINA CENTER ENLACES" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27082> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHINA CENTER SAN JOSE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21668> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHINO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23660> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ARAGON" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20993> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ARAGON" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22627> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ARAGON" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27560> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ARAGON" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27361> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ARAGÓN" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26109> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ARZOBISPO DOMENECH" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22211> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO AV NAVARRA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25965> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO AV. MADRID" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21066> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO DE PRECIOS" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22732> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO EUROPA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24393> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO MERCAEURO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22115> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20922> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO PASEO TERUEL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21708> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ROMEO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24113> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ZARAGOZA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22978> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ZARAGOZA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21598> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ZARAGOZA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21879> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLO ZARAGOZA HUYAO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24002> a <http://schema.org/Store> ;
+	<http://schema.org/name> "CHOLLOGAO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26187> a <http://schema.org/Store> ;
+	<http://schema.org/name> "COALIMENT (SUPERMERCADOS)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24766> a <http://schema.org/Store> ;
+	<http://schema.org/name> "COMERCIAL BOZADA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21685> a <http://schema.org/Store> ;
+	<http://schema.org/name> "COMERCIAL ZHAN" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23329> a <http://schema.org/Store> ;
+	<http://schema.org/name> "COMERCIO ZHENG" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27527> a <http://schema.org/Store> ;
+	<http://schema.org/name> "DEUTSCHE PRODUKTE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26701> a <http://schema.org/Store> ;
+	<http://schema.org/name> "DO TI SU COMPRA A PRECIO UNICO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22910> a <http://schema.org/Store> ;
+	<http://schema.org/name> "DULCE HOGAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23315> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ECODETALLES" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22764> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ECODETALLES MULTIPRECIO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25398> a <http://schema.org/Store> ;
+	<http://schema.org/name> "EL ARCA DE NOE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26040> a <http://schema.org/Store> ;
+	<http://schema.org/name> "EL BUQUE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27515> a <http://schema.org/Store> ;
+	<http://schema.org/name> "EL CHOLLO ARAGON" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21005> a <http://schema.org/Store> ;
+	<http://schema.org/name> "EURO BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23981> a <http://schema.org/Store> ;
+	<http://schema.org/name> "EURO BAZAR CALANDA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25699> a <http://schema.org/Store> ;
+	<http://schema.org/name> "EURO CHOLLO SAN JOSE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26676> a <http://schema.org/Store> ;
+	<http://schema.org/name> "EURO NEW" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26576> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA CHINA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22603> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA CHINA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21487> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA CHINA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26882> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA CHINA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25393> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA CHINA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21727> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA CHINA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22231> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA CHINA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23759> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA CHINA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26724> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA CHINA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25069> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA CHINA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24146> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA MUNDO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23410> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GALERIA ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25390> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GRAN BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26696> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GRAN BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24941> a <http://schema.org/Store> ;
+	<http://schema.org/name> "GRAN PLAZA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25972> a <http://schema.org/Store> ;
+	<http://schema.org/name> "HIPER CONTINENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21675> a <http://schema.org/Store> ;
+	<http://schema.org/name> "HIPER EURO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21298> a <http://schema.org/Store> ;
+	<http://schema.org/name> "HIPER HERNAN CORTES" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26893> a <http://schema.org/Store> ;
+	<http://schema.org/name> "HIPER ZARAGOZA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22552> a <http://schema.org/Store> ;
+	<http://schema.org/name> "HIPER ZARAGOZA BAZAR ORIENTAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23917> a <http://schema.org/Store> ;
+	<http://schema.org/name> "INTERMON OXFAM" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24329> a <http://schema.org/Store> ;
+	<http://schema.org/name> "LA TIENDA BARATA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21772> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MANJON HOGAR TEXTIL MULTIPRECIO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27449> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MARKETCHES" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22516> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MAXI BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22246> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MAYMO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23745> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MERCADO ALTABA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23359> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MIN-REN SC" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26839> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MODA BAZAR CHINA EUROPA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21873> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MODAS HERNANDEZ EL GRAN OFERTON" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20852> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MULTI 100" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24508> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MULTI-100" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21481> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MULTIPRECIO CASANOVA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25880> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MULTIPRECIO LA CASA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27126> a <http://schema.org/Store> ;
+	<http://schema.org/name> "MULTIPRECIO LACASA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25394> a <http://schema.org/Store> ;
+	<http://schema.org/name> "NHAFKTA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20793> a <http://schema.org/Store> ;
+	<http://schema.org/name> "NOVEDADES TODO A 0,75€" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26589> a <http://schema.org/Store> ;
+	<http://schema.org/name> "O BAZAR BOUTIQUE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25838> a <http://schema.org/Store> ;
+	<http://schema.org/name> "PERFUMERIA LENCERÍA; COMPLEMENTOS Y REGALOS" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20822> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SIN NOMBRE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26665> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SIN NOMBRE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26669> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SIN NOMBRE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22768> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SIN NOMBRE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25272> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SIN NOMBRE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23730> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SIN NOMBRE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26430> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SIN NOMBRE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25154> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SIN NOMBRE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26080> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SIN NOMBRE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24447> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SIN NOMBRE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25843> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SUMERKO ZARAGOZA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22389> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SUMERKO ZARAGOZA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25568> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SUPER BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25815> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SUPER BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23639> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SUPER BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22269> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SUPER COMPRA SL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20886> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SUPER EURO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25772> a <http://schema.org/Store> ;
+	<http://schema.org/name> "SUPER VIVO BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24888> a <http://schema.org/Store> ;
+	<http://schema.org/name> "TODO A 2 EUROS" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23360> a <http://schema.org/Store> ;
+	<http://schema.org/name> "TODO A CIEN" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23310> a <http://schema.org/Store> ;
+	<http://schema.org/name> "UNICEF" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21039> a <http://schema.org/Store> ;
+	<http://schema.org/name> "UNIFAMILY" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25503> a <http://schema.org/Store> ;
+	<http://schema.org/name> "VERDE LA PAZ" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21797> a <http://schema.org/Store> ;
+	<http://schema.org/name> "VIDA PLAZA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22363> a <http://schema.org/Store> ;
+	<http://schema.org/name> "XING ZARAGOZA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26707> a <http://schema.org/Store> ;
+	<http://schema.org/name> "YOUFA BAZAR" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26270> a <http://schema.org/Store> ;
+	<http://schema.org/name> "YUAN ZARAGOZA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21795> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ZANUBIA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27028> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ZARA 100" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26849> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ZATLAND" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26207> a <http://schema.org/Store> ;
+	<http://schema.org/name> "ZHON WEI II" .
