@@ -1,0 +1,31 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpids:dataset-8772a4d9-2b98-4877-b9db-66c235bfe07e dcat:distribution mpidd:distribution-48dbc8b1-5d46-424b-b135-d9f5755d7e04 .
+
+mpidd:distribution-48dbc8b1-5d46-424b-b135-d9f5755d7e04 a dcat:Distribution;
+    dcterms:identifier "48dbc8b1-5d46-424b-b135-d9f5755d7e04" ;
+    mpv:ckanResourceId "98098337-4eba-4253-82dd-4b6971ee8149" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution for the dataset: 8772a4d9-2b98-4877-b9db-66c235bfe07e" ;
+    dcterms:issued "2017-12-13T15:30:28"^^xsd:dateTime;
+    dcterms:modified "2017-12-13T15:30:28"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/test-mobileage-upm/8772a4d9-2b98-4877-b9db-66c235bfe07e/edificio-historico.csv?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/test-mobileage-upm/8772a4d9-2b98-4877-b9db-66c235bfe07e/edificio-historico.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "a4bb1dedb676d48916aa9264599095828730d419" ;
+.
+
