@@ -1,0 +1,31 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-32c65e38-4b94-4d89-83e1-68add9e20759 a mpv:MappingExecutionResultEntity ;
+    mpv:mappingExecutionResultIdentifier "mappingExecutionResult-32c65e38-4b94-4d89-83e1-68add9e20759" ;
+    dcterms:identifier "32c65e38-4b94-4d89-83e1-68add9e20759" ;
+    dcterms:title "" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/2cc474a3-d0d6-407d-96ae-2cbf10f42e4c/ecd7ebce-38de-4200-97fd-9a5d47901b87/LXDNOSWALN.rml.ttl" ;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom <https://www.zaragoza.es/sede/servicio/equipamiento/category/920.json> ;
+    prov:hadPrimarySource mpimd:mappingDocument-ef80cebc-ba2b-41d9-9a6c-3d12b5635599 ;
+.
+
