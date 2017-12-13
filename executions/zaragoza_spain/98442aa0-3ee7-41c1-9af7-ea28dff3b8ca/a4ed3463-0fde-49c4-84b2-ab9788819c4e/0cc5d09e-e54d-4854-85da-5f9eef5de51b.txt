@@ -1,0 +1,162 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13422> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música Puerta Sancho" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13441> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música y Canto Bosco Yamaha" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13442> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música y Canto. Música Nova" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13444> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música y Canto. Nairi Grigorian Arakimov" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13541> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música y Danza Estampa Baturra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13446> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Academia de Música y Danza Miralbueno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13560> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "ACGF Nobleza Baturra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13580> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Agrupación Folklorica Aragonesa Aires de Albada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/939> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Auditorio de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/732> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Actur" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/734> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Arrabal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/735> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Casablanca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/736> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Casco Viejo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/737> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Casetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/738> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/744> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Garrapinillos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/745> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Juslibol" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/733> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud La Almozara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/746> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud La Cartuja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/739> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud La Jota" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/740> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Las Fuentes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/747> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Miralbueno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/748> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Montañana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2131> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Monzalbarba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/838> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Movera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/834> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Oliver" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/749> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Peñaflor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/750> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud San Gregorio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/833> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud San José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/751> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud San Juan de Mozarrifar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/832> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud San Pablo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/831> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Santa Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2090> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Torrero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/742> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Universidad" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/743> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Casa de Juventud Valdefierro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/499> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Alfocea" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/503> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Casablanca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/501> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Casco Histórico" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/504> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Casetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/505> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Ciudad Jardin" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/506> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2807> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Estación del Norte (José Mª Castro y Calvo)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/756> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Francisco de Goya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/507> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Garrapinillos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20115> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de convivencia para mayores José María. Castro y Calvo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/509> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Juslibol" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/500> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores La Almozara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/502> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores La Cartuja Baja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/508> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores La Jota" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/523> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores La Paz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13420> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuela de Música Minueto 7 S.L" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13443> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuela de Música Plaza de Mozart S.L." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13423> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuela de Música Tony - García" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13360> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Escuela de Música. Enclave de AR-T" .
