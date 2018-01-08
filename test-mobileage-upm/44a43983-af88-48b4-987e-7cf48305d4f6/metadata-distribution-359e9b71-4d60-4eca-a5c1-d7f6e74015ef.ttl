@@ -1,0 +1,31 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpids:dataset-44a43983-af88-48b4-987e-7cf48305d4f6 dcat:distribution mpidd:distribution-359e9b71-4d60-4eca-a5c1-d7f6e74015ef .
+
+mpidd:distribution-359e9b71-4d60-4eca-a5c1-d7f6e74015ef a dcat:Distribution;
+    dcterms:identifier "359e9b71-4d60-4eca-a5c1-d7f6e74015ef" ;
+    mpv:ckanResourceId "ef90d382-bcae-445d-a7d1-701aca0191b0" ;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2018-01-08T16:29:25"^^xsd:dateTime;
+    dcterms:modified "2018-01-08T16:29:25"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/test-mobileage-upm/44a43983-af88-48b4-987e-7cf48305d4f6/V_DIATHRHTEA_E.csv?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/test-mobileage-upm/44a43983-af88-48b4-987e-7cf48305d4f6/V_DIATHRHTEA_E.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "0bcdb87430c55044dd11f1a776f04083967d8118" ;
+.
+
