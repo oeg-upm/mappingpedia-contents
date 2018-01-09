@@ -1,0 +1,31 @@
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+mpids:dataset-d32a2182-239a-468c-bf09-41737456417d dcat:distribution mpidd:distribution-98bceb14-c8d5-4994-88c0-ca99d3b51494 .
+
+mpidd:distribution-98bceb14-c8d5-4994-88c0-ca99d3b51494 a dcat:Distribution;
+    dcterms:identifier "98bceb14-c8d5-4994-88c0-ca99d3b51494" ;
+    mpv:ckanResourceId "fc8e915d-80b9-4e2b-a95b-8572dff8355a" ;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2018-01-09T11:34:50"^^xsd:dateTime;
+    dcterms:modified "2018-01-09T11:34:50"^^xsd:dateTime;
+    dcat:accessURL <http://gis.thessaloniki.gr/geoserver/wfs?REQUEST=GETFEATURE&SERVICE=WFS&VERSION=1.1.0&TYPENAMES=KOSE%3AV_DIATHRHTEA_E&OUTPUTFORMAT=csv&FORMAT_OPTIONS=CHARSET%3AUTF-8&SRSNAME=EPSG%3A2100> ;
+    dcat:downloadURL <http://gis.thessaloniki.gr/geoserver/wfs?REQUEST=GETFEATURE&SERVICE=WFS&VERSION=1.1.0&TYPENAMES=KOSE%3AV_DIATHRHTEA_E&OUTPUTFORMAT=csv&FORMAT_OPTIONS=CHARSET%3AUTF-8&SRSNAME=EPSG%3A2100> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "5f2b8e90c71d094b74e422ffc8ad81d798d5e2e8" ;
+.
+
