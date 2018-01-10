@@ -1,0 +1,35 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-38dbc67e-66cf-443b-8391-4d72c4db5edb dcat:distribution mpidd:distribution-2365b372-2cf5-4b16-8c43-ae5f6c713536 .
+
+mpidd:distribution-2365b372-2cf5-4b16-8c43-ae5f6c713536 a dcat:Distribution;
+    dcterms:identifier "2365b372-2cf5-4b16-8c43-ae5f6c713536" ;
+    mpv:ckanResourceId "" ;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2018-01-10T16:05:21"^^xsd:dateTime;
+    dcterms:modified "2018-01-10T16:05:21"^^xsd:dateTime;
+    dcat:accessURL <http://www.zaragoza.es/api/recurso/turismo/edificio-historico.csv> ;
+    dcat:downloadURL <http://www.zaragoza.es/api/recurso/turismo/edificio-historico.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "e00934108c1347a494df5be977fa6bbe59de837a" ;
+.
+
