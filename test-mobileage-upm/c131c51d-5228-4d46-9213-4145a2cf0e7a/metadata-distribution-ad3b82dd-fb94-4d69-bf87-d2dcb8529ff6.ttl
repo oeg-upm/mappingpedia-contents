@@ -1,0 +1,35 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-c131c51d-5228-4d46-9213-4145a2cf0e7a dcat:distribution mpidd:distribution-ad3b82dd-fb94-4d69-bf87-d2dcb8529ff6 .
+
+mpidd:distribution-ad3b82dd-fb94-4d69-bf87-d2dcb8529ff6 a dcat:Distribution;
+    dcterms:identifier "ad3b82dd-fb94-4d69-bf87-d2dcb8529ff6" ;
+    mpv:ckanResourceId "037c364c-5cb3-43b3-887a-03231d823b2f" ;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2018-01-10T15:18:53"^^xsd:dateTime;
+    dcterms:modified "2018-01-10T15:18:53"^^xsd:dateTime;
+    dcat:accessURL <https://www.zaragoza.es/sede/servicio/equipamiento/category/110.json> ;
+    dcat:downloadURL <https://www.zaragoza.es/sede/servicio/equipamiento/category/110.json> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "37b8c3b6c18d5bdf240a62de052db69bc35fce02" ;
+.
+
