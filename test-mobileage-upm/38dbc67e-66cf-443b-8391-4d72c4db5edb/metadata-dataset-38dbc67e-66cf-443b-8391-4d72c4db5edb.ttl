@@ -22,8 +22,8 @@ mpv:Dataset rdfs:subClassOf dcat:Dataset .
 mpids:dataset-38dbc67e-66cf-443b-8391-4d72c4db5edb a mpv:Dataset ;
     dcterms:title "38dbc67e-66cf-443b-8391-4d72c4db5edb" ;
     dcterms:description "38dbc67e-66cf-443b-8391-4d72c4db5edb" ;
-    dcterms:issued "2018-01-10T16:05:30"^^xsd:dateTime;
-    dcterms:modified "2018-01-10T16:05:30"^^xsd:dateTime;
+    dcterms:issued "2018-01-10T16:11:00"^^xsd:dateTime;
+    dcterms:modified "2018-01-10T16:11:00"^^xsd:dateTime;
     dcterms:identifier "38dbc67e-66cf-443b-8391-4d72c4db5edb" ;
     dcat:keyword "" ;
     dcterms:language <http://id.loc.gov/vocabulary/iso639-1/> ;
