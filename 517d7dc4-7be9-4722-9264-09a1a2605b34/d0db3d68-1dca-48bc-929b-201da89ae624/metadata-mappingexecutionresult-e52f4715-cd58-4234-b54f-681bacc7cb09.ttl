@@ -1,0 +1,38 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-mappingexecutionresult-template.ttl
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-e52f4715-cd58-4234-b54f-681bacc7cb09 a mpv:MappingExecutionResultEntity ;
+    mpv:mappingExecutionResultIdentifier "mappingExecutionResult-e52f4715-cd58-4234-b54f-681bacc7cb09" ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/executions/517d7dc4-7be9-4722-9264-09a1a2605b34/d0db3d68-1dca-48bc-929b-201da89ae624/6db9de25-7f79-4583-b1fb-d6303a14bf96/a504d70e-c249-4c6f-afae-65da40ad7b61.nt> ;
+    dcterms:identifier "e52f4715-cd58-4234-b54f-681bacc7cb09" ;
+    dcterms:title "" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/2cc474a3-d0d6-407d-96ae-2cbf10f42e4c/5b23cce8-f160-4fa5-9f34-52df8cac934b/BJLFUWWFZW.rml.ttl" ;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom <https://www.zaragoza.es/sede/servicio/equipamiento/category/110.json> ;
+    prov:hadPrimarySource mpimd:mappingDocument-5ddd64ad-7f11-43a7-8406-0d3a25cc22af ;
+    mvp:hasMappingDocumentSHA "8059887b3fa5cc1ebeda0ff8b09d98a1a7ad7484" ;
+    mvp:hasDatasetDistributionSHA "37b8c3b6c18d5bdf240a62de052db69bc35fce02" ;
+.
+
