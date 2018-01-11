@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-mappingexecutionresult-template.ttl
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-d2e66bed-06ad-4071-97cb-6bc91f871eca a mpv:MappingExecutionResultEntity ;
+    mpv:mappingExecutionResultIdentifier "mappingExecutionResult-d2e66bed-06ad-4071-97cb-6bc91f871eca" ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/executions/92bd6bfc-2a37-46da-844f-8fdb0056d15d/7eac1e80-9866-4333-b3c1-e88a4e2c441f/eb3a43a6-449f-4385-a752-c4cbdcd2954c/2c86b647-045c-49f0-a15c-8a363d031480.nt> ;
+    dcterms:identifier "d2e66bed-06ad-4071-97cb-6bc91f871eca" ;
+    dcterms:title "" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/2cc474a3-d0d6-407d-96ae-2cbf10f42e4c/5b23cce8-f160-4fa5-9f34-52df8cac934b/4a44c393-4b36-4ab8-9112-ed556b582b57/2HUXVLM0JX.rml.ttl" ;
+    dcterms:issued "2018-01-11T16:32:35"^^xsd:dateTime;
+    dcterms:modified "2018-01-11T16:32:35"^^xsd:dateTime;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom <https://www.zaragoza.es/sede/servicio/equipamiento/category/110.json> ;
+    prov:hadPrimarySource mpimd:mappingDocument-4a44c393-4b36-4ab8-9112-ed556b582b57 ;
+    mpv:hasMappingDocumentSHA "315eb28ba3ae89d911cb312715bdcef84b7e1095" ;
+    mpv:hasDatasetDistributionSHA "37b8c3b6c18d5bdf240a62de052db69bc35fce02" ;
+.
+
