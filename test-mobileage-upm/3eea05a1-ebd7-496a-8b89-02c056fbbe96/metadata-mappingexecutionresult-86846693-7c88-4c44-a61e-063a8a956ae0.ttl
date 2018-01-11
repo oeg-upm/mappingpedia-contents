@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-mappingexecutionresult-template.ttl
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-86846693-7c88-4c44-a61e-063a8a956ae0 a mpv:MappingExecutionResultEntity ;
+    mpv:mappingExecutionResultIdentifier "mappingExecutionResult-86846693-7c88-4c44-a61e-063a8a956ae0" ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/executions/test-mobileage-upm/3eea05a1-ebd7-496a-8b89-02c056fbbe96/d597dbc0-a3ee-48ae-8027-b21f640e5392/a85b2985-21f1-4513-9347-798bd6cda71e.txt> ;
+    dcterms:identifier "86846693-7c88-4c44-a61e-063a8a956ae0" ;
+    dcterms:title "" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/5c0e5a50-5cc9-4c48-92e7-bad3c64e48da/3eea05a1-ebd7-496a-8b89-02c056fbbe96/9e040a8a-f201-4848-9e94-d17c6dfbe581/0VWGNIYGVP.r2rml.ttl" ;
+    dcterms:issued "2018-01-11T16:30:47"^^xsd:dateTime;
+    dcterms:modified "2018-01-11T16:30:47"^^xsd:dateTime;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom <http://www.zaragoza.es/api/recurso/turismo/edificio-historico.csv> ;
+    prov:hadPrimarySource mpimd:mappingDocument-9e040a8a-f201-4848-9e94-d17c6dfbe581 ;
+    mpv:hasMappingDocumentSHA "" ;
+    mpv:hasDatasetDistributionSHA "" ;
+.
+
