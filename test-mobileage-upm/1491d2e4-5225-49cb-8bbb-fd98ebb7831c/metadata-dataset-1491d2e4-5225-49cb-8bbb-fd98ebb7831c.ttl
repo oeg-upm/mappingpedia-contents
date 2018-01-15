@@ -1,0 +1,34 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-dataset-template.ttl
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-1491d2e4-5225-49cb-8bbb-fd98ebb7831c a mpv:Dataset ;
+    dcterms:title "1491d2e4-5225-49cb-8bbb-fd98ebb7831c" ;
+    dcterms:description "1491d2e4-5225-49cb-8bbb-fd98ebb7831c" ;
+    dcterms:issued "2018-01-15T17:11:36"^^xsd:dateTime;
+    dcterms:modified "2018-01-15T17:11:36"^^xsd:dateTime;
+    dcterms:identifier "1491d2e4-5225-49cb-8bbb-fd98ebb7831c" ;
+    dcat:keyword "" ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/es> ;
+    mpv:datasetIdentifier "dataset-1491d2e4-5225-49cb-8bbb-fd98ebb7831c" ;
+    #mpv:publisherId mpi:user-1 ;
+    #mpv:datasetLanguage <http://id.loc.gov/vocabulary/iso639-1/en> ;
+.
+
