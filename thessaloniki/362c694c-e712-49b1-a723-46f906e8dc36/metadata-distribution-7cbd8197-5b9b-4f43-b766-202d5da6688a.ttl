@@ -1,0 +1,35 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-362c694c-e712-49b1-a723-46f906e8dc36 dcat:distribution mpidd:distribution-7cbd8197-5b9b-4f43-b766-202d5da6688a .
+
+mpidd:distribution-7cbd8197-5b9b-4f43-b766-202d5da6688a a dcat:Distribution;
+    dcterms:identifier "7cbd8197-5b9b-4f43-b766-202d5da6688a" ;
+    mpv:ckanResourceId "7eabb273-ae22-4b7e-86e8-a4d951889899" ;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2018-01-16T15:07:10"^^xsd:dateTime;
+    dcterms:modified "2018-01-16T15:07:10"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/thessaloniki/362c694c-e712-49b1-a723-46f906e8dc36/speed.json?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/thessaloniki/362c694c-e712-49b1-a723-46f906e8dc36/speed.json> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "e25ff628e26c5b04d890c90fdecd0bf78ba881fc" ;
+.
+
