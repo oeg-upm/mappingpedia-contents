@@ -1,0 +1,118 @@
+
+    @prefix rr: <http://www.w3.org/ns/r2rml#> .
+    @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+    @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+    @prefix dcat: <http://www.w3.org/ns/dcat#> .
+    @prefix dct: <http://purl.org/dc/terms/> .
+    @prefix mpv: <http://mappingpedia.linkeddata.es/vocab/> .
+    @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+    @prefix schema: <http://schema.org/> .
+    @base <http://mappingpedia.linkeddata.es/resource/> .
+    <1QCXLGBPIG>
+        rr:logicalTable [
+            rr:tableName  "\"mobile-age-iatreia-utf\""
+        ];
+
+        rr:subjectMap [
+            a rr:Subject; rr:termType rr:IRI; rr:class schema:http://schema.org/Physician;
+            rr:column "\"DESCR\"";
+        ];
+        
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:medicalSpecialty ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"DESCR\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:givenName ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"ONOMA\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:familyName ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"EPONIMO\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:additionalName ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"PATRONIMO\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:address ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"ERGODOS\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:telephone ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"ERGTIL\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:postalCode ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"ERGTK\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:address ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"IATRODOS\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:telephone ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"IATRTIL\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:postalCode ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"IATRTK\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:AdministrativeArea ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"ERGPOLI\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:AdministrativeArea ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"IATRPOLI\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:address ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"IATRODOS3\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:telephone ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"IATRTIL3\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:postalCode ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"IATRTK3\""; ];
+        ];
+    
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:AdministrativeArea ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"IATRPOLI3
+\""; ];
+        ];
+    
+    .
+    
