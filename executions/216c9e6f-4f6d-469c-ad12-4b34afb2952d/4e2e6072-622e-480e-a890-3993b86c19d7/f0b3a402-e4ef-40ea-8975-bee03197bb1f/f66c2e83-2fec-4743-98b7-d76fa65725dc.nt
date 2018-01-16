@@ -1,0 +1,80 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9066> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de Alfocea" ;
+	<http://schema.org/identifier> "9066" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cementerios/alfocea/" ;
+	<http://schema.org/telephone> "{tel=976 784 034, fax=976 784 034}" ;
+	<http://schema.org/openingHours> "<strong>Informaci&oacute;n </strong>en 976 784 034 (pedir llave)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9065> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de Casetas" ;
+	<http://schema.org/identifier> "9065" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cementerios/casetas/" ;
+	<http://schema.org/telephone> "{tel=976 726 151}" ;
+	<http://schema.org/openingHours> """<ul>    <li>1 abril a 30 septiembre: de 9 a 20 h.</li>    <li>1 octubre a 31 marzo: de 10 a 17h.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20303> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de Garrapinillos" ;
+	<http://schema.org/identifier> "20303" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20315> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de Juslibol" ;
+	<http://schema.org/identifier> "20315" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cementerios/juslibol/" ;
+	<http://schema.org/telephone> "{tel=976 726 003, fax=976 726 004}" ;
+	<http://schema.org/openingHours> "Información en 636 118 003 (pedir llave)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20464> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de La  Cartuja" ;
+	<http://schema.org/identifier> "20464" ;
+	<http://schema.org/telephone> "{tel=976 416 652}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20316> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de Montañana" ;
+	<http://schema.org/identifier> "20316" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cementerios/montanana/" ;
+	<http://schema.org/telephone> "{tel=976 726 148 , fax=976 724 959}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12502> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de Monzalbarba" ;
+	<http://schema.org/identifier> "12502" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cementerios/monzalbarba/" ;
+	<http://schema.org/telephone> "{tel=976 462315, fax=976 771458}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20304> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de Movera" ;
+	<http://schema.org/identifier> "20304" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20317> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de Peñaflor" ;
+	<http://schema.org/identifier> "20317" ;
+	<http://schema.org/telephone> "{tel=976 726 175 , fax=976 726 176}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10285> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de San Juan de Mozarrifar" ;
+	<http://schema.org/identifier> "10285" ;
+	<http://schema.org/telephone> "{tel=976 150 266, fax=976 150 266 }" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12501> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de Torrecilla de Valmadrid" ;
+	<http://schema.org/identifier> "12501" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2729> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio de Torrero: Complejo Funerario" ;
+	<http://schema.org/identifier> "2729" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cementerios/torrero/" ;
+	<http://schema.org/telephone> "{tel=Tanatorio SERFUTOSA: 976 388 012 - Actividades Culturales: 976 721406, fax=976 252 498}" ;
+	<http://schema.org/openingHours> "Horario de acceso peatonal y vehículos: de 6,30 a 23 h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10145> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Cementerio Torrero: Entrada Antigua y Oficinas" ;
+	<http://schema.org/identifier> "10145" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cementerios/torrero/" ;
+	<http://schema.org/telephone> "{tel=976 721 187 / 976 723 671 , fax=976 723 672}" ;
+	<http://schema.org/openingHours> """<ul>    <li>Horario de acceso: de 6,30 a 21h.</li>    <li>Horario OFICINAS:<ul><li>Horario habitual: 9,30 a 13h.(lunes a viernes).</li><li>Horario de verano: (19 de junio al 15 de septiembre): 10,30 a 13,00 h.(lunes a viernes)</li></ul></li>    <li>Préstamo escaleras: 9 a 14h. (de lunes a domingo)</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/544> a <http://schema.org/Cemetery> ;
+	<http://schema.org/name> "Oficinas del Cementerio Municipal de Torrero" ;
+	<http://schema.org/identifier> "544" ;
+	<http://schema.org/telephone> "{tel=976 723671, 1075, fax=976 723 672}" ;
+	<http://schema.org/openingHours> """<ul>    <li>Horario de acceso: de 6,30 a 21h.</li>    <li>Horario OFICINAS:<ul><li>Horario habitual: 9,30 a 13h.(lunes a viernes).</li><li>Horario de verano: (19 de junio al 15 de septiembre): 10,30 a 13,00 h.(lunes a viernes)</li></ul></li>    <li>Préstamo escaleras: 9 a 14h. (de lunes a domingo)</li></ul>""" .
