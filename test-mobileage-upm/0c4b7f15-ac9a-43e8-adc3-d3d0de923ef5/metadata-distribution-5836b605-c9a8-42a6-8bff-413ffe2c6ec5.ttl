@@ -1,0 +1,35 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-0c4b7f15-ac9a-43e8-adc3-d3d0de923ef5 dcat:distribution mpidd:distribution-5836b605-c9a8-42a6-8bff-413ffe2c6ec5 .
+
+mpidd:distribution-5836b605-c9a8-42a6-8bff-413ffe2c6ec5 a dcat:Distribution;
+    dcterms:identifier "5836b605-c9a8-42a6-8bff-413ffe2c6ec5" ;
+    mpv:ckanResourceId "749e9cdd-c39a-41f3-87a5-9cea675b1448" ;
+    dcterms:title "" ;
+    dcterms:description "Original Dataset" ;
+    dcterms:issued "2018-01-17T11:37:28"^^xsd:dateTime;
+    dcterms:modified "2018-01-17T11:37:28"^^xsd:dateTime;
+    dcat:accessURL <h> ;
+    dcat:downloadURL <h> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "" ;
+.
+
