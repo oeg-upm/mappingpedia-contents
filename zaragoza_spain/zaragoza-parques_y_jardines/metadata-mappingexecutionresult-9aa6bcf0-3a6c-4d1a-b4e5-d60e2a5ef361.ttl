@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-mappingexecutionresult-template.ttl
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-9aa6bcf0-3a6c-4d1a-b4e5-d60e2a5ef361 a mpv:MappingExecutionResultEntity ;
+    mpv:mappingExecutionResultIdentifier "mappingExecutionResult-9aa6bcf0-3a6c-4d1a-b4e5-d60e2a5ef361" ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/executions/zaragoza_spain/zaragoza-parques_y_jardines/9bf68183-18e0-4590-86bc-130f1baadd92/1c5d7ee9-36e8-4e05-9464-fdc7964daf4d.txt> ;
+    dcterms:identifier "9aa6bcf0-3a6c-4d1a-b4e5-d60e2a5ef361" ;
+    dcterms:title "" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/zaragoza_spain/zaragoza-parques_y_jardines/zaragoza-parques_y_jardines.rml.ttl" ;
+    dcterms:issued "2018-01-17T13:11:40"^^xsd:dateTime;
+    dcterms:modified "2018-01-17T13:11:40"^^xsd:dateTime;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom <https://www.zaragoza.es/sede/servicio/equipamiento/category/820.json> ;
+    prov:hadPrimarySource mpimd:mappingDocument-74c04818-5c01-4d0a-851c-17f9a7a4375f ;
+    mpv:hasMappingDocumentSHA "-2030511582" ;
+    mpv:hasDatasetDistributionSHA "-524074481" ;
+.
+
