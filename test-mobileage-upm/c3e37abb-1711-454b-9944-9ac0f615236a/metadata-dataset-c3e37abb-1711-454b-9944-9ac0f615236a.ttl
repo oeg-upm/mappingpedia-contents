@@ -1,0 +1,34 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-dataset-template.ttl
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-c3e37abb-1711-454b-9944-9ac0f615236a a mpv:Dataset ;
+    dcterms:title "c3e37abb-1711-454b-9944-9ac0f615236a" ;
+    dcterms:description "c3e37abb-1711-454b-9944-9ac0f615236a" ;
+    dcterms:issued "2018-01-18T16:28:33"^^xsd:dateTime;
+    dcterms:modified "2018-01-18T16:28:33"^^xsd:dateTime;
+    dcterms:identifier "c3e37abb-1711-454b-9944-9ac0f615236a" ;
+    dcat:keyword "" ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/es> ;
+    mpv:datasetIdentifier "dataset-c3e37abb-1711-454b-9944-9ac0f615236a" ;
+    mpv:ckanPackageId "c851c843-1001-43ba-9908-f0571e9a9d01" ;
+    mpv:ckanPackageName "c3e37abb-1711-454b-9944-9ac0f615236a" ;
+.
+
