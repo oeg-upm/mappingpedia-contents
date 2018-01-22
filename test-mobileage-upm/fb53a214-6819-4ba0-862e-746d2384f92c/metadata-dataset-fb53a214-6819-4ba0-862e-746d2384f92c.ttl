@@ -1,0 +1,34 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-dataset-template.ttl
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-fb53a214-6819-4ba0-862e-746d2384f92c a mpv:Dataset ;
+    dcterms:title "fb53a214-6819-4ba0-862e-746d2384f92c" ;
+    dcterms:description "fb53a214-6819-4ba0-862e-746d2384f92c" ;
+    dcterms:issued "2018-01-22T10:20:27"^^xsd:dateTime;
+    dcterms:modified "2018-01-22T10:20:27"^^xsd:dateTime;
+    dcterms:identifier "fb53a214-6819-4ba0-862e-746d2384f92c" ;
+    dcat:keyword "" ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/es> ;
+    mpv:datasetIdentifier "dataset-fb53a214-6819-4ba0-862e-746d2384f92c" ;
+    mpv:ckanPackageId "ff07bf0c-9f66-4461-b0ab-3b0d3f037c7f" ;
+    mpv:ckanPackageName "fb53a214-6819-4ba0-862e-746d2384f92c" ;
+.
+
