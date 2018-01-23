@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-mappingexecutionresult-template.ttl
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-89e6d957-61df-4c8c-b73d-bbe8e4091146 a mpv:MappingExecutionResultEntity ;
+    mpv:mappingExecutionResultIdentifier "mappingExecutionResult-89e6d957-61df-4c8c-b73d-bbe8e4091146" ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/executions/test-mobileage-upm/cc2e089d-3d73-4826-bd4d-c002d56338d6/5b3b3118-6c94-4f94-93a5-a71b093cbfb8/6ed46dd8-4a0c-464c-8f7f-1c9f40d1b02c.txt> ;
+    dcterms:identifier "89e6d957-61df-4c8c-b73d-bbe8e4091146" ;
+    dcterms:title "" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/zaragoza_test/c4f5c397-f862-4cf4-b353-8280185dd94c/edificio-historico.r2rml.ttl" ;
+    dcterms:issued "2018-01-23T15:18:46"^^xsd:dateTime;
+    dcterms:modified "2018-01-23T15:18:46"^^xsd:dateTime;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/zaragoza_test/c4f5c397-f862-4cf4-b353-8280185dd94c/edificio-historico.csv> ;
+    prov:hadPrimarySource mpimd:mappingDocument-8855c469-969f-4d30-9f88-54f76c3e047a ;
+    mpv:hasMappingDocumentSHA "-1666057864" ;
+    mpv:hasDatasetDistributionSHA "1678370417" ;
+.
+
