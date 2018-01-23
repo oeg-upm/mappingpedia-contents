@@ -1,0 +1,43 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-dataset-template.ttl
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-2c030eb0-4fff-4604-bde8-7e6144c1987c a mpv:Dataset ;
+    dcterms:title "Historical Buildings in Zaragoza" ;
+    dcterms:description "2c030eb0-4fff-4604-bde8-7e6144c1987c" ;
+    dcterms:issued "2018-01-23T12:10:06"^^xsd:dateTime;
+    dcterms:modified "2018-01-23T12:10:06"^^xsd:dateTime;
+    dcterms:identifier "2c030eb0-4fff-4604-bde8-7e6144c1987c" ;
+    dcat:keyword "zgz" ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/> ;
+    mpv:datasetIdentifier "dataset-2c030eb0-4fff-4604-bde8-7e6144c1987c" ;
+    mpv:ckanPackageId "169bd579-c904-4060-9a53-1b38312f33a5" ;
+    mpv:ckanPackageName "2c030eb0-4fff-4604-bde8-7e6144c1987c" ;
+    mpv:ckanSource "";
+    mpv:ckanVersion "" ;
+    mpv:ckanAuthor "" ;
+    mpv:ckanAuthorEmail "" ;
+    mpv:ckanMaintainer "" ;
+    mpv:ckanMaintainerEmail "" ;
+    mpv:ckanTemporal "" ;
+    mpv:ckanSpatial "" ;
+    mpv:ckanAccrualPeriodicity "" ;
+.
+
