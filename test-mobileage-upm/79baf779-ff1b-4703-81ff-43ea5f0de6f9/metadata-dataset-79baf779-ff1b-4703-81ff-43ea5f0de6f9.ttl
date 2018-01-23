@@ -1,0 +1,43 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-dataset-template.ttl
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-79baf779-ff1b-4703-81ff-43ea5f0de6f9 a mpv:Dataset ;
+    dcterms:title "79baf779-ff1b-4703-81ff-43ea5f0de6f9" ;
+    dcterms:description "79baf779-ff1b-4703-81ff-43ea5f0de6f9" ;
+    dcterms:issued "2018-01-23T16:51:57"^^xsd:dateTime;
+    dcterms:modified "2018-01-23T16:51:57"^^xsd:dateTime;
+    dcterms:identifier "79baf779-ff1b-4703-81ff-43ea5f0de6f9" ;
+    dcat:keyword "" ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/> ;
+    mpv:datasetIdentifier "dataset-79baf779-ff1b-4703-81ff-43ea5f0de6f9" ;
+    mpv:ckanPackageId "bdbf8351-3763-4d63-aa94-057f066f436a" ;
+    mpv:ckanPackageName "79baf779-ff1b-4703-81ff-43ea5f0de6f9" ;
+    mpv:ckanSource "";
+    mpv:ckanVersion "" ;
+    mpv:ckanAuthor "" ;
+    mpv:ckanAuthorEmail "" ;
+    mpv:ckanMaintainer "" ;
+    mpv:ckanMaintainerEmail "" ;
+    mpv:ckanTemporal "" ;
+    mpv:ckanSpatial "" ;
+    mpv:ckanAccrualPeriodicity "" ;
+.
+
