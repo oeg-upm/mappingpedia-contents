@@ -1,0 +1,43 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-dataset-template.ttl
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-bd56950e-a887-4c08-98bf-f1365922f939 a mpv:Dataset ;
+    dcterms:title "bd56950e-a887-4c08-98bf-f1365922f939" ;
+    dcterms:description "bd56950e-a887-4c08-98bf-f1365922f939" ;
+    dcterms:issued "2018-01-25T10:21:16"^^xsd:dateTime;
+    dcterms:modified "2018-01-25T10:21:16"^^xsd:dateTime;
+    dcterms:identifier "bd56950e-a887-4c08-98bf-f1365922f939" ;
+    dcat:keyword "" ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/> ;
+    mpv:datasetIdentifier "dataset-bd56950e-a887-4c08-98bf-f1365922f939" ;
+    mpv:ckanPackageId "92829389-618a-4550-ab10-9a6b658e80a4" ;
+    mpv:ckanPackageName "bd56950e-a887-4c08-98bf-f1365922f939" ;
+    mpv:ckanSource "";
+    mpv:ckanVersion "1.0" ;
+    mpv:ckanAuthor "" ;
+    mpv:ckanAuthorEmail "" ;
+    mpv:ckanMaintainer "" ;
+    mpv:ckanMaintainerEmail "" ;
+    mpv:ckanTemporal "" ;
+    mpv:ckanSpatial "" ;
+    mpv:ckanAccrualPeriodicity "" ;
+.
+
