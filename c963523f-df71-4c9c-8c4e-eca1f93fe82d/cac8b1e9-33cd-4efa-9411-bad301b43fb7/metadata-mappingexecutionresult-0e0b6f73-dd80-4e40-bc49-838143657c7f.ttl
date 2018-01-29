@@ -1,0 +1,42 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-mappingexecutionresult-template.ttl
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-0e0b6f73-dd80-4e40-bc49-838143657c7f a mpv:MappingExecutionResultEntity ;
+    mpv:mappingExecutionResultIdentifier "mappingExecutionResult-0e0b6f73-dd80-4e40-bc49-838143657c7f" ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/executions/c963523f-df71-4c9c-8c4e-eca1f93fe82d/cac8b1e9-33cd-4efa-9411-bad301b43fb7/0ea78456-bee1-430d-affa-70f5e427e5e5/37fd7d92-90b5-4bce-8fcf-0b15a4ff5583.txt> ;
+    dcterms:identifier "0e0b6f73-dd80-4e40-bc49-838143657c7f" ;
+    dcterms:title "" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com/oeg-upm/morph-rdb/master/morph-examples/examples-csv/example1-mapping-csv.ttl" ;
+    dcterms:issued "2018-01-29T16:16:57"^^xsd:dateTime;
+    dcterms:modified "2018-01-29T16:16:57"^^xsd:dateTime;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom <https://raw.githubusercontent.com/oeg-upm/morph-rdb/master/morph-examples/examples-csv/Student.csv> ;
+    prov:hadPrimarySource mpimd:mappingDocument-0ea78456-bee1-430d-affa-70f5e427e5e5 ;
+    mpv:hasMappingDocumentSHA "-1929285091" ;
+    mpv:hasDatasetDistributionSHA "-2059189283" ;
+.
+
+#mpids:dataset-$datasetID void:subset mpids:dataset-$subsetID .
+
