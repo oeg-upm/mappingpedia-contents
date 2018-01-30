@@ -1,0 +1,42 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-mappingexecutionresult-template.ttl
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-20b2c91a-18e0-4017-943e-3187b730a861 a mpv:MappingExecutionResultEntity ;
+    mpv:mappingExecutionResultIdentifier "mappingExecutionResult-20b2c91a-18e0-4017-943e-3187b730a861" ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/executions/test-mobileage-upm/f418ab03-f0a4-4b5e-99b9-ea8bbafc7dd4/f2696a83-a706-4c77-9f48-5d28c96fa4ab/eddac175-9c02-420d-858e-3cfe7c57f7f3.txt> ;
+    dcterms:identifier "20b2c91a-18e0-4017-943e-3187b730a861" ;
+    dcterms:title "" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com/oeg-upm/morph-rdb/master/morph-examples/examples-csv/example1-mapping-csv.ttl" ;
+    dcterms:issued "2018-01-30T12:02:09"^^xsd:dateTime;
+    dcterms:modified "2018-01-30T12:02:09"^^xsd:dateTime;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom <> ;
+    prov:hadPrimarySource mpimd:mappingDocument-f2696a83-a706-4c77-9f48-5d28c96fa4ab ;
+    mpv:hasMappingDocumentSHA "-540518179" ;
+    mpv:hasDatasetDistributionSHA "" ;
+.
+
+#mpids:dataset-$datasetID void:subset mpids:dataset-$subsetID .
+
