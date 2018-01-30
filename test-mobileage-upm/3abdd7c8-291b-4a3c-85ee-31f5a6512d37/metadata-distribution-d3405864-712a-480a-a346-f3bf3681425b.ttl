@@ -1,0 +1,35 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-3abdd7c8-291b-4a3c-85ee-31f5a6512d37 dcat:distribution mpidd:distribution-d3405864-712a-480a-a346-f3bf3681425b .
+
+mpidd:distribution-d3405864-712a-480a-a346-f3bf3681425b a dcat:Distribution;
+    dcterms:identifier "d3405864-712a-480a-a346-f3bf3681425b" ;
+    mpv:ckanResourceId "ab92790c-32b2-4514-abdb-d2ab007fb7e7" ;
+    dcterms:title "d3405864-712a-480a-a346-f3bf3681425b" ;
+    dcterms:description "d3405864-712a-480a-a346-f3bf3681425b" ;
+    dcterms:issued "2018-01-30T11:08:08"^^xsd:dateTime;
+    dcterms:modified "2018-01-30T11:08:08"^^xsd:dateTime;
+    dcat:accessURL <https://raw.githubusercontent.com/oeg-upm/morph-rdb/master/morph-examples/examples-csv/Student.csv> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/morph-rdb/master/morph-examples/examples-csv/Student.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "ea424fc23fa80910392bd12f9abeb8f17ae0702f" ;
+.
+
