@@ -1,0 +1,35 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-3abdd7c8-291b-4a3c-85ee-31f5a6512d37 dcat:distribution mpidd:distribution-120157d7-c804-46b4-ad78-538998bf859d .
+
+mpidd:distribution-120157d7-c804-46b4-ad78-538998bf859d a dcat:Distribution;
+    dcterms:identifier "120157d7-c804-46b4-ad78-538998bf859d" ;
+    mpv:ckanResourceId "479ac9a6-82e7-498b-85db-541b56ea74de" ;
+    dcterms:title "120157d7-c804-46b4-ad78-538998bf859d" ;
+    dcterms:description "120157d7-c804-46b4-ad78-538998bf859d" ;
+    dcterms:issued "2018-01-30T12:08:46"^^xsd:dateTime;
+    dcterms:modified "2018-01-30T12:08:46"^^xsd:dateTime;
+    dcat:accessURL <https://raw.githubusercontent.com/oeg-upm/morph-rdb/master/morph-examples/examples-csv/Sport.csv> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/morph-rdb/master/morph-examples/examples-csv/Sport.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:sha "6a1d13aebb954ba212386581a155378f1262e743" ;
+.
+
