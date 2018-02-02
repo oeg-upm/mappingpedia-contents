@@ -1,0 +1,43 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+#metadata-dataset-template.ttl
+
+mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-d295d0de-2260-4c1c-a450-6a9a07319896 a mpv:Dataset ;
+    dcterms:title "d295d0de-2260-4c1c-a450-6a9a07319896" ;
+    dcterms:description "d295d0de-2260-4c1c-a450-6a9a07319896" ;
+    dcterms:issued "2018-02-02T15:12:12"^^xsd:dateTime;
+    dcterms:modified "2018-02-02T15:12:12"^^xsd:dateTime;
+    dcterms:identifier "d295d0de-2260-4c1c-a450-6a9a07319896" ;
+    dcat:keyword "" ;
+    dcterms:language <> ;
+    mpv:datasetIdentifier "dataset-d295d0de-2260-4c1c-a450-6a9a07319896" ;
+    mpv:ckanPackageId "16757e33-c4b4-453e-9021-d8cd147fecd5" ;
+    mpv:ckanPackageName "d295d0de-2260-4c1c-a450-6a9a07319896" ;
+    mpv:ckanSource "";
+    mpv:ckanVersion "" ;
+    mpv:ckanAuthor "" ;
+    mpv:ckanAuthorEmail "" ;
+    mpv:ckanMaintainer "" ;
+    mpv:ckanMaintainerEmail "" ;
+    mpv:ckanTemporal "" ;
+    mpv:ckanSpatial "" ;
+    mpv:ckanAccrualPeriodicity "" ;
+.
+
