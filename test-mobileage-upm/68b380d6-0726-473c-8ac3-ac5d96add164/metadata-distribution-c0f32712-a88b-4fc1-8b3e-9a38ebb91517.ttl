@@ -1,0 +1,37 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-68b380d6-0726-473c-8ac3-ac5d96add164 dcat:distribution mpidd:distribution-c0f32712-a88b-4fc1-8b3e-9a38ebb91517 .
+
+mpidd:distribution-c0f32712-a88b-4fc1-8b3e-9a38ebb91517 a dcat:Distribution;
+    dcterms:identifier "c0f32712-a88b-4fc1-8b3e-9a38ebb91517" ;
+    mpv:ckanResourceId "e0fa635d-e7bb-44df-8249-170e21c3c4f7" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 68b380d6-0726-473c-8ac3-ac5d96add164" ;
+    dcterms:issued "2018-02-06T17:04:10"^^xsd:dateTime;
+    dcterms:modified "2018-02-06T17:04:10"^^xsd:dateTime;
+    dcat:accessURL <> ;
+    dcat:downloadURL <https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "" ;
+.
+
