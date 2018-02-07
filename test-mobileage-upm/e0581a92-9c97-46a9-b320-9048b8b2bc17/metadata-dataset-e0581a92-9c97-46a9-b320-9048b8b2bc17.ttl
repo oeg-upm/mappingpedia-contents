@@ -1,0 +1,56 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-dataset-template.ttl
+
+#mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-e0581a92-9c97-46a9-b320-9048b8b2bc17 a mpv:Dataset ;
+    dcat:publisher mpip:test-mobileage-upm ;
+    dcterms:title "Test Dataset of Historial Buildings  in Zaragoza" ;
+    dcterms:description "This dataset contains a list of historical buildings in the city of Zaragoza" ;
+    dcterms:issued "2018-02-07T12:15:32"^^xsd:dateTime;
+    dcterms:modified "2018-02-07T12:15:32"^^xsd:dateTime;
+    dcterms:identifier "e0581a92-9c97-46a9-b320-9048b8b2bc17" ;
+    dcat:keyword "ZGZ" ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/es> ;
+    dct:accessRight "" ;
+    dct:provenance "" ;
+    mpv:datasetIdentifier "dataset-e0581a92-9c97-46a9-b320-9048b8b2bc17" ;
+    mpv:ckanPackageId "" ;
+    mpv:ckanPackageName "" ;
+    dct:source "http://www.zaragoza.es/api/recurso/turismo/edificio-historico.csv";
+    owl:versionInfo "1.1" ;
+    dct:hasVersion "1.1" ;
+    mpv:ckanAuthor "Zaragoza Author" ;
+    mpv:ckanAuthorEmail "author.zaragoza@example.com" ;
+    mpv:ckanMaintainer "Zaragoza Maintainer" ;
+    mpv:ckanMaintainerEmail "maintainer.zaragoza@example.com" ;
+    dct:temporal "TemporalValue" ;
+    dct:spatial "SpatialValue" ;
+    dct:ckanAccrualPeriodicity "AccrualPeriodicityValue" ;
+    prov:wasAttributedTo <>;
+    prov:wasGeneratedBy <>;
+    prov:wasDerivedFrom <>;
+    prov:specializationOf <>;
+    prov:hadPrimarySource <>;
+    prov:wasRevisionOf <>;
+    prov:wasInfluencedBy <>;
+.
+
