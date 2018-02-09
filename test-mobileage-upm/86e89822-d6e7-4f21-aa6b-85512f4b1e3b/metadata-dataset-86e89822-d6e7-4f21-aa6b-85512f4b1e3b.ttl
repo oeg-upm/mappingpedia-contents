@@ -1,0 +1,57 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-dataset-template.ttl
+
+#mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-86e89822-d6e7-4f21-aa6b-85512f4b1e3b a mpv:Dataset ;
+    dcat:publisher mpip:test-mobileage-upm ;
+    dcterms:title "86e89822-d6e7-4f21-aa6b-85512f4b1e3b" ;
+    dcterms:description "86e89822-d6e7-4f21-aa6b-85512f4b1e3b" ;
+    dcterms:issued "2018-02-09T10:57:13"^^xsd:dateTime;
+    dcterms:modified "2018-02-09T10:57:13"^^xsd:dateTime;
+    dcterms:identifier "86e89822-d6e7-4f21-aa6b-85512f4b1e3b" ;
+    dcat:keyword "Keyword1, Keyword2" ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/es> ;
+    dct:accessRight "" ;
+    dct:provenance "" ;
+    mpv:datasetIdentifier "dataset-86e89822-d6e7-4f21-aa6b-85512f4b1e3b" ;
+    mpv:ckanPackageId "09fb932d-0908-49f9-8967-c283f4b544ff" ;
+    mpv:ckanPackageName "86e89822-d6e7-4f21-aa6b-85512f4b1e3b" ;
+    mpv:ckanPackageLicense "Some License" ;
+    dct:source "https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/source";
+    owl:versionInfo "1.0" ;
+    dct:hasVersion "1.0" ;
+    mpv:ckanAuthor "Victor" ;
+    mpv:ckanAuthorEmail "victor@zaragoza.es" ;
+    mpv:ckanMaintainer "Laura" ;
+    mpv:ckanMaintainerEmail "laura@zaragoza.es" ;
+    dct:temporal "Some Temporal Information" ;
+    dct:spatial "Some Spatial Information" ;
+    dct:ckanAccrualPeriodicity "weekly" ;
+    prov:wasAttributedTo <https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/was_attributed_to>;
+    prov:wasGeneratedBy <https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/was_generated_by>;
+    prov:wasDerivedFrom <https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/was_derived_from>;
+    prov:specializationOf <https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/specialization_of>;
+    prov:hadPrimarySource <https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/had_primary_source>;
+    prov:wasRevisionOf <https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/was_revision_of>;
+    prov:wasInfluencedBy <https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/was_influenced_by>;
+.
+
