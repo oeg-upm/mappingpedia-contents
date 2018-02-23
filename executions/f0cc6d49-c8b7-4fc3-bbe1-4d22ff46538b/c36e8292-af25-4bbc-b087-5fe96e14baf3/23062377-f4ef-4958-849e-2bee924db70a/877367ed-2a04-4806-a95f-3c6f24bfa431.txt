@@ -1,0 +1,381 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20149> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Apartamentos para personas mayores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20155> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Balcon del Pilar Residencia de ancianos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2115> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Casa Amparo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10454> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Casa Familiar Nª Sª de los Ángeles" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20058> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Casa familiar Nuestra Señora de los Angeles" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20059> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Casa familiar San Vicente dePaúl" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10455> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Caser Residencial Ruiseñores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20060> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro de atención integral. Fundación esclerosis múltiple Aragón (FADEMA)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12559> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro de educación e internamiento por medida judicial" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12561> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro de menores y residencias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20225> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Gerontológico CAIOZANAM Oliver" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10494> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial ASPACE" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10489> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Atades - Santo Angel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10490> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Benito Ardid" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10493> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial C.A.M.P. (IASS)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10491> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Cedes (Fund. C.Fdez. Cespe)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20161> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro residencial Hernán Cortés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10495> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Integra Aragón (Asociación)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10492> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Los Pueyos (Asociación)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20162> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Torre del Ángel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10456> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Social El Eden, S. L." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10457> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Social Virgen del Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20150> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "DGA Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10488> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Fundación Tobías" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20141> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar de la tercera edad San Jose de Calasanz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10497> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Boterón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10498> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Casetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10499> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10500> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Las Fuentes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10501> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Luis Aula" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10502> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Picarral" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10503> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores San Blas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10504> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Valdefierro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10478> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Neuropsiquiátrico del Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12568> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Piso de carpi" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20151> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Adomi" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20152> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Aguadulce" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20153> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Ángela" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20154> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Azaleas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20156> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Betania" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20157> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Bretón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20158> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Burdeos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20235> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia CAIAFEDA Virgen del Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20160> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Casa Palacio Palafox" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20163> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Claveria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20164> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Cogullada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20165> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Conde Aranda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20166> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Corona" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20226> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Corona de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20204> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia de ancianos Juslibol" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20167> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Diana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20168> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Edad de Oro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20062> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia El Cariño" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20169> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia El Castellar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20170> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia El Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20171> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia El Ruiseñor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20172> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Encarnación" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20173> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Eva y Pedro I y II" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20174> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Gayarre" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20175> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Goya I" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20177> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Gran Vía" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20178> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Hernán Cortés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20179> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Hiedra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11434> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Hijas de María Auxiliadora" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20180> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Hogar de Darío" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11436> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia I.F.P.E. de Movera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20063> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia II de discapacitados" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20181> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Iris" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20182> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Jesús y María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11435> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Juvenil Baltasar Gracián" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20185> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia La Cadiera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20227> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia La Inmaculada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20186> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia La Paz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20064> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia La Purísima" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20187> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia la Rosaleda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20188> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Las Buganvillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20205> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Las Nieves" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20189> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Las Palmeras" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20190> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Las Rosas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20191> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Las Terrazas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20192> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Luz de María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20228> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Madre María Pilar Izquierdo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11437> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia María Inmaculada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11431> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia María Reina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20193> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Mater" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20194> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Mazaruba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20229> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Misioneras Nuestra Señora del Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20231> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia neuropsiquiátrico Nuestra Señora del Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20196> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Noreales" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20197> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora de la Luz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20198> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora del Alba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20232> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora del Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11438> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora del Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20233> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora del Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20234> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora del Portillo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10485> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Discapacitados Físicos APAC - C. Actur-II" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10486> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Discapacitados Físicos D.F.A. - C.Resid. Pomarón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12569> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para jóvenes Religiosas Adoratrices" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10450> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Antonio Saura" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10451> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Ballesol Zaragoza I" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10452> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Ballesol Zaragoza II" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10453> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Ballesol Zaragoza III" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10467> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Delicias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10480> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores El Eden, S. L." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10476> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Entreálamos, S. L." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10459> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores FIIS - Rey Fernando de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10460> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores La Magdalena (F. Ozanam)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10461> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Las Fuentes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10477> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Los Pinos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10462> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Madre de Dios Begoña" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10463> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Marboré" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10482> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Misioneras Nª Sª del Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10481> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Movera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10483> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Nª Sª del Alba, S. L." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10464> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Nª Sª del Carmen (F.Ozanam)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10465> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Parque Dorado II" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10466> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Parque Dorado III" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10479> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Patronato Goya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10468> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Reyes de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10469> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Romareda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10470> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores San Eugenio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10471> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Sanistel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10484> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Santa Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10472> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Santa Teresa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10473> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores SAR Fontibre" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10474> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores SAR Zalfonada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10475> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Virgen del Carmen (Afedaz)" .
