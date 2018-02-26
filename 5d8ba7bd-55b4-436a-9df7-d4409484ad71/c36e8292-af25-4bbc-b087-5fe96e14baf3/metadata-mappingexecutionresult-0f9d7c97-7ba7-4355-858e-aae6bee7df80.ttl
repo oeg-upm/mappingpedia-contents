@@ -1,0 +1,44 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-mappingexecutionresult-template.ttl
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-0f9d7c97-7ba7-4355-858e-aae6bee7df80 a mpv:MappingExecutionResultEntity ;
+    mpv:mappingExecutionResultIdentifier "mappingExecutionResult-0f9d7c97-7ba7-4355-858e-aae6bee7df80" ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/executions/5d8ba7bd-55b4-436a-9df7-d4409484ad71/c36e8292-af25-4bbc-b087-5fe96e14baf3/23062377-f4ef-4958-849e-2bee924db70a/9a483827-4c53-49b0-a43f-eecc39688c84.txt> ;
+    dcterms:identifier "0f9d7c97-7ba7-4355-858e-aae6bee7df80" ;
+    dcterms:title "" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/2cc474a3-d0d6-407d-96ae-2cbf10f42e4c/ecd7ebce-38de-4200-97fd-9a5d47901b87/LXDNOSWALN.rml.ttl" ;
+    dcterms:issued "2018-02-26T16:52:17"^^xsd:dateTime;
+    dcterms:modified "2018-02-26T16:52:17"^^xsd:dateTime;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom mpids:dataset-c36e8292-af25-4bbc-b087-5fe96e14baf3 ;
+    prov:hadPrimarySource mpimd:mappingDocument-23062377-f4ef-4958-849e-2bee924db70a ;
+    mpv:hasMappingDocumentHash "1166559576" ;
+    mpv:hasDatasetDistributionHash "-663054566" ;
+.
+
+#mpids:dataset-c36e8292-af25-4bbc-b087-5fe96e14baf3 void:subset mpids:dataset-$subsetID .
+
