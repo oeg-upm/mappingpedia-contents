@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-ccba439e-0742-4bc3-a886-fff0db80e675 dcat:distribution mpidd:distribution-81b81e90-f9f1-4511-b6b5-a2ec6e6c21d4 .
+
+mpidd:distribution-81b81e90-f9f1-4511-b6b5-a2ec6e6c21d4 a dcat:Distribution;
+    dcterms:identifier "81b81e90-f9f1-4511-b6b5-a2ec6e6c21d4" ;
+    mpv:ckanResourceId "aca3ae7e-3ad9-459e-b8b9-2fb79ce4dff5" ;
+    dcterms:title "81b81e90-f9f1-4511-b6b5-a2ec6e6c21d4" ;
+    dcterms:description "Distribution of Dataset ccba439e-0742-4bc3-a886-fff0db80e675" ;
+    dcterms:issued "2018-02-27T12:19:46"^^xsd:dateTime;
+    dcterms:modified "2018-02-27T12:19:46"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/d26a5034-93a3-4c6f-98b1-8df45b0f10ec/ccba439e-0742-4bc3-a886-fff0db80e675/farmacia.csv?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/d26a5034-93a3-4c6f-98b1-8df45b0f10ec/ccba439e-0742-4bc3-a886-fff0db80e675/farmacia.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "-515601574" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
