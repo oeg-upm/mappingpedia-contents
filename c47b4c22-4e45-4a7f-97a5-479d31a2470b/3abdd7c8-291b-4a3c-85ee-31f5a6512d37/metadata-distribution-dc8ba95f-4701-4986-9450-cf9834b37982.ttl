@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-3abdd7c8-291b-4a3c-85ee-31f5a6512d37 dcat:distribution mpidd:distribution-dc8ba95f-4701-4986-9450-cf9834b37982 .
+
+mpidd:distribution-dc8ba95f-4701-4986-9450-cf9834b37982 a dcat:Distribution;
+    dcterms:identifier "dc8ba95f-4701-4986-9450-cf9834b37982" ;
+    mpv:ckanResourceId "cd3cf733-2503-40ca-a5a6-7c1318ba8db3" ;
+    dcterms:title "dc8ba95f-4701-4986-9450-cf9834b37982" ;
+    dcterms:description "Distribution of Dataset 3abdd7c8-291b-4a3c-85ee-31f5a6512d37" ;
+    dcterms:issued "2018-02-27T12:44:36"^^xsd:dateTime;
+    dcterms:modified "2018-02-27T12:44:36"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/2fb5725d-10b9-4d16-a149-f2e5f276bafa/resource/cd3cf733-2503-40ca-a5a6-7c1318ba8db3> ;
+    dcat:downloadURL <http://83.212.100.226/ckan/dataset/2fb5725d-10b9-4d16-a149-f2e5f276bafa/resource/cd3cf733-2503-40ca-a5a6-7c1318ba8db3/download/farmacia.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "-515601574" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
