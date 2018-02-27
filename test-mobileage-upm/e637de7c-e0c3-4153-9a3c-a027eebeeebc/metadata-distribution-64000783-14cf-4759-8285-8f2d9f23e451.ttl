@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-e637de7c-e0c3-4153-9a3c-a027eebeeebc dcat:distribution mpidd:distribution-64000783-14cf-4759-8285-8f2d9f23e451 .
+
+mpidd:distribution-64000783-14cf-4759-8285-8f2d9f23e451 a dcat:Distribution;
+    dcterms:identifier "64000783-14cf-4759-8285-8f2d9f23e451" ;
+    mpv:ckanResourceId "a582b07f-1594-4411-8aaf-9d4802146a6a" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset e637de7c-e0c3-4153-9a3c-a027eebeeebc" ;
+    dcterms:issued "2018-02-27T12:18:03"^^xsd:dateTime;
+    dcterms:modified "2018-02-27T12:18:03"^^xsd:dateTime;
+    dcat:accessURL <https://api.github.com/repos/oeg-upm/mappingpedia-contents/contents/test-mobileage-upm/e637de7c-e0c3-4153-9a3c-a027eebeeebc/edificio-historico.csv?ref=master> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/test-mobileage-upm/e637de7c-e0c3-4153-9a3c-a027eebeeebc/edificio-historico.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "192688313" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
