@@ -1,0 +1,1409 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8666> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Abad Sancho, Ana Maria" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976552907}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8897> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Adiego Cañellas, Alberto" ;
+	<http://schema.org/openingHours> "Lunes a Domingo de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976333894}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20444> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Adiego Cañellas, Javier" ;
+	<http://schema.org/openingHours> "Lunes a Domingo de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976934285 188}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8667> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aguilar Domínguez, María Teresa" ;
+	<http://schema.org/telephone> "{tel=976275401}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8973> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aguilar Teixeira, Elena María" ;
+	<http://schema.org/telephone> "{tel=976573191}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8964> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ainsa Sal del Río, Patricia" ;
+	<http://schema.org/telephone> "{tel=976500281}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8668> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alcañiz Sancho, Soledad Celeste" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976755869}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8965> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alcazar Rodriguez, Teresa" ;
+	<http://schema.org/telephone> "{tel=976586467}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8669> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alfonso Alfonso, Marciano" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976552276}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8670> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alfonso Muniesa Alfonso Collado" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976220290}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8699> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Allende Bandres, Manuel" ;
+	<http://schema.org/telephone> "{tel=976516278}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8671> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Allue Bellosta, María Luisa" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976345650}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8672> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Almarcegui Ballesta, María Teresa" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976427842}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9014> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Almazan Gil, Francisco" ;
+	<http://schema.org/telephone> "{tel=976974300}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8674> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alonso Jiménez, María Piedad" ;
+	<http://schema.org/telephone> "{tel=976517598}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20445> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alonso-Buron Llamazares, Carmen" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=876244753 189}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8675> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alquezar Ballano Alquezar Ballano" ;
+	<http://schema.org/telephone> "{tel=976354815}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8676> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alquezar Montañés, Miguel" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976274078}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8678> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Amigot Polo, Isabel" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976564720}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20448> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Andrés Ferrandiz, Juan-Miguel" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976307517 191}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8679> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Andrés Magallón, Santiago" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976332929-976347759}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8680> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Andreu Fauquet, Esperanza" ;
+	<http://schema.org/telephone> "{tel=976439709}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8681> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Andreu Puyal, Julia Margarita" ;
+	<http://schema.org/telephone> "{tel=976443372}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8682> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ansuategui Muzas, Federico Jaime" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976296680}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8875> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aranda Ortega, Mª Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976239797}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8840> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Arbones Mainar, Ana-Clara" ;
+	<http://schema.org/telephone> "{tel=976313734}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8739> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Arevalo García, Juan Luis" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976276658}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8685> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Arias Santafé, Carlos" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976372827}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8686> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Arruti Guerrero, Lorea" ;
+	<http://schema.org/telephone> "{tel=976523258}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8736> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Artal Cirugeda, Miguel" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976335299}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8860> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Artal Lerín, Ana Cristina" ;
+	<http://schema.org/openingHours> "Lunes a Domingo 24 horas" ;
+	<http://schema.org/telephone> "{tel=976226203}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8688> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Artal Lerín, Maria Inmaculada" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976331242}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8687> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Artal Lerin, Miguel Ángel" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976298716}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8689> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Asensi Serrano, Rosa María" ;
+	<http://schema.org/telephone> "{tel=976523864}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8690> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Auba Estremera, María Pilar" ;
+	<http://schema.org/telephone> "{tel=976299143}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8691> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Augusto Hernandez, Angel Jose" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976333598}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8693> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Azagra Garde, Maria" ;
+	<http://schema.org/telephone> "{tel=976475479}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8694> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aznar Aznar, Raquel Visitación" ;
+	<http://schema.org/telephone> "{tel=976285411}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8695> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aznar Doblado, Irene Natividad" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976213469}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8696> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aznar Olivan, María Paz" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976282344}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8698> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aznarez Callave, María Isabel" ;
+	<http://schema.org/telephone> "{tel=976236235}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8700> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bandrés Alayeto Bara Bandrés" ;
+	<http://schema.org/telephone> "{tel=976435371}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8701> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bara Bandrés, Ana María" ;
+	<http://schema.org/telephone> "{tel=976334181}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8702> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Barquero De Val, María Paz" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976441482}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8703> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Barrau Diaus, Pablo Francisco" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976222864}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8704> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Basaldua Ezquerra, María" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976211945}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8733> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Baselga Zorraquino, Mª Luisa" ;
+	<http://schema.org/telephone> "{tel=976550470}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8705> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Beamonte Rico, Luis" ;
+	<http://schema.org/telephone> "{tel=976330833}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8706> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bermejo Ramos, Daria" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976342059}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8707> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Berni Bentura, Jesús" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976417439}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8708> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Betore Gallizo, Sara" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976597869}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8709> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Blas Bernad, Luis Ignacio" ;
+	<http://schema.org/telephone> "{tel=976439174}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8711> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Blasco Torrijo, María Carmen" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976429849}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8712> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bolsa Calvo, María Elena" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976274443}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8713> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bonafonte Zaragozano Bonafonte Jimeno" ;
+	<http://schema.org/telephone> "{tel=976431040}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8730> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Borau Jordan, Arturo" ;
+	<http://schema.org/openingHours> "Lunes a Domingo de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976224140}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8714> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bosqued Lacambra, Pedro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8715> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Brito Cáceres, Gloria María" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976424887}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8716> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bueno Gastón, Antonio" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976272285}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8718> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Burillo Camarero, María Dolores" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976331378}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8719> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Caballero Bueno, Araceli" ;
+	<http://schema.org/telephone> "{tel=976340057}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8720> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Cabrerizo Abad, Sonia" ;
+	<http://schema.org/telephone> "{tel=976414607}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8721> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Calonge Delso, María Pilar" ;
+	<http://schema.org/telephone> "{tel=976371844}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8969> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Calvete Cavero, Cristina" ;
+	<http://schema.org/telephone> "{tel=976512952}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8722> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Calvo Esponera, María Dolores" ;
+	<http://schema.org/telephone> "{tel=976233496}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8737> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Caravaca Cisneros, Beatriz" ;
+	<http://schema.org/telephone> "{tel=976511429}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8725> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Casafranca Sada, Juan José" ;
+	<http://schema.org/telephone> "{tel=976527186}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8726> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Casamayor Lalana Ruiz Álvarez" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976272496}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8727> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Casao Pérez, María Ángeles" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976222441}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8728> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Casas Reig, Enrique" ;
+	<http://schema.org/telephone> "{tel=976473434}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8729> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Castañer Miravete, Carmen" ;
+	<http://schema.org/telephone> "{tel=976291265}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8731> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Castells Pellicer, Ascensión" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976332037}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20443> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Castillo Lueña, Sofía-Antonia" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976935259 188}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8732> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Castillo Tejada, Margarita" ;
+	<http://schema.org/telephone> "{tel=976472345}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8734> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Checa Poves, María Asunción" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976417624}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28138> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Claver Villuendas- Claver Calvete" ;
+	<http://schema.org/openingHours> "Lunes a Domingo de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=876632463}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8741> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Clavería Cintora, María-Isabel" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976320646}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8966> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Clavería Esponera, Mercedes" ;
+	<http://schema.org/telephone> "{tel=976771937}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8738> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Clavería Morant, Luisa María" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976541089}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8742> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Colas Izquierdo, Ana" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976737874}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8743> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Concha Longas, Rosendo José" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976330237}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8744> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Cortázar Rodríguez, Borja" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976427065}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8745> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia De Gregorio Llera, Ciro Manuel" ;
+	<http://schema.org/telephone> "{tel=976736723}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8746> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia De La Figuera De Yturralde, Cristina" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976331193}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8747> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia De Miguel Golvano, Cristóbal" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976220481}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8748> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Delso Ramo, María Jesús" ;
+	<http://schema.org/telephone> "{tel=976437827}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20447> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Díaz Muñoz, María-Juliana" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976951320 188}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8749> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Diez Villarroel, Maria Luisa" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976412770}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8750> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Domingo Lizama, María Isabel" ;
+	<http://schema.org/telephone> "{tel=976275567}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8752> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Echarri Eraso, Milagros" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976333846}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8753> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Echevarria Montoto, Manuel Eduardo" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976428147}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8755> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Escorihuela Laborda, Maria Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976736108}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8757> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Espuelas Millan, Jesus Maria" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976293866}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8758> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Espuny Tobar, Mª Lurdes" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976552580}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8759> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Espuny Tobar, Maria Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976550441}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8760> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ester González Ester Aisa" ;
+	<http://schema.org/telephone> "{tel=976332646}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8761> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ezquerra Inaraja Ezquerra Inaraja" ;
+	<http://schema.org/telephone> "{tel=976279799}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8762> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ezquerra Pérez, Luis" ;
+	<http://schema.org/telephone> "{tel=976529465}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8763> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Faci Lérida, Margarita" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976236020}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8764> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Feliu Boneta, Ignacio Javier" ;
+	<http://schema.org/openingHours> "TODOS LOS DIAS HASTA 21:30 H CIERRE MEDIO DIA (de 9:30 a 13:30 y de 16:30 a 21:30 h.(junio, julio, agosto de 9:15 a 13:45 y de 17:00 a 21:30 h.)" ;
+	<http://schema.org/telephone> "{tel=976416478}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8765> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Feliu Boneta-Boneta Garrido" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976214320}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8767> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ferrandez Martínez, Moisés" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976270929}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8768> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ferrandez Martínez, Natividad" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976330171}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8769> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Frago Del Campo, Cristina" ;
+	<http://schema.org/telephone> "{tel=976471068}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8962> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Francia Millán, María Pilar" ;
+	<http://schema.org/telephone> "{tel=976572823}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8770> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Frej Tirapo, María Pilar" ;
+	<http://schema.org/telephone> "{tel=976226941}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8771> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Funcia Echegoyen, Berta" ;
+	<http://schema.org/telephone> "{tel=976439703}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8772> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Galban Bernal, Cristina" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976225453}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8773> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Galban Bernal, José" ;
+	<http://schema.org/telephone> "{tel=976442639}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8710> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Galdamez Castillo - Blasco Nogués" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976413781-976413091}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8774> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gallego Richard, María Carmen" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976410517}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8936> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Garcés Trillo, José" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976750757}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8775> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García Cirugeda, Concepción" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976552746}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8776> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García De Parada Sancho, Carmen" ;
+	<http://schema.org/telephone> "{tel=976221365}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8777> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García García, Alejandro" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976420511}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20446> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García Pérez, María-Sagrario" ;
+	<http://schema.org/telephone> "{tel=976334068 190}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8778> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García Solans, José Ramón" ;
+	<http://schema.org/telephone> "{tel=976344586}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8779> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García Villanueva García Franco" ;
+	<http://schema.org/telephone> "{tel=976377270}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8781> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Garcia-Vela Grau, Maria" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976755531}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8782> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Garijo Barselo, María Victoria" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976256216}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8884> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Garrido Calvo, Maria-Carmen" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976340236}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8783> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gasco Lagunas, Ana María" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976229947}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8785> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gaudo Barba, Elena Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976320904}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8787> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gil de Miguel, Ignacio" ;
+	<http://schema.org/telephone> "{tel=976272952}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8786> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gil Hernández, María Amparo" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976755896}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8788> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gimeno Barranco, Juan Carlos" ;
+	<http://schema.org/telephone> "{tel=976351455}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8849> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gimeno Mateo, Marta-María" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976275370}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8789> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gimeno Pardo, José Jaime" ;
+	<http://schema.org/telephone> "{tel=976514528}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8790> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gispert Escorihuela, Emma" ;
+	<http://schema.org/telephone> "{tel=976431791}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8754> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gispert Escorihuela, María Pilar" ;
+	<http://schema.org/telephone> "{tel=976431305}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8947> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gómez Tabuenca, Amaya" ;
+	<http://schema.org/telephone> "{tel=976514382}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8791> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia González De Echavarri Díaz, Victoria" ;
+	<http://schema.org/telephone> "{tel=976551408}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8792> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gonzalez Muniesa, Maria Mercedes" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976377536}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8793> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia González Rodríguez, Jesús Javier" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976550559}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8795> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Goyeneche San Vicente, Maria Pilar" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976428795}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8796> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gracia Valen, María Victoria" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976530065}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8798> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Guallar Guallar, Cristina" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976417687}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8799> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gutierrez Garcia, Maria Pilar" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976333394}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8800> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hernández Aguado, María Ángeles" ;
+	<http://schema.org/telephone> "{tel=976516113}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8801> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hernández Barrutia, Carlos" ;
+	<http://schema.org/openingHours> "Lunes a Domingo 24 horas" ;
+	<http://schema.org/telephone> "{tel=976338069}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20738> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hernández Pastor, Ignacio" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976562176}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8802> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hernández Vitoria, Luis" ;
+	<http://schema.org/telephone> "{tel=976978143}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8803> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hernando Lleyda, Marina" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976220595}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8804> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hormigos Pérez, Inmaculada" ;
+	<http://schema.org/telephone> "{tel=976299903}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8805> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hornero Corisco, José" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976375843}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8806> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hornero Marín, María Luisa" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=876263080}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8807> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ibarra Benlloch, Matilde" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976753724}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8809> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Izuzquiza Montaner, Ana Rosa" ;
+	<http://schema.org/telephone> "{tel=976596456}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8810> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jiménez Alcina Herrer Tormo" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976259890}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8811> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jimenez Cisneros, Juan" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976271382}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8813> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jiménez Martin Abadía Jiménez" ;
+	<http://schema.org/telephone> "{tel=976435617}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8814> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jiménez Palomar, María Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976318653}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8815> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jimeno Arellano, Araceli" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976332990}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8816> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jordán Alva, Ramón" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976278903}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8817> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jorge Martínez, Emilio" ;
+	<http://schema.org/telephone> "{tel=976563542}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8683> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia José Luis Aranda Ortega" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976211745}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8818> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Labat Casanova, María Pilar" ;
+	<http://schema.org/telephone> "{tel=976734674}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8820> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lacalle Oreja, Elena" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976553097}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8821> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Laga Cuartero Laga Alcaine" ;
+	<http://schema.org/telephone> "{tel=976550655}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8822> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lahoz Estrada, Laura María" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976272244}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8823> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lahoz Romeo, Jesús" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976221003}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8825> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lahoz Romeo, Natividad María" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976276674}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8826> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lahoz Zamarro, María Isabel" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976331627}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8828> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Langa Pérez, María Rosario" ;
+	<http://schema.org/telephone> "{tel=976281547}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8829> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lapieza Olano Martínez López" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976430785}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8673> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Larriba Jaime, Maria Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976518520}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8830> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lasala De La Fuente, Leopoldo" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976333041}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8893> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lasmarias Palos, Inés" ;
+	<http://schema.org/telephone> "{tel=976752453}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8832> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lerma Puertas, María Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976252898}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8833> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lerma Puertas, Rafael" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976345943}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8834> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Liarte Pérez, Manuela" ;
+	<http://schema.org/telephone> "{tel=976296064}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8751> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Llorens Mira, Emilio Javier" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976557174}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8717> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lobera Bujanda, Ignacio" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976592490}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8836> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lopez Buesa, Maria Otilia" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976225563}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8837> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia López Martínez, Eduardo" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976222355}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20764> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia López Tricas, Jose Manuel" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20449> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lorca Codina, Agustín-Andrés" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976516939}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8838> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Losada Nuño, María Elena" ;
+	<http://schema.org/telephone> "{tel=976230555}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20530> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lozano Sanchez Mª Aranzazu" ;
+	<http://schema.org/telephone> "{tel=976527457}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8839> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Machín Almarcegui - Marsal Machín" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976370005}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8677> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Machín Álvarez, Montserrat" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976271508}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8841> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Maorad Gómez, Mª Dolores" ;
+	<http://schema.org/telephone> "{tel=976271991}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28139> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Maria Isabel Vicente Valor" ;
+	<http://schema.org/telephone> "{tel=976740782}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8843> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Marín Boloqui, Sara" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976340318}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20450> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Marín San Miguel, Enrique" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976513838 1}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8844> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Marquina García, Benedicta" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976230875}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8987> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Martínez Montón, María Ángeles" ;
+	<http://schema.org/telephone> "{tel=976583405}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8846> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Martínez Salazar, Alberto" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976555280}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8847> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Martinez Vera, Maria Carmen" ;
+	<http://schema.org/telephone> "{tel=976554986}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8850> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Mateos Lardies, Ana María" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976432704}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8851> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Mayo Orofino, Silvia" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976562637}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8766> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Mestre Feliu, Rafael" ;
+	<http://schema.org/telephone> "{tel=976293783}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8852> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Mestre Feliu, Susana" ;
+	<http://schema.org/telephone> "{tel=976292184}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8853> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Miravete Guiu, Luis Javier" ;
+	<http://schema.org/telephone> "{tel=976297163}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8854> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Molina Castro Molina Golbano" ;
+	<http://schema.org/telephone> "{tel=976435312}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8855> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Molina Gaudo, Rosario" ;
+	<http://schema.org/telephone> "{tel=976221393}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28172> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Monforte Gasque, Raquel" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8856> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Moral Gómez Jorge Moral" ;
+	<http://schema.org/telephone> "{tel=976439353}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8857> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Morales Balien, María Victoria" ;
+	<http://schema.org/telephone> "{tel=976471934}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8724> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Morancho Carreras-Morancho Carreras" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976552786}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8858> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Móreo Quintana, María Carmen" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976333578}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8859> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Morte Alforja - Morte Alforja" ;
+	<http://schema.org/openingHours> "Lunes a Domingo de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976332473}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8863> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Muñagorri Arregui, María Isabel" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976555117}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8861> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Muniesa Faci, María Pilar" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976411036}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8862> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Muniesa Marín, María José" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976414686}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8864> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Muñoz Alcalde, Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976377896}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8780> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Murillo García-Atance, Maria Luisa" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976273686}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20451> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Navarrete Maicas, María-Asunción" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=97632854681}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8865> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Navarro Cubells, Francisco" ;
+	<http://schema.org/telephone> "{tel=976391672}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8866> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Navarro Monte, Maria Carmen" ;
+	<http://schema.org/telephone> "{tel=976520643}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8867> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Navarro Viscasillas, Adriana" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976398676}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8868> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Notivol Tejero, Pedro Joaquín" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976513293}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8869> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Novella García, José" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976510703}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8870> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Nuño Cólera, Luis" ;
+	<http://schema.org/telephone> "{tel=976437824}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8871> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ochoa De Chinchetru Sacristán, Juana" ;
+	<http://schema.org/telephone> "{tel=976224382}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8845> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Olaria Hellin, Patricia" ;
+	<http://schema.org/openingHours> "Lunes a Domingo de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976556193}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8872> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Omedas Gamo - Moros Omedas" ;
+	<http://schema.org/telephone> "{tel=976330591}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8812> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Orive Recio, Marta" ;
+	<http://schema.org/openingHours> "Lunes a Domingo de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976223420}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8874> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ors Jarrin, Francisca" ;
+	<http://schema.org/telephone> "{tel=976423646}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8684> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ortopedia Sara Royo" ;
+	<http://schema.org/telephone> "{tel=976521038}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8963> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pallerés García, Isabel" ;
+	<http://schema.org/telephone> "{tel=976575029}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8876> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Parrado Montejo, María Pilar" ;
+	<http://schema.org/telephone> "{tel=976510951}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8877> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pascual Goizueta, María Paloma" ;
+	<http://schema.org/telephone> "{tel=976272647}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8878> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Peiro Barra, María Montserrat" ;
+	<http://schema.org/telephone> "{tel=976523978}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8879> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pérez Álvarez Pérez - Ezquerra Pérez" ;
+	<http://schema.org/telephone> "{tel=976318689}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8880> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pérez Calvo, María Josefa" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976276200-976276206}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8881> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Perez Garcia, Marina" ;
+	<http://schema.org/telephone> "{tel=976510980}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8882> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pérez Mallagray, Alicia" ;
+	<http://schema.org/telephone> "{tel=976372954}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8883> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pérez Mansilla, Consolación" ;
+	<http://schema.org/telephone> "{tel=976523578}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8885> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Perez-Aramendia Cebolla, Carlos" ;
+	<http://schema.org/telephone> "{tel=976228780}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8972> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Piera Climente, Rosa Elena" ;
+	<http://schema.org/telephone> "{tel=976589449}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8886> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Plano Casanova, Sofía Belen" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976426060}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8970> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Polo Guillén-Polo SanJuán" ;
+	<http://schema.org/telephone> "{tel=976570229}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8967> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Polo SanJuán, Manuel" ;
+	<http://schema.org/telephone> "{tel=976570286}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8888> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Poyo Manso, Pilar" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976551653}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8889> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Prieto Alvarez, Fernando" ;
+	<http://schema.org/telephone> "{tel=976258511}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8890> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pueyo Castan, Nuria" ;
+	<http://schema.org/telephone> "{tel=976220702}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8735> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Querejeta Chóliz, Ana  (Las Cuatro Esquinas)" ;
+	<http://schema.org/telephone> "{tel=976438342}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8892> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ramos Gutiérrez, María Isabel" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976424289}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8968> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Reigada Pérez- Santa Cruz , José Antonio" ;
+	<http://schema.org/telephone> "{tel=976150456}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8894> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ríos Mitchell - Bermejo" ;
+	<http://schema.org/telephone> "{tel=976439790}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8905> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Romanos Salanova, Pablo" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976294773}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8896> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Romero Gil, Jesús Miguel" ;
+	<http://schema.org/telephone> "{tel=976210373}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8898> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Rovira Burgues, Joaquin" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976340869}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8899> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ruiz De Clavijo Ballugera, María" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976335396}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8900> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ruiz De Zarate Sanz, Antonia María" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976440904}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9013> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ruiz Godoy, Maria Carmen" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976754023}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8902> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ruiz Tapiador, Benito" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976392897}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8848> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sagardoy Aguado, Catalina" ;
+	<http://schema.org/telephone> "{tel=976518001}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8903> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sagardoy Aguado, Jesus-Javier" ;
+	<http://schema.org/openingHours> "Lunes a Domingo de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976344587}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8904> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sahagún Salcedo, María Carmen" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976271586}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8906> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Salcedo Sesma, María Carmen" ;
+	<http://schema.org/telephone> "{tel=976225576}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8907> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Samper Casafranca, María Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976433026}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8891> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sánchez Barricarte, Maria Cruz" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976550775}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8908> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sánchez Gálvez, Bernardo Juan" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976292938}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8943> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sanchez Robles, Carmen" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976598406}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8912> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sánchez Sancho, Maria Mar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976413114}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8909> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sanchez Villanueva, Monica" ;
+	<http://schema.org/telephone> "{tel=976350759}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8910> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sanchis Gaya, Consuelo María" ;
+	<http://schema.org/telephone> "{tel=976743466}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8911> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sancho Avellan, María Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976556199}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8692> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sancho Avellan, Nuria" ;
+	<http://schema.org/telephone> "{tel=976342294}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8913> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sancho Garralaga, Hortensia" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976566849}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8914> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sancho Tomas-Sancho Tomas" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976236235}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8831> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Santa Teresa" ;
+	<http://schema.org/telephone> "{tel=976555892}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8915> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sanz Peruga, María Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976736072}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8916> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Segarra Rúa, María José" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976429339}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8917> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Segura Company, Maria-Vicenta" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976217837}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8918> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Selma Navarro, Marta María" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976293405}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8919> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Senante Lop, María Isabel" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976272492}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8920> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Senante Perdiguer, Eduardo" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976220452}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8921> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Senante Perdiguer, Fernando" ;
+	<http://schema.org/telephone> "{tel=976734608}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8923> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Serrano Martínez, María" ;
+	<http://schema.org/telephone> "{tel=976375735}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8924> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Serrano Miro, Francisca" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 13:30 y 16:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976331165}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8925> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sierra Castañer, Juan José" ;
+	<http://schema.org/openingHours> "Lunes a Domingo de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976222389}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8827> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Simón Lancis, Juan José" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976413879}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8926> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sinues Porta Val Sinues" ;
+	<http://schema.org/telephone> "{tel=976517543}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8842> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Soteras Sancho, Carmen" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976292299}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8927> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Suescun Ordoñez, María Pilar" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976475858}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8928> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Tarancon Beltrán, María Isabel" ;
+	<http://schema.org/telephone> "{tel=976345544}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20737> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Tejada Vicuña, Natalia" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976519870}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8971> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Tena Altaba, Celso" ;
+	<http://schema.org/telephone> "{tel=976780432}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8929> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Torres Ferrandez, Luis" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976599043}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8931> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Torres Villanova, Paula" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976355675}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8932> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Torrijo Rodríguez, Concepción" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976427855}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8933> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Torrijo Rodríguez, Mercedes" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976410170}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8934> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Triadu Sanjuán, Montserrat" ;
+	<http://schema.org/telephone> "{tel=976573437}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8935> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Trigo Maestro, Eusebio" ;
+	<http://schema.org/telephone> "{tel=976106320}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8937> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Trueba Guillen Montells Trueba" ;
+	<http://schema.org/telephone> "{tel=976377518}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8938> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Valen Martí Gracia Valen-gracia Valen" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976470842}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8939> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Valero Bermejo, Carmen" ;
+	<http://schema.org/telephone> "{tel=976752265}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8940> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vallejo Calvo, Maria de la Peña" ;
+	<http://schema.org/telephone> "{tel=976731561}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8941> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Valles Cano, María Josefa" ;
+	<http://schema.org/telephone> "{tel=976271798}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8942> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vázquez Orts, Inmaculada" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976422366}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8944> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Velasco Montes, Susana" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976562430}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20529> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Velazquez Prieto Manuela" ;
+	<http://schema.org/telephone> "{tel=976740782}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8945> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Velilla Hurtado, María Carmen" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976378048}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8946> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vicente Aznar, Alicia" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976341509}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8756> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vicente Gayán, María Teresa" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976592873}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8948> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vicente Sebastián, María Carmen" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976341328}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8949> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vicente Serrano, María Teresa" ;
+	<http://schema.org/telephone> "{tel=976299196}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8950> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vilalta Vicente, Silvia" ;
+	<http://schema.org/telephone> "{tel=976521274}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8951> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Villacampa Cubelos, Angel Jose" ;
+	<http://schema.org/telephone> "{tel=976333151}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8797> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Villarroya Lorente, Irache" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976415451}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8953> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vinuesa Canals, Arturo" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976358178}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8954> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vuelta Resa, María Teresa" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976372796}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8955> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Yanguas Jiménez, Jesús" ;
+	<http://schema.org/telephone> "{tel=976431591}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8922> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Zapata Serrano, Ignacio" ;
+	<http://schema.org/openingHours> "Sábados horario de mañanas de 9:30 a 13:30 h. (Junio,julio y agosto: 9:15 a 13:45 h.)" ;
+	<http://schema.org/telephone> "{tel=976395141}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8956> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Zazu Lafuente, María Gabriela" ;
+	<http://schema.org/openingHours> "Lunes a Sábado excepto festivos de 9:30 a 22:00 h" ;
+	<http://schema.org/telephone> "{tel=976216184}" .
