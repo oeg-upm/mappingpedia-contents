@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-11a066cf-2528-43a7-a79d-87c4b8adfa6e dcat:distribution mpidd:distribution-ccc19be0-2a76-46c1-8663-1988b6cc2647 .
+
+mpidd:distribution-ccc19be0-2a76-46c1-8663-1988b6cc2647 a dcat:Distribution;
+    dcterms:identifier "ccc19be0-2a76-46c1-8663-1988b6cc2647" ;
+    mpv:ckanResourceId "cab4e183-7725-4373-9754-bd7a210e68bc" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 11a066cf-2528-43a7-a79d-87c4b8adfa6e" ;
+    dcterms:issued "2018-03-02T16:22:05"^^xsd:dateTime;
+    dcterms:modified "2018-03-02T16:22:05"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/415ab168-e9f9-4de6-8e17-591d7607ba8a/resource/cab4e183-7725-4373-9754-bd7a210e68bc> ;
+    dcat:downloadURL <http://www.zaragoza.es/georref/json/hilo/ver_IMSP> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "1243906977" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
