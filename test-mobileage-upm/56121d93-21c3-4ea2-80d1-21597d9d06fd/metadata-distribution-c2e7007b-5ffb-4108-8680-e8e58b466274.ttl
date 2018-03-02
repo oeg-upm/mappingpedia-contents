@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-56121d93-21c3-4ea2-80d1-21597d9d06fd dcat:distribution mpidd:distribution-c2e7007b-5ffb-4108-8680-e8e58b466274 .
+
+mpidd:distribution-c2e7007b-5ffb-4108-8680-e8e58b466274 a dcat:Distribution;
+    dcterms:identifier "c2e7007b-5ffb-4108-8680-e8e58b466274" ;
+    mpv:ckanResourceId "e8efea6d-73d5-4a1c-9d2d-518c531f7042" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 56121d93-21c3-4ea2-80d1-21597d9d06fd" ;
+    dcterms:issued "2018-03-02T16:24:56"^^xsd:dateTime;
+    dcterms:modified "2018-03-02T16:24:56"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/fd04436b-9519-4e5e-8fc9-64c61a43b28c/resource/e8efea6d-73d5-4a1c-9d2d-518c531f7042> ;
+    dcat:downloadURL <http://83.212.100.226/ckan/dataset/fd04436b-9519-4e5e-8fc9-64c61a43b28c/resource/e8efea6d-73d5-4a1c-9d2d-518c531f7042/download/universidad_equipamiento.json> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "-1649063874" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
