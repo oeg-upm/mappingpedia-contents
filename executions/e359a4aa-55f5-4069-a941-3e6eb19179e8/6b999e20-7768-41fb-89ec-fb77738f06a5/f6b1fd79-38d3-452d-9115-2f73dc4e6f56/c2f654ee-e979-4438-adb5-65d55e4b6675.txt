@@ -1,0 +1,150 @@
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/117> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/aranda-conde-027.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/117> <http://schema.org/dc:title> " Conde Aranda , 27"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/118> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/mayor72.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/118> <http://schema.org/dc:title> " Mayor , 72"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/119> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/mefisto07.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/119> <http://schema.org/dc:title> " Mefisto , Fernando Soteras , 7"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/122> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/mendeznunez17.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/122> <http://schema.org/dc:title> " MÃ©ndez NÃºÃ±ez , 17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/123> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/mendeznunez28.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/123> <http://schema.org/dc:title> " MÃ©ndez NÃºÃ±ez , 28"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/124> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/mendeznunez29.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/124> <http://schema.org/dc:title> " MÃ©ndez NÃºÃ±ez , 29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/127> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/lacruz18.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/127> <http://schema.org/dc:title> " Manuel Lacruz , 18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/129> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/libertad04.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/129> <http://schema.org/dc:title> " Libertad , 4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/130> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/lacruz20.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/130> <http://schema.org/dc:title> " Manuel Lacruz , 20"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/131> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/loscos04.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/131> <http://schema.org/dc:title> " Francisco Loscos , 4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/200> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/agustin-maria01.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/200> <http://schema.org/dc:title> " PÂº MÂª AgustÃ­n , 1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/202> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/manifestacion30.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/202> <http://schema.org/dc:title> " ManifestaciÃ³n , 30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/203> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/loscos07-09-11.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/203> <http://schema.org/dc:title> " Francisco Loscos , 7-9-11 / ManifestaciÃ³n , 32"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/204> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/loscos13.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/204> <http://schema.org/dc:title> " Francisco Loscos , 13"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/205> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/manifestacion31.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/205> <http://schema.org/dc:title> " ManifestaciÃ³n , 31 - Prudencio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/207> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/manifestacion35.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/207> <http://schema.org/dc:title> " ManifestaciÃ³n , 35 - Alfonso I, 37"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/209> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/manifestacion40.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/209> <http://schema.org/dc:title> " ManifestaciÃ³n , 40"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/210> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/manifestacion44.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/210> <http://schema.org/dc:title> " ManifestaciÃ³n , 44 - Alfonso I"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/212> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/violin003.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/212> <http://schema.org/dc:title> " ViolÃ­n , 3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/213> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/viola006.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/213> <http://schema.org/dc:title> " Viola , 6 / San AgustÃ­n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/215> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/martinezjusepe04.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/215> <http://schema.org/dc:title> " Juseppe MartÃ­nez , 4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/216> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/martinezjusepe06.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/216> <http://schema.org/dc:title> " Juseppe MartÃ­nez , 6"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/218> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/navarraavdasn.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/218> <http://schema.org/dc:title> " EstaciÃ³n Zaragoza - Delicias o de Caminreal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/220> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/valenciaavda059.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/220> <http://schema.org/dc:title> " Avda. Valencia , 59"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/221> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/albareda007.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/221> <http://schema.org/dc:title> " Albareda , 7"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/222> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/cartuja-baja-zona-este.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/222> <http://schema.org/dc:title> " Vestigios y trazas de Cerca y Cubos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/223> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/cartuja-baja-claustro-pino.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/223> <http://schema.org/dc:title> " (Restos de celdas y otros elementos reutilizados)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/224> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/sanpablo050.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/224> <http://schema.org/dc:title> " San Pablo , 50"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/227> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/alfonso23fin1.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/227> <http://schema.org/dc:title> " Alfonso I , 23"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/228> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/alfonso25fin1.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/228> <http://schema.org/dc:title> " Alfonso I , 25 - Contamina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/229> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/alfonso028.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/229> <http://schema.org/dc:title> " Alfonso I , 28 - Espoz y Mina , 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/230> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/alfonso029.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/230> <http://schema.org/dc:title> " Alfonso I , 29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/231> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/alfonso031.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/231> <http://schema.org/dc:title> " Alfonso I , 31 - Once esquinas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/233> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/martires10.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/233> <http://schema.org/dc:title> " MÃ¡rtires , 10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/234> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/jardiel03.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/234> <http://schema.org/dc:title> " Florencio Jardiel , 3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/235> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/martires08.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/235> <http://schema.org/dc:title> " MÃ¡rtires , 8"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/236> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/moretsegismundo04.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/236> <http://schema.org/dc:title> " Edificio Sede de la Caridad"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/237> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/mefisto09.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/237> <http://schema.org/dc:title> " Mefisto , Fernando Soteras , 9 - Paseo de la Mina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/238> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/pabostria04.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/238> <http://schema.org/dc:title> " PabostrÃ­a , 4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/240> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/predicadores067.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/240> <http://schema.org/dc:title> " Predicadores , 67"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/241> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/predicadores070.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/241> <http://schema.org/dc:title> " Predicadores , 70"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/243> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/predicadores075.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/243> <http://schema.org/dc:title> " Predicadores , 75"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/244> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/predicadores082.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/244> <http://schema.org/dc:title> " Predicadores , 82"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/246> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/predicadores121.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/246> <http://schema.org/dc:title> " Predicadores , 121"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/247> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/predicadores123.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/247> <http://schema.org/dc:title> " Predicadores , 123"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/249> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/predicadores127.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/249> <http://schema.org/dc:title> " Predicadores , 127"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/254> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/ramonycajal009.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/254> <http://schema.org/dc:title> " RamÃ³n y Cajal , 9"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/255> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/reconquista004.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/255> <http://schema.org/dc:title> " Reconquista , 4 - Asalto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/256> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/reconquista006.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/256> <http://schema.org/dc:title> " Reconquista , 6 - Asalto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/schema:Building> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/258> <http://schema.org/rdfs:seeAlso> "http://www.zaragoza.es/pgou/edih/reconquista010.pdf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.zaragoza.es/api/recurso/turismo/edificio-historico/258> <http://schema.org/dc:title> " Reconquista , 10 - Asalto"^^<http://www.w3.org/2001/XMLSchema#string> .
