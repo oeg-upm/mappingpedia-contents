@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-5fea7eb4-a0ea-46ea-ab5f-53ff13306b74 dcat:distribution mpidd:distribution-884dcfaa-3ae2-4cea-80b2-7215a0b40d48 .
+
+mpidd:distribution-884dcfaa-3ae2-4cea-80b2-7215a0b40d48 a dcat:Distribution;
+    dcterms:identifier "884dcfaa-3ae2-4cea-80b2-7215a0b40d48" ;
+    mpv:ckanResourceId "0e9edec4-4c31-433a-9d32-85852f534796" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 5fea7eb4-a0ea-46ea-ab5f-53ff13306b74" ;
+    dcterms:issued "2018-04-02T16:53:15"^^xsd:dateTime;
+    dcterms:modified "2018-04-02T16:53:15"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/768448d7-fc61-4805-827a-252ce5c3e94f/resource/0e9edec4-4c31-433a-9d32-85852f534796> ;
+    dcat:downloadURL <http://83.212.100.226/ckan/dataset/768448d7-fc61-4805-827a-252ce5c3e94f/resource/0e9edec4-4c31-433a-9d32-85852f534796/download/linkedfiestas.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "1767898759" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
