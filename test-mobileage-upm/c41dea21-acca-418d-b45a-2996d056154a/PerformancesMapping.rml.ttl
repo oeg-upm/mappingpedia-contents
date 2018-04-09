@@ -1,0 +1,14 @@
+<#PerformancesMapping>
+  rml:logicalSource [
+    rml:source "performances.json";
+    rml:referenceFormulation ql:JSONPath;
+    rml:iterator "$.Performance.[*]" ];
+
+  rr:subjectMap [ 
+     rr:template "http://ex.com/{Perf_ID}"];
+ 
+ rr:predicateObjectMap [ 
+   rr:predicate ex:name;
+   rr:objectMap [ 
+    rr:objectMap [ rml:reference "Perf_ID" ] ] .
+].
