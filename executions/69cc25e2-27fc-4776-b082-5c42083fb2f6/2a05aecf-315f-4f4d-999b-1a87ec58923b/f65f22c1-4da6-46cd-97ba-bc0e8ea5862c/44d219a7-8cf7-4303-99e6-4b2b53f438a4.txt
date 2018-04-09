@@ -1,0 +1,48 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9044> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Centro de Rehabilitación Psicosocial Ntra. Sra. del Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12288> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Clínica Actur" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12289> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Clínica Almozara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9095> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Clínica Médico Quirúrgica Montpellier" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9047> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Clínica Nuestra Señora del Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11451> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Clínica Quirón (La Floresta)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9096> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Grupo Hospitalario Quirón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9038> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Hospital Clínico Universitario Lozano Blesa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9097> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Hospital General de la Defensa de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9045> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Hospital Provincial Nuestra Sra de Gracia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9043> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Hospital Royo Villanova" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9046> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Hospital San Juan de Dios" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9040> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Hospital Universitario Miguel Servet" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9094> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Hospital Viamed Montecanal en Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9093> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "MAZ - Mutua de Accidentes de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9127> a <http://schema.org/Hospital> ;
+	<http://schema.org/name> "Pabellones V y VI Nuestra Señora del Pilar" .
