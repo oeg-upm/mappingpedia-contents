@@ -1,0 +1,44 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-mappingexecutionresult-template.ttl
+
+#mpv:MappingExecutionResultEntity rdfs:subClassOf prov:Entity .
+#mpimd:mappingpediaAgent rdfs:subClassOf prov:Agent .
+#mpimd:mappingExecutionActivity rdfs:subClassOf prov:Activity .
+
+mpimd:mappingExecutionResult-21f30485-7b50-4858-904e-858297d7b907 a mpv:MappingExecutionResultEntity ;
+    mpv:mappingExecutionResultIdentifier "mappingExecutionResult-21f30485-7b50-4858-904e-858297d7b907" ;
+    dcat:downloadURL <http://83.212.100.226/ckan/dataset/6bf570f2-87e6-4aba-9d59-539e214d6baa/resource/f22ea66f-4593-419a-bc6f-7754881ea95e/download/d9475827-dff9-4ab4-b667-5d2513b93cf8.txt> ;
+    dcterms:identifier "21f30485-7b50-4858-904e-858297d7b907" ;
+    dcterms:title "" ;
+    dcterms:description "Annotated Dataset using the annotation: https://raw.githubusercontent.com/oeg-upm/mappingpedia-contents/master/test-mobileage-upm/766351de-9aed-4c20-b8b9-f2c06452de81/linkedfiestas1b.r2rml.ttl" ;
+    dcterms:issued "2018-04-09T09:51:57"^^xsd:dateTime;
+    dcterms:modified "2018-04-09T09:51:57"^^xsd:dateTime;
+    prov:wasGeneratedBy mpimd:mappingExecutionActivity ;
+    prov:wasAttributedTo mpimd:mappingpediaAgent ;
+    prov:wasDerivedFrom mpids:dataset-766351de-9aed-4c20-b8b9-f2c06452de81 ;
+    prov:hadPrimarySource mpimd:mappingDocument-2d478062-64bc-4b46-8650-b247fdb23c03 ;
+    mpv:hasMappingDocumentHash "-925348497" ;
+    mpv:hasDatasetDistributionHash "-1601925669" ;
+.
+
+#mpids:dataset-766351de-9aed-4c20-b8b9-f2c06452de81 void:subset mpids:dataset-$subsetID .
+
