@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-573ed155-983f-4ddd-830f-763d8296a004 dcat:distribution mpidd:distribution-8523e05c-c021-46ba-992c-d76b9d4ec1ff .
+
+mpidd:distribution-8523e05c-c021-46ba-992c-d76b9d4ec1ff a dcat:Distribution;
+    dcterms:identifier "8523e05c-c021-46ba-992c-d76b9d4ec1ff" ;
+    mpv:ckanResourceId "f757872c-3f22-4074-bfc3-a922ffb9b0ee" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 573ed155-983f-4ddd-830f-763d8296a004" ;
+    dcterms:issued "2018-04-16T17:12:29"^^xsd:dateTime;
+    dcterms:modified "2018-04-16T17:12:29"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/4efdc4b5-ccc0-4b0c-8e73-ea48efb04b0e/resource/f757872c-3f22-4074-bfc3-a922ffb9b0ee> ;
+    dcat:downloadURL <http://83.212.100.226/ckan/dataset/4efdc4b5-ccc0-4b0c-8e73-ea48efb04b0e/resource/f757872c-3f22-4074-bfc3-a922ffb9b0ee/download/data-2017-fungi.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "263192108" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
