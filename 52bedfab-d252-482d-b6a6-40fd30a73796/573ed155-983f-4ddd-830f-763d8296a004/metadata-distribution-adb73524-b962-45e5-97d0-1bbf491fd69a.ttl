@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-573ed155-983f-4ddd-830f-763d8296a004 dcat:distribution mpidd:distribution-adb73524-b962-45e5-97d0-1bbf491fd69a .
+
+mpidd:distribution-adb73524-b962-45e5-97d0-1bbf491fd69a a dcat:Distribution;
+    dcterms:identifier "adb73524-b962-45e5-97d0-1bbf491fd69a" ;
+    mpv:ckanResourceId "aadf3c85-e170-4edb-87c2-51759545a1b2" ;
+    dcterms:title "adb73524-b962-45e5-97d0-1bbf491fd69a" ;
+    dcterms:description "Distribution of Dataset 573ed155-983f-4ddd-830f-763d8296a004" ;
+    dcterms:issued "2018-04-16T18:01:19"^^xsd:dateTime;
+    dcterms:modified "2018-04-16T18:01:19"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/4efdc4b5-ccc0-4b0c-8e73-ea48efb04b0e/resource/aadf3c85-e170-4edb-87c2-51759545a1b2> ;
+    dcat:downloadURL <http://83.212.100.226/ckan/dataset/4efdc4b5-ccc0-4b0c-8e73-ea48efb04b0e/resource/aadf3c85-e170-4edb-87c2-51759545a1b2/download/data-2017-fungi2.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "-271170658" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
