@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-38df0130-b409-4f6d-87ee-97c11fd9260e dcat:distribution mpidd:distribution-cc29e335-1e30-43a3-a711-6d3791f97dd0 .
+
+mpidd:distribution-cc29e335-1e30-43a3-a711-6d3791f97dd0 a dcat:Distribution;
+    dcterms:identifier "cc29e335-1e30-43a3-a711-6d3791f97dd0" ;
+    mpv:ckanResourceId "cbaa31cb-0f19-4206-bc47-ea3708633579" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 38df0130-b409-4f6d-87ee-97c11fd9260e" ;
+    dcterms:issued "2018-04-16T17:01:25"^^xsd:dateTime;
+    dcterms:modified "2018-04-16T17:01:25"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/ee23c520-7e16-42a7-ae3c-bf5c841f8e7f/resource/cbaa31cb-0f19-4206-bc47-ea3708633579> ;
+    dcat:downloadURL <http://83.212.100.226/ckan/dataset/ee23c520-7e16-42a7-ae3c-bf5c841f8e7f/resource/cbaa31cb-0f19-4206-bc47-ea3708633579/download/mobile-age-iatreia-utf.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "-162794348" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
