@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-be94628e-eea9-4172-8cb3-3840a795690d dcat:distribution mpidd:distribution-e9b03a1e-7027-41d0-a7fc-1df78d2c5862 .
+
+mpidd:distribution-e9b03a1e-7027-41d0-a7fc-1df78d2c5862 a dcat:Distribution;
+    dcterms:identifier "e9b03a1e-7027-41d0-a7fc-1df78d2c5862" ;
+    mpv:ckanResourceId "05c853c8-d050-44c8-9bfc-511d7baa5b46" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset be94628e-eea9-4172-8cb3-3840a795690d" ;
+    dcterms:issued "2018-04-18T11:34:43"^^xsd:dateTime;
+    dcterms:modified "2018-04-18T11:34:43"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/708b6a14-b032-401a-992a-165023511702/resource/05c853c8-d050-44c8-9bfc-511d7baa5b46> ;
+    dcat:downloadURL <http://83.212.100.226/ckan/dataset/708b6a14-b032-401a-992a-165023511702/resource/05c853c8-d050-44c8-9bfc-511d7baa5b46/download/stops.txt> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "684876505" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
