@@ -15,7 +15,7 @@
         @base <http://mappingpedia.linkeddata.es/resource/> .
         <Pharmacy>
         rml:logicalSource [
-            rml:source  "110.json";
+            rml:source  "740.json";
             rml:referenceFormulation ql:JSONPath;
             rml:iterator "$.equipamiento.*"
 
