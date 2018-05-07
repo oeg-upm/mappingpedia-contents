@@ -1,0 +1,924 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8666> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Abad Sancho, Ana Maria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8897> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Adiego Cañellas, Alberto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20444> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Adiego Cañellas, Javier" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8667> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aguilar Domínguez, María Teresa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8973> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aguilar Teixeira, Elena María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8964> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ainsa Sal del Río, Patricia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8668> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alcañiz Sancho, Soledad Celeste" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8965> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alcazar Rodriguez, Teresa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8669> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alfonso Alfonso, Marciano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8670> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alfonso Muniesa Alfonso Collado" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8699> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Allende Bandres, Manuel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8671> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Allue Bellosta, María Luisa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8672> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Almarcegui Ballesta, María Teresa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9014> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Almazan Gil, Francisco" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8674> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alonso Jiménez, María Piedad" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20445> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alonso-Buron Llamazares, Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8675> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alquezar Ballano Alquezar Ballano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8676> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Alquezar Montañés, Miguel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8678> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Amigot Polo, Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20448> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Andrés Ferrandiz, Juan-Miguel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8679> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Andrés Magallón, Santiago" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8680> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Andreu Fauquet, Esperanza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8681> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Andreu Puyal, Julia Margarita" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8682> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ansuategui Muzas, Federico Jaime" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8875> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aranda Ortega, Mª Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8840> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Arbones Mainar, Ana-Clara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8739> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Arevalo García, Juan Luis" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8685> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Arias Santafé, Carlos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8686> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Arruti Guerrero, Lorea" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8736> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Artal Cirugeda, Miguel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8860> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Artal Lerín, Ana Cristina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8688> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Artal Lerín, Maria Inmaculada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8687> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Artal Lerin, Miguel Ángel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8689> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Asensi Serrano, Rosa María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8690> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Auba Estremera, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8691> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Augusto Hernandez, Angel Jose" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8693> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Azagra Garde, Maria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8694> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aznar Aznar, Raquel Visitación" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8695> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aznar Doblado, Irene Natividad" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8696> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aznar Olivan, María Paz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8698> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Aznarez Callave, María Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8700> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bandrés Alayeto Bara Bandrés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8701> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bara Bandrés, Ana María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8702> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Barquero De Val, María Paz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8703> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Barrau Diaus, Pablo Francisco" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8704> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Basaldua Ezquerra, María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8733> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Baselga Zorraquino, Mª Luisa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8705> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Beamonte Rico, Luis" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8706> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bermejo Ramos, Daria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8707> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Berni Bentura, Jesús" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8708> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Betore Gallizo, Sara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8709> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Blas Bernad, Luis Ignacio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8711> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Blasco Torrijo, María Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8712> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bolsa Calvo, María Elena" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8713> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bonafonte Zaragozano Bonafonte Jimeno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8730> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Borau Jordan, Arturo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8714> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bosqued Lacambra, Pedro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8715> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Brito Cáceres, Gloria María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8716> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Bueno Gastón, Antonio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8718> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Burillo Camarero, María Dolores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8719> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Caballero Bueno, Araceli" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8720> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Cabrerizo Abad, Sonia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8721> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Calonge Delso, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8969> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Calvete Cavero, Cristina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8722> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Calvo Esponera, María Dolores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8737> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Caravaca Cisneros, Beatriz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8725> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Casafranca Sada, Juan José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8726> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Casamayor Lalana Ruiz Álvarez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8727> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Casao Pérez, María Ángeles" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8728> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Casas Reig, Enrique" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8729> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Castañer Miravete, Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8731> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Castells Pellicer, Ascensión" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20443> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Castillo Lueña, Sofía-Antonia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8732> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Castillo Tejada, Margarita" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8734> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Checa Poves, María Asunción" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28138> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Claver Villuendas- Claver Calvete" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8741> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Clavería Cintora, María-Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8966> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Clavería Esponera, Mercedes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8738> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Clavería Morant, Luisa María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8742> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Colas Izquierdo, Ana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8743> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Concha Longas, Rosendo José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8744> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Cortázar Rodríguez, Borja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8745> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia De Gregorio Llera, Ciro Manuel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8746> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia De La Figuera De Yturralde, Cristina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8747> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia De Miguel Golvano, Cristóbal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8748> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Delso Ramo, María Jesús" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20447> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Díaz Muñoz, María-Juliana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8749> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Diez Villarroel, Maria Luisa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8750> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Domingo Lizama, María Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8752> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Echarri Eraso, Milagros" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8753> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Echevarria Montoto, Manuel Eduardo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8755> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Escorihuela Laborda, Maria Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8757> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Espuelas Millan, Jesus Maria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8758> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Espuny Tobar, Mª Lurdes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8759> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Espuny Tobar, Maria Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8760> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ester González Ester Aisa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8761> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ezquerra Inaraja Ezquerra Inaraja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8762> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ezquerra Pérez, Luis" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8763> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Faci Lérida, Margarita" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8764> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Feliu Boneta, Ignacio Javier" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8765> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Feliu Boneta-Boneta Garrido" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8767> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ferrandez Martínez, Moisés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8768> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ferrandez Martínez, Natividad" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8769> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Frago Del Campo, Cristina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8962> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Francia Millán, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8770> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Frej Tirapo, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8771> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Funcia Echegoyen, Berta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8772> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Galban Bernal, Cristina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8773> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Galban Bernal, José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8710> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Galdamez Castillo - Blasco Nogués" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8774> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gallego Richard, María Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8936> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Garcés Trillo, José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8775> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García Cirugeda, Concepción" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8776> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García De Parada Sancho, Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8777> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García García, Alejandro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20446> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García Pérez, María-Sagrario" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8778> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García Solans, José Ramón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8779> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia García Villanueva García Franco" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8781> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Garcia-Vela Grau, Maria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8782> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Garijo Barselo, María Victoria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8884> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Garrido Calvo, Maria-Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8783> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gasco Lagunas, Ana María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8785> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gaudo Barba, Elena Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8787> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gil de Miguel, Ignacio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8786> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gil Hernández, María Amparo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8788> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gimeno Barranco, Juan Carlos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8849> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gimeno Mateo, Marta-María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8789> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gimeno Pardo, José Jaime" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8790> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gispert Escorihuela, Emma" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8754> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gispert Escorihuela, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8947> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gómez Tabuenca, Amaya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8791> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia González De Echavarri Díaz, Victoria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8792> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gonzalez Muniesa, Maria Mercedes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8793> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia González Rodríguez, Jesús Javier" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8795> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Goyeneche San Vicente, Maria Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8796> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gracia Valen, María Victoria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8798> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Guallar Guallar, Cristina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8799> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Gutierrez Garcia, Maria Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8800> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hernández Aguado, María Ángeles" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8801> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hernández Barrutia, Carlos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20738> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hernández Pastor, Ignacio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8802> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hernández Vitoria, Luis" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8803> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hernando Lleyda, Marina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8804> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hormigos Pérez, Inmaculada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8805> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hornero Corisco, José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8806> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Hornero Marín, María Luisa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8807> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ibarra Benlloch, Matilde" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8809> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Izuzquiza Montaner, Ana Rosa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8810> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jiménez Alcina Herrer Tormo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8811> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jimenez Cisneros, Juan" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8813> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jiménez Martin Abadía Jiménez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8814> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jiménez Palomar, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8815> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jimeno Arellano, Araceli" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8816> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jordán Alva, Ramón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8817> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Jorge Martínez, Emilio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8683> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia José Luis Aranda Ortega" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8818> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Labat Casanova, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8820> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lacalle Oreja, Elena" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8821> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Laga Cuartero Laga Alcaine" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8822> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lahoz Estrada, Laura María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8823> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lahoz Romeo, Jesús" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8825> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lahoz Romeo, Natividad María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8826> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lahoz Zamarro, María Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8828> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Langa Pérez, María Rosario" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8829> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lapieza Olano Martínez López" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8673> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Larriba Jaime, Maria Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8830> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lasala De La Fuente, Leopoldo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8893> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lasmarias Palos, Inés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8832> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lerma Puertas, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8833> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lerma Puertas, Rafael" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8834> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Liarte Pérez, Manuela" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8751> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Llorens Mira, Emilio Javier" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8717> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lobera Bujanda, Ignacio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8836> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lopez Buesa, Maria Otilia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8837> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia López Martínez, Eduardo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20764> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia López Tricas, Jose Manuel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20449> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lorca Codina, Agustín-Andrés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8838> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Losada Nuño, María Elena" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20530> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Lozano Sanchez Mª Aranzazu" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8839> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Machín Almarcegui - Marsal Machín" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8677> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Machín Álvarez, Montserrat" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8841> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Maorad Gómez, Mª Dolores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28139> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Maria Isabel Vicente Valor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8843> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Marín Boloqui, Sara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20450> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Marín San Miguel, Enrique" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8844> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Marquina García, Benedicta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8987> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Martínez Montón, María Ángeles" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8846> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Martínez Salazar, Alberto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8847> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Martinez Vera, Maria Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8850> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Mateos Lardies, Ana María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8851> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Mayo Orofino, Silvia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8766> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Mestre Feliu, Rafael" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8852> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Mestre Feliu, Susana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8853> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Miravete Guiu, Luis Javier" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8854> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Molina Castro Molina Golbano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8855> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Molina Gaudo, Rosario" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28172> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Monforte Gasque, Raquel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8856> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Moral Gómez Jorge Moral" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8857> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Morales Balien, María Victoria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8724> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Morancho Carreras-Morancho Carreras" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8858> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Móreo Quintana, María Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8859> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Morte Alforja - Morte Alforja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8863> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Muñagorri Arregui, María Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8861> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Muniesa Faci, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8862> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Muniesa Marín, María José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8864> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Muñoz Alcalde, Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8780> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Murillo García-Atance, Maria Luisa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20451> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Navarrete Maicas, María-Asunción" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8865> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Navarro Cubells, Francisco" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8866> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Navarro Monte, Maria Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8867> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Navarro Viscasillas, Adriana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8868> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Notivol Tejero, Pedro Joaquín" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8869> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Novella García, José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8870> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Nuño Cólera, Luis" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8871> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ochoa De Chinchetru Sacristán, Juana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8845> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Olaria Hellin, Patricia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8872> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Omedas Gamo - Moros Omedas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8812> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Orive Recio, Marta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8874> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ors Jarrin, Francisca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8684> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ortopedia Sara Royo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8963> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pallerés García, Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8876> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Parrado Montejo, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8877> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pascual Goizueta, María Paloma" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8878> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Peiro Barra, María Montserrat" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8879> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pérez Álvarez Pérez - Ezquerra Pérez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8880> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pérez Calvo, María Josefa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8881> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Perez Garcia, Marina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8882> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pérez Mallagray, Alicia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8883> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pérez Mansilla, Consolación" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8885> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Perez-Aramendia Cebolla, Carlos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8972> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Piera Climente, Rosa Elena" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8886> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Plano Casanova, Sofía Belen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8970> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Polo Guillén-Polo SanJuán" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8967> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Polo SanJuán, Manuel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8888> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Poyo Manso, Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8889> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Prieto Alvarez, Fernando" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8890> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Pueyo Castan, Nuria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8735> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Querejeta Chóliz, Ana  (Las Cuatro Esquinas)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8892> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ramos Gutiérrez, María Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8968> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Reigada Pérez- Santa Cruz , José Antonio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8894> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ríos Mitchell - Bermejo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8905> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Romanos Salanova, Pablo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8896> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Romero Gil, Jesús Miguel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8898> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Rovira Burgues, Joaquin" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8899> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ruiz De Clavijo Ballugera, María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8900> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ruiz De Zarate Sanz, Antonia María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9013> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ruiz Godoy, Maria Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8902> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Ruiz Tapiador, Benito" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8848> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sagardoy Aguado, Catalina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8903> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sagardoy Aguado, Jesus-Javier" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8904> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sahagún Salcedo, María Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8906> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Salcedo Sesma, María Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8907> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Samper Casafranca, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8891> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sánchez Barricarte, Maria Cruz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8908> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sánchez Gálvez, Bernardo Juan" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8943> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sanchez Robles, Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8912> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sánchez Sancho, Maria Mar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8909> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sanchez Villanueva, Monica" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8910> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sanchis Gaya, Consuelo María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8911> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sancho Avellan, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8692> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sancho Avellan, Nuria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8913> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sancho Garralaga, Hortensia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8914> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sancho Tomas-Sancho Tomas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8831> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Santa Teresa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8915> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sanz Peruga, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8916> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Segarra Rúa, María José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8917> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Segura Company, Maria-Vicenta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8918> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Selma Navarro, Marta María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8919> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Senante Lop, María Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8920> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Senante Perdiguer, Eduardo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8921> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Senante Perdiguer, Fernando" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8923> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Serrano Martínez, María" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8924> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Serrano Miro, Francisca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8925> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sierra Castañer, Juan José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8827> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Simón Lancis, Juan José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8926> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Sinues Porta Val Sinues" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8842> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Soteras Sancho, Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8927> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Suescun Ordoñez, María Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8928> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Tarancon Beltrán, María Isabel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20737> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Tejada Vicuña, Natalia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8971> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Tena Altaba, Celso" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8929> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Torres Ferrandez, Luis" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8931> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Torres Villanova, Paula" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8932> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Torrijo Rodríguez, Concepción" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8933> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Torrijo Rodríguez, Mercedes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8934> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Triadu Sanjuán, Montserrat" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8935> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Trigo Maestro, Eusebio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8937> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Trueba Guillen Montells Trueba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8938> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Valen Martí Gracia Valen-gracia Valen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8939> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Valero Bermejo, Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8940> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vallejo Calvo, Maria de la Peña" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8941> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Valles Cano, María Josefa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8942> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vázquez Orts, Inmaculada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8944> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Velasco Montes, Susana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20529> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Velazquez Prieto Manuela" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8945> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Velilla Hurtado, María Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8946> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vicente Aznar, Alicia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8756> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vicente Gayán, María Teresa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8948> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vicente Sebastián, María Carmen" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8949> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vicente Serrano, María Teresa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8950> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vilalta Vicente, Silvia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8951> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Villacampa Cubelos, Angel Jose" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8797> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Villarroya Lorente, Irache" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8953> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vinuesa Canals, Arturo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8954> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Vuelta Resa, María Teresa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8955> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Yanguas Jiménez, Jesús" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8922> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Zapata Serrano, Ignacio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8956> a <http://schema.org/Pharmacy> ;
+	<http://schema.org/name> "Farmacia Zazu Lafuente, María Gabriela" .
