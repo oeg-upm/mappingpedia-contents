@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-ffec3390-afcd-4f17-94a9-44cf299bcc89 dcat:distribution mpidd:distribution-897c1f3a-803e-4a8b-bb0c-9c50cd923a9e .
+
+mpidd:distribution-897c1f3a-803e-4a8b-bb0c-9c50cd923a9e a dcat:Distribution;
+    dcterms:identifier "897c1f3a-803e-4a8b-bb0c-9c50cd923a9e" ;
+    mpv:ckanResourceId "5376d734-820f-432d-93ee-694654b305db" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset ffec3390-afcd-4f17-94a9-44cf299bcc89" ;
+    dcterms:issued "2018-05-24T09:43:14"^^xsd:dateTime;
+    dcterms:modified "2018-05-24T09:43:14"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/76bbf9a3-9964-4b09-b3c1-d737ad94f9d2/resource/5376d734-820f-432d-93ee-694654b305db> ;
+    dcat:downloadURL <https://mobileage.ftb-esv.de/server/hemelingen/data/locations?limit=500> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "1396925933" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
