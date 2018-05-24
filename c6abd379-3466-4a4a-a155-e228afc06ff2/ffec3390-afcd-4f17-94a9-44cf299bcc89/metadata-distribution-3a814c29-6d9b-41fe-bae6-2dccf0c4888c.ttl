@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-ffec3390-afcd-4f17-94a9-44cf299bcc89 dcat:distribution mpidd:distribution-3a814c29-6d9b-41fe-bae6-2dccf0c4888c .
+
+mpidd:distribution-3a814c29-6d9b-41fe-bae6-2dccf0c4888c a dcat:Distribution;
+    dcterms:identifier "3a814c29-6d9b-41fe-bae6-2dccf0c4888c" ;
+    mpv:ckanResourceId "fa8a1be0-f860-4cb2-8ae9-0248c92e2dda" ;
+    dcterms:title "3a814c29-6d9b-41fe-bae6-2dccf0c4888c" ;
+    dcterms:description "Distribution of Dataset ffec3390-afcd-4f17-94a9-44cf299bcc89" ;
+    dcterms:issued "2018-05-24T10:11:26"^^xsd:dateTime;
+    dcterms:modified "2018-05-24T10:11:26"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/76bbf9a3-9964-4b09-b3c1-d737ad94f9d2/resource/fa8a1be0-f860-4cb2-8ae9-0248c92e2dda> ;
+    dcat:downloadURL <http://83.212.100.226/ckan/dataset/76bbf9a3-9964-4b09-b3c1-d737ad94f9d2/resource/fa8a1be0-f860-4cb2-8ae9-0248c92e2dda/download/hemelingenlocations.json> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "-338616053" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
