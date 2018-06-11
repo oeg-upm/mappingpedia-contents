@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-59c05449-fdfa-427a-94d8-d7fbaf6a54bf dcat:distribution mpidd:distribution-126136ab-7dc6-492c-9a3e-f19dbd49569d .
+
+mpidd:distribution-126136ab-7dc6-492c-9a3e-f19dbd49569d a dcat:Distribution;
+    dcterms:identifier "126136ab-7dc6-492c-9a3e-f19dbd49569d" ;
+    mpv:ckanResourceId "fbd06ded-ae01-4791-b90b-7662b40e9968" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 59c05449-fdfa-427a-94d8-d7fbaf6a54bf" ;
+    dcterms:issued "2018-06-11T16:14:00"^^xsd:dateTime;
+    dcterms:modified "2018-06-11T16:14:00"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/f6090707-c643-4566-ba6c-9fe7ea27bc84/resource/fbd06ded-ae01-4791-b90b-7662b40e9968> ;
+    dcat:downloadURL <https://www.zaragoza.es/sede/servicio/equipamiento/category/740.json> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "2078115086" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
