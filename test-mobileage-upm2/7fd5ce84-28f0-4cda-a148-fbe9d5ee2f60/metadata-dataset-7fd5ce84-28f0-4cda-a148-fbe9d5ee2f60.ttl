@@ -1,0 +1,57 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-dataset-template.ttl
+
+#mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-7fd5ce84-28f0-4cda-a148-fbe9d5ee2f60 a mpv:Dataset ;
+    dcat:publisher mpip:test-mobileage-upm2 ;
+    dcterms:title "Historical Buildings in Zaragoza" ;
+    dcterms:description "Historical Buildings in Zaragoza" ;
+    dcterms:issued "2018-06-11T17:27:28"^^xsd:dateTime;
+    dcterms:modified "2018-06-11T17:27:28"^^xsd:dateTime;
+    dcterms:identifier "7fd5ce84-28f0-4cda-a148-fbe9d5ee2f60" ;
+    dcat:keyword "" ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/es> ;
+    dct:accessRight "" ;
+    dct:provenance "" ;
+    mpv:datasetIdentifier "dataset-7fd5ce84-28f0-4cda-a148-fbe9d5ee2f60" ;
+    mpv:ckanPackageId "3861c740-fea4-4594-938f-65b4f83ee2b8" ;
+    mpv:ckanPackageName "7fd5ce84-28f0-4cda-a148-fbe9d5ee2f60" ;
+    mpv:ckanPackageLicense "" ;
+    dct:source "";
+    owl:versionInfo "" ;
+    dct:hasVersion "" ;
+    mpv:ckanAuthor "" ;
+    mpv:ckanAuthorEmail "" ;
+    mpv:ckanMaintainer "" ;
+    mpv:ckanMaintainerEmail "" ;
+    dct:temporal "" ;
+    dct:spatial "" ;
+    dct:ckanAccrualPeriodicity "" ;
+    prov:wasAttributedTo <>;
+    prov:wasGeneratedBy <>;
+    prov:wasDerivedFrom <>;
+    prov:specializationOf <>;
+    prov:hadPrimarySource <>;
+    prov:wasRevisionOf <>;
+    prov:wasInfluencedBy <>;
+.
+
