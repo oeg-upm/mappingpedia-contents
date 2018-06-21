@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-ff191523-3ed4-4d71-afeb-53862021ff1e dcat:distribution mpidd:distribution-ced88c41-0cc8-401e-a6ae-9bd7b290d200 .
+
+mpidd:distribution-ced88c41-0cc8-401e-a6ae-9bd7b290d200 a dcat:Distribution;
+    dcterms:identifier "ced88c41-0cc8-401e-a6ae-9bd7b290d200" ;
+    mpv:ckanResourceId "7fbd29f6-ea2b-437a-83b8-001a4a6e9a8a" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset ff191523-3ed4-4d71-afeb-53862021ff1e" ;
+    dcterms:issued "2018-06-21T17:10:22"^^xsd:dateTime;
+    dcterms:modified "2018-06-21T17:10:22"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/af322e96-4027-41d0-9c64-7ad345684ebf/resource/7fbd29f6-ea2b-437a-83b8-001a4a6e9a8a> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-engine/master/examples/edificio-historico.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "1678370417" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
