@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-aa472db3-b34e-47fb-b5fa-f1665944ece6 dcat:distribution mpidd:distribution-633fe215-10af-444d-8e79-e2f1b70f7a12 .
+
+mpidd:distribution-633fe215-10af-444d-8e79-e2f1b70f7a12 a dcat:Distribution;
+    dcterms:identifier "633fe215-10af-444d-8e79-e2f1b70f7a12" ;
+    mpv:ckanResourceId "a4f88d3a-7f10-4cc9-abc8-8c3688a00d3a" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset aa472db3-b34e-47fb-b5fa-f1665944ece6" ;
+    dcterms:issued "2018-07-12T17:45:18"^^xsd:dateTime;
+    dcterms:modified "2018-07-12T17:45:18"^^xsd:dateTime;
+    dcat:accessURL <http://34.251.87.222/dataset/6b4dd9af-dbbd-4ace-83ab-5759523e165f/resource/a4f88d3a-7f10-4cc9-abc8-8c3688a00d3a> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/mappingpedia-engine/master/examples/edificio-historico.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "1678370417" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
