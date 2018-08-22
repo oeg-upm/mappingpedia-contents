@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-71bc2a68-a47d-487d-9089-fb1e9db6e983 dcat:distribution mpidd:distribution-2e9a3e48-a04a-4d21-81a0-c1242952fa31 .
+
+mpidd:distribution-2e9a3e48-a04a-4d21-81a0-c1242952fa31 a dcat:Distribution;
+    dcterms:identifier "2e9a3e48-a04a-4d21-81a0-c1242952fa31" ;
+    mpv:ckanResourceId "cecd3a01-7c45-4c05-a7f9-5c0fc53e32fc" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 71bc2a68-a47d-487d-9089-fb1e9db6e983" ;
+    dcterms:issued "2018-08-22T15:23:42"^^xsd:dateTime;
+    dcterms:modified "2018-08-22T15:23:42"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/bd116306-2a72-4ad2-8f95-7cbff1eea1f4/resource/cecd3a01-7c45-4c05-a7f9-5c0fc53e32fc> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/ahmad88me/tada/master/tadacode/explore/clean_input/volleyballplayers.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "-78652451" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
