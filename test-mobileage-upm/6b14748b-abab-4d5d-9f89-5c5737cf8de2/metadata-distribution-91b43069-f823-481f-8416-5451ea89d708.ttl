@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-6b14748b-abab-4d5d-9f89-5c5737cf8de2 dcat:distribution mpidd:distribution-91b43069-f823-481f-8416-5451ea89d708 .
+
+mpidd:distribution-91b43069-f823-481f-8416-5451ea89d708 a dcat:Distribution;
+    dcterms:identifier "91b43069-f823-481f-8416-5451ea89d708" ;
+    mpv:ckanResourceId "19621f8c-f3f0-4520-a88d-0a791d127c44" ;
+    dcterms:title "" ;
+    dcterms:description "" ;
+    dcterms:issued "2018-08-28T18:41:31"^^xsd:dateTime;
+    dcterms:modified "2018-08-28T18:41:31"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/f9dcd82c-0e59-41d1-92e3-c72219b398db/resource/19621f8c-f3f0-4520-a88d-0a791d127c44> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/oeg-upm/morph-rdb/master/morph-examples/examples-csv/edificio-historico.csv> ;
+    dcat:mediaType "" ;
+    mpv:hash "1678370417" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
