@@ -1,0 +1,59 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-dataset-template.ttl
+
+#mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-c5c96b25-5865-4077-b384-1d0a1efa53cd a mpv:Dataset ;
+    dcat:publisher mpip:test-mobileage-upm3 ;
+    dcterms:title "c5c96b25-5865-4077-b384-1d0a1efa53cd" ;
+    dcterms:description "c5c96b25-5865-4077-b384-1d0a1efa53cd" ;
+    dcterms:issued "2018-08-29T19:02:05"^^xsd:dateTime;
+    dcterms:modified "2018-08-29T19:02:05"^^xsd:dateTime;
+    dcterms:identifier "c5c96b25-5865-4077-b384-1d0a1efa53cd" ;
+    dcat:keyword "" ;
+    dcterms:language <> ;
+    dct:accessRight "" ;
+    dct:provenance "" ;
+    mpv:datasetIdentifier "dataset-c5c96b25-5865-4077-b384-1d0a1efa53cd" ;
+    mpv:ckanPackageId "ac01f9d5-fec6-4512-9578-af9e0e329912" ;
+    mpv:ckanPackageName "c5c96b25-5865-4077-b384-1d0a1efa53cd" ;
+    mpv:ckanPackageLicense "" ;
+    dct:source "";
+    owl:versionInfo "" ;
+    dct:hasVersion "" ;
+    mpv:ckanAuthor "" ;
+    mpv:ckanAuthorEmail "" ;
+    mpv:ckanMaintainer "" ;
+    mpv:ckanMaintainerEmail "" ;
+    dct:temporal "" ;
+    dct:spatial "" ;
+    dct:ckanAccrualPeriodicity "" ;
+    prov:wasAttributedTo <>;
+    prov:wasGeneratedBy <>;
+    prov:wasDerivedFrom <>;
+    prov:specializationOf <>;
+    prov:hadPrimarySource <>;
+    prov:wasRevisionOf <>;
+    prov:wasInfluencedBy <>;
+    mpv:ckanOrganizationId "test-mobileage-upm3" ;
+    mpv:ckanOrganizationName "test-mobileage-upm3" ;
+.
+
