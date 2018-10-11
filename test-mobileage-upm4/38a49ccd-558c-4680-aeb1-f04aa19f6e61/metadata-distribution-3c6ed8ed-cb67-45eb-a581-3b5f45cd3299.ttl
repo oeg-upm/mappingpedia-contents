@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-38a49ccd-558c-4680-aeb1-f04aa19f6e61 dcat:distribution mpidd:distribution-3c6ed8ed-cb67-45eb-a581-3b5f45cd3299 .
+
+mpidd:distribution-3c6ed8ed-cb67-45eb-a581-3b5f45cd3299 a dcat:Distribution;
+    dcterms:identifier "3c6ed8ed-cb67-45eb-a581-3b5f45cd3299" ;
+    mpv:ckanResourceId "7cb88340-69c6-4ecb-be6c-808694aa01c6" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 38a49ccd-558c-4680-aeb1-f04aa19f6e61" ;
+    dcterms:issued "2018-10-11T15:09:21"^^xsd:dateTime;
+    dcterms:modified "2018-10-11T15:09:21"^^xsd:dateTime;
+    dcat:accessURL <http://localhost/dataset/ff20e93f-e975-4d3e-863d-2708b70de4d1/resource/7cb88340-69c6-4ecb-be6c-808694aa01c6> ;
+    dcat:downloadURL <> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
