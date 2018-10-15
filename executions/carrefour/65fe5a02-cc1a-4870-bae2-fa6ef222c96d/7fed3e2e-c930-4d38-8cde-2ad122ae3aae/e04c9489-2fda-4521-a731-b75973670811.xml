@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparql>
+    <head>
+        <variable name="s"/>
+        <variable name="p"/>
+        <variable name="o"/>
+    </head>
+    <results>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000291/mendiants</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Mendiants</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000002219/salade-shaker-chef</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Salade shaker chef</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001001</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/creator</uri>
+            </binding>
+            <binding name="o">
+                <literal>openfoodfacts-contributors</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000031/cacao</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Cacao</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001151/baguette-lyonnais</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/creator</uri>
+            </binding>
+            <binding name="o">
+                <literal>kiliweb</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/creator</uri>
+            </binding>
+            <binding name="o">
+                <literal>kiliweb</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001007/vainilla</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/creator</uri>
+            </binding>
+            <binding name="o">
+                <literal>kiliweb</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000970/fromage-blanc-aux-myrtilles</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/creator</uri>
+            </binding>
+            <binding name="o">
+                <literal>kiliweb</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Salade de macedoine de légumes</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/creator</uri>
+            </binding>
+            <binding name="o">
+                <literal>kiliweb</literal>
+            </binding>
+        </result>
+    </results>
+</sparql>
