@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparql>
+    <head>
+        <variable name="s"/>
+        <variable name="p"/>
+        <variable name="o"/>
+    </head>
+    <results>
+        <result>
+            <binding name="s">
+                <uri>1001</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1564</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>3.3</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1663</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1564</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Fromage blanc pêche</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>949</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>0.1</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1007</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1885</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>Quantity to be completed</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1199</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>Photos to be validated</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1007</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Vainilla</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>949</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>134</literal>
+            </binding>
+        </result>
+    </results>
+</sparql>
