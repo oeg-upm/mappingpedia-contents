@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparql>
+    <head>
+        <variable name="s"/>
+        <variable name="p"/>
+        <variable name="o"/>
+    </head>
+    <results>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/202</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Manifestación , 30</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/227</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/227</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/123</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Méndez Núñez , 28</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/229</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Alfonso I , 28 - Espoz y Mina , 2</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/205</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Manifestación , 31 - Prudencio</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/246</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/246</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/238</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/238</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/131</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/131</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/213</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Viola , 6 / San Agustín</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/228</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/228</literal>
+            </binding>
+        </result>
+    </results>
+</sparql>
