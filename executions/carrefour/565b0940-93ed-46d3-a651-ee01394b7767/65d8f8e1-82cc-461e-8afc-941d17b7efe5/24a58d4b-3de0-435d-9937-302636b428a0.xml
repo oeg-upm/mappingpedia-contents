@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparql>
+    <head>
+        <variable name="s"/>
+        <variable name="p"/>
+        <variable name="o"/>
+    </head>
+    <results>
+        <result>
+            <binding name="s">
+                <uri>970</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>3.1</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>123</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>88</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>31</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>2219</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>301</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1001</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1663</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>17</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>3.08</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>2042</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>2.5</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1007</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>1328</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>12</literal>
+            </binding>
+        </result>
+    </results>
+</sparql>
