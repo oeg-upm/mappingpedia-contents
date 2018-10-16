@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparql>
+    <head>
+        <variable name="s"/>
+        <variable name="p"/>
+        <variable name="o"/>
+    </head>
+    <results>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>0.1</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001199/solene-cereales-poulet-crous</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>1199</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000970/fromage-blanc-aux-myrtilles</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>970</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>1311</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>en:pies</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Tarte noix de coco</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001001</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000031/cacao</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>31</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000291/mendiants</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Mendiants</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001885/compote-de-poire-crous</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>Photos uploaded</literal>
+            </binding>
+        </result>
+    </results>
+</sparql>
