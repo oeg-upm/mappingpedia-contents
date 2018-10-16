@@ -16,6 +16,11 @@
             a rr:Subject; rr:termType rr:IRI; rr:class schema:NutritionInformation;
             rr:column "\"CODE\"";
         ];
+
+        rr:predicateObjectMap [
+          rr:predicateMap [ rr:constant schema:name ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"PRODUCT_NAME\""; ];
+        ];
         
         rr:predicateObjectMap [
           rr:predicateMap [ rr:constant schema:transFatContent ];
