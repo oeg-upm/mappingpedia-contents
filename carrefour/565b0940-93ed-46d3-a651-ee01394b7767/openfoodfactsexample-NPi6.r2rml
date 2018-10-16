@@ -19,7 +19,7 @@
         
         rr:predicateObjectMap [
           rr:predicateMap [ rr:constant schema:transFatContent ];
-          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"TRANS-FAT_100G\""; ];
+          rr:objectMap    [ rr:termType rr:Literal; rr:column "\"TRANSFAT_100G\""; ];
         ];
     
 
