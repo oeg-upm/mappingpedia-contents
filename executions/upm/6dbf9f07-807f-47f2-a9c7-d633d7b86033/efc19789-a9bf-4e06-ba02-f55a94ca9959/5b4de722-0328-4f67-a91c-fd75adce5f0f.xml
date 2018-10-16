@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparql>
+    <head>
+        <variable name="s"/>
+        <variable name="p"/>
+        <variable name="o"/>
+    </head>
+    <results>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/229</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/229</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/255</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/255</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/119</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Mefisto , Fernando Soteras , 7</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/220</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Avda. Valencia , 59</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/218</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/218</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/238</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/238</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/216</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Juseppe Martínez , 6</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/240</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/240</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/241</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/241</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/221</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/identifier</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/221</literal>
+            </binding>
+        </result>
+    </results>
+</sparql>
