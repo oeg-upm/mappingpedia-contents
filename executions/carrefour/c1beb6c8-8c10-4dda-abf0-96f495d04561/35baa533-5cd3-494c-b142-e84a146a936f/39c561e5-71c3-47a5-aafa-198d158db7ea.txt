@@ -1,0 +1,99 @@
+<http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers>	<http://schema.org/sugarContent>	"3.08"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers>	<http://schema.org/transFatContent>	"1569"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers>	<http://schema.org/identifier>	"17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers>	<http://schema.org/name>	"Vitória crackers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000031/cacao>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000000031/cacao>	<http://schema.org/identifier>	"31"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000031/cacao>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000031/cacao"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000031/cacao>	<http://schema.org/name>	"Cacao"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0>	<http://schema.org/sugarContent>	"0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0>	<http://schema.org/transFatContent>	"88"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0>	<http://schema.org/identifier>	"123"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0>	<http://schema.org/name>	"Sauce Sweety chili 0%"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000291/mendiants>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000000291/mendiants>	<http://schema.org/identifier>	"291"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000291/mendiants>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000291/mendiants"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000291/mendiants>	<http://schema.org/name>	"Mendiants"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees>	<http://schema.org/sugarContent>	"0.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees>	<http://schema.org/transFatContent>	"134"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees>	<http://schema.org/identifier>	"949"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees>	<http://schema.org/name>	"Salade de carottes râpées"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000970/fromage-blanc-aux-myrtilles>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000000970/fromage-blanc-aux-myrtilles>	<http://schema.org/sugarContent>	"3.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000970/fromage-blanc-aux-myrtilles>	<http://schema.org/transFatContent>	"540"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000970/fromage-blanc-aux-myrtilles>	<http://schema.org/identifier>	"970"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000970/fromage-blanc-aux-myrtilles>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000970/fromage-blanc-aux-myrtilles"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000000970/fromage-blanc-aux-myrtilles>	<http://schema.org/name>	"Fromage blanc aux myrtilles"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001001>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000001001>	<http://schema.org/identifier>	"1001"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001001>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001001"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001007/vainilla>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000001007/vainilla>	<http://schema.org/identifier>	"1007"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001007/vainilla>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001007/vainilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001007/vainilla>	<http://schema.org/name>	"Vainilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001151/baguette-lyonnais>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000001151/baguette-lyonnais>	<http://schema.org/identifier>	"1151"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001151/baguette-lyonnais>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001151/baguette-lyonnais"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001151/baguette-lyonnais>	<http://schema.org/name>	"&quot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001199/solene-cereales-poulet-crous>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000001199/solene-cereales-poulet-crous>	<http://schema.org/transFatContent>	"Photos to be validated"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001199/solene-cereales-poulet-crous>	<http://schema.org/identifier>	"1199"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001199/solene-cereales-poulet-crous>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001199/solene-cereales-poulet-crous"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001199/solene-cereales-poulet-crous>	<http://schema.org/name>	"Solène céréales poulet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto>	<http://schema.org/transFatContent>	"en:pies"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto>	<http://schema.org/identifier>	"1281"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto>	<http://schema.org/name>	"Tarte noix de coco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques>	<http://schema.org/sugarContent>	"0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques>	<http://schema.org/transFatContent>	"418"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques>	<http://schema.org/identifier>	"1311"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques>	<http://schema.org/name>	"Salade de fruits exotiques"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001328/chouquettes-x-30>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000001328/chouquettes-x-30>	<http://schema.org/sugarContent>	"12"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001328/chouquettes-x-30>	<http://schema.org/transFatContent>	"657"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001328/chouquettes-x-30>	<http://schema.org/identifier>	"1328"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001328/chouquettes-x-30>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001328/chouquettes-x-30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001328/chouquettes-x-30>	<http://schema.org/name>	"Chouquettes x 30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001564/fromage-blanc-peche>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000001564/fromage-blanc-peche>	<http://schema.org/sugarContent>	"3.3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001564/fromage-blanc-peche>	<http://schema.org/transFatContent>	"410"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001564/fromage-blanc-peche>	<http://schema.org/identifier>	"1564"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001564/fromage-blanc-peche>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001564/fromage-blanc-peche"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001564/fromage-blanc-peche>	<http://schema.org/name>	"Fromage blanc pêche"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001663/creme-dessert-chocolat-ferme-de-la-fremondiere>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000001663/creme-dessert-chocolat-ferme-de-la-fremondiere>	<http://schema.org/identifier>	"1663"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001663/creme-dessert-chocolat-ferme-de-la-fremondiere>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001663/creme-dessert-chocolat-ferme-de-la-fremondiere"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001663/creme-dessert-chocolat-ferme-de-la-fremondiere>	<http://schema.org/name>	"Crème dessert chocolat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001885/compote-de-poire-crous>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000001885/compote-de-poire-crous>	<http://schema.org/sugarContent>	"Photos uploaded"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001885/compote-de-poire-crous>	<http://schema.org/transFatContent>	"Quantity to be completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001885/compote-de-poire-crous>	<http://schema.org/identifier>	"1885"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001885/compote-de-poire-crous>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001885/compote-de-poire-crous"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000001885/compote-de-poire-crous>	<http://schema.org/name>	"Compote de poire"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002042/paella-de-poulet>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000002042/paella-de-poulet>	<http://schema.org/sugarContent>	"2.5"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002042/paella-de-poulet>	<http://schema.org/transFatContent>	"640"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002042/paella-de-poulet>	<http://schema.org/identifier>	"2042"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002042/paella-de-poulet>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000002042/paella-de-poulet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002042/paella-de-poulet>	<http://schema.org/name>	"Paëlla de poulet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002219/salade-shaker-chef>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000002219/salade-shaker-chef>	<http://schema.org/sugarContent>	"0.5"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002219/salade-shaker-chef>	<http://schema.org/transFatContent>	"301"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002219/salade-shaker-chef>	<http://schema.org/identifier>	"2219"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002219/salade-shaker-chef>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000002219/salade-shaker-chef"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002219/salade-shaker-chef>	<http://schema.org/name>	"Salade shaker chef"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes>	<http://schema.org/sugarContent>	"1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes>	<http://schema.org/transFatContent>	"598"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes>	<http://schema.org/identifier>	"2257"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes>	<http://schema.org/name>	"Salade de macedoine de légumes"^^<http://www.w3.org/2001/XMLSchema#string> .
