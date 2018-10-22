@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparql>
+    <head>
+        <variable name="s"/>
+        <variable name="p"/>
+        <variable name="o"/>
+    </head>
+    <results>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>1</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001001</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>134</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001564/fromage-blanc-peche</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Fromage blanc pêche</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000002042/paella-de-poulet</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://world-en.openfoodfacts.org/product/0000000002042/paella-de-poulet</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001001</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001199/solene-cereales-poulet-crous</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001001</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://world-en.openfoodfacts.org/product/0000000001001</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001663/creme-dessert-chocolat-ferme-de-la-fremondiere</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+        </result>
+    </results>
+</sparql>
