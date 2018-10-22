@@ -1,0 +1,92 @@
+<17>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<17>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<17>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<17>	<http://schema.org/name>	"Vitória crackers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<17>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<31>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<31>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<31>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000031/cacao"^^<http://www.w3.org/2001/XMLSchema#string> .
+<31>	<http://schema.org/name>	"Cacao"^^<http://www.w3.org/2001/XMLSchema#string> .
+<31>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<123>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<123>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<123>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<123>	<http://schema.org/name>	"Sauce Sweety chili 0%"^^<http://www.w3.org/2001/XMLSchema#string> .
+<123>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<291>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<291>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<291>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000291/mendiants"^^<http://www.w3.org/2001/XMLSchema#string> .
+<291>	<http://schema.org/name>	"Mendiants"^^<http://www.w3.org/2001/XMLSchema#string> .
+<291>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<949>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<949>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<949>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees"^^<http://www.w3.org/2001/XMLSchema#string> .
+<949>	<http://schema.org/name>	"Salade de carottes râpées"^^<http://www.w3.org/2001/XMLSchema#string> .
+<949>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<970>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<970>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<970>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000000970/fromage-blanc-aux-myrtilles"^^<http://www.w3.org/2001/XMLSchema#string> .
+<970>	<http://schema.org/name>	"Fromage blanc aux myrtilles"^^<http://www.w3.org/2001/XMLSchema#string> .
+<970>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1001>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<1001>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1001>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001001"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1001>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1007>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<1007>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1007>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001007/vainilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1007>	<http://schema.org/name>	"Vainilla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1007>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1151>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<1151>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001151/baguette-lyonnais"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1151>	<http://schema.org/name>	"&quot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1199>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<1199>	<http://schema.org/fatContent>	"en:expiration-date-to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1199>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001199/solene-cereales-poulet-crous"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1199>	<http://schema.org/name>	"Solène céréales poulet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1199>	<http://schema.org/saturatedFatContent>	"en:packaging-code-to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1281>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<1281>	<http://schema.org/fatContent>	"en:characteristics-to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1281>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1281>	<http://schema.org/name>	"Tarte noix de coco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1281>	<http://schema.org/saturatedFatContent>	"en:categories-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1311>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<1311>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1311>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1311>	<http://schema.org/name>	"Salade de fruits exotiques"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1311>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1328>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<1328>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1328>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001328/chouquettes-x-30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1328>	<http://schema.org/name>	"Chouquettes x 30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1328>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1564>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<1564>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1564>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001564/fromage-blanc-peche"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1564>	<http://schema.org/name>	"Fromage blanc pêche"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1564>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1663>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<1663>	<http://schema.org/fatContent>	"en:quantity-to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1663>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001663/creme-dessert-chocolat-ferme-de-la-fremondiere"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1663>	<http://schema.org/name>	"Crème dessert chocolat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1663>	<http://schema.org/saturatedFatContent>	"en:product-name-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1885>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<1885>	<http://schema.org/fatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1885>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000001885/compote-de-poire-crous"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1885>	<http://schema.org/name>	"Compote de poire"^^<http://www.w3.org/2001/XMLSchema#string> .
+<1885>	<http://schema.org/saturatedFatContent>	"en:ingredients-to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2042>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<2042>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2042>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000002042/paella-de-poulet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2042>	<http://schema.org/name>	"Paëlla de poulet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2042>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2219>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<2219>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2219>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000002219/salade-shaker-chef"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2219>	<http://schema.org/name>	"Salade shaker chef"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2219>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2257>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/NutritionInformation> .
+<2257>	<http://schema.org/fatContent>	"en:to-be-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2257>	<http://schema.org/url>	"http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2257>	<http://schema.org/name>	"Salade de macedoine de légumes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<2257>	<http://schema.org/saturatedFatContent>	"en:nutrition-facts-completed"^^<http://www.w3.org/2001/XMLSchema#string> .
