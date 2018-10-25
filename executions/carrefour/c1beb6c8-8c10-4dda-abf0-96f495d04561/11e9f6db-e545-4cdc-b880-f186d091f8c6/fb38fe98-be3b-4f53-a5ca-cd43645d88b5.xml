@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparql>
+    <head>
+        <variable name="s"/>
+        <variable name="p"/>
+        <variable name="o"/>
+    </head>
+    <results>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001007/vainilla</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Vainilla</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000291/mendiants</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/fatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>en:to-be-completed</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001663/creme-dessert-chocolat-ferme-de-la-fremondiere</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Crème dessert chocolat</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Vitória crackers</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001001</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/fatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>en:to-be-completed</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Sauce Sweety chili 0%</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001564/fromage-blanc-peche</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/fatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>en:to-be-completed</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001663/creme-dessert-chocolat-ferme-de-la-fremondiere</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/fatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>en:quantity-to-be-completed</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Tarte noix de coco</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/fatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>en:to-be-completed</literal>
+            </binding>
+        </result>
+    </results>
+</sparql>
