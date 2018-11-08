@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparql>
+    <head>
+        <variable name="s"/>
+        <variable name="p"/>
+        <variable name="o"/>
+    </head>
+    <results>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/220</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/220</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/119</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/119</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/228</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/228</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/256</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/256</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/236</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Edificio Sede de la Caridad</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/131</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Francisco Loscos , 4</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/255</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/255</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/213</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/213</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/209</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Manifestación , 40</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://www.zaragoza.es/api/recurso/turismo/edificio-historico/227</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal> Alfonso I , 23</literal>
+            </binding>
+        </result>
+    </results>
+</sparql>
