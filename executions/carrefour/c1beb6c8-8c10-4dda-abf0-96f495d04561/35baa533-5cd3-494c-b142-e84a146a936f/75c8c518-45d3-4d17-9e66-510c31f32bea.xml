@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparql>
+    <head>
+        <variable name="s"/>
+        <variable name="p"/>
+        <variable name="o"/>
+    </head>
+    <results>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000031/cacao</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Cacao</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000031/cacao</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://world-en.openfoodfacts.org/product/0000000000031/cacao</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001311/salade-de-fruits-exotiques</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>418</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001151/baguette-lyonnais</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://world-en.openfoodfacts.org/product/0000000001151/baguette-lyonnais</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000002257/salade-de-macedoine-de-legumes</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/name</uri>
+            </binding>
+            <binding name="o">
+                <literal>Salade de macedoine de légumes</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000031/cacao</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/sugarContent</uri>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/url</uri>
+            </binding>
+            <binding name="o">
+                <literal>http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000001328/chouquettes-x-30</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>657</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name="s">
+                <uri>http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0</uri>
+            </binding>
+            <binding name="p">
+                <uri>http://schema.org/transFatContent</uri>
+            </binding>
+            <binding name="o">
+                <literal>88</literal>
+            </binding>
+        </result>
+    </results>
+</sparql>
