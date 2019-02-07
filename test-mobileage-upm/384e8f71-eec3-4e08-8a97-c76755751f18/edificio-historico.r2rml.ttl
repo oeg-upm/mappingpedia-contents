@@ -41,7 +41,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="D9A4:2E5D1:2804571:3C32D3D:5C5CB16D" data-pjax-transient>
+  <meta name="request-id" content="D9DC:2E5CC:1E27070:2D383C6:5C5CB19C" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D9A4:2E5D1:2804571:3C32D3D:5C5CB16D" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D9DC:2E5CC:1E27070:2D383C6:5C5CB19C" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -70,11 +70,11 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MjgxN2IxN2M1NTZhNzhlN2FiMWYyNWIyOGQ0YTdmMGQ0ZjAyMGUxMmJhZDQ4OWQ1OGE4MDU4MjFiNWMxZjI3YXx7InJlbW90ZV9hZGRyZXNzIjoiODMuMjEyLjEwMC4yMjYiLCJyZXF1ZXN0X2lkIjoiRDlBNDoyRTVEMToyODA0NTcxOjNDMzJEM0Q6NUM1Q0IxNkQiLCJ0aW1lc3RhbXAiOjE1NDk1Nzg2MDUsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="MzIzMDUzM2NlZmM0YjgyY2RmZDhjOTM5ZTRjMGQzZDZmN2I2MGJhYWEwNzNkNTc4OWUzNTQ5NmNkOGJlY2EzZHx7InJlbW90ZV9hZGRyZXNzIjoiODMuMjEyLjEwMC4yMjYiLCJyZXF1ZXN0X2lkIjoiRDlEQzoyRTVDQzoxRTI3MDcwOjJEMzgzQzY6NUM1Q0IxOUMiLCJ0aW1lc3RhbXAiOjE1NDk1Nzg2NTIsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR">
 
-  <meta name="html-safe-nonce" content="3d590ea51846d13b87d4f47916cde780f707a5b7">
+  <meta name="html-safe-nonce" content="a0f3cbf7fb40908409061d70ae061c5f385abf43">
 
   <meta http-equiv="x-pjax-version" content="be484e5f2c9f5c36e4956aad20dff119">
   
@@ -254,7 +254,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=R++TF+xIxAJ2t5OaakliSBo3uiFnnB2fBZQZCDn9eBRGl3nJbzKA8CbFiKNVAC5NCAfNRnxLZ5XLEQc+GHgvLw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=EGsULLvVFT966S9cat2222sTSWyqMZ2fzAPSUnKGhr7W9p+8wzOxqlL2e57LALkW4YXhIu5TnEBeK91bhdp4zg=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -534,7 +534,7 @@
         <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="O2p8D5S+hzOVawDhQxwxKiVpyRaeQ+qq7Lh1792pJk8ZZL9yEI03snqY6h2MIXXpLRn2/3bk8NisctPwWFLdlA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FK9KPT1MTLhCPEROOjqcoFUIYmoowMtdryhriQPFRUUnQBzfgS27I/aCiged1pvbE62X5c6eGp44GRCg3182Qg==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
@@ -785,7 +785,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.29841s from unicorn-975596c6c-v8xzp">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.52598s from unicorn-949d5f4cb-kfkzc">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
