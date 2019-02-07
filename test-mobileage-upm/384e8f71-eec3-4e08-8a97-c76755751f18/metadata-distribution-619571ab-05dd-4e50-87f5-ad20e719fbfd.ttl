@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-384e8f71-eec3-4e08-8a97-c76755751f18 dcat:distribution mpidd:distribution-619571ab-05dd-4e50-87f5-ad20e719fbfd .
+
+mpidd:distribution-619571ab-05dd-4e50-87f5-ad20e719fbfd a dcat:Distribution;
+    dcterms:identifier "619571ab-05dd-4e50-87f5-ad20e719fbfd" ;
+    mpv:ckanResourceId "df4ebc31-9cc0-4b58-8cd8-c4a208d5de65" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 384e8f71-eec3-4e08-8a97-c76755751f18" ;
+    dcterms:issued "2019-02-08T00:29:20"^^xsd:dateTime;
+    dcterms:modified "2019-02-08T00:29:20"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/c8a78e23-d5bd-4bc1-8c64-1975ef6ffba3/resource/df4ebc31-9cc0-4b58-8cd8-c4a208d5de65> ;
+    dcat:downloadURL <https://github.com/oeg-upm/mappingpedia-engine/blob/master/examples/edificio-historico.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "-2068838394" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
