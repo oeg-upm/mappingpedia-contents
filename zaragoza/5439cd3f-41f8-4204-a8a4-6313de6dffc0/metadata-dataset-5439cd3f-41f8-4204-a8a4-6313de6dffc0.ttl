@@ -1,0 +1,59 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-dataset-template.ttl
+
+#mpv:Dataset rdfs:subClassOf dcat:Dataset .
+mpids:dataset-5439cd3f-41f8-4204-a8a4-6313de6dffc0 a mpv:Dataset ;
+    dcat:publisher mpip:zaragoza ;
+    dcterms:title "Historical Buildings in Zaragoza, uploaded by Oscar" ;
+    dcterms:description "5439cd3f-41f8-4204-a8a4-6313de6dffc0" ;
+    dcterms:issued "2019-02-08T15:58:08"^^xsd:dateTime;
+    dcterms:modified "2019-02-08T15:58:08"^^xsd:dateTime;
+    dcterms:identifier "5439cd3f-41f8-4204-a8a4-6313de6dffc0" ;
+    dcat:keyword "" ;
+    dcterms:language <> ;
+    dct:accessRight "" ;
+    dct:provenance "" ;
+    mpv:datasetIdentifier "dataset-5439cd3f-41f8-4204-a8a4-6313de6dffc0" ;
+    mpv:ckanPackageId "cdf6f3f2-caea-482c-8fc2-4be80f2f5566" ;
+    mpv:ckanPackageName "5439cd3f-41f8-4204-a8a4-6313de6dffc0" ;
+    mpv:ckanPackageLicense "" ;
+    dct:source "";
+    owl:versionInfo "" ;
+    dct:hasVersion "" ;
+    mpv:ckanAuthor "" ;
+    mpv:ckanAuthorEmail "" ;
+    mpv:ckanMaintainer "" ;
+    mpv:ckanMaintainerEmail "" ;
+    dct:temporal "" ;
+    dct:spatial "" ;
+    dct:ckanAccrualPeriodicity "" ;
+    prov:wasAttributedTo <>;
+    prov:wasGeneratedBy <>;
+    prov:wasDerivedFrom <>;
+    prov:specializationOf <>;
+    prov:hadPrimarySource <>;
+    prov:wasRevisionOf <>;
+    prov:wasInfluencedBy <>;
+    mpv:ckanOrganizationId "zaragoza" ;
+    mpv:ckanOrganizationName "zaragoza" ;
+.
+
