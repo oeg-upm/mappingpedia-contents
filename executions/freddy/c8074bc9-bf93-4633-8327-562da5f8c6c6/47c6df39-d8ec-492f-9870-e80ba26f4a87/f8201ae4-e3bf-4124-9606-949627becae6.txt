@@ -1,0 +1,22 @@
+<Beamish Museum>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<Beamish Museum>	<http://schema.org/name>	"Beamish Museum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<Binchester Roman Fort>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<Binchester Roman Fort>	<http://schema.org/name>	"Binchester Roman Fort"^^<http://www.w3.org/2001/XMLSchema#string> .
+<Durham Museum and Heritage Centre>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<Durham Museum and Heritage Centre>	<http://schema.org/name>	"Durham Museum and Heritage Centre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<Killhope Lead Mining Museum>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<Killhope Lead Mining Museum>	<http://schema.org/name>	"Killhope Lead Mining Museum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<Living on the Hills (Permanent Exhibition)>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<Living on the Hills (Permanent Exhibition)>	<http://schema.org/name>	"Living on the Hills (Permanent Exhibition)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<Museum of Archaeology>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<Museum of Archaeology>	<http://schema.org/name>	"Museum of Archaeology"^^<http://www.w3.org/2001/XMLSchema#string> .
+<The Bowes Museum>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<The Bowes Museum>	<http://schema.org/name>	"The Bowes Museum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<The National Railway Museum, Shildon>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<The National Railway Museum, Shildon>	<http://schema.org/name>	"The National Railway Museum, Shildon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<The Oriental Museum>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<The Oriental Museum>	<http://schema.org/name>	"The Oriental Museum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<Vintage Vehicles Museum>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<Vintage Vehicles Museum>	<http://schema.org/name>	"Vintage Vehicles Museum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<Weardale Museum and High House Chapel>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Museum> .
+<Weardale Museum and High House Chapel>	<http://schema.org/name>	"Weardale Museum and High House Chapel"^^<http://www.w3.org/2001/XMLSchema#string> .
