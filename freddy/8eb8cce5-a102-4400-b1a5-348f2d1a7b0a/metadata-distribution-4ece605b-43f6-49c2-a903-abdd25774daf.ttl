@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-8eb8cce5-a102-4400-b1a5-348f2d1a7b0a dcat:distribution mpidd:distribution-4ece605b-43f6-49c2-a903-abdd25774daf .
+
+mpidd:distribution-4ece605b-43f6-49c2-a903-abdd25774daf a dcat:Distribution;
+    dcterms:identifier "4ece605b-43f6-49c2-a903-abdd25774daf" ;
+    mpv:ckanResourceId "b973dd79-b56e-4dfe-8af8-4b4b204296a9" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset 8eb8cce5-a102-4400-b1a5-348f2d1a7b0a" ;
+    dcterms:issued "2019-03-15T17:43:09"^^xsd:dateTime;
+    dcterms:modified "2019-03-15T17:43:09"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/37b4b97a-9003-4d4a-99bf-5f37cc7548ed/resource/b973dd79-b56e-4dfe-8af8-4b4b204296a9> ;
+    dcat:downloadURL <https://datamillnorth.org/download/places-of-interest-in-leeds/3b28222e-dffb-4b59-ac4b-f3cb283de85f/Attractions.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "-816160296" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
