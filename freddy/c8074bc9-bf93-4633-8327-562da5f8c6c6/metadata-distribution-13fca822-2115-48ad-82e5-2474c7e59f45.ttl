@@ -1,0 +1,40 @@
+#metadata-namespaces-template.ttl
+
+@base <http://mappingpedia.linkeddata.es/instance#> .
+@prefix dcterms: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix mpv: <http://mappingpedia.linkeddata.es/vocabulary#> .
+@prefix mpi: <http://mappingpedia.linkeddata.es/instance/> .
+@prefix mpip: <http://mappingpedia.linkeddata.es/instance/publisher/> .
+@prefix mpimd: <http://mappingpedia.linkeddata.es/instance/mappingdocument/> .
+@prefix mpids: <http://mappingpedia.linkeddata.es/instance/dataset/> .
+@prefix mpidd: <http://mappingpedia.linkeddata.es/instance/dataset/distribution/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+#metadata-distributions-template.ttl
+
+mpids:dataset-c8074bc9-bf93-4633-8327-562da5f8c6c6 dcat:distribution mpidd:distribution-13fca822-2115-48ad-82e5-2474c7e59f45 .
+
+mpidd:distribution-13fca822-2115-48ad-82e5-2474c7e59f45 a dcat:Distribution;
+    dcterms:identifier "13fca822-2115-48ad-82e5-2474c7e59f45" ;
+    mpv:ckanResourceId "ae13b684-4410-4aef-a758-8373e0b8a726" ;
+    dcterms:title "" ;
+    dcterms:description "Distribution of Dataset c8074bc9-bf93-4633-8327-562da5f8c6c6" ;
+    dcterms:issued "2019-03-15T17:37:58"^^xsd:dateTime;
+    dcterms:modified "2019-03-15T17:37:58"^^xsd:dateTime;
+    dcat:accessURL <http://83.212.100.226/ckan/dataset/10f94f29-f49b-461f-812a-3a61ad137652/resource/ae13b684-4410-4aef-a758-8373e0b8a726> ;
+    dcat:downloadURL <https://datamillnorth.org/download/museums/358bc9d6-7ed6-460e-98c0-7c085ae34c06/Museums.csv> ;
+    dcat:mediaType "text/csv" ;
+    mpv:hash "-1403126499" ;
+    dcterms:language <> ;
+    dcterms:license "" ;
+    dcterms:rights "" ;
+.
+
