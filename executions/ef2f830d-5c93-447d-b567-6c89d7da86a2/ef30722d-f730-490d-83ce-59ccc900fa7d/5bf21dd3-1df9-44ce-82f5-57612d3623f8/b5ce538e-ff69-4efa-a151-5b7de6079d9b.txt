@@ -1,0 +1,570 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2572> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 721 449}" ;
+	<http://schema.org/name> "Actividades didácticas" ;
+	<http://schema.org/address> "C/ Torrenueva, 25" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8466> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 47 88 41, fax=976 47 31 06}" ;
+	<http://schema.org/name> "C.P. Marie Curie" ;
+	<http://schema.org/address> "C/ Molino de las Armas, 57" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8647> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 57 30 30, fax=976 57 30 30}" ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Primaria y Secundaria La Alfranca" ;
+	<http://schema.org/address> "Avda. de Movera, 147" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13800> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 27 26 23 }" ;
+	<http://schema.org/name> "Colegio Adventista - Rigel" ;
+	<http://schema.org/address> "C/ Alicante, 3-11" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13802> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 41 00 77 , fax=976 49 68 05 }" ;
+	<http://schema.org/name> "Colegio Agustín Gericó (Montemolín Patronato)" ;
+	<http://schema.org/address> "Avda. Cesáreo Alierta, 72" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13803> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 37 99 27 , fax=976 37 99 27 }" ;
+	<http://schema.org/name> "Colegio Atades, C.E.Especial San Martín de Porres" ;
+	<http://schema.org/address> "C/ Octavio de Toledo, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13804> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 41 43 00 , fax=976 46 10 40 }" ;
+	<http://schema.org/name> "Colegio Bajo Aragón" ;
+	<http://schema.org/address> "C/ Padre Chaminade, 6" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13805> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 50 52 23 , fax=976 50 52 23}" ;
+	<http://schema.org/name> "Colegio Británico de Aragón" ;
+	<http://schema.org/address> "Ctra. Valencia Km. 8,5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13806> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 27 49 00 , fax=976 27 49 09 }" ;
+	<http://schema.org/name> "Colegio Calasancio" ;
+	<http://schema.org/address> "C/ Sevilla, 19" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13807> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 22 38 86 , fax=976 23 39 71}" ;
+	<http://schema.org/name> "Colegio Calasanz" ;
+	<http://schema.org/address> "C/ Teniente Coronel Valenzuela, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13808> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 22 32 11, fax=976 22 83 19}" ;
+	<http://schema.org/name> "Colegio Cantín y Gamboa" ;
+	<http://schema.org/address> "C/ Moret, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13809> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 79 11 30 , fax=976 35 26 91 }" ;
+	<http://schema.org/name> "Colegio Cardenal Xavierre" ;
+	<http://schema.org/address> "Pza. San Francisco, 15" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13810> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 22 18 63 , fax=976 22 51 85 }" ;
+	<http://schema.org/name> "Colegio Compañía de María" ;
+	<http://schema.org/address> "C/ Bilbao, 10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11990> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 224 864, fax=976 222 999}" ;
+	<http://schema.org/name> "Colegio Corazonistas" ;
+	<http://schema.org/address> "Pº de la Mina, 4-10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13811> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 51 44 22 , fax=976 73 29 86 }" ;
+	<http://schema.org/name> "Colegio Cristo Rey" ;
+	<http://schema.org/address> "Avda. Academia General Militar, 80" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8596> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 79 94 99, fax=976506110}" ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Agustina de Aragón" ;
+	<http://schema.org/address> "C/ Eugenio Lucas, 14" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8597> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 33 28 64, fax=976 33 28 64}" ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Antonio Beltrán Martínez" ;
+	<http://schema.org/address> "Vía Hispanidad, 68" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8665> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 74 35 16, fax=976 74 35 16}" ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Lucien Briet" ;
+	<http://schema.org/address> "Camino de Juslibol s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8957> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 50 68 11, fax=976 50 68 11}" ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Ronda Norte" ;
+	<http://schema.org/address> "C/ La Fragua, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8958> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=876241565, fax=876241182}" ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Rosales del Canal" ;
+	<http://schema.org/address> "C/ San Juan Bautista de la Salle, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8985> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 93 35 99, fax=976933601}" ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Valdespartera" ;
+	<http://schema.org/address> "C/ Volver a Empezar, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28066> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 95 06 96}" ;
+	<http://schema.org/name> "Colegio de Educación Infantil y Primaria Zaragoza Sur" ;
+	<http://schema.org/address> "C/ Antonio Vivaldi" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13947> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 290 508 , fax=976 290 508 }" ;
+	<http://schema.org/name> "Colegio de San Vicente de Paul" ;
+	<http://schema.org/address> "C/ San Vicente de Paul, 31" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13820> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 39 66 19 , fax=976 39 69 59 }" ;
+	<http://schema.org/name> "Colegio Don Bosco" ;
+	<http://schema.org/address> "C/ Alfonso Zapater Cerda, 21" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13840> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 27 3 762 , fax=976 258 192 }" ;
+	<http://schema.org/name> "Colegio El Buen Pastor" ;
+	<http://schema.org/address> "C/ Monzón, 27" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13841> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 33 89 76 , fax=976 33 89 76 }" ;
+	<http://schema.org/name> "Colegio El Cariño" ;
+	<http://schema.org/address> "Ctra. Logroño, Km 7,8" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13842> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 51 96 55 , fax=976 52 46 45 }" ;
+	<http://schema.org/name> "Colegio El Pilar - Maristas" ;
+	<http://schema.org/address> "C/ Rafael Alberti, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13843> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 29 82 73 }" ;
+	<http://schema.org/name> "Colegio Escolanía Infantes del Pilar" ;
+	<http://schema.org/address> "C/ Florencio Jardiel" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13844> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 44 02 22 , fax=976 43 97 34 }" ;
+	<http://schema.org/name> "Colegio Escuelas Pías" ;
+	<http://schema.org/address> "C/ Conde Aranda, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13860> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 37 10 68 , fax=976 27 02 42 }" ;
+	<http://schema.org/name> "Colegio Escuelas Pías - Santa Engracia" ;
+	<http://schema.org/address> "Camino de Miraflores, 23" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13861> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 33 35 24 , fax=976 48 83 84 }" ;
+	<http://schema.org/name> "Colegio Hijas de San José" ;
+	<http://schema.org/address> "C/ Duquesa Villahermosa, 16" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13882> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 57 03 22 , fax=976 57 03 22 }" ;
+	<http://schema.org/name> "Colegio Inmaculada Concepción" ;
+	<http://schema.org/address> "C/ La Iglesia, 30" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13862> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 41 63 14 , fax=976 41 59 11 }" ;
+	<http://schema.org/name> "Colegio Inmaculada Concepción" ;
+	<http://schema.org/address> "C/ Concepción, 10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13863> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 35 34 00 , fax=976 55 65 97 }" ;
+	<http://schema.org/name> "Colegio Jesús María el Salvador" ;
+	<http://schema.org/address> "C/ Cardenal Gomá, 13" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13880> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 300 336 , fax=976 300 337 }" ;
+	<http://schema.org/name> "Colegio Juan de Lanuza" ;
+	<http://schema.org/address> "Ctra. Nacional 125, Km.7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13881> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 43 66 00 , fax=976 28 40 46 }" ;
+	<http://schema.org/name> "Colegio La Anunciata" ;
+	<http://schema.org/address> "C/ Santa Inés, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13883> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 27 96 06 , fax=976 27 96 06 }" ;
+	<http://schema.org/name> "Colegio La Milagrosa" ;
+	<http://schema.org/address> "C/ Maestro Estremiana, 3-5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13884> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 55 27 49 , fax=976 55 27 49 }" ;
+	<http://schema.org/name> "Colegio La Purísima para Niños Sordos" ;
+	<http://schema.org/address> "C/ Corona de Aragón, 54" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13885> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 20 22 53 , fax=976 20 45 41 }" ;
+	<http://schema.org/name> "Colegio La Purísima y San Antonio" ;
+	<http://schema.org/address> "Camino del Vado, 9" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13886> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 55 12 50 , fax=976 55 02 02 }" ;
+	<http://schema.org/name> "Colegio La Salle Franciscanas" ;
+	<http://schema.org/address> "C/ Andrés Piquer, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13887> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 41 63 06 , fax=976 59 64 49 }" ;
+	<http://schema.org/name> "Colegio La Salle Montemolín" ;
+	<http://schema.org/address> "C/ José Galiay, 11" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13902> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 56 50 00 , fax=976 56 00 18}" ;
+	<http://schema.org/name> "Colegio Liceo Europa" ;
+	<http://schema.org/address> "Camino de la Fuente de la Junquera, 21" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13903> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 52 54 44 , fax=976 52 54 33}" ;
+	<http://schema.org/name> "Colegio Lycée Français Molière" ;
+	<http://schema.org/address> "C/ Manuel Marraco Ramón, 8" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13904> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 56 32 38 , fax=976 56 48 97 }" ;
+	<http://schema.org/name> "Colegio Madre María Rosa Molas" ;
+	<http://schema.org/address> "C/ Vía Ibérica, 25" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13906> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 27 27 50 , fax=976 27 07 06 }" ;
+	<http://schema.org/name> "Colegio María Auxiliadora" ;
+	<http://schema.org/address> "C/ Mornes, 14" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13907> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 33 17 64 , fax=976 33 55 33 }" ;
+	<http://schema.org/name> "Colegio María Inmaculada" ;
+	<http://schema.org/address> "Vía Hispanidad, 91-93" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11989> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 751 259, fax=976 458 130}" ;
+	<http://schema.org/name> "Colegio Moncayo San Valero" ;
+	<http://schema.org/address> "C/ Juan Pablo II, 58" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13908> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 56 22 67 , fax=976 35 30 76}" ;
+	<http://schema.org/name> "Colegio Montearagón" ;
+	<http://schema.org/address> "Pº Reyes de Aragón, 21" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13909> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 306 100 , fax=976 562 143}" ;
+	<http://schema.org/name> "Colegio Montessori" ;
+	<http://schema.org/address> "C/ Lagasca, 25-27" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8349> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 43 05 05, fax=976 43 05 03}" ;
+	<http://schema.org/name> "Colegio Ntra. Sra. del Carmen y San José" ;
+	<http://schema.org/address> "C/ Santa Inés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13911> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 27 65 83 , fax=976 27 65 83 }" ;
+	<http://schema.org/name> "Colegio Nuestra Señora de la Merced" ;
+	<http://schema.org/address> "Pº Ruiseñores, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2714> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 332797, fax=976 33 27 97}" ;
+	<http://schema.org/name> "Colegio Público Ana Mayayo" ;
+	<http://schema.org/address> "C/ Alfonso Comín Ros, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/548> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 331728, fax= 976 30 03 72}" ;
+	<http://schema.org/name> "Colegio Público Andrés Manjón" ;
+	<http://schema.org/address> "C/ Delicias, 90" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/549> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 150249, fax= }" ;
+	<http://schema.org/name> "Colegio Público Andrés Oliván" ;
+	<http://schema.org/address> "C/ Doctor Alejandro Palomar, 21" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/550> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 500484, fax= 976 50 04 84}" ;
+	<http://schema.org/name> "Colegio Público Angel Escoriaza" ;
+	<http://schema.org/address> "C/ Juan de las Viñas, 8" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2716> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 332864}" ;
+	<http://schema.org/name> "Colegio Público Antonio Beltrán" ;
+	<http://schema.org/address> "Avda. Vía Hispanidad, 68" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/551> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 774417, fax= 976 774417}" ;
+	<http://schema.org/name> "Colegio Público Antonio Martínez Garay" ;
+	<http://schema.org/address> "C/ Cádiz, 12" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/552> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 55 28 46, fax= 976 55 28 46}" ;
+	<http://schema.org/name> "Colegio Público Basilio Paraiso" ;
+	<http://schema.org/address> "C/ Mariano Supervia, 29" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/553> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 4139 97, fax= 976 41 39 97}" ;
+	<http://schema.org/name> "Colegio Público Calixto Ariño" ;
+	<http://schema.org/address> "C/ José Galiay, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/554> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 293812, fax= 976 297 319}" ;
+	<http://schema.org/name> "Colegio Público Cándido Domingo" ;
+	<http://schema.org/address> "C/ Sobrarbe, 8" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/555> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 563216, fax=976 563216}" ;
+	<http://schema.org/name> "Colegio Público César Augusto" ;
+	<http://schema.org/address> "C/ Pedro III El Grande, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/556> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 55 79 35, fax=976 55 79 35}" ;
+	<http://schema.org/name> "Colegio Público Cesáreo Alierta" ;
+	<http://schema.org/address> "C/ Pedro III El Grande, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/557> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 31 46 20, fax=976 31 46 20}" ;
+	<http://schema.org/name> "Colegio Público Ciudad de Zaragoza" ;
+	<http://schema.org/address> "C/ Escultor Palao, 17" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/558> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 512111, fax=976 513600}" ;
+	<http://schema.org/name> "Colegio Público Cortes de Aragón" ;
+	<http://schema.org/address> "C/ Valero J. Ripol Urbano, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/559> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 30 65 92, fax=976 30 65 92}" ;
+	<http://schema.org/name> "Colegio Público Doctor Azúa" ;
+	<http://schema.org/address> "C/ Pedro III El Grande, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/560> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 275628, fax= 976275628}" ;
+	<http://schema.org/name> "Colegio Público Domingo Miral" ;
+	<http://schema.org/address> "C/ Mesones de Isuela, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/561> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 560875, fax= 976 40 20 90}" ;
+	<http://schema.org/name> "Colegio Público Eliseo Godoy" ;
+	<http://schema.org/address> "C/ Miguel Asín y Palacios, 19" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/562> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 531938, fax= 976 53 19 38}" ;
+	<http://schema.org/name> "Colegio Público Emilio Moreno Calvete" ;
+	<http://schema.org/address> "Pº de Calanda, 13" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3074> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 582061, fax=976 58 20 61}" ;
+	<http://schema.org/name> "Colegio Público Espartidero" ;
+	<http://schema.org/address> "C/ Dieciseis de Julio, 46" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/563> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 518555, fax=976 51 84 44}" ;
+	<http://schema.org/name> "Colegio Público Eugenio López" ;
+	<http://schema.org/address> "C/ Cañon de Añisclo, 8" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/564> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 785828, fax= }" ;
+	<http://schema.org/name> "Colegio Público Fernández Vizarra" ;
+	<http://schema.org/address> "C/ Gaspar de Pex, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/565> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 332032, fax= 976 332032}" ;
+	<http://schema.org/name> "Colegio Público Fernando El Católico" ;
+	<http://schema.org/address> "C/ San Vicente Ferrer, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/566> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 154291, fax= }" ;
+	<http://schema.org/name> "Colegio Público Florencio Jardiel" ;
+	<http://schema.org/address> "C/ Francisco Gracia, 18" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/567> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 231960, fax=976 23 19 60}" ;
+	<http://schema.org/name> "Colegio Público Gascón y Marín" ;
+	<http://schema.org/address> "Pza. de los Sitios, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/568> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 572838, fax= 976572838}" ;
+	<http://schema.org/name> "Colegio Público Gloria Arenillas" ;
+	<http://schema.org/address> "C/ Rio Perejiles, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/570> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 465825, fax= 976 465825}" ;
+	<http://schema.org/name> "Colegio Público Guillermo Fatás" ;
+	<http://schema.org/address> "C/ La Iglesia, 61" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/571> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 780345, fax=976 30 30 32}" ;
+	<http://schema.org/name> "Colegio Público Gustavo Adolfo Bécquer" ;
+	<http://schema.org/address> "Avda. La Jota, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/572> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 575325, fax=976575325}" ;
+	<http://schema.org/name> "Colegio Público Hermanos Argensola" ;
+	<http://schema.org/address> "C/ Las Escuelas, 23" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/573> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 513402, fax= 976 74 07 99}" ;
+	<http://schema.org/name> "Colegio Público Hermanos Marx" ;
+	<http://schema.org/address> "C/ Segundo de Chomón s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/574> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 399138, fax=976 20 35 28}" ;
+	<http://schema.org/name> "Colegio Público Hilarión Gimeno" ;
+	<http://schema.org/address> "C/ Pedro Arnal Cavero, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/575> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 329898, fax=976 329898}" ;
+	<http://schema.org/name> "Colegio Público Hispanidad" ;
+	<http://schema.org/address> "C/ Oceano Atlántico, 15" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/576> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 345342, fax=976 345342}" ;
+	<http://schema.org/name> "Colegio Público Jerónimo Blancas" ;
+	<http://schema.org/address> "C/ El Noticiero, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/577> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 404608, fax= 976 404609}" ;
+	<http://schema.org/name> "Colegio Público Jerónimo Zurita" ;
+	<http://schema.org/address> "Avda. de la Almozara, 58" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/578> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 235565, fax= 976 23 55 65}" ;
+	<http://schema.org/name> "Colegio Público Joaquín Costa" ;
+	<http://schema.org/address> "Pº María Agustín, 41" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/569> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 737842, fax=976 737842}" ;
+	<http://schema.org/name> "Colegio Público José Antonio Labordeta" ;
+	<http://schema.org/address> "C/ Pedro Saputo, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/579> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 329102, fax=976 32 91 02}" ;
+	<http://schema.org/name> "Colegio Público José Camón Aznar" ;
+	<http://schema.org/address> "Avda. Navarra, 141" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/580> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 331797, fax=976 34 44 01}" ;
+	<http://schema.org/name> "Colegio Público José María Mir" ;
+	<http://schema.org/address> "C/ Duquesa Villahermosa, 58" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/581> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 574495, fax= }" ;
+	<http://schema.org/name> "Colegio Público Juan Pablo Bonet" ;
+	<http://schema.org/address> "C/ Rio Gallego, 42" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/582> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 337478, fax= 976 337478}" ;
+	<http://schema.org/name> "Colegio Público Juan XXIII" ;
+	<http://schema.org/address> "C/ Juan XXIII, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/583> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 340620, fax=976340620}" ;
+	<http://schema.org/name> "Colegio Público Julian Nieto Tapia" ;
+	<http://schema.org/address> "Camino del Pilón, 150" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/584> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 425870, fax= 976 425870}" ;
+	<http://schema.org/name> "Colegio Público Julián Sanz Ibáñez" ;
+	<http://schema.org/address> "C/ Leopoldo Romeo, 24" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/585> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 433595, fax=976 46 93 03}" ;
+	<http://schema.org/name> "Colegio Público La Almozara" ;
+	<http://schema.org/address> "C/ Bonn, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/586> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 47 27 29, fax=976 47 27 29}" ;
+	<http://schema.org/name> "Colegio Público La Estrella" ;
+	<http://schema.org/address> "C/ Pedro Lázaro, 18" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/587> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 474129, fax= 976 47 41 29}" ;
+	<http://schema.org/name> "Colegio Público La Jota" ;
+	<http://schema.org/address> "C/ Balbino Orensanz, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/588> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 494900, fax= 976 41 61 78}" ;
+	<http://schema.org/name> "Colegio Público Las Fuentes" ;
+	<http://schema.org/address> "C/ Doctor Iranzo, 65" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/589> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 271308, fax= 976 271308}" ;
+	<http://schema.org/name> "Colegio Público Luis Vives" ;
+	<http://schema.org/address> "C/ Jenaro Checa, 21" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/590> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 415907, fax= 976 41 59 07}" ;
+	<http://schema.org/name> "Colegio Público Marcos Frechín" ;
+	<http://schema.org/address> "C/ Doctor Iranzo, 25" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/593> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 493105, fax=976 493105}" ;
+	<http://schema.org/name> "Colegio Público Miraflores" ;
+	<http://schema.org/address> "Parque Miraflores, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3906> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=876 266 599, fax=876 266 585}" ;
+	<http://schema.org/name> "Colegio Público Miralbueno" ;
+	<http://schema.org/address> "C/ Ibón de Astún, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/594> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 300011, fax= 976 30 00 11}" ;
+	<http://schema.org/name> "Colegio Público Monsalud" ;
+	<http://schema.org/address> "C/ García Villas, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3075> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 756925, fax=976756925}" ;
+	<http://schema.org/name> "Colegio Público Montecanal" ;
+	<http://schema.org/address> "C/ Tomás de Lezaún, 15" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/595> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 586433, fax= 976 586433}" ;
+	<http://schema.org/name> "Colegio Público Pedro Orós" ;
+	<http://schema.org/address> "C/ Mayor, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/780> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 44 35 77, fax=976 46 98 70}" ;
+	<http://schema.org/name> "Colegio Público Puerta Sancho" ;
+	<http://schema.org/address> "C/ Batalla de Almansa, 18" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/596> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 344865, fax= 976 34 48 65}" ;
+	<http://schema.org/name> "Colegio Público Ramiro Soláns" ;
+	<http://schema.org/address> "C/ Teodora Lamadrid, 61" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/597> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 382309, fax= 976 38 23 09}" ;
+	<http://schema.org/name> "Colegio Público Ramón Sáinz de Varanda" ;
+	<http://schema.org/address> "C/ Nuestra Señora de La Oliva, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/598> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 517021, fax=976 518828}" ;
+	<http://schema.org/name> "Colegio Público Río Ebro" ;
+	<http://schema.org/address> "Andador Pilar Cuartero Molinero, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/599> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 514335, fax= 976740135}" ;
+	<http://schema.org/name> "Colegio Público San Braulio" ;
+	<http://schema.org/address> "C/ Pantano de Yesa, 10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/600> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 411217, fax=976411217}" ;
+	<http://schema.org/name> "Colegio Público San José de Calasanz" ;
+	<http://schema.org/address> "C/ Eduardo Salvador Hernaz, 43" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/601> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 440703, fax= 976 44 07 03}" ;
+	<http://schema.org/name> "Colegio Público Santo Domingo" ;
+	<http://schema.org/address> "C/ Predicadores, 60" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/602> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 292950, fax= 976 39 04 34}" ;
+	<http://schema.org/name> "Colegio Público Tenerías" ;
+	<http://schema.org/address> "C/ Coso, 214" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/603> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 514876, fax=976 743541}" ;
+	<http://schema.org/name> "Colegio Público Tío Jorge" ;
+	<http://schema.org/address> "C/ Valle de Zuriza, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/604> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 423300, fax= 976 46 14 31}" ;
+	<http://schema.org/name> "Colegio Público Tomás Alvira" ;
+	<http://schema.org/address> "Pasaje de las Cigüeñas, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/605> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 418477, fax= 976 41 84 77}" ;
+	<http://schema.org/name> "Colegio Público Torre Ramona" ;
+	<http://schema.org/address> "C/ Batalla de Lepanto, 40" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/606> a <http://schema.org/ElementarySchool> ;
+	<http://schema.org/telephone> "{tel=976 734500, fax=976 734500}" ;
+	<http://schema.org/name> "Colegio Público Zalfonada" ;
+	<http://schema.org/address> "C/ Islas Canarias, 1" .
