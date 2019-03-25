@@ -1,0 +1,299 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8647> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Centro Privado de Educación Infantil Primaria y Secundaria La Alfranca" ;
+	<http://schema.org/telephone> "{tel=976 57 30 30, fax=976 57 30 30}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil     Educación Primaria</li>    <li>ESO (1º y 2º Curso)</li>    <li>Primer Ciclo de Educación Secundaria Obligatoria  ESO (3º y 4º Curso)</li>    <li>Segundo Ciclo de Educación Secundaria Obligatoria</li></ul>""" ;
+	<http://schema.org/address> "Avda. de Movera, 147" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13802> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Agustín Gericó (Montemolín Patronato)" ;
+	<http://schema.org/telephone> "{tel=976 41 00 77 , fax=976 49 68 05 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "Avda. Cesáreo Alierta, 72" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13804> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Bajo Aragón" ;
+	<http://schema.org/telephone> "{tel=976 41 43 00 , fax=976 46 10 40 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Padre Chaminade, 6" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13805> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Británico de Aragón" ;
+	<http://schema.org/telephone> "{tel=976 50 52 23 , fax=976 50 52 23}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Primer Ciclo de Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil</li>    <li>Educación Primaria</li>    <li>Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul><p> </p>""" ;
+	<http://schema.org/address> "Ctra. Valencia Km. 8,5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13806> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Calasancio" ;
+	<http://schema.org/telephone> "{tel=976 27 49 00 , fax=976 27 49 09 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Sevilla, 19" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13808> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Cantín y Gamboa" ;
+	<http://schema.org/telephone> "{tel=976 22 32 11, fax=976 22 83 19}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Moret, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13809> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Cardenal Xavierre" ;
+	<http://schema.org/telephone> "{tel=976 79 11 30 , fax=976 35 26 91 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "Pza. San Francisco, 15" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13810> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Compañía de María" ;
+	<http://schema.org/telephone> "{tel=976 22 18 63 , fax=976 22 51 85 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Bilbao, 10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13811> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Cristo Rey" ;
+	<http://schema.org/telephone> "{tel=976 51 44 22 , fax=976 73 29 86 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Educación Básica Obligatoria para A.N.E.E.</li></ul>""" ;
+	<http://schema.org/address> "Avda. Academia General Militar, 80" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13947> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio de San Vicente de Paul" ;
+	<http://schema.org/telephone> "{tel=976 290 508 , fax=976 290 508 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Ayudante Administrativo [ADG101] [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Gestión Administrativa  [ADG201] [Diurno] (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ San Vicente de Paul, 31" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13820> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Don Bosco" ;
+	<http://schema.org/telephone> "{tel=976 39 66 19 , fax=976 39 69 59 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Alfonso Zapater Cerda, 21" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13840> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio El Buen Pastor" ;
+	<http://schema.org/telephone> "{tel=976 27 3 762 , fax=976 258 192 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno] (Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Gestión Administrativa  [ADG201] [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración y Finanzas [ADM301] [Diurno] (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Monzón, 27" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13844> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Escuelas Pías" ;
+	<http://schema.org/telephone> "{tel=976 44 02 22 , fax=976 43 97 34 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Conde Aranda, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13860> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Escuelas Pías - Santa Engracia" ;
+	<http://schema.org/telephone> "{tel=976 37 10 68 , fax=976 27 02 42 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Ayudante Administrativo [ADG101] [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Cuidados Auxiliares de Enfermería [SAN201] [Diurno] (Concertada)</li>    <li>Cuidados Auxiliares de Enfermería [SAN201] [Vespertino] (Concertada)</li>    <li>Farmacia y Parafarmacia [SAN202] [Diurno] (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "Camino de Miraflores, 23" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13861> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Hijas de San José" ;
+	<http://schema.org/telephone> "{tel=976 33 35 24 , fax=976 48 83 84 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Duquesa Villahermosa, 16" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13882> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Inmaculada Concepción" ;
+	<http://schema.org/telephone> "{tel=976 57 03 22 , fax=976 57 03 22 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ La Iglesia, 30" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13862> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Inmaculada Concepción" ;
+	<http://schema.org/telephone> "{tel=976 41 63 14 , fax=976 41 59 11 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Concepción, 10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13863> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Jesús María el Salvador" ;
+	<http://schema.org/telephone> "{tel=976 35 34 00 , fax=976 55 65 97 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li>    <li>Educación Básica Obligatoria para A.N.E.E.</li></ul>""" ;
+	<http://schema.org/address> "C/ Cardenal Gomá, 13" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13880> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Juan de Lanuza" ;
+	<http://schema.org/telephone> "{tel=976 300 336 , fax=976 300 337 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil</li>    <li>Educación Primaria</li>    <li>ESO (1º y 2º Curso)      Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)      Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li></ul>""" ;
+	<http://schema.org/address> "Ctra. Nacional 125, Km.7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13881> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio La Anunciata" ;
+	<http://schema.org/telephone> "{tel=976 43 66 00 , fax=976 28 40 46 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Santa Inés, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13883> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio La Milagrosa" ;
+	<http://schema.org/telephone> "{tel=976 27 96 06 , fax=976 27 96 06 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Maestro Estremiana, 3-5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13884> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio La Purísima para Niños Sordos" ;
+	<http://schema.org/telephone> "{tel=976 55 27 49 , fax=976 55 27 49 }" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Educación Infantil para Alumnos con Necesidades Educativas Especiales</li>    <li>Educación Básica Obligatoria para A.N.E.E.</li>    <li>Garantía Social para Alumnos con Necesidades Educativas Especiales</li></ul>""" ;
+	<http://schema.org/address> "C/ Corona de Aragón, 54" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13885> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio La Purísima y San Antonio" ;
+	<http://schema.org/telephone> "{tel=976 20 22 53 , fax=976 20 45 41 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "Camino del Vado, 9" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/15273> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio La Salle Franciscanas Gran Via" ;
+	<http://schema.org/telephone> "{tel=976 30 60 60, fax=976 30 60 62}" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Santa Teresea de Jesús, 23" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13887> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio La Salle Montemolín" ;
+	<http://schema.org/telephone> "{tel=976 41 63 06 , fax=976 59 64 49 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ José Galiay, 11" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13902> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Liceo Europa" ;
+	<http://schema.org/telephone> "{tel=976 56 50 00 , fax=976 56 00 18}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil</li>    <li>Educación Primaria</li>    <li>ESO (1º y 2º Curso)      Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)      Segundo Ciclo de Educación Secundaria Obligatoria</li></ul>""" ;
+	<http://schema.org/address> "Camino de la Fuente de la Junquera, 21" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13903> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Lycée Français Molière" ;
+	<http://schema.org/telephone> "{tel=976 52 54 44 , fax=976 52 54 33}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil</li>    <li>Educación Primaria</li>    <li>ESO (1º y 2º Curso)      Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)      Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/address> "C/ Manuel Marraco Ramón, 8" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13904> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Madre María Rosa Molas" ;
+	<http://schema.org/telephone> "{tel=976 56 32 38 , fax=976 56 48 97 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Vía Ibérica, 25" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13906> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio María Auxiliadora" ;
+	<http://schema.org/telephone> "{tel=976 27 27 50 , fax=976 27 07 06 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Auxiliar de comercio [COM101] [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Gestión Administrativa  [ADG201] [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración y Finanzas [ADM301] [Diurno] (Concertada)</li>    <li>Educación Básica Obligatoria para A.N.E.E.</li>    <li>Educación Básica Obligatoria para Alumnos con Necesidades Educativas Especiales<br />    (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Mornes, 14" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13907> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio María Inmaculada" ;
+	<http://schema.org/telephone> "{tel=976 33 17 64 , fax=976 33 55 33 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "Vía Hispanidad, 91-93" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13908> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Montearagón" ;
+	<http://schema.org/telephone> "{tel=976 56 22 67 , fax=976 35 30 76}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Primaria</li>    <li>ESO (1º y 2º Curso)      Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)      Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/address> "Pº Reyes de Aragón, 21" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13909> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Montessori" ;
+	<http://schema.org/telephone> "{tel=976 306 100 , fax=976 562 143}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)      Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)      Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]     (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]     (No Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Sistemas Microinformáticos y Redes [IFC201] [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración de Sistemas Informáticos en Red [IFC301] [Diurno] (Concertada)</li>    <li>Administración y Finanzas [ADM301] [Diurno] (Concertada)</li>    <li>Administración y Finanzas [ADM301] [Vespertino] (Concertada)</li>    <li>Desarrollo de Aplicaciones Informáticas [INF302*] [Vespertino] (Concertada)</li>    <li>Desarrollo de Aplicaciones Multiplataforma [IFC302] [Vespertino] (Concertada)</li>    <li>Gestión Comercial y Márketing [COM302] [Diurno] (Concertada)</li>    <li>Gestión Comercial y Márketing [COM302] [Vespertino] (Concertada)</li>    <li>Secretariado [ADM302] [Diurno] (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Lagasca, 25-27" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8349> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Ntra. Sra. del Carmen y San José" ;
+	<http://schema.org/telephone> "{tel=976 43 05 05, fax=976 43 05 03}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil         Primer Ciclo de Educación Infantil         (No Concertada)</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Santa Inés" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13911> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Nuestra Señora de la Merced" ;
+	<http://schema.org/telephone> "{tel=976 27 65 83 , fax=976 27 65 83 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "Pº Ruiseñores, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13912> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Nuestra Señora del Carmen" ;
+	<http://schema.org/telephone> "{tel=976 22 14 39 , fax=976 21 76 39 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Madre Vedruna, 15" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13913> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Nuestra Señora del Carmen y San José" ;
+	<http://schema.org/telephone> "{tel=976 43 05 05 , fax=976 43 05 03 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Primer Ciclo de Educación Infantil         (No Concertada)</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)</li>    <li>Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)</li>    <li>Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Santa Inés, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13916> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Padre Enrique de Ossó" ;
+	<http://schema.org/telephone> "{tel=976 33 18 38 , fax=976 33 00 31 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Primer Ciclo de Educación Infantil         (No Concertada)</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)</li>    <li>Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)</li>    <li>Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Programas de Cualificación Profesional Inicial         Auxiliar de comercio [COM101] [Diurno] (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno] (Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno] (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Enrique de Ossó, 2-4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13918> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Pompiliano" ;
+	<http://schema.org/telephone> "{tel=976 27 64 92 , fax=976 37 91 05 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "Pº Ruiseñores, 28" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/607> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Público Recarte y Ornat" ;
+	<http://schema.org/telephone> "{tel=976 352338, fax=976 556784}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil</li>    <li>Educación Primaria</li></ul>""" ;
+	<http://schema.org/address> "Avda. San Juan Bosco, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13920> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Romareda" ;
+	<http://schema.org/telephone> "{tel=976 56 20 17 , fax=976 55 95 29 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Pedro IV el Ceremonioso, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13922> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Sagrada Familia" ;
+	<http://schema.org/telephone> "{tel=976 56 01 25 , fax=976 56 85 99 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "Pº Infantes de España, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13923> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Sagrado Corazón - La Mina" ;
+	<http://schema.org/telephone> "{tel=976 22 48 64 , fax=976 22 29 99 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "Pº de La Mina, 4 - esquina con Cesáreo Alierta" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8959> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Sagrado Corazón de Jesús" ;
+	<http://schema.org/telephone> "{tel=976 46 62 82, fax=976 46 62 83}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Poeta Pablo Neruda, 35" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13925> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Sagrado Corazón-Moncayo" ;
+	<http://schema.org/telephone> "{tel=976 75 12 59 , fax=976 45 81 30 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Primer Ciclo de Educación Infantil         (No Concertada)</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Juan Pablo II, 58" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13926> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Salesiano - Ntra. Sra. del Pilar" ;
+	<http://schema.org/telephone> "{tel=976 30 68 78 , fax=976 55 46 28 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno] (Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Electromecánica de Vehículos [MVA202*] [Diurno] (Concertada)</li>    <li>Electromecánica de Vehículos Automóviles [TMV202] [Diurno] (Concertada)</li>    <li>Equipos Electrónicos de Consumo [ELE201] [Diurno] (Concertada)</li>    <li>Instalaciones Eléctricas y Automáticas [ELE202] [Diurno] (Concertada)</li>    <li>Mecanizado [FME202] [Diurno] (Concertada)</li>    <li>Sistemas Microinformáticos y Redes [IFC201] [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Automoción [TMV301] [Diurno] (Concertada)</li>    <li>Desarrollo de Aplicaciones Informáticas [INF302*] [Diurno] (Concertada)</li>    <li>Desarrollo de Aplicaciones Multiplataforma [IFC302] [Diurno] (Concertada)</li>    <li>Instalaciones Electrotécnicas [ELE302*] [Diurno] (Concertada)</li>    <li>Programación de la Producción en Fabricación Mecánica [FME304] [Diurno] (Concertada)</li>    <li>Sistemas de Regulación y Control Automáticos [ELE303] [Diurno] (Concertada)</li>    <li>Sistemas de Telecomunicación e Informáticos [ELE304] [Diurno] (Concertada)</li>    <li>Sistemas Electrotécnicos y Automatizados [ELE302] [Diurno] (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ María Auxiliadora, 57" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7766> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio Salesianos" ;
+	<http://schema.org/telephone> "{tel=976 30 68 78 }" ;
+	<http://schema.org/address> "C/ María Auxiliadora, 57" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13940> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio San Agustín" ;
+	<http://schema.org/telephone> "{tel=976 22 48 44 , fax=976 22 68 76 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/address> "Camino de Las Torres, 79-89" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13941> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio San Alberto Magno" ;
+	<http://schema.org/telephone> "{tel=976 34 03 21 , fax=976 31 61 81}" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Primer Ciclo de Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil</li>    <li>Educación Primaria</li>    <li>ESO (1º y 2º Curso)      Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)      Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/address> "Urb. Torres San Lamberto, 58" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13943> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio San Antonio de Padua" ;
+	<http://schema.org/telephone> "{tel=976 38 51 55 , fax=976 25 87 00 }" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Fray Julian Garás, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8989> a <http://schema.org/HighSchool> ;
+	<http://schema.org/name> "Colegio San Valero" ;
+	<http://schema.org/telephone> "{tel=976 46 65 99, fax=976 46 65 90}" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Ayudante de instalaciones electrotécnicas y de telecomunicación [ELE101] [Diurno] (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno] (Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Electromecánica de Vehículos [MVA202*] [Diurno] (Concertada)</li>    <li>Electromecánica de Vehículos Automóviles [TMV202] [Diurno] (Concertada)</li>    <li>Equipos Electrónicos de Consumo [ELE201] [Diurno] (Concertada)</li>    <li>Gestión Administrativa  [ADG201] [Diurno] (Concertada)</li>    <li>Soldadura y Calderería [FME203] [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración y Finanzas [ADM301] [Diurno] (Concertada)</li>    <li>Automoción [TMV301] [Diurno] (Concertada)</li>    <li>Construcciones Metálicas [FME301] [Diurno] (Concertada)</li>    <li>Desarrollo de Aplicaciones Informáticas [INF302*] [Diurno] (Concertada)</li>    <li>Desarrollo de Aplicaciones Multiplataforma [IFC302] [Diurno] (Concertada)</li>    <li>Desarrollo de Productos Electrónicos [ELE301] [Diurno] (Concertada)</li>    <li>Programación de la Producción en Fabricación Mecánica [FME304] [Diurno] (Concertada)</li></ul>""" ;
+	<http://schema.org/address> "C/ Violeta Parra, 9" .
