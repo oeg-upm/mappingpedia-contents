@@ -1,0 +1,632 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20149> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Apartamentos para personas mayores" ;
+	<http://schema.org/telephone> "{tel=976 724 949}" ;
+	<http://schema.org/address> "C/ SAN BLAS, 37" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20155> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Balcon del Pilar Residencia de ancianos" ;
+	<http://schema.org/telephone> "{tel=976 737 103}" ;
+	<http://schema.org/address> "VALERO JULIO RIPOL URBANO, 15, 9º A" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2115> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Casa Amparo" ;
+	<http://schema.org/telephone> "{tel=976 724 949, fax=976 446 001}" ;
+	<http://schema.org/address> "C/ Predicadores, 96" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10454> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Casa Familiar Nª Sª de los Ángeles" ;
+	<http://schema.org/telephone> "{tel=976 535 883}" ;
+	<http://schema.org/address> "C/ Nuestra Señora de los Ángeles, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20058> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Casa familiar Nuestra Señora de los Angeles" ;
+	<http://schema.org/telephone> "{tel=976 535 883}" ;
+	<http://schema.org/address> "C/ Nuestra Señora de los Ángeles, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20059> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Casa familiar San Vicente dePaúl" ;
+	<http://schema.org/telephone> "{tel=976 357 989}" ;
+	<http://schema.org/address> "C/ LUIS RAM DE VIU, 18-20" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10455> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Caser Residencial Ruiseñores" ;
+	<http://schema.org/telephone> "{tel=976 258 492}" ;
+	<http://schema.org/address> "C/ Santiago Guallar, 10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20060> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro de atención integral. Fundación esclerosis múltiple Aragón (FADEMA)" ;
+	<http://schema.org/telephone> "{tel=976 742 767}" ;
+	<http://schema.org/address> "C/ PABLO RUIZ PICASSO, 64" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12559> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro de educación e internamiento por medida judicial" ;
+	<http://schema.org/telephone> "{tel=976 409 560}" ;
+	<http://schema.org/address> "Camino Castelar, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12561> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro de menores y residencias" ;
+	<http://schema.org/telephone> "{tel=976 715 004}" ;
+	<http://schema.org/address> "C/ Mariano Supervia, 27" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20225> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Gerontológico CAIOZANAM Oliver" ;
+	<http://schema.org/telephone> "{tel=876 531 909}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10494> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial ASPACE" ;
+	<http://schema.org/telephone> "{tel=976 516 522}" ;
+	<http://schema.org/address> "Urb. El Zorongo,  Ctra. de Huesca, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10489> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Atades - Santo Angel" ;
+	<http://schema.org/telephone> "{tel=976 332 308}" ;
+	<http://schema.org/address> "Ctra. Madrid Km. 316" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10490> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Benito Ardid" ;
+	<http://schema.org/telephone> "{tel=976 391 401}" ;
+	<http://schema.org/address> "C/ Comuneros de Castilla, 11-13" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10493> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial C.A.M.P. (IASS)" ;
+	<http://schema.org/telephone> "{tel=976 524 333}" ;
+	<http://schema.org/address> "Avda. Academia Gral Militar, 53" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10491> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Cedes (Fund. C.Fdez. Cespe)" ;
+	<http://schema.org/telephone> "{tel=976 515 121}" ;
+	<http://schema.org/address> "C/ San Cristóbal, 4 (Bº San Gregorio)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20161> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro residencial Hernán Cortés" ;
+	<http://schema.org/telephone> "{tel=976 222 981}" ;
+	<http://schema.org/address> "C/ PIZARRO, 8, BAJO Y 1º" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10495> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Integra Aragón (Asociación)" ;
+	<http://schema.org/telephone> "{tel=976 106 018}" ;
+	<http://schema.org/address> "C/ Clara Campoamor, 25" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10492> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Los Pueyos (Asociación)" ;
+	<http://schema.org/telephone> "{tel=976 573 478}" ;
+	<http://schema.org/address> "Col. Los Pueyos (Bº Villamayor)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20162> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Residencial Torre del Ángel" ;
+	<http://schema.org/telephone> "{tel=976 582 193}" ;
+	<http://schema.org/address> "C/ MARTINCHO, 5. BARRIO DE SANTA ISABEL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10456> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Social El Eden, S. L." ;
+	<http://schema.org/telephone> "{tel=976 534 526}" ;
+	<http://schema.org/address> "Camino de Bárboles, 169" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10457> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Centro Social Virgen del Pilar" ;
+	<http://schema.org/telephone> "{tel=976 446 766}" ;
+	<http://schema.org/address> "C/ Predicadores, 115" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20150> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "DGA Delicias" ;
+	<http://schema.org/telephone> "{tel=976 315 521}" ;
+	<http://schema.org/address> "VIA UNIVERSITAS, 36-38" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10488> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Fundación Tobías" ;
+	<http://schema.org/telephone> "{tel=976 306 863, fax=976 400 022}" ;
+	<http://schema.org/address> "Ronda Hispanidad, 10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20141> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar de la tercera edad San Jose de Calasanz" ;
+	<http://schema.org/telephone> "{tel=976 384 290}" ;
+	<http://schema.org/address> "C/ LUZ, 17, BAJO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10497> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Boterón" ;
+	<http://schema.org/telephone> "{tel=976 299 662, fax=976 299 662}" ;
+	<http://schema.org/address> "C/ Boterón, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10498> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Casetas" ;
+	<http://schema.org/telephone> "{tel=976 772 888, fax=976 772 888}" ;
+	<http://schema.org/address> "Ctra. de Logroño, 12" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10499> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Delicias" ;
+	<http://schema.org/telephone> "{tel=976 488 602, fax=976 488 602}" ;
+	<http://schema.org/address> "C/ Andrés Vicente, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10500> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Las Fuentes" ;
+	<http://schema.org/telephone> "{tel=976 421 895, fax=976 426 050}" ;
+	<http://schema.org/address> "C/ Cardenal Cisneros, 7-9" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10501> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Luis Aula" ;
+	<http://schema.org/telephone> "{tel=976 598 359, fax=976 486 058}" ;
+	<http://schema.org/address> "C/ Ramón Arribas Sánchez, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10502> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Picarral" ;
+	<http://schema.org/telephone> "{tel=976 506 884}" ;
+	<http://schema.org/address> "Camino de Juslibol, 61" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10503> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores San Blas" ;
+	<http://schema.org/telephone> "{tel=976 436 219, fax=976 436 219}" ;
+	<http://schema.org/address> "C/ San Blas, 20" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10504> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Hogar para Mayores Valdefierro" ;
+	<http://schema.org/telephone> "{tel=976 752 744, fax=976 754 230}" ;
+	<http://schema.org/address> "C/ Ozanam, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10478> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Neuropsiquiátrico del Carmen" ;
+	<http://schema.org/telephone> "{tel=976 770 635, fax=976 770 943}" ;
+	<http://schema.org/address> "Camino del Abejar, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12568> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Piso de carpi" ;
+	<http://schema.org/telephone> "{tel=976 736 139}" ;
+	<http://schema.org/address> "ALBARRACÍN 23, NAVE 23" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20151> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Adomi" ;
+	<http://schema.org/telephone> "{tel=976 238 739}" ;
+	<http://schema.org/address> "Pº SAGASTA, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20152> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Aguadulce" ;
+	<http://schema.org/telephone> "{tel=976 742 814}" ;
+	<http://schema.org/address> "MARÍA ZAMBRANO, 10, 1º C" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20153> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Ángela" ;
+	<http://schema.org/telephone> "{tel=976 351 299}" ;
+	<http://schema.org/address> "Pº FERNANDO EL CATÓLICO, 2 , 4º DCHA." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20154> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Azaleas" ;
+	<http://schema.org/telephone> "{tel=976 340 137}" ;
+	<http://schema.org/address> "CAMINO BÁRBOLES, 293" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20156> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Betania" ;
+	<http://schema.org/address> "C/ SAN MIGUEL, 15-2º" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20157> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Bretón" ;
+	<http://schema.org/telephone> "{tel=976 558 060}" ;
+	<http://schema.org/address> "Pº FERNANDO EL CATOLICO, 12  PRAL. D" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20158> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Burdeos" ;
+	<http://schema.org/telephone> "{tel=976 293 697}" ;
+	<http://schema.org/address> "C/ SAN LORENZO, 28" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20235> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia CAIAFEDA Virgen del Carmen" ;
+	<http://schema.org/telephone> "{tel=976 431 211}" ;
+	<http://schema.org/address> "AVDA. ALMOZARA, 77" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20160> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Casa Palacio Palafox" ;
+	<http://schema.org/telephone> "{tel=976 393 477}" ;
+	<http://schema.org/address> "C/ SAN VICENTE DE PAÚL, 35,LOCAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20163> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Claveria" ;
+	<http://schema.org/telephone> "{tel=976 781 301}" ;
+	<http://schema.org/address> "C/ CORTES DE ARAGÓN, 53, 1º IZDA." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20164> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Cogullada" ;
+	<http://schema.org/telephone> "{tel=976 470 250}" ;
+	<http://schema.org/address> "C/ ALBERTO EINSTEIN, 3-5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20165> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Conde Aranda" ;
+	<http://schema.org/telephone> "{tel=976 446 420}" ;
+	<http://schema.org/address> "C/ CONDE ARANDA, 10-12, 3º" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20166> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Corona" ;
+	<http://schema.org/telephone> "{tel=976 566 095}" ;
+	<http://schema.org/address> "C/ CORONA DE ARAGÓN, 10, 1º DCHA.-IZDA." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20226> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Corona de Aragón" ;
+	<http://schema.org/telephone> "{tel=976 563 836}" ;
+	<http://schema.org/address> "C/ CORONA DE ARAGÓN, 14, PRAL." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20204> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia de ancianos Juslibol" ;
+	<http://schema.org/telephone> "{tel=976 512 822}" ;
+	<http://schema.org/address> "C/ MAYOR, 45-47" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20167> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Diana" ;
+	<http://schema.org/telephone> "{tel=976 598 272}" ;
+	<http://schema.org/address> "C/ MONASTERIO DE LEYRE, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20168> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Edad de Oro" ;
+	<http://schema.org/telephone> "{tel=976 563 154}" ;
+	<http://schema.org/address> "Pº FERNANDO EL CATÓLICO, 2, 3º DCHA.-IZDA." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20062> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia El Cariño" ;
+	<http://schema.org/telephone> "{tel=976 348 213}" ;
+	<http://schema.org/address> "C/ ALEJANDRO OLIVÁN, 15, 3º" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20169> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia El Castellar" ;
+	<http://schema.org/telephone> "{tel=976 272 055}" ;
+	<http://schema.org/address> "C/ EL CASTELLAR, 33" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20170> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia El Pilar" ;
+	<http://schema.org/telephone> "{tel=976 396 032}" ;
+	<http://schema.org/address> "C/ DON JAIME I, 34, 1º DCHA." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20171> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia El Ruiseñor" ;
+	<http://schema.org/telephone> "{tel=976 391 611}" ;
+	<http://schema.org/address> "C/ COSO, 95, PRAL DCHA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20172> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Encarnación" ;
+	<http://schema.org/telephone> "{tel=976 534 166}" ;
+	<http://schema.org/address> "AVDA. MADRID, 95-97, 1º A-B-C" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20173> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Eva y Pedro I y II" ;
+	<http://schema.org/telephone> "{tel=976 526 747}" ;
+	<http://schema.org/address> "C/ VALLE DE ZURIZA, 15, 1º A-B-C" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20174> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Gayarre" ;
+	<http://schema.org/telephone> "{tel=976 586 934}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20175> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Goya I" ;
+	<http://schema.org/telephone> "{tel=976 560 437}" ;
+	<http://schema.org/address> "C/ BALTASAR GRACIÁN, 1, 4º DCHA." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20177> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Gran Vía" ;
+	<http://schema.org/telephone> "{tel=976 217 096}" ;
+	<http://schema.org/address> "C/ GRAN VÍA, 30, 4º IZDA." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20178> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Hernán Cortés" ;
+	<http://schema.org/telephone> "{tel=976 213 366}" ;
+	<http://schema.org/address> "C/ HERNÁN CORTÉS, 6, PRAL. DCHA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20179> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Hiedra" ;
+	<http://schema.org/telephone> "{tel=976 294 828}" ;
+	<http://schema.org/address> "PZA. DEL PILAR, 15, PRAL. DCHA." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11434> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Hijas de María Auxiliadora" ;
+	<http://schema.org/telephone> "{tel=976 387 155}" ;
+	<http://schema.org/address> "Avda. San José" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20180> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Hogar de Darío" ;
+	<http://schema.org/telephone> "{tel=976 281 269}" ;
+	<http://schema.org/address> "C/ RIO ESERA, 5-7-9 PLANTA BAJA" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11436> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia I.F.P.E. de Movera" ;
+	<http://schema.org/telephone> "{tel=976 586 239}" ;
+	<http://schema.org/address> "Ctra. de Pastriz, Km 3,600" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20063> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia II de discapacitados" ;
+	<http://schema.org/telephone> "{tel=976 391 401}" ;
+	<http://schema.org/address> "C/ FRAY LUIS URBANO, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20181> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Iris" ;
+	<http://schema.org/telephone> "{tel=976 398 224}" ;
+	<http://schema.org/address> "C/ SAN VICENTE DE PAÚL, 25, 1º D" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20182> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Jesús y María" ;
+	<http://schema.org/telephone> "{tel=976 526 532}" ;
+	<http://schema.org/address> "C/ JESÚS Y MARÍA, 29" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11435> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Juvenil Baltasar Gracián" ;
+	<http://schema.org/telephone> "{tel=976 306 692}" ;
+	<http://schema.org/address> "C/ Franco y López" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20185> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia La Cadiera" ;
+	<http://schema.org/telephone> "{tel=976 597 044}" ;
+	<http://schema.org/address> "C/ ROSALES, 30 LOCAL 10-A" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20227> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia La Inmaculada" ;
+	<http://schema.org/telephone> "{tel=976 389 012}" ;
+	<http://schema.org/address> "Pº DE COLÓN, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20186> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia La Paz" ;
+	<http://schema.org/telephone> "{tel=976 576 362}" ;
+	<http://schema.org/address> "CAMINO SASO, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20064> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia La Purísima" ;
+	<http://schema.org/telephone> "{tel=976 552 749}" ;
+	<http://schema.org/address> "C/ CORONA DE ARAGÓN, 54" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20187> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia la Rosaleda" ;
+	<http://schema.org/telephone> "{tel=976 780 164}" ;
+	<http://schema.org/address> "C/ CANTARRANAS, 206. Bº GARRAPINILLOS" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20188> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Las Buganvillas" ;
+	<http://schema.org/telephone> "{tel=976 754 200}" ;
+	<http://schema.org/address> "C/ GENERAL CAPAZ, 47" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20205> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Las Nieves" ;
+	<http://schema.org/telephone> "{tel=976 562 167}" ;
+	<http://schema.org/address> "C/ VADIELLO, S/N, LOCAL" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20189> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Las Palmeras" ;
+	<http://schema.org/telephone> "{tel=976 771 004}" ;
+	<http://schema.org/address> "CTRA. UTEBO GARRAPINILLOS, CASA 10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20190> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Las Rosas" ;
+	<http://schema.org/telephone> "{tel=976 736 562}" ;
+	<http://schema.org/address> "C/ POETA LEÓN FELIPE, 10 BAJO" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20191> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Las Terrazas" ;
+	<http://schema.org/telephone> "{tel=976 250 482}" ;
+	<http://schema.org/address> "C/ CABAÑERA, 31" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20192> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Luz de María" ;
+	<http://schema.org/telephone> "{tel=976 322 881}" ;
+	<http://schema.org/address> "CAMINO DE BÁRBOLES, 291" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20228> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Madre María Pilar Izquierdo" ;
+	<http://schema.org/telephone> "{tel=976 458 312}" ;
+	<http://schema.org/address> "C/ BELLAS ARTES, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11437> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia María Inmaculada" ;
+	<http://schema.org/telephone> "{tel=976 211 160}" ;
+	<http://schema.org/address> "Pº Constitución" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11431> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia María Reina" ;
+	<http://schema.org/telephone> "{tel=976 558 960}" ;
+	<http://schema.org/address> "Avda. San Juan Bosco" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20193> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Mater" ;
+	<http://schema.org/telephone> "{tel=976 557 322}" ;
+	<http://schema.org/address> "C/ BALTASAR GRACIÁN, 1, 2º" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20194> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Mazaruba" ;
+	<http://schema.org/telephone> "{tel=976 351 104}" ;
+	<http://schema.org/address> "C/ ASÍN Y PALACIOS, 9" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20229> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Misioneras Nuestra Señora del Pilar" ;
+	<http://schema.org/telephone> "{tel=976 588 600}" ;
+	<http://schema.org/address> "PLAZA NTRA. SRA. DEL PILAR, 1 (BARRIO SANTA ISABEL)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20231> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia neuropsiquiátrico Nuestra Señora del Carmen" ;
+	<http://schema.org/telephone> "{tel=976 770 635}" ;
+	<http://schema.org/address> "CAMINO ABEJAR, S/N.GARRAPINILLOS" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20196> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Noreales" ;
+	<http://schema.org/telephone> "{tel=976 781 049}" ;
+	<http://schema.org/address> "C/ BARON DE LA LINDE, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20197> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora de la Luz" ;
+	<http://schema.org/telephone> "{tel=976 320 393}" ;
+	<http://schema.org/address> "VIA HISPANIDAD, 61, 6 - 1º" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20198> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora del Alba" ;
+	<http://schema.org/telephone> "{tel=976 574 148}" ;
+	<http://schema.org/address> "C/ EL ACIERTO, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20232> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora del Carmen" ;
+	<http://schema.org/telephone> "{tel=976 750 978}" ;
+	<http://schema.org/address> "C/ SABIÑÁNIGO, 6" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20233> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora del Pilar" ;
+	<http://schema.org/telephone> "{tel=976 290 450}" ;
+	<http://schema.org/address> "Pº de Ruiseñores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11438> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora del Pilar" ;
+	<http://schema.org/telephone> "{tel=976 276 406}" ;
+	<http://schema.org/address> "Pº de Ruiseñores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20234> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia Nuestra Señora del Portillo" ;
+	<http://schema.org/telephone> "{tel=976 440 649}" ;
+	<http://schema.org/address> "C/ LA SALINA, 3-5, 1º A-B" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10485> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Discapacitados Físicos APAC - C. Actur-II" ;
+	<http://schema.org/telephone> "{tel=976 519 867, fax=976 519 867}" ;
+	<http://schema.org/address> "C/ Pablo Ruiz Picasso, 28, 1 ºB" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10486> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Discapacitados Físicos D.F.A. - C.Resid. Pomarón" ;
+	<http://schema.org/telephone> "{tel=976 597 452}" ;
+	<http://schema.org/address> "C/ José Luis Pomarón Herranz, s/n. Apdo. 4133" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12569> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para jóvenes Religiosas Adoratrices" ;
+	<http://schema.org/telephone> "{tel=976 566 741}" ;
+	<http://schema.org/address> "MENÉNDEZ PIDAL, S/N, CASA 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10450> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Antonio Saura" ;
+	<http://schema.org/telephone> "{tel=976 735 089}" ;
+	<http://schema.org/address> "C/ Pintor Antonio Saura, 4-6" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10451> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Ballesol Zaragoza I" ;
+	<http://schema.org/telephone> "{tel=976 799 435}" ;
+	<http://schema.org/address> "Andador Paula Motal Fornés, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10452> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Ballesol Zaragoza II" ;
+	<http://schema.org/telephone> "{tel=976 484 575}" ;
+	<http://schema.org/address> "C/ Madre Sacramento, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10453> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Ballesol Zaragoza III" ;
+	<http://schema.org/telephone> "{tel=976 547 098}" ;
+	<http://schema.org/address> "Avda. Salvador Allende, 54" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10467> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Delicias" ;
+	<http://schema.org/telephone> "{tel=976 315 521}" ;
+	<http://schema.org/address> "Vía Universitas, 38" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10480> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores El Eden, S. L." ;
+	<http://schema.org/telephone> "{tel=976 755 420}" ;
+	<http://schema.org/address> "Avda. Movera, 424" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10476> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Entreálamos, S. L." ;
+	<http://schema.org/telephone> "{tel=976 780 276}" ;
+	<http://schema.org/address> "Ctra. Casetas a Garrapinillos, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10459> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores FIIS - Rey Fernando de Aragón" ;
+	<http://schema.org/telephone> "{tel=976 799 980}" ;
+	<http://schema.org/address> "C/ Juan Ramón Jiménez, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10460> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores La Magdalena (F. Ozanam)" ;
+	<http://schema.org/telephone> "{tel=976 399 365 / 976 390 766}" ;
+	<http://schema.org/address> "C/ Alonso V, 15" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10461> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Las Fuentes" ;
+	<http://schema.org/telephone> "{tel=976 597 626}" ;
+	<http://schema.org/address> "C/ Fray Luis Urbano, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10477> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Los Pinos" ;
+	<http://schema.org/telephone> "{tel=976 774 292}" ;
+	<http://schema.org/address> "C/ Torre Asirón, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10462> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Madre de Dios Begoña" ;
+	<http://schema.org/telephone> "{tel=976 318 600}" ;
+	<http://schema.org/address> "C/ Borja, 31" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10463> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Marboré" ;
+	<http://schema.org/telephone> "{tel=976 510 897}" ;
+	<http://schema.org/address> "C/ Cineasta Adolfo Aznar, 7-9" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10482> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Misioneras Nª Sª del Pilar" ;
+	<http://schema.org/telephone> "{tel=976 588 600 }" ;
+	<http://schema.org/address> "Pza. Misioneras Nª Sª del Pilar, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10481> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Movera" ;
+	<http://schema.org/telephone> "{tel=976 586 790}" ;
+	<http://schema.org/address> "Avda. Movera, 600" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10483> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Nª Sª del Alba, S. L." ;
+	<http://schema.org/telephone> "{tel=976 574 148}" ;
+	<http://schema.org/address> "C/ El Acierto, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10464> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Nª Sª del Carmen (F.Ozanam)" ;
+	<http://schema.org/telephone> "{tel=976 750 978 }" ;
+	<http://schema.org/address> "C/ Sabiñánigo, 6" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10465> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Parque Dorado II" ;
+	<http://schema.org/telephone> "{tel=976 743 030}" ;
+	<http://schema.org/address> "C/ Emilia Pardo Bazán, 24" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10466> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Parque Dorado III" ;
+	<http://schema.org/telephone> "{tel=976 106 430}" ;
+	<http://schema.org/address> "C/ Emilia Pardo Bazán, 29" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10479> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Patronato Goya" ;
+	<http://schema.org/telephone> "{tel=976 781 117 }" ;
+	<http://schema.org/address> "Torre Cascante, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10468> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Reyes de Aragón" ;
+	<http://schema.org/telephone> "{tel=976 550 055}" ;
+	<http://schema.org/address> "C/ San Juan de la Cruz, 22" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10469> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Romareda" ;
+	<http://schema.org/telephone> "{tel=976 558 734}" ;
+	<http://schema.org/address> "C/ Violante de Hungría, 21" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10470> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores San Eugenio" ;
+	<http://schema.org/telephone> "{tel=976 379 800}" ;
+	<http://schema.org/address> "C/ San Eugenio, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10471> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Sanistel" ;
+	<http://schema.org/telephone> "{tel=976 205 380}" ;
+	<http://schema.org/address> "Avda. de Cataluña, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10484> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Santa Isabel" ;
+	<http://schema.org/telephone> "{tel=976 465 855}" ;
+	<http://schema.org/address> "C/ José Antonio Rey Corral, 3-5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10472> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Santa Teresa" ;
+	<http://schema.org/telephone> "{tel=976 351 300}" ;
+	<http://schema.org/address> "C/ Juan Carlos I Borbón, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10473> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores SAR Fontibre" ;
+	<http://schema.org/telephone> "{tel=976 304 130}" ;
+	<http://schema.org/address> "C/ Pilar Miró, 16" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10474> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores SAR Zalfonada" ;
+	<http://schema.org/telephone> "{tel=976 506 742}" ;
+	<http://schema.org/address> "Avda. Salvador Allende, 56" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10475> a <http://schema.org/Residence> ;
+	<http://schema.org/name> "Residencia para Mayores Virgen del Carmen (Afedaz)" ;
+	<http://schema.org/telephone> "{tel=976 431 211}" ;
+	<http://schema.org/address> "Avda. Almozara, 77" .
