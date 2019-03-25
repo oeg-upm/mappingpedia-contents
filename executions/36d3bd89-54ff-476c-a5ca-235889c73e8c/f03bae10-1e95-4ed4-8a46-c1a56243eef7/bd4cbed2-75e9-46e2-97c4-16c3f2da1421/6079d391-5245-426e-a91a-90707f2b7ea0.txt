@@ -1,0 +1,222 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2839> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "acturpabloiglesias@gmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Actur" ;
+	<http://schema.org/url> "http://www.acturpabloiglesias.es" ;
+	<http://schema.org/address> "C/ Luis Legaz Lacambra, 46" ;
+	<http://schema.org/description> "<p>Entidad gestora: Club Deportivo Actur - Pablo Iglesias.</p>" ;
+	<http://schema.org/telephone> "{tel=976 523856, fax=976 523856}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2833> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "secretaria@rsdsantaisabel.es" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol César Láinez" ;
+	<http://schema.org/url> "http://www.rsdsantaisabel.es" ;
+	<http://schema.org/address> "C/ La Iglesia, 34" ;
+	<http://schema.org/description> "<p>Entidad gestora: R.S.D. Sta. Isabel.</p>" ;
+	<http://schema.org/telephone> "{tel=976 57 22 04, fax=976 57 22 04}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6506> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "presidente@cddelicias.es" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Delicias" ;
+	<http://schema.org/url> "http://www.cddelicias.es" ;
+	<http://schema.org/address> "C/ Monasterio Nuestra Señora de los Ángeles, 9" ;
+	<http://schema.org/description> "<p>&nbsp;Entidad Gestora: U.D. Delicias</p>" ;
+	<http://schema.org/telephone> "{tel=976914008}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2824> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "anvevi1978@hotmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol El Gállego" ;
+	<http://schema.org/address> "Ctra. de Cogullada, 246" ;
+	<http://schema.org/description> "<p>Entidad gestora: A. D. San Juan.</p>" ;
+	<http://schema.org/telephone> "{tel=976 150397, fax=976 150397}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6485> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "cdunion@hotmail.es" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol El Rabal" ;
+	<http://schema.org/url> "http://www.unioncd.es" ;
+	<http://schema.org/address> "C/ Jesús Burriel, 21" ;
+	<http://schema.org/description> "<p>&nbsp;Entidad gestora: C.D. Uni&oacute;n La Jota-Vadorrey</p>" ;
+	<http://schema.org/telephone> "{tel=976205060, fax=976205060}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2830> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "adpenaflor_zgz@hotmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Enrique Escuer" ;
+	<http://schema.org/address> "C/ San Cristóbal, 121" ;
+	<http://schema.org/description> "<p>Entidad gestora: A. D. Pe&ntilde;aflor.</p>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2303> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Entrerrios" ;
+	<http://schema.org/description> "Entidad Gestora: U.D. La Jota" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2835> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "cfhernancortes@gmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol García Traid" ;
+	<http://schema.org/url> "http://www.cfhernancortesjunquera.com" ;
+	<http://schema.org/address> "Andador Teniente General Gutierrez Mellado, 40" ;
+	<http://schema.org/description> "<p>Entidad gestora: Hern&aacute;n Cort&eacute;s C.F.</p>" ;
+	<http://schema.org/telephone> "{tel=976 754593, fax=976 754593}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2825> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "jgiranzo@gmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Gran Capitán" ;
+	<http://schema.org/address> "Camino Torre de los Ajos, 29" ;
+	<http://schema.org/description> "<p>Entidad gestora: A. D. Monta&ntilde;ana.</p>" ;
+	<http://schema.org/telephone> "{tel=976 576500}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2837> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "udmontecarlo@udmontecarlo.es" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol J. L. Violeta" ;
+	<http://schema.org/url> "http://www.udmontecarlo.es" ;
+	<http://schema.org/address> "C/ Teniente Coronel León Moyano, 55" ;
+	<http://schema.org/description> "<p>Entidad gestora: U. D. Montecarlo.</p>" ;
+	<http://schema.org/telephone> "{tel=699878384}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2826> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "javiboro72@hotmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Juslibol" ;
+	<http://schema.org/address> "C/ Castellar, s/n" ;
+	<http://schema.org/description> "<p>Entidad gestora: C.D. Ajax Juslibol.</p>" ;
+	<http://schema.org/telephone> "{tel=976 513676}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2823> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "fezquerra@zaragoza.es" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol La Almozara-El Carmen" ;
+	<http://schema.org/url> "http://www.cdebro.com/" ;
+	<http://schema.org/address> "C/ Sierra de Vicor, 6" ;
+	<http://schema.org/description> "<p>Entidad gestora: Club Deportivo Ebro.</p>" ;
+	<http://schema.org/telephone> "{tel=976285826, fax=976285826}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3026> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "sangregorioarrabal@yahoo.es" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol La Azucarera" ;
+	<http://schema.org/url> "http://www.sangregorioarrabal.com" ;
+	<http://schema.org/address> "C/ Marqués de La Cadena, 72" ;
+	<http://schema.org/description> "<p>Entidad Gestora: C. D. San Gregorio Arrabal</p>" ;
+	<http://schema.org/telephone> "{tel=976 472554, fax=976 472554}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2828> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "atmonzalbarba@gmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol La Manzanera" ;
+	<http://schema.org/url> "http://atmonzalbarba.futbolaragon.com" ;
+	<http://schema.org/address> "Camino de La Mejana, 22" ;
+	<http://schema.org/description> "<p>Entidad gestora: C. A. Monzalbarba.</p>" ;
+	<http://schema.org/telephone> "{tel=976788727}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3027> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "cdoliver@cdoliver.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol La Nueva Camisera" ;
+	<http://schema.org/url> "http://www.cdoliver.es" ;
+	<http://schema.org/address> "Carrera de la Camisera, s/n" ;
+	<http://schema.org/description> "<p>Entidad gestora: C. D. Oliver</p>" ;
+	<http://schema.org/telephone> "{tel=976324533, fax=976328244}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2827> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "lacartujafutbol@hotmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Mariano Estrada Fortún (La Cartuja Baja)" ;
+	<http://schema.org/address> "C/ Autonomía de Aragón, 24" ;
+	<http://schema.org/description> "<p>Entidad gestora: La Cartuja Focar Club.</p>" ;
+	<http://schema.org/telephone> "{tel=976 454935}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2829> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "cdm@cdmiralbueno.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Miralbueno" ;
+	<http://schema.org/url> "http://www.cfmiralbueno.com/pnfg/" ;
+	<http://schema.org/address> "C/ Manuel Calvo, 7" ;
+	<http://schema.org/description> "<p>Entidad gestora: Centro Deportivo Miralbueno.</p>" ;
+	<http://schema.org/telephone> "{tel=976489772, fax=976489772}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2838> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "info@cdfleta.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Nuevo Fleta" ;
+	<http://schema.org/url> "http://www.actiweb.es/cdfleta/" ;
+	<http://schema.org/address> "Recinto Ferial Avda. Cesáreo Alierta, s/n" ;
+	<http://schema.org/description> "<p>Entidad gestora: A. D. Fleta.</p>" ;
+	<http://schema.org/telephone> "{tel=666 423752}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2840> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "at.escalerillas@hotmail.es" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Parque Oliver" ;
+	<http://schema.org/url> "http://www.atleticoescalerillas.es/" ;
+	<http://schema.org/address> "C/ Reina Petronila, s/n" ;
+	<http://schema.org/description> "<p>Entidad gestora: Atco. Escalerillas.</p>" ;
+	<http://schema.org/telephone> "{tel=976 311212, fax=976 311212}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2841> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "balsas@udbalsaspicarral.es" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Picarral" ;
+	<http://schema.org/url> "http://www.udbalsaspicarral.es" ;
+	<http://schema.org/address> "Pº Alberto Casañal Shakery, 2" ;
+	<http://schema.org/description> "<p>Entidad gestora: U. D. Balsas Picarral.</p>" ;
+	<http://schema.org/telephone> "{tel=976 511101, fax=976 735577}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2842> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "cdsanandres@hotmail.es" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Ranillas" ;
+	<http://schema.org/address> "C/ Clara Campoamor, 34" ;
+	<http://schema.org/description> "<p>Entidad gestora: A.D.A.F.S. Andr&eacute;s.</p>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2831> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "udlosmolinos@hotmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol San Gregorio" ;
+	<http://schema.org/address> "C/ Cristo Rey, 8" ;
+	<http://schema.org/description> "<p>Entidad gestora: U. D. Los Molinos.</p>" ;
+	<http://schema.org/telephone> "{tel=976 525252, fax=976 525252}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3028> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "ud_sanjose@terra.es" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol San José" ;
+	<http://schema.org/url> "http://udsanjose.es/" ;
+	<http://schema.org/address> "Camino de Miraflores, 15 dplo" ;
+	<http://schema.org/description> "<p>Entidad Gestora: U.D. San Jos&eacute;</p>" ;
+	<http://schema.org/telephone> "{tel=976 316 103, fax=976 381775}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2832> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Campo Municipal de Fútbol San Lorenzo" ;
+	<http://schema.org/url> "http://cdgarrapinillos.com/" ;
+	<http://schema.org/address> "Camino Puente Clavería, 32" ;
+	<http://schema.org/description> "<p>Entidad gestora: Club Deportivo Garrapinillos.</p>" ;
+	<http://schema.org/telephone> "{tel=658357888}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6505> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "udcasetas@telefonica.net" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol San Miguel" ;
+	<http://schema.org/url> "http://www.udcasetas.com" ;
+	<http://schema.org/address> "Camino Molino del Rey, s/n" ;
+	<http://schema.org/description> "<p>&nbsp;Entidad Gestora: Uni&oacute;n Deportiva Casetas</p>" ;
+	<http://schema.org/telephone> "{tel=976774778, fax=976770494}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2834> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "dvdasensi@hotmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Santa Engracia" ;
+	<http://schema.org/url> "http://cdmovera.blogspot.com.es/" ;
+	<http://schema.org/address> "Avda. de Movera, 600 dplo" ;
+	<http://schema.org/description> "<p>Entidad gestora: Club Deportivo Movera.</p>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2692> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "santodomingojuventud@gmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Torre Ramona-Joaquín González" ;
+	<http://schema.org/url> "http://www.santodomingojuventud.com" ;
+	<http://schema.org/address> "C/ Fray Luís Urbano, 81" ;
+	<http://schema.org/description> "<p>Entidad gestora: C. F. Santo Domingo Juventud.</p>" ;
+	<http://schema.org/telephone> "{tel=976 596721, fax=976 596721}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2843> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "cdginertorrero@gmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Torrero" ;
+	<http://schema.org/address> "Avda. América, 123" ;
+	<http://schema.org/description> "<p>Entidad gestora: C. D. Giner - Torrero.</p>" ;
+	<http://schema.org/telephone> "{tel=976 382147, fax=976 278156}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2845> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/email> "cdvaldefierro@gmail.com" ;
+	<http://schema.org/name> "Campo Municipal de Fútbol Valdefierro" ;
+	<http://schema.org/address> "C/ Campillo de Llerena, 1" ;
+	<http://schema.org/description> "<p>Entidad gestora: C. D. Valdefierro.</p>" ;
+	<http://schema.org/telephone> "{tel=976 753688, fax=976 753688}" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2822> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Estadio de Fútbol La Romareda" ;
+	<http://schema.org/url> "http://www.realzaragoza.com/" ;
+	<http://schema.org/address> "C/ Eduardo Ibarra, 6" ;
+	<http://schema.org/description> "<p>Entidad gestora: Real Zaragoza S.A.D.</p>" ;
+	<http://schema.org/telephone> "{tel=976 567777}" .
