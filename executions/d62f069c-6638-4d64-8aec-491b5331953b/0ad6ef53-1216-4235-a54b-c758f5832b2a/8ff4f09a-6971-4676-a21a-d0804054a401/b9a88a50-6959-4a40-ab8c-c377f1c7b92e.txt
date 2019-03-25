@@ -1,0 +1,204 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13102> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería  Zeus" ;
+	<http://schema.org/telephone> "{tel=976229808 , fax= }" ;
+	<http://schema.org/email> "info@galeriazeus.com" ;
+	<http://schema.org/identifier> "13102" ;
+	<http://schema.org/address> "Pº Constitución, 28" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13104> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería A Del Arte" ;
+	<http://schema.org/telephone> "{tel=976221757 / 618313355 , fax= }" ;
+	<http://schema.org/email> "galeria@adelarte.es" ;
+	<http://schema.org/identifier> "13104" ;
+	<http://schema.org/address> "C/ Bernardo Fita, 19" ;
+	<http://schema.org/openingHours> "De martes a sábado de 10:30 a 13:30h. y de 17 a 21h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13040> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Antonia Puyó" ;
+	<http://schema.org/telephone> "{tel=976469530 , fax=976284238}" ;
+	<http://schema.org/email> "galeria@antoniapuyo.com" ;
+	<http://schema.org/identifier> "13040" ;
+	<http://schema.org/address> "C/ Madre Sacramento, 31" ;
+	<http://schema.org/openingHours> """Lunes a viernes: 11-13:30 h. y 17-20:30 h.  Sábados: 10-13:30 h. Tarde previa cita.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13060> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Aroya" ;
+	<http://schema.org/telephone> "{tel=600355682 / 976215410, fax= }" ;
+	<http://schema.org/email> "aroyagaleria@yahoo.es" ;
+	<http://schema.org/identifier> "13060" ;
+	<http://schema.org/address> "C/ Cadena, 8" ;
+	<http://schema.org/openingHours> """Martes a viernes, de 17'30 a 20'30 horas 	 Sábado, de 11'00 a 13'30 horas""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13047> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Arteymagen" ;
+	<http://schema.org/telephone> "{tel=619867101 , fax= }" ;
+	<http://schema.org/email> "info@artymagen.org" ;
+	<http://schema.org/identifier> "13047" ;
+	<http://schema.org/address> "C/ María Lostal, 26 principal" ;
+	<http://schema.org/openingHours> "De lunes a viernes de 19:30 h. a 22:00 h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13101> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería C.A.C (Cameros Art Consulting)" ;
+	<http://schema.org/telephone> "{tel=976233559 / 607265425 , fax= }" ;
+	<http://schema.org/email> "arteinformado@arteinformado.com" ;
+	<http://schema.org/identifier> "13101" ;
+	<http://schema.org/address> "C/ Mariano Royo Urieta, 14, 2° Dcha." ;
+	<http://schema.org/openingHours> "Mañanas previa petición de cita y de lunes a sábado de 16:30 a 21:00h" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13082> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Caja Roja" ;
+	<http://schema.org/telephone> "{tel=620049342 , fax= }" ;
+	<http://schema.org/email> "lacajaroja2008@hotmail.com" ;
+	<http://schema.org/identifier> "13082" ;
+	<http://schema.org/address> "Avda. Santa Isabel, 9" ;
+	<http://schema.org/openingHours> "De lunes a miercoles de 10 a 13 h.   De lunes a viernes de 17 a 20 h. Los sábados sólo exposiciones de 18 a 20:30h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13061> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Calvo i Mayayo" ;
+	<http://schema.org/telephone> "{tel=976395621 , fax= }" ;
+	<http://schema.org/email> "info@calvoimayayo.com" ;
+	<http://schema.org/identifier> "13061" ;
+	<http://schema.org/address> "C/ Cadena, 28" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13105> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Cristina Marín" ;
+	<http://schema.org/telephone> "{tel=619824466 , fax= }" ;
+	<http://schema.org/email> "galeria@cristinamarin.com" ;
+	<http://schema.org/identifier> "13105" ;
+	<http://schema.org/address> "C/ Manuela Sancho, 11" ;
+	<http://schema.org/openingHours> """Lunes a viernes09:30  14:3017:00  20:30""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13160> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería de arte Agrupación Artística Aragonesa" ;
+	<http://schema.org/telephone> "{tel=976224227 , fax= }" ;
+	<http://schema.org/email> "secretaria@laagrupacion.net" ;
+	<http://schema.org/identifier> "13160" ;
+	<http://schema.org/address> "C/ Lagasca, 21" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6225> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería de arte San Cayetano 3" ;
+	<http://schema.org/telephone> "{tel=629757575}" ;
+	<http://schema.org/email> "info@sancayetano3.com" ;
+	<http://schema.org/identifier> "6225" ;
+	<http://schema.org/address> "Pza. del Justicia, 3" ;
+	<http://schema.org/openingHours> """De Martes a Viernes de 19h a 21h.Sábados de 11:30h a 13:30h y de 19h a 21h.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13663> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería de arte y Academia de Dibujo y Pintura Badanes" ;
+	<http://schema.org/telephone> "{tel=976737610 , fax= }" ;
+	<http://schema.org/identifier> "13663" ;
+	<http://schema.org/address> "C/ Gertrudis Gómez de Avellaneda, 23" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13048> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Espacio Orienta" ;
+	<http://schema.org/telephone> "{tel=610 392040 , fax= }" ;
+	<http://schema.org/email> "espacioorienta@hotmail.es" ;
+	<http://schema.org/identifier> "13048" ;
+	<http://schema.org/address> "C/ Felipe San Clemente, 18" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13049> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Fernando Latorre" ;
+	<http://schema.org/telephone> "{tel=976385050 , fax= }" ;
+	<http://schema.org/email> "fl@galeriafernandolatorre.com" ;
+	<http://schema.org/identifier> "13049" ;
+	<http://schema.org/address> "C/ Anselmo Gascón de Gotor, 12" ;
+	<http://schema.org/openingHours> "De martes a sábado de 11 a 14h. y de 17 a 21h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13103> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Finestra Estudio" ;
+	<http://schema.org/telephone> "{tel=976234516 , fax=976229531}" ;
+	<http://schema.org/email> "info@finestraestudio.es" ;
+	<http://schema.org/identifier> "13103" ;
+	<http://schema.org/address> "C/ Tomás Zumalacárregui, 12, piso LC" ;
+	<http://schema.org/openingHours> """Lunes a viernes: 9:30 a 14 y de 17 a 20:30 h.Sábados: 11 a 14 y 18 a 20 h.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13120> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Lauman" ;
+	<http://schema.org/telephone> "{tel=976758127 , fax= }" ;
+	<http://schema.org/identifier> "13120" ;
+	<http://schema.org/address> "C/ Encina (la Floresta), 23" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5765> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Librería La Casa Amarilla" ;
+	<http://schema.org/telephone> "{tel=876 53 58 85}" ;
+	<http://schema.org/email> "info@galerialacasamarilla.com" ;
+	<http://schema.org/identifier> "5765" ;
+	<http://schema.org/address> "Paseo Sagasta 72, Local 3" ;
+	<http://schema.org/openingHours> """Martes/Viernes: 18.00 h _ 21.00 hSábados: 11.00 h _ 14.00 hLunes y festivos: cerradoFuera de horario: con cita previa""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13083> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Margó Venegas Pérez" ;
+	<http://schema.org/telephone> "{tel=976389517 / 655 700 725, fax= }" ;
+	<http://schema.org/email> "galeria@elsolsaleparatodos.es" ;
+	<http://schema.org/identifier> "13083" ;
+	<http://schema.org/address> "C/ María Moliner, 7, Local" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13044> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Miguel Marcos" ;
+	<http://schema.org/telephone> "{tel=976 296366 , fax= }" ;
+	<http://schema.org/email> "galeria@miguelmarcos.com" ;
+	<http://schema.org/identifier> "13044" ;
+	<http://schema.org/address> "C/ Ciprés, s/n" ;
+	<http://schema.org/openingHours> "11 a 14 h. y de 17 a 21h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13046> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Pilar Ginés" ;
+	<http://schema.org/telephone> "{tel=666 125 215, fax= }" ;
+	<http://schema.org/email> "galeriapilargines@gmail.com" ;
+	<http://schema.org/identifier> "13046" ;
+	<http://schema.org/address> "C/ Santiago, 5, piso LC" ;
+	<http://schema.org/openingHours> """De Martes a SábadoMañanas: de 12:00 a 14:00 h.Tardes: de 18:30 a 20:30 h.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13081> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Sala 8" ;
+	<http://schema.org/telephone> "{tel=976 231190 , fax= }" ;
+	<http://schema.org/email> "info@sala8.es" ;
+	<http://schema.org/identifier> "13081" ;
+	<http://schema.org/address> "C/ Jerónimo Zurita, 8" ;
+	<http://schema.org/openingHours> "De lunes a viernes de 11 a 13:30h. y de 16:30 a 20:30h. Sábados de 10 a 13:30h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13080> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Salduba" ;
+	<http://schema.org/telephone> "{tel=976230705 , fax= }" ;
+	<http://schema.org/email> "salduba@grup-escola.com" ;
+	<http://schema.org/identifier> "13080" ;
+	<http://schema.org/address> "C/ Santa Joaquina de Vedruna, 5" ;
+	<http://schema.org/openingHours> "De martes a sábado de 11 a 13:30 h y de 17 a 21h" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13042> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Spectrum Sotos" ;
+	<http://schema.org/telephone> "{tel=976359473 , fax=976568487}" ;
+	<http://schema.org/email> "galeria@spectrumsotos.com" ;
+	<http://schema.org/identifier> "13042" ;
+	<http://schema.org/address> "C/ Concepción Arenal, 19" ;
+	<http://schema.org/openingHours> """Lunes a viernes: 16:30 a 20:30 h.Sábados: Previa cita.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13045> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería Zaragoza Gráfica(Espacio Víctor Mira)" ;
+	<http://schema.org/telephone> "{tel=976293285 / 658 028 921, fax=976293286}" ;
+	<http://schema.org/email> "info@zaragozagrafica.com" ;
+	<http://schema.org/identifier> "13045" ;
+	<http://schema.org/address> "C/ Don Jaime I, 14, 3º Dcha." ;
+	<http://schema.org/openingHours> """Lunes a viernes: 10.30h. - 13.30h. y 17.30h. - 20.30h.Sábado: 10:30-13:30 h. Tarde previa cita.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13050> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Galería2MIL2ART" ;
+	<http://schema.org/telephone> "{tel=976203025 , fax= }" ;
+	<http://schema.org/email> "2mil2@arsys.es" ;
+	<http://schema.org/identifier> "13050" ;
+	<http://schema.org/address> "C/ San Andrés, 9" ;
+	<http://schema.org/openingHours> "Martes a Viernes: 9-14h y 18-21h (Sábados: 10-14 h y de 18-21 h Domingos 11-14 h)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20330> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Queroche" ;
+	<http://schema.org/telephone> "{tel=976 132 310, fax=976 132 307}" ;
+	<http://schema.org/email> "queroche@queroche.com" ;
+	<http://schema.org/identifier> "20330" ;
+	<http://schema.org/address> "C/Retama, 17" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20630> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Victoria Almacén de Arte" ;
+	<http://schema.org/telephone> "{tel=639 55 78 89}" ;
+	<http://schema.org/identifier> "20630" ;
+	<http://schema.org/address> "C/ San Vicente de Paúl, 28" .
