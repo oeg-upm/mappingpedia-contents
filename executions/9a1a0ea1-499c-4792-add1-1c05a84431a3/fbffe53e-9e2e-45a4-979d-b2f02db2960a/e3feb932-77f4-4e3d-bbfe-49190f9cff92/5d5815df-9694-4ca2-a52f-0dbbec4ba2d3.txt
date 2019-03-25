@@ -1,0 +1,248 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11026> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Santiago, 3-5" ;
+	<http://schema.org/name> "Café Botánico" ;
+	<http://schema.org/identifier> "11026" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7525> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Pza. de Nuestra Señora del Pilar" ;
+	<http://schema.org/name> "Café Da Luxe" ;
+	<http://schema.org/identifier> "7525" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20683> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Telesforo Peromarta 5 (plaza San Lamberto)" ;
+	<http://schema.org/name> "Café DPch Rock" ;
+	<http://schema.org/identifier> "20683" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10405> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Heroismo, 13" ;
+	<http://schema.org/name> "Café Meccano" ;
+	<http://schema.org/identifier> "10405" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7745> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ San Vicente de Paúl, 30" ;
+	<http://schema.org/name> "Café New York" ;
+	<http://schema.org/identifier> "7745" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9966> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Don Carlosl, 2" ;
+	<http://schema.org/name> "Café Solanet (Graus)" ;
+	<http://schema.org/identifier> "9966" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7405> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Antonio Sangenis, 20" ;
+	<http://schema.org/name> "Café-Billar El Buscavidas" ;
+	<http://schema.org/identifier> "7405" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20460> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Bretón, 34" ;
+	<http://schema.org/name> "Café-pub Voltaire" ;
+	<http://schema.org/identifier> "20460" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13282> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Espoz y Mina, 19" ;
+	<http://schema.org/name> "Lata de Bombillas" ;
+	<http://schema.org/identifier> "13282" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28349> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Paseo de la Noria, 3" ;
+	<http://schema.org/name> "Sala Bámbola" ;
+	<http://schema.org/identifier> "28349" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13283> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Pza. Utrillas, 3" ;
+	<http://schema.org/name> "Sala de Música. Arena Rock" ;
+	<http://schema.org/identifier> "13283" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5885> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Francisco Pizarro, 10" ;
+	<http://schema.org/name> "Sala de Música. Azul Rock Café" ;
+	<http://schema.org/identifier> "5885" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5888> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Azoque, 64" ;
+	<http://schema.org/name> "Sala de Música. Boranda Latin Palace" ;
+	<http://schema.org/identifier> "5888" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5506> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Predicadores, 70" ;
+	<http://schema.org/name> "Sala de Música. Bóveda del Albergue" ;
+	<http://schema.org/identifier> "5506" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13310> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Pza. Salamero, s/n" ;
+	<http://schema.org/name> "Sala de Música. Cabaret Pop" ;
+	<http://schema.org/identifier> "13310" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13285> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Camino de Las Torres, 42" ;
+	<http://schema.org/name> "Sala de Música. Café Hispano" ;
+	<http://schema.org/identifier> "13285" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9367> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Pza. San Lamberto, 3" ;
+	<http://schema.org/name> "Sala de Música. Creedence" ;
+	<http://schema.org/identifier> "9367" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13284> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Pza. Nuestra Señora del Pilar, 12" ;
+	<http://schema.org/name> "Sala de Música. De Luxe Café Cantante" ;
+	<http://schema.org/identifier> "13284" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13286> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Doctor Lozano Monzón, 5" ;
+	<http://schema.org/name> "Sala de Música. Devizio" ;
+	<http://schema.org/identifier> "13286" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13312> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Bolonia, 28" ;
+	<http://schema.org/name> "Sala de Música. El Páramo" ;
+	<http://schema.org/identifier> "13312" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5886> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Mayor, 56" ;
+	<http://schema.org/name> "Sala de Música. El refugio del crápula." ;
+	<http://schema.org/identifier> "5886" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13287> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ La Paz, 23" ;
+	<http://schema.org/name> "Sala de Música. El Sol" ;
+	<http://schema.org/identifier> "13287" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13300> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Pasaje Independencia (Caracol)" ;
+	<http://schema.org/name> "Sala de Música. El Zorro" ;
+	<http://schema.org/identifier> "13300" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13301> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Luis Antonio Oro Giral, 7" ;
+	<http://schema.org/name> "Sala de Música. Juan Sebastián Bar" ;
+	<http://schema.org/identifier> "13301" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5626> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Prudencio, 7" ;
+	<http://schema.org/name> "Sala de Música. La Campana Underground" ;
+	<http://schema.org/identifier> "5626" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13303> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Mayor, 10-12" ;
+	<http://schema.org/name> "Sala de Música. La Casa Del Loco" ;
+	<http://schema.org/identifier> "13303" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13304> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Sevilla, 2" ;
+	<http://schema.org/name> "Sala de Música. La Ley Seca" ;
+	<http://schema.org/identifier> "13304" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5605> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Sixto Celorrio, 2" ;
+	<http://schema.org/name> "Sala de Música. López" ;
+	<http://schema.org/identifier> "5605" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5887> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Perpetuo Socorro, 13" ;
+	<http://schema.org/name> "Sala de Música. Muffin club" ;
+	<http://schema.org/identifier> "5887" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5905> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Luis bermejo, 9" ;
+	<http://schema.org/name> "Sala de Música. Reset" ;
+	<http://schema.org/identifier> "5905" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13313> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Cuatro de Agosto, 5" ;
+	<http://schema.org/name> "Sala de Música. Rock and  Blues" ;
+	<http://schema.org/identifier> "13313" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13305> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Pº Gran Vía, 33" ;
+	<http://schema.org/name> "Sala de Música. Sala Morrisey" ;
+	<http://schema.org/identifier> "13305" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13309> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Basilio Bogiero, 28" ;
+	<http://schema.org/name> "Sala de Música. Sala Oasis" ;
+	<http://schema.org/identifier> "13309" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13311> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Perpetuo Socorro, 13" ;
+	<http://schema.org/name> "Sala de Música. Sala Ozono" ;
+	<http://schema.org/identifier> "13311" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13308> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Félix Latassa, 14" ;
+	<http://schema.org/name> "Sala de Música. Sala Zeta" ;
+	<http://schema.org/identifier> "13308" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20335> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Domingo Figueras Jariod, 8-10" ;
+	<http://schema.org/name> "Sala de Musica. Teatro de la Estacion." ;
+	<http://schema.org/identifier> "20335" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13307> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Santa Cruz, 7" ;
+	<http://schema.org/name> "Sala de Música. The Cavern Prior" ;
+	<http://schema.org/identifier> "13307" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8127> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Camino de las Torres 42" ;
+	<http://schema.org/name> "Sala de Musica. The Royal Club" ;
+	<http://schema.org/identifier> "8127" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13320> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Luis del Valle, 17-19" ;
+	<http://schema.org/name> "Sala de Música. Ultimatum" ;
+	<http://schema.org/identifier> "13320" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13306> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Teniente Catalán, 9" ;
+	<http://schema.org/name> "Sala de Música.The Preacher s Son" ;
+	<http://schema.org/identifier> "13306" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10406> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/  Leon XIII" ;
+	<http://schema.org/name> "Sala Green" ;
+	<http://schema.org/identifier> "10406" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20307> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/Monaterio de Rueda" ;
+	<http://schema.org/name> "Sala King Kong" ;
+	<http://schema.org/identifier> "20307" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8125> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Sixto Celorrio, 2" ;
+	<http://schema.org/name> "Sala López" ;
+	<http://schema.org/identifier> "8125" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11356> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala Mile End" ;
+	<http://schema.org/identifier> "11356" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11357> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Sala Mile End" ;
+	<http://schema.org/identifier> "11357" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20468> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Temple, 7-9" ;
+	<http://schema.org/name> "Sala Roxy" ;
+	<http://schema.org/identifier> "20468" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9685> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ La Salina, 2" ;
+	<http://schema.org/name> "Sala Saratoga" ;
+	<http://schema.org/identifier> "9685" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20440> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "Luis del Valle, 17" ;
+	<http://schema.org/name> "Sala Utopía" ;
+	<http://schema.org/identifier> "20440" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9605> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ La Salina, 2" ;
+	<http://schema.org/name> "Sala. de Musica. Explosivo Club de Baile" ;
+	<http://schema.org/identifier> "9605" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12009> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/address> "C/ Maestro Luna, 5" ;
+	<http://schema.org/name> "Salas de Música. La Botica" ;
+	<http://schema.org/identifier> "12009" .
