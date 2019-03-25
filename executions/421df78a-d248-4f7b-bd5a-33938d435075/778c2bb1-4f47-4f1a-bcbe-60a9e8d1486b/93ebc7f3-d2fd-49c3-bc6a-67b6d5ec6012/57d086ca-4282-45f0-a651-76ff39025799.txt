@@ -1,0 +1,25 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25527> a <http://schema.org/WholesaleStore> ;
+	<http://schema.org/address> "AVDA DE LAS ESTRELLAS,2" ;
+	<http://schema.org/name> "ALCAMPO LOS ENLACES" ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27061> a <http://schema.org/WholesaleStore> ;
+	<http://schema.org/address> "PLAZA UTRILLAS,1" ;
+	<http://schema.org/name> "ALCAMPO UTRILLAS PLAZA" ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23089> a <http://schema.org/WholesaleStore> ;
+	<http://schema.org/address> "AVDA NAVARRA,180" ;
+	<http://schema.org/name> "CARREFOUR" ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26259> a <http://schema.org/WholesaleStore> ;
+	<http://schema.org/address> "CALLE MARIA ZAMBRANO,71" ;
+	<http://schema.org/name> "CARREFOUR ACTUR" ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23687> a <http://schema.org/WholesaleStore> ;
+	<http://schema.org/address> "PLAZA EMPERADOR CARLOS,10" ;
+	<http://schema.org/name> "SIMPLY" ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" .
