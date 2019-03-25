@@ -1,0 +1,134 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13681> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Santa Cruz, 7, 4º B" ;
+	<http://schema.org/description> """<p>Cursos de Dibujo. Cursos de Pintura.</p><p>Enlace para saber más acerca de Conchita trigo:http://www.conchitatrigo.com/menu.html</p>""" ;
+	<http://schema.org/identifier> "13681" ;
+	<http://schema.org/name> "Academia Conchita Trigo" ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=13681" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13662> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Don Pedro de Luna, 32, local" ;
+	<http://schema.org/description> "<p>Dibujo y pintura</p>" ;
+	<http://schema.org/identifier> "13662" ;
+	<http://schema.org/name> "Academia Da Vinci" ;
+	<http://schema.org/telephone> "{tel=976 343 752 / 605 790 823 , fax= }" ;
+	<http://schema.org/url> "http://www.academiadavinci.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13683> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Albareda, 10" ;
+	<http://schema.org/description> """<p>Estudio de Dibujo y Pintura. Todas las edades.</p><p>Rafael Calon o Calon, como prefiere que le llamen, nació en 1964 en La Paúl, un pequeño pueblo de poco mas de 200 habitantes, entre Huesca y Zaragoza.<br /><br />A los 14 años le dijo a sus padres ¡Quiero ser pintor! pero como a tantos otros artistas les ha sucedido, no fue comprendido en su familia, lo único que consiguió tras mucho insistir, es que su padre lo pusiera a trabajar en el campo: ¿si no quieres estudiar, ¡tendrás que trabajar!¿. <br />Estudiar pintura no era una opción en ese momento, sobre todo para una familia con un solo hijo.<br />Fueron años duros, a Calon nunca le gustó trabajar en el campo, y casi la única forma de evadirse de un lugar</p>""" ;
+	<http://schema.org/identifier> "13683" ;
+	<http://schema.org/name> "Academia de Arte, Dibujo y Pintura. Estudio Calon" ;
+	<http://schema.org/telephone> "{tel= 619 475 651, fax= }" ;
+	<http://schema.org/url> "http://www.rcalon.com/" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13664> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Jerónimo Blancas, 8" ;
+	<http://schema.org/description> "<p><img alt=\"\" src=\"file:///D:/DOCUME~1/USUARI~1/CONFIG~1/Temp/moz-screenshot-58.jpg\" />Cursos de dibujo, pintura y modelado para adultos, ni&ntilde;os. Cursos de verano.</p>" ;
+	<http://schema.org/identifier> "13664" ;
+	<http://schema.org/name> "Academia de dibujo y Pintura Barbasán" ;
+	<http://schema.org/telephone> "{tel=976 218 973 , fax= }" ;
+	<http://schema.org/url> "http://academiabarbasan.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13661> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Monasterio Nuestra Señora del Pueyo, 14" ;
+	<http://schema.org/description> "<p><img alt=\"\" src=\"file:///D:/DOCUME~1/USUARI~1/CONFIG~1/Temp/moz-screenshot-57.jpg\" />Talleres de cer&aacute;mica, pintura y dibujo</p>" ;
+	<http://schema.org/identifier> "13661" ;
+	<http://schema.org/name> "Academia de Dibujo y Pintura. Manuel y Arte" ;
+	<http://schema.org/telephone> "{tel=976 412 951 , fax= }" ;
+	<http://schema.org/url> "http://www.manualyarte.com" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13684> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Jaime Balmes, 1" ;
+	<http://schema.org/identifier> "13684" ;
+	<http://schema.org/name> "Centro de Estudios de Arte" ;
+	<http://schema.org/telephone> "{tel=976224040 , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=13684" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12243> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "Avda. María Zambrano, 5" ;
+	<http://schema.org/description> """<p>La nueva sede de la Escuela de Arte y Escuela Superior de Diseño se ha construido en el barrio del Actur, entre las calles Gertrudis Gómez de Avellaneda y María Zambrano. El diseño del edificio ha corrido a cargo del estudio de arquitectos de Joaquín Sicilia, que ha proyectado una infraestructura compuesta por tres volúmenes en forma de prisma que se conectan a través de la planta baja y que de manera sinuosa, cómo unas \"vértebras de reptil\", recorren toda la parcela. Sicilia explicó que su propuesta pretende generar un espacio cultural que \"dinamice y colonice\" el entorno del Actur.<br />La Escuela de Arte se situará en la parte norte del conjunto constructivo. Tendrá capacidad para albergar 13 talleres, 14 aulas teóricas, 14 aulas teórico-prácticas, siete departamentos, biblioteca y cafetería. La Escuela Superior de Diseño estará en la parte central y contará con cuatro talleres, 14 clases, biblioteca, un aula para informática y otra para medios audiovisuales. Los talleres y laboratorios tendrán una altura mínima de cuatro metros. En la parte sur, se situará un espacio que servirá de salón de actos y sala de exposiciones.<br />El edificio estará cubierto por una \"piel\" acristalada formada por lamas y contará con varios espacios ajardinados, además de gimnasio y una pista deportiva.</p>""" ;
+	<http://schema.org/identifier> "12243" ;
+	<http://schema.org/name> "Escuela de Arte de Zaragoza" ;
+	<http://schema.org/telephone> "{tel=976 506 621 / 976 506 624 , fax=976 235 404 }" ;
+	<http://schema.org/url> "http://www.escueladeartedezaragoza.com/biblioteca/biblioteca.html" ;
+	<http://schema.org/openingHours> "<p class=\"comun\">El horario de apertura de la Biblioteca, desde el 1 de octubre hasta el 15 de junio, es el siguiente:</p><table summary=\"horario\"><tbody><tr class=\"comun\"><td width=\"15%\">Mañanas:</td><td width=\"85%\">de Lunes a Viernes, de 10 a 13.30</td></tr><tr class=\"comun\"><td>Tardes:</td><td>Lunes y Martes, de 19:30 a 20:30</td></tr><tr class=\"comun\"><td> </td><td>Viernes: de 19:30 a 20:30</td></tr></tbody></table><p class=\"comun\">En el horario nocturno, la Biblioteca se abre para prestar servicio exclusivamente a los alumnos de Ciclos de <em>Grabado y Estampación </em>y de <em>Cerámica</em>, que no tienen clases de mañana.</p>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5865> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Manuel Lasala 14, piso LC" ;
+	<http://schema.org/identifier> "5865" ;
+	<http://schema.org/name> "Estudio Cañada" ;
+	<http://schema.org/telephone> "{tel=976569318}" ;
+	<http://schema.org/url> "http://www.estudiocanada.com/" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5845> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Jaime Balmes, 1" ;
+	<http://schema.org/identifier> "5845" ;
+	<http://schema.org/name> "Estudio Sierra Barseló" ;
+	<http://schema.org/telephone> "{tel=976224040/654129070}" ;
+	<http://schema.org/url> "http://www.sierrabarselo.com/index2.php?lang=es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/934> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "Pza. de San Carlos, 4" ;
+	<http://schema.org/description> "<p>La Filmoteca de Zaragoza organiza de forma continuada ciclos de cine. Se env&iacute;a informaci&oacute;n acerca del contenido y precio de dichas sesiones a todos los centros de Educaci&oacute;n Secundaria.</p>" ;
+	<http://schema.org/identifier> "934" ;
+	<http://schema.org/name> "Filmoteca de Zaragoza" ;
+	<http://schema.org/telephone> "{tel=976 724 915, fax=976 724 919}" ;
+	<http://schema.org/url> "http://filmotecazaragoza.com/" ;
+	<http://schema.org/openingHours> "<p>Las proyecciones tienen lugar de miércoles a sábado en 3 sesiones diarias.</p>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13663> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Gertrudis Gómez de Avellaneda, 23" ;
+	<http://schema.org/identifier> "13663" ;
+	<http://schema.org/name> "Galería de arte y Academia de Dibujo y Pintura Badanes" ;
+	<http://schema.org/telephone> "{tel=976737610 , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=13663" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13042> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Concepción Arenal, 19" ;
+	<http://schema.org/identifier> "13042" ;
+	<http://schema.org/name> "Galería Spectrum Sotos" ;
+	<http://schema.org/telephone> "{tel=976359473 , fax=976568487}" ;
+	<http://schema.org/url> "http://www.spectrumsotos.com" ;
+	<http://schema.org/openingHours> """Lunes a viernes: 16:30 a 20:30 h.Sábados: Previa cita.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/699> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "Pza. San Carlos, 4" ;
+	<http://schema.org/description> """<p>Sin que ello suponga que no pueda utilizarse para presentar otro tipo de muestras, como de hecho ha ocurrido en ocasiones, este atractivo espacio, situado en el sótano de una casa palaciega del siglo XVI y abierto al público en 1997, se viene especializando en  exposiciones de fotografía y otras disciplinas afines o relacionadas dentro del amplio territorio de las artes propiamente visuales (aunque las distinciones son por fortuna cada día más imprecisas e innecesarias), con una de las cuales, la titulada Testigos (que agrupaba obras de fotógrafos tan destacados como David Burnett, Sebastiao Salgado, Cristina García Rodero, Annie Leibovitz, Ricardo Dávila Wood, Koldo Chamorro), inició su andadura hace nueve años. <a href=\"/ciudad/museos/es/morlanes.htm\"><img src=\"/cont/paginas//museos/img/masrojo.gif\" alt=\"Mas\" />Mas Información</a></p><ul>    <li><a href=\"/ciudad/cultura/enlace/turismo/visitar/detalle_Monumento?id=26\">Ver Monumento</a></li></ul>""" ;
+	<http://schema.org/identifier> "699" ;
+	<http://schema.org/name> "Sala de Exposiciones Casa de los Morlanes" ;
+	<http://schema.org/telephone> "{tel=976 724881, 4881}" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=699" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a sábados de 10.00 a 14.30 h y de 17.00 a 21.00 h</li><li>Domingos y festivos: de 10 a 14.30 h.</li><li>Lunes, cerrado</li></ul> <ul>    <li>Días 24 y 31 de diciembre, abierto de 10 a 14 h</li>    <li>Días 25 de diciembre y 1 de enero, cerrado.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2178> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Don Juan de Aragón, 2" ;
+	<http://schema.org/description> """<ul>    <li><strong>Ubicada </strong>en el interior de la Casa de la Mujer.<br />    Espacio donde se expone, promociona y difunde la obra de artistas visuales que preferentemente trabajen desde la perspectiva de género.Su objetivo fundamental es exponer, difundir y promocionar la obra de mujeres artistas plásticas, así como reivindicar la calidad artística de la obra de las mujeres. <br />    La Sala también está abierta a sumar a éste, otros proyectos, como el desarrollar actividades que aproximen el arte actual a las mujeres de la ciudad, o el incluir exposiciones de artistas varones, en la medida en que se considere que aportan una visión nueva y de particular interés para el desarrollo de los objetivos de la Sala. <br />    Se considera también como objetivo, acercar el Arte actual, a las mujeres de la ciudad y a las que tienen relación con la Casa por distintos motivos. <br />    La Sala recogerá, no solamente pintura, sino también otras disciplinas, como escultura, fotografía, instalaciones y nuevas tecnologías.</li>    <li><strong>Programación</strong>: de octubre a junio.</li>    <li>La visita a la Sala de Exposiciones se puede completar con un recorrido por las instalaciones de la Casa de la Mujer.<a href=\"http://www.zaragoza.es/ciudad/sectores/mujer/listado_Agenda?lugar_realizacion=juana%20frances\"><strong><br />    </strong></a></li></ul><p class=\"destacado\">Premios MAV 2012</p><ul>    <li><a href=\"/ciudad/sectores/mujer/mav2012.htm\">A Maite Solanilla, </a>responsable de la Sala Juana Francés, en la Categoría de gestora/galerista.</li></ul><p class=\"destacado\">Exposiciones</p><ul>    <li><a href=\"/ciudad/sectores/mujer/listado_Agenda?lugar_realizacion=juana%20frances\">Consulte exposición actual</a></li></ul><p class=\"destacado\">Más información</p><ul>    <li><a href=\"http://www.zaragoza.es/contenidos/sectores/mujer/retrospectiva_juana_frances.pdf\">Una retrospectiva. 22 años de la Sala Juana Francés</a></li>    <li><a href=\"/contenidos/sectores/mujer/sala-juana-frances-info.pdf\">30 años con las Mujeres: Publicación conmemorativa</a> (pag.72 y 73)</li>    <p> </p>    <p> </p></ul><p> </p>""" ;
+	<http://schema.org/identifier> "2178" ;
+	<http://schema.org/name> "Sala de Exposiciones Juana Francés" ;
+	<http://schema.org/telephone> "{tel=976 726 040, fax=976 726 042}" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/sectores/mujer/" ;
+	<http://schema.org/openingHours> "<ul><li>De lunes a viernes de 12 a 14 y de 18 a 21 h.</li></ul>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/700> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "Pza. Nuestra Sra. del Pilar, s/n / C/ Don Jaime I, 47" ;
+	<http://schema.org/description> """<div class=\"info alert alert-info\">AVISO: Del <strong>día 2 al 22 de enero incluidos</strong> la sala de exposición de La Lonja permanecerá cerrada por la realización de trabajos de montaje de la nueva exposición <em>Cierta luz. De fotógrafas aragonesas</em>.</div><p>Aunque este magnífico edificio civil, construido entre 1541 y 1551, se venía utilizando como espacio expositivo, al menos, desde comienzos del pasado siglo XX , será desde comienzos de los años 70 de dicha centuria cuando, con  exposiciones como la de Manuel Viola en 1972 y la de Pablo Serrano en  1975, el uso habitual de la Lonja como Sala de exposiciones comience a  tomar verdadera carta de naturaleza, convirtiéndose en permanente y  exclusivo desde mitad de la década siguiente.</p><p>Vale la pena recordar que en la Lonja se celebró en 1919 una <em>Exposición Hispano-Francesa de Bellas Artes</em> que reunió, entre otros, nombres tan destacados como los de Beruete, Domingo, Iturrino, Nonell, Picasso, Regoyos, Vázquez Díaz, Zuloaga, Mariano Benlliure, Clará, Gargallo, Julio Antonio, Macho; y de 1942 a 1945 las muestras del Salón Internacional de Otoño de Fotografía, que sigue vigente desde 1925; y durante los años 1943 a 1955 la mayoría de las trece ediciones del Salón de Artistas Aragoneses),</p><ul>    <li><a href=\"/ciudad/museos/es/salas/lonja.htm\"> Mas Información</a></li>    <li><a href=\"detalle_Monumento?id=18\"> Monumento Artístico </a></li>    <li><a href=\"http://www.zaragoza.es/contenidos/proyect/LaLonja.zip\">Modelo 3D</a> (Formato zip, 579 kb)</li></ul><p> </p>""" ;
+	<http://schema.org/identifier> "700" ;
+	<http://schema.org/name> "Sala de Exposiciones La Lonja" ;
+	<http://schema.org/telephone> "{tel=976 397239, fax=976 397239}" ;
+	<http://schema.org/openingHours> """<ul>    <li>Martes a sábado de 10 a 14 h y de 17 a 21 h. Domingos y festivos: de 10 a 14.30 h. (cuando hay exposición). Lunes cerrado.</li></ul><ul>    <li>24 y 31 diciembre, de 10 a 14 h</li>    <li>25 de diciembre y 1 enero, cerrado.</li></ul>El acceso del público se interrumpe 30 minutos antes del cierre.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2447> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Madre Rafols , 4" ;
+	<http://schema.org/identifier> "2447" ;
+	<http://schema.org/name> "Unidad de Patrimonio Cultural" ;
+	<http://schema.org/telephone> "{tel=976 723795 - 3796}" ;
+	<http://schema.org/openingHours> """<ul>    <li>Laborables, de 10 a 14 h y de 17 a 21 h. </li>    <li>Festivos, de 10 a 14 h. Lunes, cerrado.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5825> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/address> "C/ Hermanos Argensola, 5" ;
+	<http://schema.org/identifier> "5825" ;
+	<http://schema.org/name> "ZPhoto" ;
+	<http://schema.org/telephone> "{tel=635148074/976204811}" ;
+	<http://schema.org/url> "http://www.zphoto.es" .
