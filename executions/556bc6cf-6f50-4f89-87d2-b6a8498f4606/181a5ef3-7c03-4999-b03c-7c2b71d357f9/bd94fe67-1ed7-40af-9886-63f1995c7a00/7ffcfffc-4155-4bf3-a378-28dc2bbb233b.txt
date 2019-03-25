@@ -1,0 +1,49 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2435> a <http://schema.org/TouristInformationCenter> ;
+	<http://schema.org/name> "Oficina de Turismo de la Estación Zaragoza Delicias" ;
+	<http://schema.org/openingHours> """Todos los días de 10 a 20h.<br/>Cerrado: los días 25 de diciembre, 1 de enero y las tardes del 24 y 31 de diciembre.""" ;
+	<http://schema.org/identifier> "2435" ;
+	<http://schema.org/email> "oficinadelicias@zaragozaturismo.es" ;
+	<http://schema.org/telephone> "{tel=Tel. Renfe: 902 320 320 / 902 24 02 02 <br/> Tel. Turístico: 976 20 12 00 / 902 01 42 008}" ;
+	<http://schema.org/address> "Rioja,33" ;
+	<http://schema.org/description> "<p><strong>Titularidad</strong>: Oficina de gestionada conjuntamente por Zaragoza Turismo y Turismo de Arag&oacute;n.</p>" ;
+	<http://schema.org/url> "http://www.zaragozaturismo.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2741> a <http://schema.org/TouristInformationCenter> ;
+	<http://schema.org/name> "Oficina de Turismo del Aeropuerto de Zaragoza" ;
+	<http://schema.org/openingHours> """<h3>NOVIEMBRE 2018</h3><ul>    <li>Lunes cerrado</li>    <li>Martes 14 a 18h</li>    <li>Miércoles  15 a 20h</li>    <li>Jueves  14.30 a 17.30h</li>    <li>Viernes 15.30 a 19.30h </li>    <li>Sábado 15.30 a 19.30 h</li>    <li>Domingo cerrado</li></ul>""" ;
+	<http://schema.org/identifier> "2741" ;
+	<http://schema.org/email> "oficinaturismoaeropuerto@aragon.es" ;
+	<http://schema.org/telephone> "{tel=976 780 982 -Tel. Aeropuerto: 976 712 300 }" ;
+	<http://schema.org/address> "Ctra. del Aeropuerto." ;
+	<http://schema.org/description> """<p><a href=\"https://www.aeropuertodezaragoza.net/es/como-llegar/autobus-aeropuerto-zaragoza.html\"><strong>Autobús</strong> al Aeropuerto - Zaragoza</a></p><p><strong>Titularidad</strong>: Oficina de gestionada conjuntamente por Zaragoza Turismo y Turismo de Aragón.</p><p> </p><p><a href=\"https://www.aeropuertodezaragoza.net/es/como-llegar/autobus-aeropuerto-zaragoza.html\"><br /></a></p>""" ;
+	<http://schema.org/url> "http://www.turismodearagon.com/" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2465> a <http://schema.org/TouristInformationCenter> ;
+	<http://schema.org/name> "Oficina de Turismo Plaza del Pilar" ;
+	<http://schema.org/openingHours> """<ul>    <li>Diario de 10 a 20 h.</li>    <li>Cerrado: 25 diciembre, 1 enero y las tardes del 24 y 31 diciembre.</li><li>El 23 de junio se celebra la Noche en Blanco y la oficina estará abierta en horario de 10.00 a 22.00 horas</li></ul>""" ;
+	<http://schema.org/identifier> "2465" ;
+	<http://schema.org/email> "oficinapilar@zaragozaturismo.es" ;
+	<http://schema.org/telephone> "{tel=902 142 008 / 976 201 200, fax=976 721 281}" ;
+	<http://schema.org/address> "Pza. Ntra. Sra. del Pilar, s/n" ;
+	<http://schema.org/description> "<p>Zaragoza Turismo pone a su disposici&oacute;n el servicio de informaci&oacute;n  tur&iacute;stica en la calle para orientarle sobre las posibilidades  tur&iacute;sticas, culturales y de ocio de Zaragoza. Adem&aacute;s, podr&aacute; realizar  visitas guiadas a varios edificios de inter&eacute;s y por el casco hist&oacute;rico  de la ciudad.</p>" ;
+	<http://schema.org/url> "http://www.zaragozaturismo.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2652> a <http://schema.org/TouristInformationCenter> ;
+	<http://schema.org/name> "Punto de Información: Auditorio Palacio de Congresos (Oficinas Centrales)" ;
+	<http://schema.org/identifier> "2652" ;
+	<http://schema.org/email> "turismo@zaragoza.es" ;
+	<http://schema.org/telephone> "{tel=976 721333, fax=976 721327}" ;
+	<http://schema.org/address> "C/ Eduardo Ibarra , 3" ;
+	<http://schema.org/description> "Zaragoza Turismo pone a su disposición el servicio de información turística en la calle para orientarle sobre las posibilidades turísticas, culturales y de ocio de Zaragoza. Además, podrá realizar visitas guiadas a museos, monumentos y por el casco histórico de la ciudad." ;
+	<http://schema.org/url> "http://www.zaragozaturismo.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2464> a <http://schema.org/TouristInformationCenter> ;
+	<http://schema.org/name> "Punto de Información: Oficina de Turismo Torreón de La Zuda" ;
+	<http://schema.org/openingHours> """Diario: De lunes a sábados de 10 a 14 horas y de 16:30 a 20 horas.<br/>Cerrado las tardes del 24 y 31 de diciembre y los días 25 de diciembre y 1 de enero.<br/>Periodo de funcionamiento de <strong>informadores año 2010:</strong><ul><li>     Semana Santa  </li><li> Fines de semana y festivos de abril y mayo y junio</li><li> Verano y Fiestas del Pilar</li><li> Fines de Semana y festivos: octubre, noviembre y diciembre</li><li> Navidad</li></ul>""" ;
+	<http://schema.org/identifier> "2464" ;
+	<http://schema.org/email> "oficinazuda@zaragozaturismo.es" ;
+	<http://schema.org/telephone> "{tel=902 14 2008 / 976 20 12 00 / 976 72 49 18}" ;
+	<http://schema.org/address> "Glorieta de Pío XII, s/n / Avda. César Augusto" ;
+	<http://schema.org/description> "<p>Zaragoza Turismo pone a su disposici&oacute;n el servicio de informaci&oacute;n tur&iacute;stica en la calle para orientarle sobre las posibilidades tur&iacute;sticas, culturales y de ocio de Zaragoza. Adem&aacute;s, podr&aacute; realizar visitas guiadas a edificios de inter&eacute;s y por el casco hist&oacute;rico de la ciudad.</p>" ;
+	<http://schema.org/url> "http://www.zaragozaturismo.es" .
