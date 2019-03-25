@@ -1,0 +1,94 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8638> a <http://schema.org/Courthouse> ;
+	<http://schema.org/description> """<ul>    <li>Sección Primera: Tfno:976 208 367, Fax: 976 208 787, correo: audiencia.s1.zaragoza@justicia.es</li>    <li>Sección Tercera: Tfno:976 208 376, Fax: 976 208 383, correo:  audiencia.s3.zaragoza@justicia.es</li>    <li>Sección Sexta: Tfno:976 208 780, Fax: 976 208 786, correo:  audiencia.s6.zaragoza@justicia.es</li>    <li>Oficina de Registro: Tfno:976 208 346, Fax: 976 208 799 , correo: reparto.social.zaragoza@justicia.es</li></ul>""" ;
+	<http://schema.org/name> "Audiencia Provincial de Zaragoza (1-3-6)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8639> a <http://schema.org/Courthouse> ;
+	<http://schema.org/description> """<ul>    <li>Sección Segunda: Tfno: 976 208 031, Fax: 976 208 032, correo: audiencia.s2.zaragoza@justicia.es</li>    <li>Sección Cuarta: Tfno:976-208041, Fax: 976 208 042, correo:  audiencia.s4.zaragoza@justicia.es</li>    <li>Sección Quinta: Tfno:976-208051, Fax: 976-208052, correo:  audiencia.s5.zaragoza@justicia.es</li></ul>""" ;
+	<http://schema.org/name> "Audiencia Provincial de Zaragoza (2-4-5)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20439> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Decanato de los Juzgados de Zaragoza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8640> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Fiscal Jefe" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9025> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Fiscalía de Guardia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9035> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Fiscalia Menores" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20434> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Fiscalía Provincial" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20230> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Juzgado de Guardia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9036> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Juzgado de Menores nº1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9037> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Juzgado de Menores nº2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9018> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Juzgado Decano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9023> a <http://schema.org/Courthouse> ;
+	<http://schema.org/description> """<p class=\"destacado\">Datos de contacto</p><ul>    <li>No 1 Tfno:976208253 Fax:976208422 Email:instruccion1.zaragoza@justicia.es</li>    <li>No 2 Tfno:976208258 Fax:976208465 Email:instruccion2.zaragoza@justicia.es</li>    <li>No 3 Tfno:976208233 Fax:976208423 Email:instruccion3.zaragoza@justicia.es</li>    <li>No 4 Tfno:976208238 Fax:976208548 Email:instruccion4.zaragoza@justicia.es</li>    <li>No 5 Tfno:976208213 Fax:976208424 Email:instruccion5.zaragoza@justicia.es</li>    <li>No 6 Tfno:976208218 Fax:976208466 Email:instruccion6.zaragoza@justicia.es</li>    <li>No 7 Tfno:976208193 Fax:976208325 Email:instruccion7.zaragoza@justicia.es</li>    <li>No 8 Tfno:976208198 Fax:976208326 Email:instruccion8.zaragoza@justicia.es</li>    <li>No 9 Tfno:976208173 Fax:976208337 Email:instruccion9.zaragoza@justicia.es</li>    <li>No 10 Tfno:976208178 Fax:976208467 Email:instruccion10.zaragoza@justicia.es</li>    <li>No 11 Tfno:976208709 Fax:976208712 Email:instruccion11.zaragoza@justicia.es</li>    <li>No 12 Tfno:976208833 Fax:976208834 Email:instruccion12.zaragoza@justicia.es</li></ul>""" ;
+	<http://schema.org/name> "Juzgados de Instrucción" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9028> a <http://schema.org/Courthouse> ;
+	<http://schema.org/description> """<ul>    <li>No 1 Tfno:976208480 Fax:976208485 email:contencioso1.zaragoza@justicia.es</li>    <li>No 2 Tfno:976208741 Fax:976208490 email:contencioso2.zaragoza@justicia.es</li>    <li>No 3 Tfno 976208642 Fax:976208638 email:contencioso3.zaragoza@justicia.es</li>    <li>No 4 Tfno:976208735 Fax:976208733 email:contencioso4.zaragoza@justicia.es</li>    <li>No 5 Tfno:976208748 Fax:976208747 email:contencioso5.zaragoza@justicia.es</li></ul>""" ;
+	<http://schema.org/name> "Juzgados de la Contencioso Administrativo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9026> a <http://schema.org/Courthouse> ;
+	<http://schema.org/description> """<p class=\"destacado\">Datos de contacto</p><ul>    <li>No 1 Tfno:976208703 Fax:976208704 Email:mercantil1.zaragoza@justicia.es</li>    <li>No 2 Tfno:976208296 Fax:976208299 Email:mercantil2.zaragoza@justicia.es</li></ul>""" ;
+	<http://schema.org/name> "Juzgados de lo Mercantil" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9020> a <http://schema.org/Courthouse> ;
+	<http://schema.org/description> """<p class=\"destacado\">Datos de contacto</p><ul>    <li>No 1 Tfno:976208248 Fax:976208414 email:penal1.zaragoza@justicia.es</li>    <li>No 2 Tfno:976208242 Fax:976208243 email:penal2.zaragoza@justicia.es</li>    <li>No 3 Tfno:976208228 Fax:976208260 email: penal3.zaragoza@justicia.es</li>    <li>No 4 Tfno:976208223 Fax:976208222 email: penal4.zaragoza@justicia.es</li>    <li>No 5 Tfno:976208208 Fax:976208329 email:penal5.zaragoza@justicia.es</li>    <li>No 6 Tfno:976208203 Fax:976208330 email:penal6.zaragoza@justicia.es</li>    <li>No 7 Tfno:976208188 Fax:976208549 email:penal7.zaragoza@justicia.es</li>    <li>No 8 Tfno:976208838 Fax:976208839 email:penal8.zaragoza@justicia.es</li>    <li>No 9 Tfno:976208777 Fax:976208776 email:penal9.zaragoza@justicia.es</li></ul>""" ;
+	<http://schema.org/name> "Juzgados de lo Penal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9032> a <http://schema.org/Courthouse> ;
+	<http://schema.org/description> """<ul>    <li>No 1 Tfno:976208910 Fax:976208911 email:social1.zaragoza@justicia.es</li>    <li>No 2 Tfno:976208920 Fax:976-208921 email:social2.zaragoza@justicia.es</li>    <li>No 3 Tfno:976208930 Fax:976208931 email:social3.zaragoza@justicia.es</li>    <li>No 4 Tfno:976208940 Fax:976208941 email:social4.zaragoza@justicia.es</li>    <li>No 5 Tfno:976208950 Fax:976208951 email:social5.zaragoza@justicia.e</li>    <li>No 6 Tfno:976208960 Fax:976208961 email:social6.zaragoza@justicia.es</li>    <li>No 7 Tfno:976208970 Fax:976208971 email:social7.zaragoza@justicia.es</li></ul>""" ;
+	<http://schema.org/name> "Juzgados de lo Social" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9033> a <http://schema.org/Courthouse> ;
+	<http://schema.org/description> """<p class=\"destacado\">Datos de Contacto</p><ul>    <li>No 1 Tfno:976208183 Fax:976208259 email:vigilancia1.zaragoza@justicia.es</li>    <li>No 2 Tfno:976208723 Fax:976208724 email:vigilancia2.zaragoza@justicia.es</li></ul>""" ;
+	<http://schema.org/name> "Juzgados de Vigilancia Penitenciaria" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9029> a <http://schema.org/Courthouse> ;
+	<http://schema.org/description> """<p class=\"destacado\">Datos de contacto</p><ul>    <li>No 1 Tfno:976208636 Fax:976208637 email:violenciamujer1.zaragoza@justicia.es</li>    <li>No 2 Tfno:976208752 Fax:976208755 email:violenciamujer2.zaragoza@justicia.es</li></ul>""" ;
+	<http://schema.org/name> "Juzgados de Violencia sobre la Mujer" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9021> a <http://schema.org/Courthouse> ;
+	<http://schema.org/description> """<p class=\"destacado\">Datos de Contacto</p><ul>    <li>No 1 Tlfno:976208444 Fax:976208647 email:instancia1.zaragoza@justicia.es</li>    <li>No 2 Tlfno:976208456 Fax:976208648 email:instancia2.zaragoza@justicia.es</li>    <li>No 3 Tlfno:976208153 Fax:976208646 email:instancia3.zaragoza@justicia.es</li>    <li>No 4 Tlfno:976208158 Fax:976208645 email:instancia4.zaragoza@justicia.es</li>    <li>No 5 (Familia) Tlfno:976208139 Fax:976208141 email:instancia5.zaragoza@justicia.es</li>    <li>No 6 (Familia) Tlfno:976208146 Fax:976208655 email:instancia6.zaragoza@justicia.es</li>    <li>No 7 Tlfno:976208306 Fax:976208649 email:instancia7.zaragoza@justicia.es</li>    <li>No 8 Tlfno:976208449 Fax:976208567 email:instancia8.zaragoza@justicia.es</li>    <li>No 9 Tlfno:976208168 Fax:976208568 email:instancia9.zaragoza@justicia.es</li>    <li>No 10 Tlfno:976208162 Fax:976208569 email:instancia10.zaragoza@justicia.es</li>    <li>No 11 Tlfno:976208107 Fax:976208650 email:instancia11.zaragoza@justicia.es</li>    <li>No 12 Tlfno:976208112 Fax:976208652 email:instancia12.zaragoza@justicia.es</li>    <li>No 13 (Tutelas) Tlfno:976208117 Fax:976208653 email:instancia13.zaragoza@justicia.es</li>    <li>No 14 Tlfno:976208122 Fax:976208654 email:instancia14.zaragoza@justicia.es</li>    <li>No 15 Tlfno:976208510 Fax:976208651 email:instancia15.zaragoza@justicia.es</li>    <li>No 16 (Familia) Tlfno:976208552 Fax:976208555 email:instancia16.zaragoza@justicia.es</li>    <li>No 17 Tlfno:976208682 Fax:976208685 email:instancia17.zaragoza@justicia.es</li>    <li>No 18 Tlfno:976208674 Fax:976208678 email:instancia18.zaragoza@justicia.es</li>    <li>No 19 Tlfno:976208716 Fax:976208715 email:instancia19.zaragoza@justicia.es</li>    <li>No 20 Tlfno:976208520 Fax:976208521 email:instancia20.zaragoza@justicia.es</li>    <li>No 21 Tlfno:976208530 Fax:976208531 email:instancia21.zaragoza@justicia.es</li></ul>""" ;
+	<http://schema.org/name> "Juzgados Primera Instancia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20435> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Oficina Común de Apoyo Técnico Psicosocial" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9034> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Oficina de Asistencia a las Víctimas del delito (Juzgado Decano de Zaragoza)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20438> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Oficina Pericial Judicial" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8637> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Secretaría de Coordinación de Sede Judiciales" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9019> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Servicio común de Actos de Comunicación y Ejecución" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20436> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Servicio de Actos de Comunicaciones y Embargos (SACE)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20437> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Servicio de Medio Abierto de Menores del IASS" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20433> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Servicio de Orientación Jurídica (SOJ)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9016> a <http://schema.org/Courthouse> ;
+	<http://schema.org/name> "Unidad Administrativa de Jdos. Unipersonales de Zaragoza" .
