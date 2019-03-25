@@ -1,0 +1,461 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13422> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13422" ;
+	<http://schema.org/name> "Academia de Música Puerta Sancho" ;
+	<http://schema.org/url> "https://www.academias.com/en/zaragoza/musica-y-canto/mosica-y-danza-puerta-sancho/430" ;
+	<http://schema.org/description> "<p>academia de m&uacute;sica de titularidad privada</p>" ;
+	<http://schema.org/telephone> "{tel=976 443 804 , fax= }" ;
+	<http://schema.org/address> "Avda. Puerta de Sancho, 14" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13441> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13441" ;
+	<http://schema.org/name> "Academia de Música y Canto Bosco Yamaha" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13441" ;
+	<http://schema.org/description> "<p>academia de m&uacute;sica de titularidad privada</p>" ;
+	<http://schema.org/telephone> "{tel=976 489 568 , fax= }" ;
+	<http://schema.org/address> "C/ Rioja, 10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13442> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13442" ;
+	<http://schema.org/name> "Academia de Música y Canto. Música Nova" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=13441" ;
+	<http://schema.org/telephone> "{tel=976 319 981 , fax= }" ;
+	<http://schema.org/address> "C/ Viriato, 4" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13444> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13444" ;
+	<http://schema.org/name> "Academia de Música y Canto. Nairi Grigorian Arakimov" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13444" ;
+	<http://schema.org/telephone> "{tel=976 278 507 , fax= }" ;
+	<http://schema.org/address> "C/ Maestro Marquina, 14" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13541> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13541" ;
+	<http://schema.org/name> "Academia de Música y Danza Estampa Baturra" ;
+	<http://schema.org/url> "http://www.estampabaturra.com" ;
+	<http://schema.org/description> "<p>Folkl&oacute;re aragon&eacute;s. Otras danzas.</p>" ;
+	<http://schema.org/telephone> "{tel=608 260 908 , fax= }" ;
+	<http://schema.org/address> "C/ Batalla de Arapiles, 18" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13446> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13446" ;
+	<http://schema.org/name> "Academia de Música y Danza Miralbueno" ;
+	<http://schema.org/url> "http://www.academiamiralbueno.com/" ;
+	<http://schema.org/telephone> "{tel=976 307 404  678 480 908, fax= }" ;
+	<http://schema.org/address> "Pza. Lagos Azules, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13560> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13560" ;
+	<http://schema.org/name> "ACGF Nobleza Baturra" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=13560" ;
+	<http://schema.org/description> "<p>Asociaci&oacute;n cultural</p>" ;
+	<http://schema.org/telephone> "{tel=976 349 245 , fax= }" ;
+	<http://schema.org/address> "C/ Antonio Bravo, 9" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13580> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13580" ;
+	<http://schema.org/name> "Agrupación Folklorica Aragonesa Aires de Albada" ;
+	<http://schema.org/url> "http://www.airesdealba.es.tl" ;
+	<http://schema.org/description> "<p>Escuela folkl&oacute;rica.</p>" ;
+	<http://schema.org/telephone> "{tel=976 341 136 , fax= }" ;
+	<http://schema.org/address> "C/ Los Fayos, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/939> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "939" ;
+	<http://schema.org/name> "Auditorio de Zaragoza" ;
+	<http://schema.org/url> "http://www.auditoriozaragoza.com/" ;
+	<http://schema.org/description> """<p>El <strong>Auditorio-Palacio de Congresos de Zaragoza </strong>es un espacio pionero al servicio de la música que goza de un gran prestigio cultural. Inaugurado en 1994 ,es un espacio multifuncional que gestiona principalmente un proyecto musical para facilitar la accesibilidad cultural a la música en directo, y en especial la música clásica .</p><p>El Auditorio de Zaragoza consta de una programación estable en música clásica con especial atención al trabajo con los diferentes públicos y a los programas educativos y pedagógicos.</p><p>Actualmente el Auditorio está gestionado por la Sociedad Municipal Zaragoza Cultural, una entidad pública que gestiona parte de la cultura en el Ayuntamiento de Zaragoza.</p><p>Elena Laseca Ferrández, gerente<br />Miguel Ángel Tapia, director artístico</p>""" ;
+	<http://schema.org/telephone> "{tel=976 721300, 1312, fax=976 721 396}" ;
+	<http://schema.org/address> "C/ Eduardo Ibarra , 3" ;
+	<http://schema.org/openingHours> "Lunes a viernes de 9 a 14 h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/732> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "732" ;
+	<http://schema.org/name> "Casa de Juventud Actur" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/sectores/jovenes/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son un punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo.</p><p>A ellas pueden acudir los <strong>jóvenes de entre 12 y 30 años</strong> que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p><strong>Más Información</strong></p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 726 052}" ;
+	<http://schema.org/address> "C/ Alberto Duce, 2" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerrada.</li></ul> <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/734> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "734" ;
+	<http://schema.org/name> "Casa de Juventud Arrabal" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/sectores/jovenes/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20arrabal\">Actividades en la Casa de Juventud Arrabal </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 724 044}" ;
+	<http://schema.org/address> "Pza. San Gregorio, s/n" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/735> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "735" ;
+	<http://schema.org/name> "Casa de Juventud Casablanca" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/sectores/jovenes/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><ul>    <li>Supresión de barreras arquitectónicas: (actuación realizada en el año 2005)</li></ul><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20casablanca\">Actividades en la Casa de Juventud Casablanca </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 726 009, fax=976726009}" ;
+	<http://schema.org/address> "Tomás Gabasa, 1" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/736> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "736" ;
+	<http://schema.org/name> "Casa de Juventud Casco Histórico" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/sectores/jovenes/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20casco%20viejo\">Actividades en la Casa de Juventud Casco Viejo </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 292 446}" ;
+	<http://schema.org/address> "C/ San Vicente de Paul, 22" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/737> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "737" ;
+	<http://schema.org/name> "Casa de Juventud Casetas" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/sectores/jovenes/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20casetas\">Actividades en la Casa de Juventud Casetas </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 774 879}" ;
+	<http://schema.org/address> "Santiago Castillo, 17-19" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/738> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "738" ;
+	<http://schema.org/name> "Casa de Juventud Delicias" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20delicias\">Actividades en la Casa de Juventud Delicias </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 726 122, fax=976 726123}" ;
+	<http://schema.org/address> "Avda. Navarra, 54" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/744> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "744" ;
+	<http://schema.org/name> "Casa de Juventud Garrapinillos" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20garrapinillos\">Actividades en la Casa de Juventud Garrapinillos </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 781 217}" ;
+	<http://schema.org/address> "Pza. de España, s/n" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/745> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "745" ;
+	<http://schema.org/name> "Casa de Juventud Juslibol" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20juslibol\">Actividades en la Casa de Juventud Juslibol </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 726 005, fax=976 726 004}" ;
+	<http://schema.org/address> "Pza. Mayor, 8" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/733> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "733" ;
+	<http://schema.org/name> "Casa de Juventud La Almozara" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=%20casa%20juventud%20almozara\">Actividades en la Casa de Juventud La Almozara</a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 726 106, fax=976 726103}" ;
+	<http://schema.org/address> "Avda. Puerta Sancho, 30" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/746> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "746" ;
+	<http://schema.org/name> "Casa de Juventud La Cartuja" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20cartuja\">Actividades en la Casa de Juventud La Cartuja </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 500 302}" ;
+	<http://schema.org/address> "Pº de los Plátanos, 10" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/739> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "739" ;
+	<http://schema.org/name> "Casa de Juventud La Jota" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20la%20jota\">Actividades en la Casa de Juventud La Jota </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 464 219}" ;
+	<http://schema.org/address> "Avda. Cataluña, 106" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/740> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "740" ;
+	<http://schema.org/name> "Casa de Juventud Las Fuentes" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20las%20fuentes\">Actividades en la Casa de Juventud Las Fuentes </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 496 751}" ;
+	<http://schema.org/address> "C/ Florentino Ballesteros, 8" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/747> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "747" ;
+	<http://schema.org/name> "Casa de Juventud Miralbueno" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20miralbueno\">Actividades en la Casa de Juventud Miralbueno </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 338 310}" ;
+	<http://schema.org/address> "Pza. de la Rosa" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/748> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "748" ;
+	<http://schema.org/name> "Casa de Juventud Montañana" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/sectores/jovenes/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20monta%f1ana\">Actividades en la Casa de Juventud Montañana </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 724 745}" ;
+	<http://schema.org/address> "Avda. Montañana, 374" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2131> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "2131" ;
+	<http://schema.org/name> "Casa de Juventud Monzalbarba" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20monzalbarba\">Actividades en la Casa de Juventud Monzalbarba </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 785 888}" ;
+	<http://schema.org/address> "C/ San Miguel, 13" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/838> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "838" ;
+	<http://schema.org/name> "Casa de Juventud Movera" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%movera\">Actividades en la Casa de Juventud Movera </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 586 809}" ;
+	<http://schema.org/address> "C/ Padre Claret, s/n" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/834> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "834" ;
+	<http://schema.org/name> "Casa de Juventud Oliver" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo.</p><p>A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p>La Casa de Juventud dispone de instalaciones propias ubicadas dentro del Túnel.</p><p>Este nuevo equipamiento permite ofrecer a los jóvenes usuarios de la misma, en un nuevo marco de aplicación, una serie de actividades planteadas como alternativa al ocio y al tiempo libre de los jóvenes.</p><p>Del mismo modo va a permitir el desarrollo de nuevas líneas de actuación que obedecen a las necesidades demandadas por los jóvenes a quienes se dirige el proyecto.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20oliver\">Actividades en la Casa de Juventud Oliver </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 326 654}" ;
+	<http://schema.org/address> "Pº María del Carmen Soldevila" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/749> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "749" ;
+	<http://schema.org/name> "Casa de Juventud Peñaflor" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/sectores/jovenes/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20pe%f1aflor\">Actividades en la Casa de Juventud Peñaflor </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 154 301}" ;
+	<http://schema.org/address> "C/ La Tajada, 17" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/750> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "750" ;
+	<http://schema.org/name> "Casa de Juventud San Gregorio" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20san%20gregorio\">Actividades en la Casa de Juventud San Gregorio </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 726 219, fax=976 733930}" ;
+	<http://schema.org/address> "C/ Jesús y María, 95" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/833> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "833" ;
+	<http://schema.org/name> "Casa de Juventud San José" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20san%20jose\">Actividades en la Casa de Juventud San José </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 723 865}" ;
+	<http://schema.org/address> "C/ Rosellón, 1-3" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 31 de julio al 14 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/751> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "751" ;
+	<http://schema.org/name> "Casa de Juventud San Juan de Mozarrifar" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20san%20juan%20de%20mozarrifar\">Actividades en la Casa de Juventud San Juan de Mozarrifar</a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 150 616}" ;
+	<http://schema.org/address> "C/ Alejandro Palomar, 22" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/832> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "832" ;
+	<http://schema.org/name> "Casa de Juventud San Pablo" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20san%20pablo\">Actividades en la Casa de Juventud San Pablo </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 444 834}" ;
+	<http://schema.org/address> "C/ Predicadores, 54" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/831> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "831" ;
+	<http://schema.org/name> "Casa de Juventud Santa Isabel" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20santa&20isabel\">Actividades en la Casa de Juventud Santa Isabel</a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 726 022}" ;
+	<http://schema.org/address> "Avda. Santa Isabel, 100" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2090> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "2090" ;
+	<http://schema.org/name> "Casa de Juventud Torrero" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20torrero\">Actividades en la Casa de Juventud Torrero </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 726 038, fax=976726039}" ;
+	<http://schema.org/address> "C/ Monzón, 3" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/742> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "742" ;
+	<http://schema.org/name> "Casa de Juventud Universidad" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20universidad\">Actividades en la Casa de Juventud Universidad </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 559 052}" ;
+	<http://schema.org/address> "Andador de los Hudíes , 15" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/743> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "743" ;
+	<http://schema.org/name> "Casa de Juventud Valdefierro" ;
+	<http://schema.org/url> "http://www.zaragoza.es/juventud/" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20valdefierro\">Actividades en la Casa de Juventud Valdefierro </a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=976 72 61 89}" ;
+	<http://schema.org/address> "Avda. Valdefierro, 22" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a domingo en horario de tardes</li><li>Lunes cerradas</li></ul>   <p><strong>Cerrada del 16 al 30 de agosto.</strong></p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28391> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "28391" ;
+	<http://schema.org/name> "Casa de Juventud Zaragoza Sur" ;
+	<http://schema.org/description> """<p>Las Casas de Juventud son punto de encuentro entre los jóvenes de Zaragoza. Con presencia en cada barrio, organizan actividades para la ocupación del tiempo libre, a la vez que promueven la formación, información, comunicación y producción cultural de los jóvenes, así como el asociacionismo. <br /><br />A ellas pueden acudir los jóvenes de entre 12 y 30 años que quieran conocer gente nueva, practicar algún deporte o desarrollar algún tipo de actividad artística y cultural.</p><p class=\"destacado\">Más Información</p><ul>    <li><a href=\"/ciudad/sectores/jovenes/casas_juv.htm\">Casas de Juventud</a></li>    <li><a href=\"https://www.zaragoza.es/ciudad/actividades/juvenil/listadoactosAJ_Agenda?AJ=2&lugar_realizacion=casa%20juventud%20Zaragoza%20Sur\">Actividades en la Casa de Juventud Zaragoza Sur</a></li></ul>""" ;
+	<http://schema.org/telephone> "{tel=975 758 880}" ;
+	<http://schema.org/address> "C/Ciudadano Kane, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/499> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "499" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Alfocea" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 786 094, fax=.}" ;
+	<http://schema.org/address> "C/ Castellar , 23" ;
+	<http://schema.org/openingHours> """Todos los días del año, de 14 a 21 h.Cerrado fines de semana de julio y agosto""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/503> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "503" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Casablanca" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 72 60 06, fax=976 726008}" ;
+	<http://schema.org/address> "C/ Viñedo Viejo, 1 (Centro Cívico)" ;
+	<http://schema.org/openingHours> "Todos los días del año,de 10 a 21 h. Cerrado fines de semana de julio y agosto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/501> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "501" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Casco Histórico" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 724949}" ;
+	<http://schema.org/address> "C/ Predicadores, 96" ;
+	<http://schema.org/openingHours> "<p>De 10 a 21 h.</p>Cerrado fines de semana de julio y agosto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/504> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "504" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Casetas" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 726 153}" ;
+	<http://schema.org/address> "Pza. del Castillo, 7" ;
+	<http://schema.org/openingHours> "Todos los días del año, de 10 a 13 y de 14,30 a 20 h. Cerrado fines de semana de julio y agosto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/505> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "505" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Ciudad Jardin" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 316410, fax=976 316410}" ;
+	<http://schema.org/address> "C/ Santa Rita de Casia, 3-5" ;
+	<http://schema.org/openingHours> "De 10 a 21 h. Cerrado fines de semana de julio y agosto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/506> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "506" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Delicias" ;
+	<http://schema.org/url> "https://deliciasblogg.blogspot.com.es/" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 72 61 21, fax=976 72 61 23}" ;
+	<http://schema.org/address> "Avda. Navarra, 54" ;
+	<http://schema.org/openingHours> "De 10 a 21 h. Cerrado fines de semana de julio y agosto." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2807> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "2807" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Estación del Norte (José Mª Castro y Calvo)" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 726114, fax=976 726119}" ;
+	<http://schema.org/address> "C/ Perdiguera, 7" ;
+	<http://schema.org/openingHours> "De 10 a 21 h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/756> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "756" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Francisco de Goya" ;
+	<http://schema.org/url> "http://mayoresfranciscodegoya.blogspot.com/" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 726112 , fax=976 726113 }" ;
+	<http://schema.org/address> "Pº Hernán Cortés, 31-33" ;
+	<http://schema.org/openingHours> "De 10 a 21 h. Cerrado fines de semana de julio y agosto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/507> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "507" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Garrapinillos" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 724 258 (mañanas de martes y jueves)}" ;
+	<http://schema.org/address> "C/ José Martín Ortega, 4" ;
+	<http://schema.org/openingHours> "Todos los días del año, de 14 a 21 h. Cerrado fines de semana de julio y agosto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20115> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "20115" ;
+	<http://schema.org/name> "Centro de convivencia para mayores José María. Castro y Calvo" ;
+	<http://schema.org/telephone> "{tel=976 207 580}" ;
+	<http://schema.org/address> "C/ PERDIGUERA, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/509> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "509" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores Juslibol" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 726 001, fax=976 726004}" ;
+	<http://schema.org/address> "Plaza Mayor, 8" ;
+	<http://schema.org/openingHours> "De lunes a sábados de 15 a 20,30 h. Cerrado fines de semana de julio y agosto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/500> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "500" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores La Almozara" ;
+	<http://schema.org/url> "https://laalmozarablog.blogspot.com/" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 72 61 00, fax=976 72 61 03}" ;
+	<http://schema.org/address> "Avda. Puerta Sancho, 30" ;
+	<http://schema.org/openingHours> "De 10 a 21 h. Cerrado fines de semana de julio y agosto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/502> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "502" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores La Cartuja Baja" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 72 61 77}" ;
+	<http://schema.org/address> "C/ Autonomía de Aragón, 21" ;
+	<http://schema.org/openingHours> "Todos los días del año,de 10 a 21 h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/508> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "508" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores La Jota" ;
+	<http://schema.org/url> "http://zaragozaciudad.net/blogdelmayor/" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel=976 726 080 , fax=976 726 081}" ;
+	<http://schema.org/address> "C/ María Virto, 20" ;
+	<http://schema.org/openingHours> "De 10 a 21 h. Cerrado fines de semana de julio y agosto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/523> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "523" ;
+	<http://schema.org/name> "Centro de Convivencia para Mayores La Paz" ;
+	<http://schema.org/description> """<p>Los Centros de Convivencia para Mayores son espacios de encuentro y relación, destinados a ofrecer a los mayores servicios y actividades adecuados a sus necesidades e intereses. Constituyen una red de equipamientos y servicios para la participación, el encuentro, la convivencia y el ocio. <br />La Red de Centros de Mayores representa el eje sobre el que se vertebra una oferta de actividades adecuadas a los intereses de los mayores, el soporte para el desarrollo personal y social, para la participación y el compromiso.</p>""" ;
+	<http://schema.org/telephone> "{tel= 976 724304, fax=976 724716}" ;
+	<http://schema.org/address> "C/ Oviedo, 173-175" ;
+	<http://schema.org/openingHours> "Todos los días año, de 10 a 21 h. Cerrado fines de semana de julio y agosto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13420> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13420" ;
+	<http://schema.org/name> "Escuela de Música Minueto 7 S.L" ;
+	<http://schema.org/url> "http://www.minueto7.com" ;
+	<http://schema.org/telephone> "{tel=976596367 , fax= }" ;
+	<http://schema.org/address> "C/ Domingo Lobera, 18 - local dcho" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13443> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13443" ;
+	<http://schema.org/name> "Escuela de Música Plaza de Mozart S.L." ;
+	<http://schema.org/url> "http://www.plazademozart.com" ;
+	<http://schema.org/telephone> "{tel=976474148 , fax= }" ;
+	<http://schema.org/address> "C/ Pedro Arnal Cavero, 15" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13423> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13423" ;
+	<http://schema.org/name> "Escuela de Música Tony - García" ;
+	<http://schema.org/url> "http://www.escueladebateria-zaragoza.com" ;
+	<http://schema.org/telephone> "{tel=976333596 , fax= }" ;
+	<http://schema.org/address> "C/ Conde de la Viñaza, 22" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13360> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/identifier> "13360" ;
+	<http://schema.org/name> "Escuela de Música. Enclave de AR-T" ;
+	<http://schema.org/url> "http://www.enclavedeart.com" ;
+	<http://schema.org/telephone> "{tel=976134485 , fax= }" ;
+	<http://schema.org/address> "C/ Previsión Social, 18, Local izquierda" .
