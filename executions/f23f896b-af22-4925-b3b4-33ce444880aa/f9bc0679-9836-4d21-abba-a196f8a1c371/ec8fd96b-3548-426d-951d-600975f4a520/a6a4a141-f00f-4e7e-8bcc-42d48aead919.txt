@@ -1,0 +1,352 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9385> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardines García Laborda" ;
+	<http://schema.org/address> "Ctra. Catorce Septiembre" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9327> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardín Acuático" ;
+	<http://schema.org/address> "Entre pte. Tercer Milenio y Pabellón Puente" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9322> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardín Botánico Charles Darwin" ;
+	<http://schema.org/address> "Recinto Expo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9339> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardín del Portazgo" ;
+	<http://schema.org/address> "Camino Pilón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9332> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardines Acuáticos Carlos Pau" ;
+	<http://schema.org/address> "Interior Parque Metropolitano del Agua" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9264> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardines de Al Andalus" ;
+	<http://schema.org/address> "Andador Gutierrez Mellado - Quintana Lacacci" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/5645> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardines de la Taifa de Saraqusta" ;
+	<http://schema.org/address> "C/ Olof Palme" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9326> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardines Jesús Gracia" ;
+	<http://schema.org/address> "C/ Carmelo Betore Bergua" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9257> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Jardínes Tosos - Anento - Cadetre - Botorrita" ;
+	<http://schema.org/address> "Jardines de Tosos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9320> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Lagos de Penélope Cruz" ;
+	<http://schema.org/address> "C/ Libro de la Selva" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9386> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Paque Che Guevara" ;
+	<http://schema.org/address> "Paque Che Guevara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9258> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Bruil (Árbol de los Cuentos)" ;
+	<http://schema.org/address> "C/ Asalto - Alvira Lasierra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9259> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Bruno Solano" ;
+	<http://schema.org/address> "Manuel Lasala - Río Huerva" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9260> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Cabezo Buena Vista" ;
+	<http://schema.org/address> "Pº Isabel La Católica - Luis Vives - Pº del Canal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9261> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Caprichos de Goya" ;
+	<http://schema.org/address> "Avda. Academia Gral. Militar - Autovía de Huesca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9262> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Castillo Palomar" ;
+	<http://schema.org/address> "C/ Rioja - Avda. Navarra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9329> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Ciudad de Maska" ;
+	<http://schema.org/address> "C/ Rallo Lahoz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9387> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Clemente Mateo" ;
+	<http://schema.org/address> "C/ Canarias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9388> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Crónica del Alba" ;
+	<http://schema.org/address> "Ronda Hispanidad - C/ Zafiro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9265> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Alfocea" ;
+	<http://schema.org/address> "Barrio bajo - C/ La Iglesia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9263> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Atenas" ;
+	<http://schema.org/address> "Avda de La Almozara - Avda. Pablo Gargallo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9266> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Avempace" ;
+	<http://schema.org/address> "C/ Juan Carlos I" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9267> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Avicebrón" ;
+	<http://schema.org/address> "C/ Doctor Muñoz Fernandez - Andador Francisco Peirona" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9268> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Casetas" ;
+	<http://schema.org/address> "Bº Casetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9269> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Garrapinillos" ;
+	<http://schema.org/address> "Garrapinillos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9316> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Alameda" ;
+	<http://schema.org/address> "Avda. Sta. Isabel - C/ Alameda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9270> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Aljafería" ;
+	<http://schema.org/address> "Avda. Pablo Gargallo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9321> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Cruz Roja" ;
+	<http://schema.org/address> "Entre Pte. Almozara y Pte. Tercer Milenio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9323> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Esperanza" ;
+	<http://schema.org/address> "Avda Cataluña - C/ Marques de la Cadena" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9330> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Palabra" ;
+	<http://schema.org/address> "Urb. Montecanal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9271> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de La Paz" ;
+	<http://schema.org/address> "Rotonda Villa de Pau" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9272> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Química" ;
+	<http://schema.org/address> "C/ Sierra de Vicor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9405> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Razon" ;
+	<http://schema.org/address> "Avda Gómez Laguna" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9273> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Sedetania" ;
+	<http://schema.org/address> "Vía Hispanidad - C/ Brea de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9334> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de la Tolerancia" ;
+	<http://schema.org/address> "Avda. Ranillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9325> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de las Garzas" ;
+	<http://schema.org/address> "C/ Río Gállego - C/ Río Ebro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9406> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de los Cineastas" ;
+	<http://schema.org/address> "C.P.Hnos.Marx-C/M.Alvar Lopez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9274> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de los Incrédulos" ;
+	<http://schema.org/address> "Vía Ibérica" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9275> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de los Muros Cartujanos" ;
+	<http://schema.org/address> "Bº La Cartuja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9333> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de los Pinos" ;
+	<http://schema.org/address> "C/ San Nicolo - C/ Mercader de Venecia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9407> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de los Poetas" ;
+	<http://schema.org/address> "C/ Pablo Neruda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9276> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Montañana" ;
+	<http://schema.org/address> "Bº Montañana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9277> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Movera" ;
+	<http://schema.org/address> "C/ Padre Claret" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9278> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Vadorrey" ;
+	<http://schema.org/address> "C/ Jesús Burriel - Pº de La Ribera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9279> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque de Villamayor" ;
+	<http://schema.org/address> "Villamayor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6085> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del Agua (Luis Buñuel)" ;
+	<http://schema.org/address> "Avda. de Ranillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9285> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del Antiguo Canódromo" ;
+	<http://schema.org/address> "C/ Doctor Joaquín Aznar Molina" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9318> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del buen humor" ;
+	<http://schema.org/address> "C/ Emilio Jimeno Correas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9408> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del Conocimiento" ;
+	<http://schema.org/address> "C/ Martín Díez de Aux" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9286> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del Oeste" ;
+	<http://schema.org/address> "C/ Lagos de Millares" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9409> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque del Respeto" ;
+	<http://schema.org/address> "Avda. de Ranillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9287> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Delicias" ;
+	<http://schema.org/address> "Vía Universitas - C/ Duquesa Villahermosa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9317> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Félix de Azara" ;
+	<http://schema.org/address> "Avda. Gómez Laguna" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9288> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Glorietas de Goya" ;
+	<http://schema.org/address> "Villa de Chiprana - Camino Las Torres" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/10125> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Goya" ;
+	<http://schema.org/address> "C/ El Coloso, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9410> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Huerto Frison" ;
+	<http://schema.org/address> "C/ Doctor Sancho" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20300> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque infantil Balambú" ;
+	<http://schema.org/address> "Pso. del Botánico, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9289> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Jardín de la Memoria" ;
+	<http://schema.org/address> "C/ Pintor Marín Bagués - C/ Joaquín Sorolla" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9290> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque La Granja" ;
+	<http://schema.org/address> "Camino de Cabaldos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9291> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque La Jota" ;
+	<http://schema.org/address> "C/ Asunción Delmás. 6" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9324> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Libro de la Selva" ;
+	<http://schema.org/address> "Avda. Casablanca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28117> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Lineal" ;
+	<http://schema.org/address> "Jose María Castro y Calvo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9292> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque lineal del río Ebro Margen izquierda" ;
+	<http://schema.org/address> "Puente del Pilar - Puente de la Unión" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9293> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Lineal del río Huerva / Parque del Azud" ;
+	<http://schema.org/address> "Camino Las Torres - Río Huerva" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9294> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Lisboa" ;
+	<http://schema.org/address> "Autonomía - Pablo Gargallo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9331> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Los Paseantes" ;
+	<http://schema.org/address> "C/ Guillermo Fatas Cabeza" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9295> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Macanaz" ;
+	<http://schema.org/address> "C/ García Arista - Pº de La Rivera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9328> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Marín Zaera" ;
+	<http://schema.org/address> "C/ Salitreria (Alfocea)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9296> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Miraflores" ;
+	<http://schema.org/address> "Pº de los Rosales" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9297> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Montecanal" ;
+	<http://schema.org/address> "Montecanal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27718> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Oliver" ;
+	<http://schema.org/address> "C/Dtor. Valdés Guzmán, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9305> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Oriente" ;
+	<http://schema.org/address> "C/ Balbino Orensanz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9306> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Pignatelli" ;
+	<http://schema.org/address> "Pº de Cuellar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9307> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Pinares de la C/ Oviedo" ;
+	<http://schema.org/address> "C/ Oviedo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9411> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Ricardo Mur" ;
+	<http://schema.org/address> "C/ Virgen de la Rosa (Bº Casetas)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9319> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Roberto Camardiel Escudero" ;
+	<http://schema.org/address> "C/ Valerio J, Ripol Urbano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9412> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Royo del Rabal" ;
+	<http://schema.org/address> "C/ Royo del Rabal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9308> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque San Pablo" ;
+	<http://schema.org/address> "Pza. Europa - Pº Echegaray y Caballero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9309> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Sotocanal" ;
+	<http://schema.org/address> "C/ Fanlo - C/ General Capaz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9413> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Tapices de Goya" ;
+	<http://schema.org/address> "Parque de los Tapices" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9310> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Tenerias" ;
+	<http://schema.org/address> "Pº Echegaray y Caballero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9311> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Teresa Serrato" ;
+	<http://schema.org/address> "C/ Castilla - C/ Álava - C/ Sabiñánigo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9312> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Tío Jorge" ;
+	<http://schema.org/address> "C/ Valle de Broto - Fernando Gracia Gazulla" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9313> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Torre Ramona" ;
+	<http://schema.org/address> "C/ María de Aragón, sn" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9314> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Valdefierro" ;
+	<http://schema.org/address> "Valdefierro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9335> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Víctimas del terrorismo" ;
+	<http://schema.org/address> "Pº Tierno Galvan" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9336> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Villafeliche" ;
+	<http://schema.org/address> "C/ Salvador de Madariaga" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9315> a <http://schema.org/Park> ;
+	<http://schema.org/name> "Parque Vistabella" ;
+	<http://schema.org/address> "C/ Ibón de Plan - C/ Lagos de Llosa - Camino. del Pilón - La Camisera" .
