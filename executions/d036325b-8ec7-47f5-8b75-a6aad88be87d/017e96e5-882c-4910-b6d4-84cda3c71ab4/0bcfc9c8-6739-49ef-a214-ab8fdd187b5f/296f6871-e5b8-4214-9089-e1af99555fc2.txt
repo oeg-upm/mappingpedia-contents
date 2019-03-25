@@ -1,0 +1,419 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13000> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/name> "Antigua Capitanía General" ;
+	<http://schema.org/address> "Pza. de Aragón, 9" ;
+	<http://schema.org/identifier> "13000" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/turismo/es/que-visitar/detalle_Monumento?id=73" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2479> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 721 885, fax= 976 723 679}" ;
+	<http://schema.org/name> "Centro de Historias" ;
+	<http://schema.org/address> "Pza. San Agustin, 2" ;
+	<http://schema.org/identifier> "2479" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/museos/es/chistoria" ;
+	<http://schema.org/email> "centrodehistorias@zaragozacultural.com" ;
+	<http://schema.org/openingHours> """<ul>    <li>Martes a sábado: 10 a 14 y 17 a 21h.</li>    <li>Domingos y festivos: 10 a 14.30h.</li>    <li>Lunes cerrado.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11548> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 237 545}" ;
+	<http://schema.org/name> "Escuela de Bellas Artes y Diseño de Aragón" ;
+	<http://schema.org/address> "Avda. María Zambrano, 1-3" ;
+	<http://schema.org/identifier> "11548" ;
+	<http://schema.org/url> "http://www.esda.es/" ;
+	<http://schema.org/email> "administracion@esda.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12920> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976714454 , fax=976715292 }" ;
+	<http://schema.org/name> "Espacio Pignatelli. Sala María Moliner y Hnos. Bayeu" ;
+	<http://schema.org/address> "Pº María Agustín, 36" ;
+	<http://schema.org/identifier> "12920" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=12920" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13062> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=615 761260 , fax= }" ;
+	<http://schema.org/name> "Estudio de Arte María Urra and Noemí Morais" ;
+	<http://schema.org/address> "C/ Pedro Liñan, 2-4, piso LC" ;
+	<http://schema.org/identifier> "13062" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13062" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20329> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=657922048/876011101}" ;
+	<http://schema.org/name> "Estudio Garno" ;
+	<http://schema.org/address> "C/ San vicente de Paul, 30" ;
+	<http://schema.org/identifier> "20329" ;
+	<http://schema.org/url> "http://estudiogarno.com/" ;
+	<http://schema.org/email> "info@estudiogarno.com" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20373> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 28 88 78 y 976 28 88 79 }" ;
+	<http://schema.org/name> "Institucion Fernando el Catolico" ;
+	<http://schema.org/address> "Pza. de España, 2" ;
+	<http://schema.org/identifier> "20373" ;
+	<http://schema.org/url> "http://ifc.dpz.es" ;
+	<http://schema.org/email> "ifc@dpz.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20325> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Mù Restauracion" ;
+	<http://schema.org/address> "C/Las Armas 68, Local 2" ;
+	<http://schema.org/identifier> "20325" ;
+	<http://schema.org/url> "http://murestauracion.com/" ;
+	<http://schema.org/email> "info@murestauracion.com" ;
+	<http://schema.org/openingHours> """Lunes: CERRADOMartes a Viernes: 11:00  14:00 / 17:00  20:30h. Sábado: 11:00  14:00hDomingo: 12:00  14:00h.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6205> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976976441}" ;
+	<http://schema.org/name> "Palacio de Congresos de Zaragoza" ;
+	<http://schema.org/address> "Pza. Lucas Miret Rodríguez, 1" ;
+	<http://schema.org/identifier> "6205" ;
+	<http://schema.org/url> "http://www.pcexpoaragon.com/" ;
+	<http://schema.org/email> "info@palaciocongresoszaragoza.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13020> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976289528 , fax=976289664 }" ;
+	<http://schema.org/name> "Palacio de la Aljafería" ;
+	<http://schema.org/address> "C/ De los Diputados, s/n" ;
+	<http://schema.org/identifier> "13020" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/turismo/es/visitas/detalle_Monumento?id=7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8147> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 23 94 00}" ;
+	<http://schema.org/name> "Puerta Cinegia" ;
+	<http://schema.org/address> "C/ Coso, 35" ;
+	<http://schema.org/identifier> "8147" ;
+	<http://schema.org/url> "http://www.puertacinegia.es/" ;
+	<http://schema.org/email> "patrinza@patrinza.com" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20377> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 761 505}" ;
+	<http://schema.org/name> "Sala Angel  Sanvicente Pino" ;
+	<http://schema.org/address> "C/ Pedro Cerbuna, 12 (Campus Universitario)" ;
+	<http://schema.org/identifier> "20377" ;
+	<http://schema.org/url> "http://fyl.unizar.es/" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13052> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976356018 , fax= }" ;
+	<http://schema.org/name> "Sala Asociación De Artistas Plásticos De Goya" ;
+	<http://schema.org/address> "Avda. Goya, 87-89" ;
+	<http://schema.org/identifier> "13052" ;
+	<http://schema.org/url> "http://www.aapga.es/" ;
+	<http://schema.org/email> "artistasplasticosgoya@gmail.com" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13180> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976388602 , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones Arte San José" ;
+	<http://schema.org/address> "Avda. de San José, 178" ;
+	<http://schema.org/identifier> "13180" ;
+	<http://schema.org/url> "http://www.artesanjose.com/" ;
+	<http://schema.org/email> "info@artesanjose.com" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12860> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976405485 , fax=976445504 }" ;
+	<http://schema.org/name> "Sala de Exposiciones Aula de Medio Ambiente Urbano" ;
+	<http://schema.org/address> "Avenida César Augusto, 115-117" ;
+	<http://schema.org/identifier> "12860" ;
+	<http://schema.org/url> "http://www.lacalleindiscreta.es/Inicio.aspx" ;
+	<http://schema.org/email> "info@lacalleindiscreta.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13021> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976763300 , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones Bantierra" ;
+	<http://schema.org/address> "C/ Coso, 29 (Casino Mercantil)" ;
+	<http://schema.org/identifier> "13021" ;
+	<http://schema.org/url> "http://www.laventanadelarte.es/centro/sala-de-exposiciones-bantierra-zaragoza/" ;
+	<http://schema.org/email> "bantierra@bantierra.es" ;
+	<http://schema.org/openingHours> "De lunes a viernes de 19 h. a 21 h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20349> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Sala de Exposiciones Bantierra" ;
+	<http://schema.org/address> "Canfranc" ;
+	<http://schema.org/identifier> "20349" ;
+	<http://schema.org/url> "www.bantierra.es" ;
+	<http://schema.org/openingHours> "Lunes a viernes de 19 a 21h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12962> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 718 001, fax=976 718 110}" ;
+	<http://schema.org/name> "Sala de Exposiciones CAI Luzán" ;
+	<http://schema.org/address> "Pº Independencia, 10" ;
+	<http://schema.org/identifier> "12962" ;
+	<http://schema.org/url> "www.fundacioncai.es" ;
+	<http://schema.org/email> "servicio.cultural@cai.es" ;
+	<http://schema.org/openingHours> "De 19:00 a 21:00 h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12963> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976718152 , fax=976718153 }" ;
+	<http://schema.org/name> "Sala de Exposiciones CAI Mariano Barbasán" ;
+	<http://schema.org/address> "C/ Don Jaime I, 33" ;
+	<http://schema.org/identifier> "12963" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/educacion/recursos/detalle_GuiaRecurso?id=1510" ;
+	<http://schema.org/email> "servicio.cultural@cai.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12941> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones Caja Duero" ;
+	<http://schema.org/address> "Pza. de Aragón, 5" ;
+	<http://schema.org/identifier> "12941" ;
+	<http://schema.org/url> "https://http://www.cajaduero.es/obrasocial/quienessomos/centros/centro_expo_zg1.aspx" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/699> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 724881, 4881}" ;
+	<http://schema.org/name> "Sala de Exposiciones Casa de los Morlanes" ;
+	<http://schema.org/address> "Pza. San Carlos, 4" ;
+	<http://schema.org/identifier> "699" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=699" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a sábados de 10.00 a 14.30 h y de 17.00 a 21.00 h</li><li>Domingos y festivos: de 10 a 14.30 h.</li><li>Lunes, cerrado</li></ul> <ul>    <li>Días 24 y 31 de diciembre, abierto de 10 a 14 h</li>    <li>Días 25 de diciembre y 1 de enero, cerrado.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6165> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 290 301, fax=976 290 302}" ;
+	<http://schema.org/name> "Sala de Exposiciones Centro Joaquín Roncal" ;
+	<http://schema.org/address> "C/ San Braulio, 5-7-9" ;
+	<http://schema.org/identifier> "6165" ;
+	<http://schema.org/url> "http://www.joaquinroncal.org/" ;
+	<http://schema.org/email> "informacion@joaquinroncal.org" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/15940> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976203660, fax=976395103 }" ;
+	<http://schema.org/name> "Sala de Exposiciones Colegio Oficial de Arquitectos" ;
+	<http://schema.org/address> "C/ San Voto, 7" ;
+	<http://schema.org/identifier> "15940" ;
+	<http://schema.org/url> "http://www.coaaragon.es/" ;
+	<http://schema.org/email> "administracion@coaaragon.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12880> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976288800  , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones Cuarto Espacio" ;
+	<http://schema.org/address> "Pza. de España, 2" ;
+	<http://schema.org/identifier> "12880" ;
+	<http://schema.org/url> "http://www.elcuartoespacio.dpz.es/" ;
+	<http://schema.org/email> "zaragozacuartoespacio@dpz.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6166> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976724615}" ;
+	<http://schema.org/name> "Sala de Exposiciones Cubit" ;
+	<http://schema.org/address> "C/ Marques de la Cadena, s/n" ;
+	<http://schema.org/identifier> "6166" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/zaragozacultural/2016/detalle_GuiaRecurso?id=2242" ;
+	<http://schema.org/email> "bibliotecas-bjcubit@zaragoza.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11598> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976714092 , fax=976715729 }" ;
+	<http://schema.org/name> "Sala de Exposiciones de la Biblioteca Pública de Zaragoza" ;
+	<http://schema.org/address> "C/ Doctor Cerrada, 22" ;
+	<http://schema.org/identifier> "11598" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=11598" ;
+	<http://schema.org/openingHours> "<p>De lunes a viernes de 9 a 21 h. y  sábados de 9 a 13,30 h.</p>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7645> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Sala de Exposiciones de la Caja Rural de Teruel" ;
+	<http://schema.org/address> "Pº Pamplona, 4-6, entrada por C/Bilbao" ;
+	<http://schema.org/identifier> "7645" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13140> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976551647 , fax=976567834 }" ;
+	<http://schema.org/name> "Sala de Exposiciones de la Facultad de Filosofía" ;
+	<http://schema.org/address> "C/ Pedro Cerbuna, 12 (Campus Universitario)" ;
+	<http://schema.org/identifier> "13140" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13140" ;
+	<http://schema.org/email> "secrefil@unizar.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13200> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976356528 , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones de la Real Sociedad Fotográfica" ;
+	<http://schema.org/address> "C/ Luis del Valle, 2-4 bajo" ;
+	<http://schema.org/identifier> "13200" ;
+	<http://schema.org/url> "http://www.rsfz.es/" ;
+	<http://schema.org/email> "info@rsfz.es" ;
+	<http://schema.org/openingHours> """Lunes a viernes18:00 a 21:00""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13022> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976711818}" ;
+	<http://schema.org/name> "Sala de Exposiciones del ámbito cultural de El Corte Inglés" ;
+	<http://schema.org/address> "Pº Independencia, 11" ;
+	<http://schema.org/identifier> "13022" ;
+	<http://schema.org/url> "http://www.elcorteingles.es/corporativo/cultura/aragon/esp/listado.asp" ;
+	<http://schema.org/email> "acultural_zaragoza@elcorteingles.es" ;
+	<http://schema.org/openingHours> "Horario comercial" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13240> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976486241  , fax=976486241  }" ;
+	<http://schema.org/name> "Sala de Exposiciones del Centro de Artesanía de Aragón" ;
+	<http://schema.org/address> "C/ Monasterio de Samos (Antiguo Matadero)" ;
+	<http://schema.org/identifier> "13240" ;
+	<http://schema.org/url> "http://www.artearagon.com/centro_salaexp.asp" ;
+	<http://schema.org/openingHours> """Exposición y venta de artesanía de Lunes a Viernes: 17:00 a 20:00Asociación Profesional de Artesanos de Aragón de Lunes a Viernes: 8:00 a 15:00""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/15941> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976482621, fax=976233490}" ;
+	<http://schema.org/name> "Sala de Exposiciones del Colegio Oficial de Médicos(Espacio de arte)" ;
+	<http://schema.org/address> "C/ Ana Isabel Herrero 3-5 (antes Jesús Comín)" ;
+	<http://schema.org/identifier> "15941" ;
+	<http://schema.org/url> "http://www.comz.org/espacio-de-arte" ;
+	<http://schema.org/email> "espaciodearte@comz.org" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13260> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones del Espacio Cultural María Zambrano" ;
+	<http://schema.org/address> "Avda. María Zambrano, 2" ;
+	<http://schema.org/identifier> "13260" ;
+	<http://schema.org/url> "http://www.cartv.es/index.php/mod.pags/mem.detalle/relcategoria.233/idpag.279/v_mod.pags/v_mem.listado/chk.879de9246abea5d20471eb22b95acd33.html" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13280> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976763512  , fax=976763511  }" ;
+	<http://schema.org/name> "Sala de Exposiciones Fnac Plaza España" ;
+	<http://schema.org/address> "C/ Coso, 25-27" ;
+	<http://schema.org/identifier> "13280" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/agenda/fichacentro_Agenda?id=13280" ;
+	<http://schema.org/email> "comunicacion.pzaespana@fnac.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13281> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976977400  , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones Fnac Plaza Imperial" ;
+	<http://schema.org/address> "Avda. Diagonal, 8" ;
+	<http://schema.org/identifier> "13281" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=13281" ;
+	<http://schema.org/email> "plazaimperial@fnac.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2177> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 721400}" ;
+	<http://schema.org/name> "Sala de Exposiciones Fortea" ;
+	<http://schema.org/address> "C/ Torrenueva, 25" ;
+	<http://schema.org/identifier> "2177" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=2177" ;
+	<http://schema.org/email> "observatoriocultura@zaragoza.es" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a sábados de 10.00 a 14.00 h y de 17.00 a 21.00 h</li><li>Domingos y festivos: de 10 a 14.30 h.</li><li>Lunes, cerrado</li></ul><ul>    <li>Días 24 y 31 de diciembre, abierto de 10 a 14 h</li>    <li>Días 25 de diciembre y 1 de enero, cerrado.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9925> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/name> "Sala de Exposiciones Gil Marraco" ;
+	<http://schema.org/address> "C/ Luis del Valle, 4-6" ;
+	<http://schema.org/identifier> "9925" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13161> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976599192 , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones Hotel Boston" ;
+	<http://schema.org/address> "Camino de Las Torres, 28, 4º" ;
+	<http://schema.org/identifier> "13161" ;
+	<http://schema.org/url> "http://www.hotelboston.es/organizacionhotelcongresoszaragoza" ;
+	<http://schema.org/email> "comercial@hotelboston.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12980> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 971 926, fax=976232811  }" ;
+	<http://schema.org/name> "Sala de Exposiciones Ibercaja Patio de la Infanta" ;
+	<http://schema.org/address> "C/ San Ignacio de Loyola, 16" ;
+	<http://schema.org/identifier> "12980" ;
+	<http://schema.org/url> "http://www.ibercaja.es/obrasocial/ficha_centro.php?" ;
+	<http://schema.org/email> "patiodelainfanta@ibercaja.es" ;
+	<http://schema.org/openingHours> "De lunes a viernes, de 8:30 a 14 horas y de 18 a 21 horas. Sábados de 11 a 14 h y de 18 a 21. Domingos y festivos de 11 a 14h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2178> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 726 040, fax=976 726 042}" ;
+	<http://schema.org/name> "Sala de Exposiciones Juana Francés" ;
+	<http://schema.org/address> "C/ Don Juan de Aragón, 2" ;
+	<http://schema.org/identifier> "2178" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/sectores/mujer/" ;
+	<http://schema.org/email> "casamujer@zaragoza.es" ;
+	<http://schema.org/openingHours> "<ul><li>De lunes a viernes de 12 a 14 y de 18 a 21 h.</li></ul>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/700> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 397239, fax=976 397239}" ;
+	<http://schema.org/name> "Sala de Exposiciones La Lonja" ;
+	<http://schema.org/address> "Pza. Nuestra Sra. del Pilar, s/n / C/ Don Jaime I, 47" ;
+	<http://schema.org/identifier> "700" ;
+	<http://schema.org/openingHours> """<ul>    <li>Martes a sábado de 10 a 14 h y de 17 a 21 h. Domingos y festivos: de 10 a 14.30 h. (cuando hay exposición). Lunes cerrado.</li></ul><ul>    <li>24 y 31 diciembre, de 10 a 14 h</li>    <li>25 de diciembre y 1 enero, cerrado.</li></ul>El acceso del público se interrumpe 30 minutos antes del cierre.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6185> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976506621 / 976506624, fax=976235404}" ;
+	<http://schema.org/name> "Sala de Exposiciones Nueva Escuela de Arte" ;
+	<http://schema.org/address> "C/ Poeta María Zambrano, 5" ;
+	<http://schema.org/identifier> "6185" ;
+	<http://schema.org/url> "http://www.escueladeartedezaragoza.com/biblioteca/biblioteca.html" ;
+	<http://schema.org/email> "eayozaragoza@educa.aragon.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11413> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976239262 , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones Obra Social Caja Madrid" ;
+	<http://schema.org/address> "Pza. Aragón, 4" ;
+	<http://schema.org/identifier> "11413" ;
+	<http://schema.org/url> "http://www.obrasocialcajamadrid.es" ;
+	<http://schema.org/email> "eazaragoza@gecesa.es" ;
+	<http://schema.org/openingHours> "<p>De martes a sábado de 18 a 21 h; domingos y festivos de 11 a 14 h.</p>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/702> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 721268}" ;
+	<http://schema.org/name> "Sala de Exposiciones Palacio de Montemuzo" ;
+	<http://schema.org/address> "C/ Santiago, 34" ;
+	<http://schema.org/identifier> "702" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=702" ;
+	<http://schema.org/openingHours> """<ul><li>De martes a sábados de 10.00 a 14.00 h. y de 17.00 a 21.00h</li><li>Domingos y festivos: de 10 a 14.30 h.</li><li>Lunes cerrado.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12205> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976288800 , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones Palacio de Sástago. 4º Espacio." ;
+	<http://schema.org/address> "Pza. de España, 2" ;
+	<http://schema.org/identifier> "12205" ;
+	<http://schema.org/url> "http://www.dpz.es" ;
+	<http://schema.org/email> "webmaster@dpz.es" ;
+	<http://schema.org/openingHours> "<p>de 8,30 a 14,30 h</p>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6245> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976761994 , fax=976 761 856}" ;
+	<http://schema.org/name> "Sala de Exposiciones Paraninfo de la Universidad de Zaragoza" ;
+	<http://schema.org/address> "Pza. Basilio Paraíso, 4" ;
+	<http://schema.org/identifier> "6245" ;
+	<http://schema.org/url> "http://cultura.unizar.es/" ;
+	<http://schema.org/email> "cultura@unizar.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13084> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976230783 , fax= }" ;
+	<http://schema.org/name> "Sala de Exposiciones Producciones Capitel" ;
+	<http://schema.org/address> "Pº de Sagasta, 19" ;
+	<http://schema.org/identifier> "13084" ;
+	<http://schema.org/url> "No tiene web" ;
+	<http://schema.org/email> "lola@produccionescapitel.com" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13220> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976767845  , fax=976232811  }" ;
+	<http://schema.org/name> "Sala de Exposiciones Propuesta Arte Joven de Ibercaja" ;
+	<http://schema.org/address> "C/ San Ignacio de Loyola, 16" ;
+	<http://schema.org/identifier> "13220" ;
+	<http://schema.org/url> "http://www.ibercaja.es/obrasocial/ficha_centro.php?" ;
+	<http://schema.org/email> "meusan@ibercaja.es" ;
+	<http://schema.org/openingHours> "De lunes a viernes de 8:30 a 14 h. y de 18 a 21 h. Sábados de 11 a 14 h y de 18 a 21h. Domingos y festivos de 11 a 14h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12940> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976714454 , fax=976715292 }" ;
+	<http://schema.org/name> "Sala de Exposiciones Sala Goya (entrada Pza San Pedro Nolasco)" ;
+	<http://schema.org/address> "C/ San Vicente de Paúl, 11-17" ;
+	<http://schema.org/identifier> "12940" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/educacion/recursos/detalle_GuiaRecurso?id=1453" ;
+	<http://schema.org/email> "mgarcia@aragob.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13221> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/name> "Sala del comendador. Albergue del Comendador" ;
+	<http://schema.org/address> "C/ Predicadores, 70" ;
+	<http://schema.org/identifier> "13221" ;
+	<http://schema.org/url> "http://www.alberguezaragoza.com/" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/6146> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 721885}" ;
+	<http://schema.org/name> "Salas de Exposiciones del Centro de Historias" ;
+	<http://schema.org/address> "Pza. de San Agustín, 2" ;
+	<http://schema.org/identifier> "6146" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/museos/es/chistoria" ;
+	<http://schema.org/email> "centrodehistoria@zaragoza.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8105> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 718 001}" ;
+	<http://schema.org/name> "Salón de Actos CAI Zaragoza" ;
+	<http://schema.org/address> "Pº Independencia, 10" ;
+	<http://schema.org/identifier> "8105" ;
+	<http://schema.org/url> "http://www.cai.es/obs/agenda/eventos.asp" ;
+	<http://schema.org/email> "fundacioncai@cai.es" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/930> a <http://schema.org/ArtGallery> ;
+	<http://schema.org/telephone> "{tel=976 724 926, fax=976 391 522}" ;
+	<http://schema.org/name> "Universidad Popular" ;
+	<http://schema.org/address> "C/ Cortesías, 1" ;
+	<http://schema.org/identifier> "930" ;
+	<http://schema.org/url> "http://universidadpopularzgz.blogspot.com.es/" ;
+	<http://schema.org/email> "upz@zaragoza.es" .
