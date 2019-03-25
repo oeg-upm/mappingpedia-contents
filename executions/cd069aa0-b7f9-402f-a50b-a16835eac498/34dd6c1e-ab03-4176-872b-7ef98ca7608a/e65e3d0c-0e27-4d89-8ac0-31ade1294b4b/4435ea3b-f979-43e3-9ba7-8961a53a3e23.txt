@@ -1,0 +1,978 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23419> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "CAPRICHOS" ;
+	<http://schema.org/address> "AVDA AMERICA,42" ;
+	<http://schema.org/identifier> "23419" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24349> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "\"\"\" SUPER DELICIAS\"\"\"" ;
+	<http://schema.org/address> "CALLE GALAN BERGUA,9" ;
+	<http://schema.org/identifier> "24349" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27203> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "A+B" ;
+	<http://schema.org/address> "URB ALAMEDA,3" ;
+	<http://schema.org/identifier> "27203" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21799> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ALIMENTACION" ;
+	<http://schema.org/address> "CALLE CUARTE,2" ;
+	<http://schema.org/identifier> "21799" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23877> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ALIMENTACION" ;
+	<http://schema.org/address> "CALLE ESCUELAS PÍAS,9" ;
+	<http://schema.org/identifier> "23877" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21043> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ALIMENTACION BAZAR" ;
+	<http://schema.org/address> "CALLE SANTIAGO LAPUENTE,8" ;
+	<http://schema.org/identifier> "21043" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24898> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ALIMENTACION Y BAZAR" ;
+	<http://schema.org/address> "CALLE ROGER DE FLOR,19" ;
+	<http://schema.org/identifier> "24898" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23354> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ALIMENTACIÓN Y BAZAR" ;
+	<http://schema.org/address> "CALLE CEREROS,28" ;
+	<http://schema.org/identifier> "23354" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21057> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ALIMENTOS Y FRUTOS SECOS BAZAR" ;
+	<http://schema.org/address> "AVDA SANTA ISABEL,70" ;
+	<http://schema.org/identifier> "21057" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21981> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ALMACEN CIEN X CIEN OCASION" ;
+	<http://schema.org/address> "AVDA COMPROMISO DE CASPE,56" ;
+	<http://schema.org/identifier> "21981" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27081> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR" ;
+	<http://schema.org/address> "CALLE BRAULIO LAUSIN,8" ;
+	<http://schema.org/identifier> "27081" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25239> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR" ;
+	<http://schema.org/address> "CALLE SAN JUAN DE LA PEÑA,184" ;
+	<http://schema.org/identifier> "25239" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23557> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ALIMENTACION" ;
+	<http://schema.org/address> "CALLE MIGUEL SERVET,32" ;
+	<http://schema.org/identifier> "23557" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26494> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ALIMENTACIÓN" ;
+	<http://schema.org/address> "CALLE CONDE ARANDA,74" ;
+	<http://schema.org/identifier> "26494" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25447> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR AMISTAD" ;
+	<http://schema.org/address> "AVDA MADRID,78" ;
+	<http://schema.org/identifier> "25447" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21854> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ASIA" ;
+	<http://schema.org/address> "CALLE TOMAS BRETÓN,44" ;
+	<http://schema.org/identifier> "21854" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26467> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ASIATICO" ;
+	<http://schema.org/address> "CALLE DELICIAS,99" ;
+	<http://schema.org/identifier> "26467" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26490> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR ATLAS" ;
+	<http://schema.org/address> "CALLE CONDE ARANDA,78" ;
+	<http://schema.org/identifier> "26490" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26487> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR CEUTA" ;
+	<http://schema.org/address> "CALLE CONDE ARANDA,92" ;
+	<http://schema.org/identifier> "26487" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21461> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR CHEN" ;
+	<http://schema.org/address> "CALLE RODRIGO REBOLLEDO,7" ;
+	<http://schema.org/identifier> "21461" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22741> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR DE SONIA" ;
+	<http://schema.org/address> "CALLE MARQUES DE LA CADENA,50" ;
+	<http://schema.org/identifier> "22741" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21247> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR DOBLE FELIZ" ;
+	<http://schema.org/address> "CALLE MONASTERIO DE SIRESA,22" ;
+	<http://schema.org/identifier> "21247" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25613> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR DRAGON" ;
+	<http://schema.org/address> "CALLE GARCÍA SÁNCHEZ,36" ;
+	<http://schema.org/identifier> "25613" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25412> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR FAFA" ;
+	<http://schema.org/address> "AVDA MADRID,128" ;
+	<http://schema.org/identifier> "25412" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22748> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR FELISA GALE" ;
+	<http://schema.org/address> "CALLE BALBINO ORENSANZ,48" ;
+	<http://schema.org/identifier> "22748" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23481> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR JUAN JUAN" ;
+	<http://schema.org/address> "CALLE GASCON DE GOTOR,26" ;
+	<http://schema.org/identifier> "23481" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25114> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR LAS TORRES" ;
+	<http://schema.org/address> "CMNO TORRES (LAS),78" ;
+	<http://schema.org/identifier> "25114" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24842> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR LEYVA" ;
+	<http://schema.org/address> "CALLE ANTONIO DE LEYVA,39" ;
+	<http://schema.org/identifier> "24842" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27022> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR MUNDO" ;
+	<http://schema.org/address> "CALLE REINA FABIOLA,10" ;
+	<http://schema.org/identifier> "27022" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22191> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR NAVARRA" ;
+	<http://schema.org/address> "AVDA NAVARRA,18" ;
+	<http://schema.org/identifier> "22191" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23621> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR ORIENTAL" ;
+	<http://schema.org/address> "CALLE SOBRARBE,20" ;
+	<http://schema.org/identifier> "23621" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22824> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR ORIENTAL" ;
+	<http://schema.org/address> "CALLE ANDRES VICENTE,12" ;
+	<http://schema.org/identifier> "22824" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21260> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ORIENTAL" ;
+	<http://schema.org/address> "AVDA AMERICA,64" ;
+	<http://schema.org/identifier> "21260" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23169> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ORIENTAL" ;
+	<http://schema.org/address> "CALLE LASIERRA PURROY,51" ;
+	<http://schema.org/identifier> "23169" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26496> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR ORIENTAL" ;
+	<http://schema.org/address> "CALLE CONDE ARANDA,54" ;
+	<http://schema.org/identifier> "26496" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23466> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ORIENTAL" ;
+	<http://schema.org/address> "CALLE JUAN PABLO BONET,21" ;
+	<http://schema.org/identifier> "23466" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23465> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ORIENTAL" ;
+	<http://schema.org/address> "CALLE JUAN PABLO BONET,21" ;
+	<http://schema.org/identifier> "23465" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22427> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR ORIENTAL" ;
+	<http://schema.org/address> "CALLE JUAN BAUTISTA DEL MAZO,3" ;
+	<http://schema.org/identifier> "22427" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24673> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ORIENTAL 100" ;
+	<http://schema.org/address> "CALLE SAN FRANCISCO DE BORJA,3" ;
+	<http://schema.org/identifier> "24673" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26425> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ORIENTE" ;
+	<http://schema.org/address> "CALLE DELICIAS,11" ;
+	<http://schema.org/identifier> "26425" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21989> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR ORIENTE" ;
+	<http://schema.org/address> "AVDA COMPROMISO DE CASPE,46" ;
+	<http://schema.org/identifier> "21989" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25658> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR RIOJA" ;
+	<http://schema.org/address> "CALLE RIOJA,4" ;
+	<http://schema.org/identifier> "25658" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24679> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR ROMAREDA" ;
+	<http://schema.org/address> "PASEO FERNANDO EL CATOLICO,68" ;
+	<http://schema.org/identifier> "24679" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23702> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR RONG HE" ;
+	<http://schema.org/address> "CALLE UNCETA,74" ;
+	<http://schema.org/identifier> "23702" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21466> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR RONG XING" ;
+	<http://schema.org/address> "PASEO MARIA AGUSTÍN,95" ;
+	<http://schema.org/identifier> "21466" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24139> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR SUPER EURO" ;
+	<http://schema.org/address> "CALLE MARIA GUERRERO,17" ;
+	<http://schema.org/identifier> "24139" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25831> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR SUR" ;
+	<http://schema.org/address> "CALLE SAIZ DE OTERO,12" ;
+	<http://schema.org/identifier> "25831" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22399> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR TANGER" ;
+	<http://schema.org/address> "CALLE AZOQUE,39" ;
+	<http://schema.org/identifier> "22399" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21829> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR TOMAS BRETÓN" ;
+	<http://schema.org/address> "CALLE TOMAS BRETÓN,7" ;
+	<http://schema.org/identifier> "21829" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22807> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR UNIVERSAL" ;
+	<http://schema.org/address> "CALLE ANDRES VICENTE,27" ;
+	<http://schema.org/identifier> "22807" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25573> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "BAZAR Y ALIMENTACIÓN" ;
+	<http://schema.org/address> "CALLE MÉNDEZ NÚÑEZ,5" ;
+	<http://schema.org/identifier> "25573" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24698> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "BAZAR Y ALIMENTACIÓN" ;
+	<http://schema.org/address> "PASEO FERNANDO EL CATOLICO,48" ;
+	<http://schema.org/identifier> "24698" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23979> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CALALANDA BAZAR ORIENTE" ;
+	<http://schema.org/address> "PASEO CALANDA,15" ;
+	<http://schema.org/identifier> "23979" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27316> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CASA SUN" ;
+	<http://schema.org/address> "VIA UNIVERSITAS,59" ;
+	<http://schema.org/identifier> "27316" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24070> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "CASH CONVERTERS" ;
+	<http://schema.org/address> "CALLE SAN VICENTE MÁRTIR,16" ;
+	<http://schema.org/identifier> "24070" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25445> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "CHINA CENTER ENLACES" ;
+	<http://schema.org/address> "AVDA MADRID,222" ;
+	<http://schema.org/identifier> "25445" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27082> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "CHINA CENTER SAN JOSE" ;
+	<http://schema.org/address> "CALLE FLORIDA,1" ;
+	<http://schema.org/identifier> "27082" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21668> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHINO" ;
+	<http://schema.org/address> "CALLE MARCIAL,4" ;
+	<http://schema.org/identifier> "21668" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27361> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "CHOLLO ARAGÓN" ;
+	<http://schema.org/address> "VIA UNIVERSITAS,64" ;
+	<http://schema.org/identifier> "27361" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20993> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO ARAGON" ;
+	<http://schema.org/address> "CALLE SILVESTRE PEREZ,2" ;
+	<http://schema.org/identifier> "20993" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22627> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO ARAGON" ;
+	<http://schema.org/address> "CALLE MARTINEZ VARGAS,8" ;
+	<http://schema.org/identifier> "22627" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27560> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO ARAGON" ;
+	<http://schema.org/address> "CALLE ANGEL GANIVET,4" ;
+	<http://schema.org/identifier> "27560" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23660> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "CHOLLO ARAGON" ;
+	<http://schema.org/address> "CALLE FLORA TRISTÁN,5" ;
+	<http://schema.org/identifier> "23660" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26109> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO ARZOBISPO DOMENECH" ;
+	<http://schema.org/address> "CALLE ARZOBISPO DOMENECH,15" ;
+	<http://schema.org/identifier> "26109" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22211> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO AV NAVARRA" ;
+	<http://schema.org/address> "AVDA NAVARRA,61" ;
+	<http://schema.org/identifier> "22211" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25965> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO AV. MADRID" ;
+	<http://schema.org/address> "AVDA MADRID,251" ;
+	<http://schema.org/identifier> "25965" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21066> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO DE PRECIOS" ;
+	<http://schema.org/address> "CALLE MADRE SACRAMENTO,7" ;
+	<http://schema.org/identifier> "21066" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22732> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "CHOLLO EUROPA" ;
+	<http://schema.org/address> "CALLE COSO,89" ;
+	<http://schema.org/identifier> "22732" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24393> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO MERCAEURO" ;
+	<http://schema.org/address> "CALLE MADRE VEDRUNA,44" ;
+	<http://schema.org/identifier> "24393" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22115> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO ORIENTAL" ;
+	<http://schema.org/address> "AVDA PABLO GARGALLO,100" ;
+	<http://schema.org/identifier> "22115" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20922> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO PASEO TERUEL" ;
+	<http://schema.org/address> "PASEO TERUEL,8" ;
+	<http://schema.org/identifier> "20922" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21708> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO ROMEO" ;
+	<http://schema.org/address> "CALLE LEOPOLDO ROMEO,18" ;
+	<http://schema.org/identifier> "21708" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22978> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO ZARAGOZA" ;
+	<http://schema.org/address> "CALLE LATASSA,26" ;
+	<http://schema.org/identifier> "22978" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24113> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "CHOLLO ZARAGOZA" ;
+	<http://schema.org/address> "CALLE TENOR FLETA,60" ;
+	<http://schema.org/identifier> "24113" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21598> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLO ZARAGOZA" ;
+	<http://schema.org/address> "PASEO FERNANDO EL CATOLICO,25" ;
+	<http://schema.org/identifier> "21598" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21879> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "CHOLLO ZARAGOZA HUYAO" ;
+	<http://schema.org/address> "AVDA COMPROMISO DE CASPE,17" ;
+	<http://schema.org/identifier> "21879" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24002> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "CHOLLOGAO" ;
+	<http://schema.org/address> "AVDA CUARTA AVENIDA,72" ;
+	<http://schema.org/identifier> "24002" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26187> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "COALIMENT (SUPERMERCADOS)" ;
+	<http://schema.org/address> "CALLE SAN JUAN DE LA PEÑA,131" ;
+	<http://schema.org/identifier> "26187" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24766> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "COMERCIAL BOZADA" ;
+	<http://schema.org/address> "CALLE ALAVA,8" ;
+	<http://schema.org/identifier> "24766" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21685> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "COMERCIAL ZHAN" ;
+	<http://schema.org/address> "AVDA SANTA ISABEL,153" ;
+	<http://schema.org/identifier> "21685" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23329> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "COMERCIO ZHENG" ;
+	<http://schema.org/address> "CALLE VIA (LA),6" ;
+	<http://schema.org/identifier> "23329" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27527> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "DEUTSCHE PRODUKTE" ;
+	<http://schema.org/address> "AVDA GOYA,72" ;
+	<http://schema.org/identifier> "27527" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26701> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "DO TI SU COMPRA A PRECIO UNICO" ;
+	<http://schema.org/address> "CALLE DUQUESA VILLAHERMOSA,17" ;
+	<http://schema.org/identifier> "26701" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22910> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "DULCE HOGAR" ;
+	<http://schema.org/address> "PASEO DE LOS OLVIDADOS,25" ;
+	<http://schema.org/identifier> "22910" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23315> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ECODETALLES" ;
+	<http://schema.org/address> "CALLE VIA (LA),35" ;
+	<http://schema.org/identifier> "23315" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22764> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ECODETALLES MULTIPRECIO" ;
+	<http://schema.org/address> "AVDA JOTA (LA),59" ;
+	<http://schema.org/identifier> "22764" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25398> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "EL ARCA DE NOE" ;
+	<http://schema.org/address> "AVDA MADRID,34" ;
+	<http://schema.org/identifier> "25398" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26040> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "EL BUQUE" ;
+	<http://schema.org/address> "CALLE TARRAGONA,33" ;
+	<http://schema.org/identifier> "26040" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27515> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "EL CHOLLO ARAGON" ;
+	<http://schema.org/address> "AVDA SAN JOSÉ,121" ;
+	<http://schema.org/identifier> "27515" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21005> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "EURO BAZAR" ;
+	<http://schema.org/address> "AVDA ALMOZARA,41" ;
+	<http://schema.org/identifier> "21005" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23981> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "EURO BAZAR CALANDA" ;
+	<http://schema.org/address> "CALLE NUESTRA SEÑORA DE BONARIA,14" ;
+	<http://schema.org/identifier> "23981" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25699> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "EURO CHOLLO SAN JOSE" ;
+	<http://schema.org/address> "AVDA SAN JOSÉ,179" ;
+	<http://schema.org/identifier> "25699" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26676> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "EURO NEW" ;
+	<http://schema.org/address> "CALLE AVENIDA FRANCISCA MILLAN SERRANO,23" ;
+	<http://schema.org/identifier> "26676" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25393> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "GALERIA CHINA" ;
+	<http://schema.org/address> "AVDA SALVADOR ALLENDE,46" ;
+	<http://schema.org/identifier> "25393" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22231> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "GALERIA CHINA" ;
+	<http://schema.org/address> "CALLE PASCUALA PERIE,6" ;
+	<http://schema.org/identifier> "22231" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25069> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "GALERIA CHINA" ;
+	<http://schema.org/address> "CALLE ROSALIA DE CASTRO,16" ;
+	<http://schema.org/identifier> "25069" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21727> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "GALERIA CHINA" ;
+	<http://schema.org/address> "CALLE FELISA GALE,6" ;
+	<http://schema.org/identifier> "21727" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26882> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "GALERIA CHINA" ;
+	<http://schema.org/address> "CMNO TORRES (LAS),17" ;
+	<http://schema.org/identifier> "26882" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22603> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "GALERIA CHINA" ;
+	<http://schema.org/address> "CALLE MIGUEL SERVET,77" ;
+	<http://schema.org/identifier> "22603" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26724> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "GALERIA CHINA" ;
+	<http://schema.org/address> "CALLE SANTANDER,32" ;
+	<http://schema.org/identifier> "26724" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21487> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "GALERIA CHINA" ;
+	<http://schema.org/address> "CALLE MONASTERIO NTRA SRA DEL PUEYO,8" ;
+	<http://schema.org/identifier> "21487" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23759> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "GALERIA CHINA" ;
+	<http://schema.org/address> "CALLE SIXTO CELORRIO,24" ;
+	<http://schema.org/identifier> "23759" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26576> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "GALERIA CHINA" ;
+	<http://schema.org/address> "CALLE JULIO GARCIA CONDOY,13" ;
+	<http://schema.org/identifier> "26576" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24146> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "GALERIA MUNDO" ;
+	<http://schema.org/address> "CALLE MANIFESTACIÓN,3" ;
+	<http://schema.org/identifier> "24146" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23410> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "GALERIA ORIENTAL" ;
+	<http://schema.org/address> "CALLE COSO,166" ;
+	<http://schema.org/identifier> "23410" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25390> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "GRAN BAZAR" ;
+	<http://schema.org/address> "CALLE ILDEFONSO MANUEL GIL,8" ;
+	<http://schema.org/identifier> "25390" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26696> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "GRAN BAZAR" ;
+	<http://schema.org/address> "CALLE RAFAEL ESTEVE VILELLA,40" ;
+	<http://schema.org/identifier> "26696" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24941> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "GRAN PLAZA" ;
+	<http://schema.org/address> "CALLE ZARAGOZA LA VIEJA,2" ;
+	<http://schema.org/identifier> "24941" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25972> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "HIPER CONTINENTAL" ;
+	<http://schema.org/address> "AVDA MADRID,271" ;
+	<http://schema.org/identifier> "25972" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21675> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "HIPER EURO" ;
+	<http://schema.org/address> "CALLE LEOPOLDO ROMEO,2" ;
+	<http://schema.org/identifier> "21675" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21298> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "HIPER HERNAN CORTES" ;
+	<http://schema.org/address> "CALLE HERNAN CORTES,11" ;
+	<http://schema.org/identifier> "21298" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26893> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "HIPER ZARAGOZA" ;
+	<http://schema.org/address> "CALLE MIGUEL SERVET,108" ;
+	<http://schema.org/identifier> "26893" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22552> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "HIPER ZARAGOZA BAZAR ORIENTAL" ;
+	<http://schema.org/address> "AVDA VALENCIA,45" ;
+	<http://schema.org/identifier> "22552" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23917> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "INTERMON OXFAM" ;
+	<http://schema.org/address> "CALLE LEON XIII,24" ;
+	<http://schema.org/identifier> "23917" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24329> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "LA TIENDA BARATA" ;
+	<http://schema.org/address> "CALLE BARON DE WARSAGE,6" ;
+	<http://schema.org/identifier> "24329" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21772> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "MANJON HOGAR TEXTIL MULTIPRECIO" ;
+	<http://schema.org/address> "CALLE PADRE MANJON,23" ;
+	<http://schema.org/identifier> "21772" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27449> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "MARKETCHES" ;
+	<http://schema.org/address> "AVDA DIAGONAL PLAZA,3" ;
+	<http://schema.org/identifier> "27449" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22516> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "MAXI BAZAR" ;
+	<http://schema.org/address> "CALLE FRAY JULIAN GARCES,14" ;
+	<http://schema.org/identifier> "22516" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22246> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "MAYMO" ;
+	<http://schema.org/address> "CALLE MOLINO DE LAS ARMAS,42" ;
+	<http://schema.org/identifier> "22246" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23745> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "MERCADO ALTABA" ;
+	<http://schema.org/address> "CALLE SOBRARBE,5" ;
+	<http://schema.org/identifier> "23745" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23359> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "MIN-REN SC" ;
+	<http://schema.org/address> "CALLE SANTA INES,22" ;
+	<http://schema.org/identifier> "23359" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26839> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "MODA BAZAR CHINA EUROPA" ;
+	<http://schema.org/address> "AVDA SAN JOSÉ,65" ;
+	<http://schema.org/identifier> "26839" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21873> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "MODAS HERNANDEZ EL GRAN OFERTON" ;
+	<http://schema.org/address> "AVDA COMPROMISO DE CASPE,61" ;
+	<http://schema.org/identifier> "21873" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20852> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "MULTI 100" ;
+	<http://schema.org/address> "CALLE DON JAIME I,46" ;
+	<http://schema.org/identifier> "20852" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24508> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "MULTI-100" ;
+	<http://schema.org/address> "CALLE PEDRO MARIA RIC,17" ;
+	<http://schema.org/identifier> "24508" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21481> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "MULTIPRECIO CASANOVA" ;
+	<http://schema.org/address> "CALLE CHECA,10" ;
+	<http://schema.org/identifier> "21481" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25880> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "MULTIPRECIO LA CASA" ;
+	<http://schema.org/address> "CALLE BURGOS,7" ;
+	<http://schema.org/identifier> "25880" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27126> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "MULTIPRECIO LACASA" ;
+	<http://schema.org/address> "AVDA VALENCIA,6" ;
+	<http://schema.org/identifier> "27126" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25394> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "NHAFKTA" ;
+	<http://schema.org/address> "AVDA SALVADOR ALLENDE,42" ;
+	<http://schema.org/identifier> "25394" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20793> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "NOVEDADES TODO A 0,75€" ;
+	<http://schema.org/address> "CALLE SALVADOR MINGUIJON,58" ;
+	<http://schema.org/identifier> "20793" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26589> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "O BAZAR BOUTIQUE" ;
+	<http://schema.org/address> "CALLE MARIA ZAMBRANO,48" ;
+	<http://schema.org/identifier> "26589" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25838> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "PERFUMERIA LENCERÍA; COMPLEMENTOS Y REGALOS" ;
+	<http://schema.org/address> "CALLE ZUMALACARREGUI,19" ;
+	<http://schema.org/identifier> "25838" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20822> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SIN NOMBRE" ;
+	<http://schema.org/address> "CALLE ANSELMO CLAVE,53" ;
+	<http://schema.org/identifier> "20822" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24447> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "SIN NOMBRE" ;
+	<http://schema.org/address> "CALLE TORRE NUEVA,31" ;
+	<http://schema.org/identifier> "24447" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25272> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SIN NOMBRE" ;
+	<http://schema.org/address> "CALLE OBISPO COVARRUBIAS,14" ;
+	<http://schema.org/identifier> "25272" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25154> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: Sí" ;
+	<http://schema.org/name> "SIN NOMBRE" ;
+	<http://schema.org/address> "AVDA CESAR AUGUSTO,82" ;
+	<http://schema.org/identifier> "25154" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26080> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SIN NOMBRE" ;
+	<http://schema.org/address> "CALLE SAN BLAS,102" ;
+	<http://schema.org/identifier> "26080" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26669> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SIN NOMBRE" ;
+	<http://schema.org/address> "CALLE MARTE,59" ;
+	<http://schema.org/identifier> "26669" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23730> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SIN NOMBRE" ;
+	<http://schema.org/address> "CALLE SANGENIS,79" ;
+	<http://schema.org/identifier> "23730" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26665> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SIN NOMBRE" ;
+	<http://schema.org/address> "CALLE OBISPO PERALTA,6" ;
+	<http://schema.org/identifier> "26665" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22768> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SIN NOMBRE" ;
+	<http://schema.org/address> "AVDA JOTA (LA),55" ;
+	<http://schema.org/identifier> "22768" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26430> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "SIN NOMBRE" ;
+	<http://schema.org/address> "CALLE DELICIAS,23" ;
+	<http://schema.org/identifier> "26430" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22389> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SUMERKO ZARAGOZA" ;
+	<http://schema.org/address> "CALLE RICHARD WAGNER,8" ;
+	<http://schema.org/identifier> "22389" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25843> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SUMERKO ZARAGOZA" ;
+	<http://schema.org/address> "PASEO ECHEGARAY Y CABALLERO,8" ;
+	<http://schema.org/identifier> "25843" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25568> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SUPER BAZAR" ;
+	<http://schema.org/address> "CALLE MÉNDEZ NÚÑEZ,7" ;
+	<http://schema.org/identifier> "25568" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23639> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "SUPER BAZAR" ;
+	<http://schema.org/address> "CALLE PEDRO IV EL CEREMONIOSO,12" ;
+	<http://schema.org/identifier> "23639" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25815> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "SUPER BAZAR" ;
+	<http://schema.org/address> "AVDA ACADEMIA GENERAL MILITAR,2" ;
+	<http://schema.org/identifier> "25815" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22269> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "SUPER COMPRA SL" ;
+	<http://schema.org/address> "CALLE SAN VICENTE DE PAUL,52" ;
+	<http://schema.org/identifier> "22269" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20886> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "SUPER EURO" ;
+	<http://schema.org/address> "AVDA SANTA ISABEL,18" ;
+	<http://schema.org/identifier> "20886" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25772> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "SUPER VIVO BAZAR" ;
+	<http://schema.org/address> "PASEO CUELLAR,43" ;
+	<http://schema.org/identifier> "25772" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/24888> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "TODO A 2 EUROS" ;
+	<http://schema.org/address> "AVDA SAN JOSÉ,151" ;
+	<http://schema.org/identifier> "24888" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23360> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "TODO A CIEN" ;
+	<http://schema.org/address> "CALLE SANTA INES,16" ;
+	<http://schema.org/identifier> "23360" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/23310> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "UNICEF" ;
+	<http://schema.org/address> "PASEO INDEPENDENCIA,24" ;
+	<http://schema.org/identifier> "23310" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21039> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "UNIFAMILY" ;
+	<http://schema.org/address> "CALLE JESUS,7" ;
+	<http://schema.org/identifier> "21039" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/25503> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "VERDE LA PAZ" ;
+	<http://schema.org/address> "CALLE PABLO RUIZ PICASSO,28" ;
+	<http://schema.org/identifier> "25503" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21797> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "VIDA PLAZA" ;
+	<http://schema.org/address> "CALLE LAGO DE CORONAS,47" ;
+	<http://schema.org/identifier> "21797" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/22363> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "XING ZARAGOZA" ;
+	<http://schema.org/address> "CALLE CORONA DE ARAGON,20" ;
+	<http://schema.org/identifier> "22363" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26707> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "YOUFA BAZAR" ;
+	<http://schema.org/address> "CALLE DUQUESA VILLAHERMOSA,7" ;
+	<http://schema.org/identifier> "26707" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26270> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "YUAN ZARAGOZA" ;
+	<http://schema.org/address> "CALLE PABLO IGLESIAS,3" ;
+	<http://schema.org/identifier> "26270" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/21795> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ZANUBIA" ;
+	<http://schema.org/address> "CALLE INGLATERRA,5" ;
+	<http://schema.org/identifier> "21795" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27028> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "ZARA 100" ;
+	<http://schema.org/address> "CALLE REINA FABIOLA,9" ;
+	<http://schema.org/identifier> "27028" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26849> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Sábado: Sí Tardes: Sí" ;
+	<http://schema.org/name> "ZATLAND" ;
+	<http://schema.org/address> "CALLE ESCULTOR BURRIEL,2" ;
+	<http://schema.org/identifier> "26849" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/26207> a <http://schema.org/Store> ;
+	<http://schema.org/openingHours> "Tardes: No" ;
+	<http://schema.org/name> "ZHON WEI II" ;
+	<http://schema.org/address> "CALLE CONDE ARANDA,9" ;
+	<http://schema.org/identifier> "26207" .
