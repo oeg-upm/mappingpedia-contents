@@ -1,0 +1,352 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/939> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>El <strong>Auditorio-Palacio de Congresos de Zaragoza </strong>es un espacio pionero al servicio de la música que goza de un gran prestigio cultural. Inaugurado en 1994 ,es un espacio multifuncional que gestiona principalmente un proyecto musical para facilitar la accesibilidad cultural a la música en directo, y en especial la música clásica .</p><p>El Auditorio de Zaragoza consta de una programación estable en música clásica con especial atención al trabajo con los diferentes públicos y a los programas educativos y pedagógicos.</p><p>Actualmente el Auditorio está gestionado por la Sociedad Municipal Zaragoza Cultural, una entidad pública que gestiona parte de la cultura en el Ayuntamiento de Zaragoza.</p><p>Elena Laseca Ferrández, gerente<br />Miguel Ángel Tapia, director artístico</p>""" ;
+	<http://schema.org/url> "http://www.auditoriozaragoza.com/" ;
+	<http://schema.org/name> "Auditorio de Zaragoza" ;
+	<http://schema.org/telephone> "{tel=976 721300, 1312, fax=976 721 396}" ;
+	<http://schema.org/address> "C/ Eduardo Ibarra , 3" ;
+	<http://schema.org/openingHours> "Lunes a viernes de 9 a 14 h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8642> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Auditorio Eduardo del Pueyo" ;
+	<http://schema.org/address> "Vía Hispanidad, 22" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9846> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Auditorio Pilar Bayona" ;
+	<http://schema.org/telephone> "{tel=976 201 928, fax=976 202 205}" ;
+	<http://schema.org/address> "C/ San Vicente de Paúl, 39" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/18260> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Catalogo?id=663" ;
+	<http://schema.org/name> "Basílica de Santa Engracia" ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/address> "Pza. de Santa Engracia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12139> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.cai.es/obs/paginas/paginafinal.asp?idNodo=883" ;
+	<http://schema.org/name> "Caja Inmaculada (CAI). Servicio Cultural" ;
+	<http://schema.org/telephone> "{tel=976718152 , fax=976718153 }" ;
+	<http://schema.org/address> "Pº Independencia, 10" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/18323> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Catalogo?id=1253" ;
+	<http://schema.org/name> "Casa Amparo" ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/address> "C/ Predicadores , 96" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3036> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, de compromiso y de relaciones, y espacio para el diálogo constante y permanente entre colectivos, asociaciones, grupos y ciudadanos de Zaragoza. Estos centros son, en definitiva, los nudos de cohesión que soportan una red ciudadana que vertebra y estructura la ciudad. Están ubicados en los distintos distritos de la ciudad y su objetivo es prestar servicios públicos de calidad.</p><p>Dispone de las siguientes Instalaciones:</p><ul>    <li>salón de actos (242 butacas fijas)</li>    <li> 1 sala taller con capacidad de 20 personas</li>    <li> 1 sala taller con capacidad de 15 personas</li>    <li>  sala dinámica con capacidad de 40 personas</li>    <li> dos salas con capacidad de 15 personas</li>    <li> una sala con capacidad de 30 personas</li>    <li> zona exposiciones</li>    <li> pabellón sociocultural con capacidad para 3596 personas.</li></ul>""" ;
+	<http://schema.org/name> "Centro Cívico Casetas" ;
+	<http://schema.org/telephone> "{tel=976 726152, fax=976 726155}" ;
+	<http://schema.org/address> "Pza. España, 1" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/753> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p class=\"info\">La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, de compromiso y de relaciones, y espacio para el diálogo constante y permanente entre colectivos, asociaciones, grupos y ciudadanos de Zaragoza. Estos centros son, en definitiva, los nudos de cohesión que soportan una red ciudadana que vertebra y estructura la ciudad. Están ubicados en los distintos distritos de la ciudad y su objetivo es prestar servicios públicos de calidad. El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Rotonda: Capacidad 210 personas sentadas y 500 de pie. </li>    <li>Cine: Capacidad 120 personas. </li>    <li>Otros espacios: 6 Aulas, 3 Talleres y 1 Aula Dinámica.</li></ul><p>Los centros educativos tienen la posibilidad de realizar proyecciones de diapositivas, transparencias y visionado de vídeo.<br />Para la utilización de la Sala polivalente y el Seminario se deberán pagar los gastos que se deriven de la utilización de los recursos técnicos y/o las tasas municipales, si procede.</p>""" ;
+	<http://schema.org/name> "Centro Cívico Delicias" ;
+	<http://schema.org/telephone> "{tel=976 726 169, fax=976 726 170}" ;
+	<http://schema.org/address> "Avda. Navarra, 54" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 10,30 a 21,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4006> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos deZaragoza. Estos centros son, en definitiva, los nudos de cohesión quesoportan una red ciudadana que vertebra y estructura la ciudad. Estánubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad.</p><p>El centro dispone de los siguientes espacios:</p><ul>    <li>Centro de Tiempo Libre</li>    <li>Tres Talleres</li>    <li>Dos aulas</li>    <li>Sala de Dinámica</li>    <li>Salón de Actos</li></ul>""" ;
+	<http://schema.org/name> "Centro Cívico Distrito 14 (La Jota)" ;
+	<http://schema.org/telephone> "{tel=976 726126, fax=976 726127}" ;
+	<http://schema.org/address> "Pza. La Albada, 3" ;
+	<http://schema.org/openingHours> """Lunes a viernes: de 8,30 a 21,30h.Sábado y domingo de 9,30 a 20,30h.Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4925> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, de compromiso y de relaciones, y espacio para el diálogo constante y permanente entre colectivos, asociaciones, grupos y ciudadanos de Zaragoza.</p><p>Estos centros son, en definitiva, los nudos de cohesión que soportan una red ciudadana que vertebra y estructura la ciudad. Están ubicados en los distintos distritos de la ciudad y su objetivo es prestar servicios públicos de calidad.</p><p><strong>El Centro dispone de las siguientes instalaciones:</strong></p><ul>    <li>9 aulas</li>    <li>2 talleres</li>    <li>2 salas dinámicas</li>    <li>2 zonas de exposiciones</li></ul>""" ;
+	<http://schema.org/name> "Centro Cívico Esquinas del Psiquiátrico" ;
+	<http://schema.org/telephone> "{tel=976 723 977 , fax=976 723986}" ;
+	<http://schema.org/address> "Vía Universitas 30-32" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2743> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos deZaragoza. Estos centros son, en definitiva, los nudos de cohesión quesoportan una red ciudadana que vertebra y estructura la ciudad. Estánubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad.El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Salón de actos (capacidad para 192 personas sentadas y 400 de pié)</li>    <li>Talleres y Aulas</li>    <li>Sala de Dinámica</li>    <li>Sala de  Informática</li></ul>""" ;
+	<http://schema.org/name> "Centro Cívico Estación del Norte" ;
+	<http://schema.org/telephone> "{tel=976 726114, fax=976 726119}" ;
+	<http://schema.org/address> "C/ Perdiguera, 7" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3031> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, de compromiso y de relaciones, y espacio para el diálogo constante y permanente entre colectivos, asociaciones, grupos y ciudadanos de Zaragoza.</p><p>Estos centros son, en definitiva, los nudos de cohesión que soportan una red ciudadana que vertebra y estructura la ciudad. Están ubicados en los distintos distritos de la ciudad y su objetivo es prestar servicios públicos de calidad.</p><p><strong>ESPACIOS DISPONIBLES: </strong></p><ul>    <li><strong>Aula 1: </strong>Capacidad para 12 personas</li>    <li><strong>Aulas 2 y 3: </strong>Divisibles. Capacidad para 16 y 12 personas respectivamente.</li>    <li><strong>Talleres 1 y 2: </strong>Divisibles. Capacidad para 20 personas cada uno.</li>    <li><strong>Seminario</strong>: Equipado con proyector, pantalla, microfonía y sonido.  Capacidad para 50 personas sentadas. 60 personas de pie.</li>    <li><strong>Salón de Actos: </strong>Equipado con sonido e iluminación escénica, pantalla y  proyector. Sillas móviles. Capacidad para 250 personas sentadas y 500 de  pie.</li>    <li><strong>Zona de exposiciones: </strong>Equipada con rieles y focos.</li></ul><p><strong>Autobuses</strong>: Bus 604 Zaragoza-Garrapinillos (cada media hora). Terminal Paseo Mº Agustín 20</p>""" ;
+	<http://schema.org/name> "Centro Cívico Garrapinillos Antonio Beltrán Martínez" ;
+	<http://schema.org/telephone> "{tel=976 726138, fax=976 722642}" ;
+	<http://schema.org/address> "Plaza José Ramón Arana, 1" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2112> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red deencuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos deZaragoza. Estos centros son, en definitiva, los nudos de cohesión quesoportan una red ciudadana que vertebra y estructura la ciudad. Estánubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad. <br /><br />El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Salón de actos (100 butacas fijas)</li>    <li>Dos aulas</li>    <li>Tres talleres</li>    <li>Sala multiusos</li></ul><p>Los centros educativos tienen la posibilidad de realizar proyecciones de diapositivas, transparencias y visionado de vídeo.<br />Para la utilización de la Sala polivalente y el Seminario se deberán pagar los gastos que se deriven de la utilización de los recursos técnicos y/o las tasas municipales, si procede.</p>""" ;
+	<http://schema.org/name> "Centro Cívico Isaac Valero (Casablanca)" ;
+	<http://schema.org/telephone> "{tel=976 726006, fax=976 726008}" ;
+	<http://schema.org/address> "C/ Viñedo Viejo, 1 (Centro Cívico)" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/33> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red deencuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos de Zaragoza. Estos centros son, en definitiva, los nudos de cohesión quesoportan una red ciudadana que vertebra y estructura la ciudad. Estánubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad.El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Sala Polivalente: capacidad para 250 personas sentadas ó 500 de pie. Escenario de 10 x 6 m. Instalación de sonido (2.000 wats, 32 canales) e iluminación espectacular (36.000 wats).</li>    <li>Seminario (70 personas).</li>    <li>Sala de reuniones (20 personas).</li>    <li>Dos aulas (20 personas).</li>    <li>Dos talleres (20 personas).</li></ul><p>Los centros educativos tienen la posibilidad de realizar proyecciones de diapositivas, transparencias y visionado de vídeo.<br />Para la utilización de la Sala polivalente y el Seminario se deberán pagar los gastos que se deriven de la utilización de los recursos técnicos y/o las tasas municipales, si procede.</p>""" ;
+	<http://schema.org/name> "Centro Cívico La Almozara" ;
+	<http://schema.org/telephone> "{tel=976 726098, fax=976 726103}" ;
+	<http://schema.org/address> "Avda. Puerta Sancho, 30" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/810> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, de compromiso y de relaciones, y espacio para el diálogo constante y permanente entre colectivos, asociaciones, grupos y ciudadanos de Zaragoza. Estos centros son, en definitiva, los nudos de cohesión que soportan una red ciudadana que vertebra y estructura la ciudad. Están ubicados en los distintos distritos de la ciudad y su objetivo es prestar servicios públicos de calidad.El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Salón de Actos (100 butacas)</li>    <li>3 aulas talleres</li>    <li>Sala multiusos</li>    <li>Espacio expositivo</li>    <li>Cafetería</li></ul>""" ;
+	<http://schema.org/name> "Centro Cívico La Cartuja Baja" ;
+	<http://schema.org/telephone> "{tel=976 72 61 77, fax=976 72 61 79}" ;
+	<http://schema.org/address> "C/ Autonomía de Aragón, 21" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3946> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/name> "Centro Cívico Manuel Vázquez Guardiola (Oliver)" ;
+	<http://schema.org/telephone> "{tel=976 726124, fax=976 726095}" ;
+	<http://schema.org/address> "C/ Antonio de Leyva, 87" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2944> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> "<p>La red municipal de Centros C&iacute;vicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de informaci&oacute;n, de compromiso y de relaciones, y espacio para el di&aacute;logo constante y permanente entre colectivos, asociaciones, grupos y ciudadanos de Zaragoza. Estos centros son, en definitiva, los nudos de cohesi&oacute;n que soportan una red ciudadana que vertebra y estructura la ciudad. Est&aacute;n ubicados en los distintos distritos de la ciudad y su objetivo es prestar servicios p&uacute;blicos de calidad.</p>" ;
+	<http://schema.org/name> "Centro Cívico Miralbueno" ;
+	<http://schema.org/telephone> "{tel=976 726091, fax=976 726092}" ;
+	<http://schema.org/address> "Pza. La Rosa, 1" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2960> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, de compromiso y de relaciones, y espacio para el diálogo constante y permanente entre colectivos, asociaciones, grupos y ciudadanos de Zaragoza. Estos centros son, en definitiva, los nudos de cohesión que soportan una red ciudadana que vertebra y estructura la ciudad. Están ubicados en los distintos distritos de la ciudad y su objetivo es prestar servicios públicos de calidad.</p><ul>    <li>Supresión de barreras arquitectónicas: (actuación que se prevee realizar en los años 2006-2007)</li></ul>""" ;
+	<http://schema.org/name> "Centro Cívico Peñaflor" ;
+	<http://schema.org/telephone> "{tel=976 726160, fax=976 726162}" ;
+	<http://schema.org/address> "C/ La Tajada, 11" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/785> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red deencuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos deZaragoza. Estos centros son, en definitiva, los nudos de cohesión quesoportan una red ciudadana que vertebra y estructura la ciudad. Estánubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad.El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Salón de actos (190 butacas fijas)</li></ul><p>Para la utilización del salón de actos se deberán pagar las tarifas correspondientes aprobadas en las Ordenanzas Municipales en los casos que se especifican en las mismas.</p>""" ;
+	<http://schema.org/name> "Centro Cívico Rio Ebro. Edificio Fernández Ordoñez" ;
+	<http://schema.org/telephone> "{tel=976 726084, fax=976 726086}" ;
+	<http://schema.org/address> "C/ María Zambrano, 56" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/534> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos deZaragoza. Estos centros son, en definitiva, los nudos de cohesión que soportan una red ciudadana que vertebra y estructura la ciudad.</p><p>Están ubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad.</p>""" ;
+	<http://schema.org/name> "Centro Cívico Rio Ebro. Edificio José Martí" ;
+	<http://schema.org/telephone> "{tel=976 726049, fax=976 726053}" ;
+	<http://schema.org/address> "C/ Alberto Duce, 2" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/754> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red deencuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos deZaragoza. Estos centros son, en definitiva, los nudos de cohesión quesoportan una red ciudadana que vertebra y estructura la ciudad. Estánubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad. <br /><br />El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Salón de Actos (175 butacas fijas)</li>    <li>Sala de conferencias (capacidad para 34 personas)</li>    <li>Aulas (capacidad para 20 personas)</li></ul><p><br />Se da prioridad a los centros del entorno. <br />Para la utilización de salas y salón de actos se deberán pagar las tarifas correspondientes aprobadas en las Ordenanzas Municipales en los casos que se especifican en las mismas.</p>""" ;
+	<http://schema.org/name> "Centro Cívico Salvador Allende (Las Fuentes)" ;
+	<http://schema.org/telephone> "{tel=976 724060, fax=976 724009}" ;
+	<http://schema.org/address> "C/ Florentino Ballesteros, 8" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3134> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, de compromiso y de relaciones, y espacio para el diálogo constante y permanente entre colectivos, asociaciones, grupos y ciudadanos de Zaragoza. Estos centros son, en definitiva, los nudos de cohesión que soportan una red ciudadana que vertebra y estructura la ciudad. Están ubicados en los distintos distritos de la ciudad y su objetivo es prestar servicios públicos de calidad.</p><p>Dispone de las siguientes Instalaciones:<br /> </p><ul>    <li>1 Aula</li>    <li>2 Talleres</li>    <li>Sala Seminario</li>    <li>Salón de Actos</li>    <li>Zona de Exposiciones</li></ul>""" ;
+	<http://schema.org/name> "Centro Cívico Santa Isabel" ;
+	<http://schema.org/telephone> "{tel=976 726020, fax=976 726023}" ;
+	<http://schema.org/address> "del Baile, 6" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/846> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red deencuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos deZaragoza. Estos centros son, en definitiva, los nudos de cohesión quesoportan una red ciudadana que vertebra y estructura la ciudad. Estánubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad.</p><p>El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Talleres</li>    <li>Aulas</li>    <li>Sala de reuniones</li>    <li>Aula de fotografía</li>    <li>Sala de dinámica</li>    <li>Salón de actos (250 butacas fijas).</li>    <li>Sala de exposiciones.</li>    <li>Sala de conferencias.</li></ul><p>El profesorado y las asociaciones de padres/madres y de alumnos/as, tienen la posibilidad de solicitar la utilización de las instalaciones y servicios.</p><p>Para la utilización de salas y salón de actos se deberán pagar las tarifas correspondientes aprobadas en las Ordenanzas Municipales en los casos que se especifican en las mismas.</p>""" ;
+	<http://schema.org/name> "Centro Cívico Teodoro Sánchez Púnter" ;
+	<http://schema.org/telephone> "{tel=976 726060, fax=976 726061}" ;
+	<http://schema.org/address> "Pza. Mayor, 2" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/710> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red deencuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos deZaragoza. Estos centros son, en definitiva, los nudos de cohesión quesoportan una red ciudadana que vertebra y estructura la ciudad. Estánubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad.El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Sala Frida Kahlo (capacidad para 90 alumnos sentados y 20 de pie)</li>    <li>Anfiteatro (capacidad para 300 personas al aire libre)</li>    <li>Aulas (capacidad entre 10 y 50  alumnos aproximadamente)</li>    <li>Talleres: óleo, indumentaria aragonesa, cerámica, modelado, bolillos, manualidades, esmaltes, fotografía, corte y confección, etc.</li></ul><p>Los/as profesores/as de centros docentes tienen la posibilidad de solicitar la utilización de las instalaciones, teniendo preferencia los centros de la Margen Izquierda. Para la utilización de salas se deberán pagar pagar las tarifas correspondientes aprobadas en las Ordenanzas Municipales en los casos que se especifican en las mismas.</p>""" ;
+	<http://schema.org/name> "Centro Cívico Tio Jorge" ;
+	<http://schema.org/telephone> "{tel=976 724007, fax=976 724052}" ;
+	<http://schema.org/address> "Pza. San Gregorio, s/n" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/784> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red deencuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos deZaragoza. Estos centros son, en definitiva, los nudos de cohesión quesoportan una red ciudadana que vertebra y estructura la ciudad. Estánubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad.El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Talleres</li>    <li>Aulas</li>    <li>Sala Multiusos</li>    <li>Sala Venecia (240 butacas fijas)</li>    <li>Anfiteatro</li></ul><p>Para la utilización de salas se deberán pagar las tarifas correspondientes aprobadas en las Ordenanzas Municipales en los casos que se especifican en las mismas.</p><p class=\"destacado\">Mapa Guía de Árboles</p><p><a href=\"/contenidos/medioambiente/infografias/torrero.jpg\">Acceso Infografía</a></p>""" ;
+	<http://schema.org/name> "Centro Cívico Torrero" ;
+	<http://schema.org/telephone> "{tel=976 726033, fax=976 726039}" ;
+	<http://schema.org/address> "C/ Monzón, 3" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2119> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red de encuentros ciudadanos, de cruce e intercambio de información, de compromiso y de relaciones, y espacio para el diálogo constante y permanente entre colectivos, asociaciones, grupos y ciudadanos de Zaragoza. Estos centros son, en definitiva, los nudos de cohesión que soportan una red ciudadana que vertebra y estructura la ciudad. Están ubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad. El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Salón de actos polivalente (capacidad para 200 personas sentadas ó 400 de pié)</li>    <li>Dos aulas</li>    <li>Dos talleres</li>    <li>Una sala dinámica</li></ul><p>Para la utilización de salas se deberán pagar las tarifas correspondientes aprobadas en las Ordenanzas Municipales en los casos que se especifican en las mismas.</p><ul>    <li>Supresión de barreras arquitectónicas: (actuación que se prevee realizar en los años 2006-2007)</li></ul>""" ;
+	<http://schema.org/name> "Centro Cívico Universidad" ;
+	<http://schema.org/telephone> "{tel=976 721750, fax=976 721754}" ;
+	<http://schema.org/address> "C/ Violante de Hungría, 4" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/535> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>La red municipal de Centros Cívicos es, fundamentalmente, una red deencuentros ciudadanos, de cruce e intercambio de información, decompromiso y de relaciones, y espacio para el diálogo constante ypermanente entre colectivos, asociaciones, grupos y ciudadanos deZaragoza. Estos centros son, en definitiva, los nudos de cohesión quesoportan una red ciudadana que vertebra y estructura la ciudad. Estánubicados en los distintos distritos de la ciudad y su objetivo esprestar servicios públicos de calidad.El Centro dispone de las siguientes instalaciones:</p><ul>    <li>Salón de actos (141 butacas fijas)</li>    <li>Anfiteatro.</li>    <li>4 Salas</li>    <li>Patio exterior cubierto, con gradas</li></ul>""" ;
+	<http://schema.org/name> "Centro Cívico Valdefierro" ;
+	<http://schema.org/telephone> "{tel=976 726028, fax=976 726030}" ;
+	<http://schema.org/address> "Pza. de la Inmaculada, 3" ;
+	<http://schema.org/openingHours> """<ul>    <li>Lunes a viernes: de 8,30 a 21,30h.</li>    <li>Sábado y domingo de 9,30 a 20,30h.</li>    <li>Cerrado: 1 enero, Jueves y Viernes Santo, 15 agosto, 12 octubre, 25 diciembre. Las tardes de 24 y 31 diciembre. Fines de semana de julio y agosto.</li></ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12201> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.joaquinroncal.org/" ;
+	<http://schema.org/name> "Centro Joaquín Roncal" ;
+	<http://schema.org/telephone> "{tel=976 290 301, fax= 976 290 302}" ;
+	<http://schema.org/address> "C/ San Braulio, 5-7-9" ;
+	<http://schema.org/openingHours> "<p>lunes a sábado, de 9 a 14 h y de 17 a 22 h</p>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2822> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> "<p>Entidad gestora: Real Zaragoza S.A.D.</p>" ;
+	<http://schema.org/url> "http://www.realzaragoza.com/" ;
+	<http://schema.org/name> "Estadio de Fútbol La Romareda" ;
+	<http://schema.org/telephone> "{tel=976 567777}" ;
+	<http://schema.org/address> "C/ Eduardo Ibarra, 6" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12170> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.feriazaragoza.com" ;
+	<http://schema.org/name> "Feria de Zaragoza" ;
+	<http://schema.org/telephone> "{tel=976764700 , fax=976335514 }" ;
+	<http://schema.org/address> "Ctra. Madrid, Km.311" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/18301> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Monumento?id=15" ;
+	<http://schema.org/name> "Iglesia de San Gil" ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/address> "C/ Don Jaime I, 15" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/18220> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Monumento?id=8" ;
+	<http://schema.org/name> "Iglesia de San Pablo" ;
+	<http://schema.org/telephone> "{tel= 976 28 36 46, fax= }" ;
+	<http://schema.org/address> "C/ San Pablo, 44" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/18320> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Monumento?id=34" ;
+	<http://schema.org/name> "Iglesia de Santa Isabel de Portugal (San Cayetano)" ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/address> "Pza. del Justicia, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13282> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>Fiestas todos los viernes y los domingos ritmos brasileños.</p><p>Aforo: 125 personas</p>""" ;
+	<http://schema.org/url> "http://www.myspace.com/lalatadebombillas" ;
+	<http://schema.org/name> "Lata de Bombillas" ;
+	<http://schema.org/telephone> "{tel=656230597, fax= }" ;
+	<http://schema.org/address> "C/ Espoz y Mina, 19" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2174> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>El Museo muestra la colección permanente de las obras del escultor aragonés Pablo Gargallo (1881-1934). Están ampliamente representadas todas las etapas creativas de Gargallo, con piezas fechadas desde 1904 hasta 1934, que reflejan la personalidad de una de las más destacadas individualidad del arte moderno y un creador decisivo en la evolución de la escultura del siglo XX.</p><p>El Museo, además de la colección de esculturas, expone una importante muestra de dibujos de Pablo Gargallo y doce conjuntos de plantillas de cartón, de las que el artista se valía para trazar y recortar las diferentes piezas que componen sus obras en chapa metálica.</p><p>También llamado Casa de Francisco Saénz de Cortés. Fue declarado Monumento Nacional en 1943.</p><p>El Museo Pablo Gargallo está ubicado en el Palacio de los Condes de Argillo, declarado de Interés Monumental (BIC). </p><p><a href=\"/ciudad/cultura/cont/detalle_Monumento?id=30\">Ver Monumento</a></p><p>El Museo Pablo Gargallo se distribuye en:</p><ul>    <li><strong>Planta -2: </strong> Sala de exposiciones temporales</li>    <li><strong>Planta -1: </strong> Salas de exposiciones temporales</li>    <li><strong>Planta 0: </strong>Colección Permanente<br />    Formación, encargos privados y monumentos públicos</li>    <li><strong>Planta 1: </strong>Sala de audiovisuales <br />    Proyección Un mechón de rebeldía, audiovisual biográfico de Pablo Gargallo</li>    <li><strong>Planta 2: </strong>Proceso de fundición de una escultura</li>    <li><strong>Planta 3: </strong>Colección Permanente<br />    Escultura: 1904-1934</li>    <li><strong>Salón de actos</strong>: Audiovisual sobre la Historia del edificio<br />    Sala de actividades didácticas</li>    <li><strong>Planta 4: </strong>Fondo de documentación: sala de consulta</li>    <li><strong>Planta 5: </strong>Colección Permanente<br />    Escultura: etapas creativas</li>    <li><strong>Planta 6: </strong>Fondo de documentación: depósito</li>    <li><strong>Planta 7: </strong>Colección permanente<br />    Dibujos, cartones y grabados<a href=\"/ciudad/cultura/detalle_Monumento?id=30\"><br />    </a></li></ul><p><strong>Precio:</strong>  <a href=\"http://www.zaragoza.es/ciudad/museos/es/gargallo/tarifas.htm\"> Ver tarifas </a></p><dl class=\"columnas2-izda\"><dt>Titularidad:</dt> <dd>Pública (Ayto. Zaragoza)</dd> <dt>Gestión:</dt> <dd>Pública (Ayto. Zaragoza)</dd><dt>Año última reforma:</dt>  <dd>2009</dd> <dt>Edificio:</dt> <dd>Adaptado</dd></dl><p> </p><div class=\"separador\"> </div>""" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/museos/es/gargallo" ;
+	<http://schema.org/name> "Museo Pablo Gargallo" ;
+	<http://schema.org/telephone> "{tel=976 724922}" ;
+	<http://schema.org/address> "Pza. de San Felipe, 3" ;
+	<http://schema.org/openingHours> """<ul><li>  Martes a sábado, de 10 a 14 h y de 17 a 21 h</li><li>Domingo y festivos, de 10 a 14,30 h</li><li>Lunes, cerrado</li> </ul>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13241> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>Teléfono Contacto  +34 976 97 64 41<br />Atención Comercial +34 976 97 63 86<br />+34 976 97 64 42</p><p>Otra forma de contacto a través del formulario web que se adjunta http://www.pcexpoaragon.com/contacto.aspx</p><p>Estilo: Contemporaneo</p><p>Obra de los arquitectos Nieto y Sobejana, el edificio dibuja en el Recinto Expo 2008 un perfil quebrado y variable -ascendente y descendente- dialogando con los diferentes espacios que alberga en su interior y manifestando expresivamente la presencia de la luz natural y el encuentro del edificio con el terreno. <br /><br />De estructura horizontal, el Palacio de Congresos se cubre con una cubierta sinuosa con lucernarios que permiten el paso de los rayos solares para iluminar vestíbulos y salas comunes. Asimismo, la estancias reciben luz natural del exterior por las paredes traslúcidas de las fachadas, que alternan frentes acristalados y celosías metálicas. La cubierta de GRC blanco favorece el aislamiento térmico del edifico. El brillo y claridad que tendrá el edificio durante el día, se transformará durante la noche en un paisaje de luz sólida que emerge del terreno y proyecta la luz hacia fuera.<br /><br />La superfice total construida del edificio es de 22.285 m2, de los cuales 17.700 son útiles. El espacio comprende seis plantas, una de ellas subterránea que alberga las áreas de servicio, instalaciones, camerinos, almacenes y cocinas que posibilitarán su funcionamiento sin interferir en el resto del espacio público del edificio.</p><p style=\"margin-left: 1.27cm; margin-bottom: 0cm\"> </p>""" ;
+	<http://schema.org/url> "http://www.pcexpoaragon.com/" ;
+	<http://schema.org/name> "Palacio de Congresos de Zaragoza" ;
+	<http://schema.org/telephone> "{tel=976976386 , fax= }" ;
+	<http://schema.org/address> "Pza. Lucas Miret Rodríguez, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11452> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.dpz.es" ;
+	<http://schema.org/name> "Palacio de Sástago. Diputación Provincial de Zaragoza" ;
+	<http://schema.org/telephone> "{tel=976288880 , fax=976288883 }" ;
+	<http://schema.org/address> "C/ Coso,  44" ;
+	<http://schema.org/openingHours> """<p>De martes a sábado de 11 a 14 h. y de 18 a 21 h.;<br />domingos y festivos, de 11 a 14 h.</p>""" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12238> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p> </p><p>Estilo: contemporaneo</p><p>Con 115 años de vida, el Edificio, proyectado y dirigido por el arquitecto Ricardo Magdalena, es el único declarado Bien de Interés Cultural de todas las construcciones universitarias y se ha convertido en la imagen institucional de la Universidad de Zaragoza. El Paraninfo fue uno de los edificios más sobresalientes en España en su época y el que contribuyó, decisivamente, a la renovación de la arquitectura aragonesa entre finales del siglo XIX y principios del XX, se realiza en ladrillo, con aplicaciones de azulejos polícromos y relieves de estuco.</p><p>En la portada de piedra destacan cuatro estatuas sedentes que representan a médicos y científicos importantes como Miguel Servet, Andrés Piquer, Ignacio Jordán de Asso y Fausto de Elhuyar. <br />Todo el conjunto estaba rodeado por una sólida y vistosa verja de hierro, también diseñada por Magdalena, que desapareció en 1904.</p><p>Aquí estudió y, ejerció después como profesor, el Premio Nobel de Medicina Don Santiago Ramón y Cajal, recordado en el interior con una escultura de Benlliure realizada en 1923.</p><p>El salón de actos por su capacidad y presencia, fue casi desde el primer momento Paraninfo de la Universidad y en él tienen lugar las ceremonias más solemnes: las Lecciones Inaugurales de cada curso académico, las celebraciones oficiales del día de San Braulio, patrón de la Universidad zaragozana y las investiduras de Doctores Honoris Causa.<br />Es Paraninfo y Biblioteca de la Universidad.</p><p><a href=\"/ciudad/cultura/zaragozacultural/2016/detalle_Monumento?id=62\">Ver Monumento</a></p>""" ;
+	<http://schema.org/url> "http://www.unizar.es/paraninfo.html" ;
+	<http://schema.org/name> "Paraninfo de la Universidad de Zaragoza" ;
+	<http://schema.org/telephone> "{tel=976761994 , fax= }" ;
+	<http://schema.org/address> "Pza. Basilio Paraíso, 4" ;
+	<http://schema.org/openingHours> "<p>Días laborables: de 8 a 22 horas ininterrumpidamente.<br />Sábados: de 9 a 14 horas<br />Cerrado: los domingos y festivos<br />Los periodos de vacaciones escolares (Navidad, Semana Santa y julio (agosto): abierto los días laborables de 8,30 a 14 horas.</p>" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12980> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p class=\"destacado\">VISITAS GUIADAS PARA ADULTOS</p><ul>    <li>De lunes a sábado, 11, 12.30, 18 y 19.30 h.</li>    <li>Domingos y festivos, 11 y 12.30 h.</li>    <li>Consultar precios y reservas en: Teléfono  876 11 01 50</li></ul><p class=\"destacado\">VISITAS GUIADAS PARA ESCOLARES</p><ul>    <li>A concertar, previa inscripción.</li>    <li>Consultar precios y reservas en: Teléfono  876 11 01 50</li></ul>""" ;
+	<http://schema.org/url> "http://www.ibercaja.es/obrasocial/ficha_centro.php?" ;
+	<http://schema.org/name> "Sala de Exposiciones Ibercaja Patio de la Infanta" ;
+	<http://schema.org/telephone> "{tel=976 971 926, fax=976232811  }" ;
+	<http://schema.org/address> "C/ San Ignacio de Loyola, 16" ;
+	<http://schema.org/openingHours> "De lunes a viernes, de 8:30 a 14 horas y de 18 a 21 horas. Sábados de 11 a 14 h y de 18 a 21. Domingos y festivos de 11 a 14h." .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13283> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> "<p>Aforo: 255 personas</p>" ;
+	<http://schema.org/url> "http://www.arenarock.es" ;
+	<http://schema.org/name> "Sala de Música. Arena Rock" ;
+	<http://schema.org/telephone> "{fax= }" ;
+	<http://schema.org/address> "Pza. Utrillas, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13310> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> "<p>Caf&eacute; - Teatro</p>" ;
+	<http://schema.org/url> "http://www.latierra.org" ;
+	<http://schema.org/name> "Sala de Música. Cabaret Pop" ;
+	<http://schema.org/telephone> "{tel=976212218 , fax= }" ;
+	<http://schema.org/address> "Pza. Salamero, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13285> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.cafehispano.es" ;
+	<http://schema.org/name> "Sala de Música. Café Hispano" ;
+	<http://schema.org/telephone> "{tel=622196255, fax= }" ;
+	<http://schema.org/address> "Camino de Las Torres, 42" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13284> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13284" ;
+	<http://schema.org/name> "Sala de Música. De Luxe Café Cantante" ;
+	<http://schema.org/telephone> "{tel=+34 976 295877 , fax= }" ;
+	<http://schema.org/address> "Pza. Nuestra Señora del Pilar, 12" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13286> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> "<p>Aforo: 500 personas</p>" ;
+	<http://schema.org/url> "http://www.myspace.com/saladevizio" ;
+	<http://schema.org/name> "Sala de Música. Devizio" ;
+	<http://schema.org/telephone> "{tel=629792975, fax= }" ;
+	<http://schema.org/address> "C/ Doctor Lozano Monzón, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13312> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> "<p>Bar Rockero.</p>" ;
+	<http://schema.org/url> "http://www.myspace.com/elparamo" ;
+	<http://schema.org/name> "Sala de Música. El Páramo" ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/address> "C/ Bolonia, 28" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13287> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13287" ;
+	<http://schema.org/name> "Sala de Música. El Sol" ;
+	<http://schema.org/telephone> "{tel=976088684, fax= }" ;
+	<http://schema.org/address> "C/ La Paz, 23" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13300> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> "<p>Aforo: 100 personas</p>" ;
+	<http://schema.org/url> "http://www.myspace.com/pubelzorro" ;
+	<http://schema.org/name> "Sala de Música. El Zorro" ;
+	<http://schema.org/telephone> "{tel=651661889, fax= }" ;
+	<http://schema.org/address> "Pasaje Independencia (Caracol)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13301> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> "<p>Aforo: 100 personas</p>" ;
+	<http://schema.org/url> "http://www.juansebastianbar.net" ;
+	<http://schema.org/name> "Sala de Música. Juan Sebastián Bar" ;
+	<http://schema.org/telephone> "{tel=976 550 675, fax= }" ;
+	<http://schema.org/address> "C/ Luis Antonio Oro Giral, 7" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13303> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>Programación musical</p><p>Aforo: 500 personas</p>""" ;
+	<http://schema.org/url> "http://www.lacasadelloco.com" ;
+	<http://schema.org/name> "Sala de Música. La Casa Del Loco" ;
+	<http://schema.org/telephone> "{fax= }" ;
+	<http://schema.org/address> "C/ Mayor, 10-12" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13304> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> "<p>Aforo: 90 personas</p>" ;
+	<http://schema.org/url> "http://www.laleyseca.com" ;
+	<http://schema.org/name> "Sala de Música. La Ley Seca" ;
+	<http://schema.org/telephone> "{tel=652635507, fax= }" ;
+	<http://schema.org/address> "C/ Sevilla, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13313> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> """<p>Café Pop/Rock</p><p> </p><p>Aforo: 200 personas</p>""" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=13313" ;
+	<http://schema.org/name> "Sala de Música. Rock and  Blues" ;
+	<http://schema.org/telephone> "{tel= , fax= }" ;
+	<http://schema.org/address> "C/ Cuatro de Agosto, 5" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13305> a <http://schema.org/MusicVenue> ;
+	<http://schema.org/description> "<p>Mon&oacute;logos, cine forum, actuaciones...</p>" ;
+	<http://schema.org/url> "http://www.salamorriset.com" ;
+	<http://schema.org/name> "Sala de Música. Sala Morrisey" ;
+	<http://schema.org/telephone> "{tel=976239688 , fax= }" ;
+	<http://schema.org/address> "Pº Gran Vía, 33" .
