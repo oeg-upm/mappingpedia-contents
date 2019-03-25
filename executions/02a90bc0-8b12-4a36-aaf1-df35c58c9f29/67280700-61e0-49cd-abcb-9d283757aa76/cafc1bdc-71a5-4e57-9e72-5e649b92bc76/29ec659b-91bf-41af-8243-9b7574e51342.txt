@@ -1,0 +1,94 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9044> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 331 500}" ;
+	<http://schema.org/name> "Centro de Rehabilitación Psicosocial Ntra. Sra. del Pilar" ;
+	<http://schema.org/identifier> "9044" ;
+	<http://schema.org/address> "C/ Duquesa Villahermosa, 66" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12288> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 735 767}" ;
+	<http://schema.org/name> "Clínica Actur" ;
+	<http://schema.org/identifier> "12288" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12289> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 280 568}" ;
+	<http://schema.org/name> "Clínica Almozara" ;
+	<http://schema.org/identifier> "12289" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9095> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 765 300, fax=976 752 389}" ;
+	<http://schema.org/name> "Clínica Médico Quirúrgica Montpellier" ;
+	<http://schema.org/identifier> "9095" ;
+	<http://schema.org/address> "Via Hispanidad, 37" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9047> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 275 700 , fax= 976 374 087}" ;
+	<http://schema.org/name> "Clínica Nuestra Señora del Pilar" ;
+	<http://schema.org/identifier> "9047" ;
+	<http://schema.org/address> "Pº de Ruiseñores , 20" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/11451> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 57 90 00 , fax=976 57 90 06}" ;
+	<http://schema.org/name> "Clínica Quirón (La Floresta)" ;
+	<http://schema.org/identifier> "11451" ;
+	<http://schema.org/address> "Avda. Alcalde Gómez Laguna," .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9096> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel= 976 720 000 , fax= 976 289 149}" ;
+	<http://schema.org/name> "Grupo Hospitalario Quirón" ;
+	<http://schema.org/identifier> "9096" ;
+	<http://schema.org/address> "P° Mariano Renovales, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9038> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 76 57 00, fax=976 565 995}" ;
+	<http://schema.org/name> "Hospital Clínico Universitario Lozano Blesa" ;
+	<http://schema.org/identifier> "9038" ;
+	<http://schema.org/address> "Avda. San Juan Bosco" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9097> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel= 976 564 142 , fax= 976 567 710}" ;
+	<http://schema.org/name> "Hospital General de la Defensa de Zaragoza" ;
+	<http://schema.org/identifier> "9097" ;
+	<http://schema.org/address> "Via Ibérica, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9045> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 440 022}" ;
+	<http://schema.org/name> "Hospital Provincial Nuestra Sra de Gracia" ;
+	<http://schema.org/identifier> "9045" ;
+	<http://schema.org/address> "Ramón y Cajal , 68" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9043> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 466 910, fax=976 466917}" ;
+	<http://schema.org/name> "Hospital Royo Villanova" ;
+	<http://schema.org/identifier> "9043" ;
+	<http://schema.org/address> "Avda. San Gregorio, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9046> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 271 660, fax=976 252 017}" ;
+	<http://schema.org/name> "Hospital San Juan de Dios" ;
+	<http://schema.org/identifier> "9046" ;
+	<http://schema.org/address> "Pº de Colón , 14" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9040> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 765 500, fax=976 566 234}" ;
+	<http://schema.org/name> "Hospital Universitario Miguel Servet" ;
+	<http://schema.org/identifier> "9040" ;
+	<http://schema.org/address> "Avda. Isabel La Católica, 3" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9094> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=876 241 818 , fax=876 241 819}" ;
+	<http://schema.org/name> "Hospital Viamed Montecanal en Zaragoza" ;
+	<http://schema.org/identifier> "9094" ;
+	<http://schema.org/address> "C/ Franz Shubert, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9093> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=976 748 000}" ;
+	<http://schema.org/name> "MAZ - Mutua de Accidentes de Zaragoza" ;
+	<http://schema.org/identifier> "9093" ;
+	<http://schema.org/address> "Avda. de la Academia General Militar, 74" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/9127> a <http://schema.org/Hospital> ;
+	<http://schema.org/telephone> "{tel=902 555 321}" ;
+	<http://schema.org/name> "Pabellones V y VI Nuestra Señora del Pilar" ;
+	<http://schema.org/identifier> "9127" ;
+	<http://schema.org/address> "C/ Monasterio Nuestra Señora de los Angeles, 20" .
