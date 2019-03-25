@@ -1,0 +1,760 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4530> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Alarife Marien Demarguan" ;
+	<http://schema.org/identifier> "4530" ;
+	<http://schema.org/address> "C/ Alarife Marien Demarguan" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20617> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Alcalde Caballero" ;
+	<http://schema.org/identifier> "20617" ;
+	<http://schema.org/address> "Avda Salvador Allende, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4527> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Almenara S.Antonio Padua" ;
+	<http://schema.org/identifier> "4527" ;
+	<http://schema.org/address> "C/ San Antonio Padua-Urb Pinarcanal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20601> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Arcadas" ;
+	<http://schema.org/identifier> "20601" ;
+	<http://schema.org/address> "C/ Arcadas nº 12" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20596> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Autonomía de Aragón" ;
+	<http://schema.org/identifier> "20596" ;
+	<http://schema.org/address> "Autonomía de Aragón s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4606> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Avda.Santa Isabel" ;
+	<http://schema.org/identifier> "4606" ;
+	<http://schema.org/address> "Avda. Santa Isabel, 78" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20623> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Avicebron" ;
+	<http://schema.org/identifier> "20623" ;
+	<http://schema.org/address> "Andador Fco. Peirona, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4666> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Balsa del Ojo del Cura" ;
+	<http://schema.org/identifier> "4666" ;
+	<http://schema.org/address> "Balsa del Ojo del Cura" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4194> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Boggiero" ;
+	<http://schema.org/identifier> "4194" ;
+	<http://schema.org/address> "C/ Basilio Boggiero, s/n (Pza. Diez Gil)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20609> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Calle  África" ;
+	<http://schema.org/identifier> "20609" ;
+	<http://schema.org/address> "C/ África, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4706> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle 14 de Septiembre" ;
+	<http://schema.org/identifier> "4706" ;
+	<http://schema.org/address> "C/ 14 de Septiembre, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4685> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Aragon" ;
+	<http://schema.org/identifier> "4685" ;
+	<http://schema.org/address> "C/ Aragon" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4353> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Arcipreste de Hita" ;
+	<http://schema.org/identifier> "4353" ;
+	<http://schema.org/address> "C/ Arcipreste de Hita" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4766> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Cristo Rey" ;
+	<http://schema.org/identifier> "4766" ;
+	<http://schema.org/address> "C/ Cristo Rey, 31 y 39" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4588> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle El Coloso" ;
+	<http://schema.org/identifier> "4588" ;
+	<http://schema.org/address> "C/ El Coloso, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4366> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Florentino Ballesteros" ;
+	<http://schema.org/identifier> "4366" ;
+	<http://schema.org/address> "C/ Florentino Ballesteros, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20608> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Calle Juventud-Sta. Isabel" ;
+	<http://schema.org/identifier> "20608" ;
+	<http://schema.org/address> "C/ De la Juventud, 40" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4567> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Luciano Gracia" ;
+	<http://schema.org/identifier> "4567" ;
+	<http://schema.org/address> "C/ Luciano Gracia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4556> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Margarita Xirgú" ;
+	<http://schema.org/identifier> "4556" ;
+	<http://schema.org/address> "C/ Margarita Xirgú" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4514> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Monzón" ;
+	<http://schema.org/identifier> "4514" ;
+	<http://schema.org/address> "C/ Monzón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4686> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Ntra.Sra Rosario" ;
+	<http://schema.org/identifier> "4686" ;
+	<http://schema.org/address> "C/ Nuestra Señora del Rosario" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4517> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Nuestra Señora de la Oliva" ;
+	<http://schema.org/identifier> "4517" ;
+	<http://schema.org/address> "C/ Nuestra Señora de la Oliva" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4745> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Padre Claret Movera" ;
+	<http://schema.org/identifier> "4745" ;
+	<http://schema.org/address> "C/ Padre Claret" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20602> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Calle Palafox" ;
+	<http://schema.org/identifier> "20602" ;
+	<http://schema.org/address> "C/ Palafox, 25" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20616> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Calle Privilegio de la Unión" ;
+	<http://schema.org/identifier> "20616" ;
+	<http://schema.org/address> "C/ Privilegio de la Unión, 34" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4552> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Salvador Allende" ;
+	<http://schema.org/identifier> "4552" ;
+	<http://schema.org/address> "Avda. Salvador Allende, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20618> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Calle Sauce" ;
+	<http://schema.org/identifier> "20618" ;
+	<http://schema.org/address> "C/ Sauce, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4352> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental calle Sicilia" ;
+	<http://schema.org/identifier> "4352" ;
+	<http://schema.org/address> "C/ Sicilia" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20597> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Camino de las Torres" ;
+	<http://schema.org/identifier> "20597" ;
+	<http://schema.org/address> "Camino de las Torres s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4649> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Camino del Pilon" ;
+	<http://schema.org/identifier> "4649" ;
+	<http://schema.org/address> "Camino del Pilon" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4651> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Camino del Pilon (C/Ibon Trigonero)" ;
+	<http://schema.org/identifier> "4651" ;
+	<http://schema.org/address> "Camino del Pilon" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4195> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Casta Alvarez" ;
+	<http://schema.org/identifier> "4195" ;
+	<http://schema.org/address> "C/ Casta Alavarez, 6" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4768> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental CDM San Juan" ;
+	<http://schema.org/identifier> "4768" ;
+	<http://schema.org/address> "C/ Antonio Negre, 35" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2694> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental de Baloncesto" ;
+	<http://schema.org/identifier> "2694" ;
+	<http://schema.org/address> "C/ María de Aragón, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/3037> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental de Baloncesto García Márquez" ;
+	<http://schema.org/identifier> "3037" ;
+	<http://schema.org/address> "C/ Múgica Láinez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2751> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental de Baloncesto y Balonmano / Fútbol Sala" ;
+	<http://schema.org/identifier> "2751" ;
+	<http://schema.org/address> "C/ Honorio García Condoy (esquina con Tierno Galván)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/2693> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental de Fútbol Sala y Vestuarios" ;
+	<http://schema.org/identifier> "2693" ;
+	<http://schema.org/address> "C/ Monasterio de Obarra, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4726> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental detrás CDM Montañana" ;
+	<http://schema.org/identifier> "4726" ;
+	<http://schema.org/address> "C/ Mayor, 115" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4765> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Detrás del C.Cívico Peñaflor" ;
+	<http://schema.org/identifier> "4765" ;
+	<http://schema.org/address> "Detrás del C.Cívico Peñaflor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4192> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Echegaray y Caballero" ;
+	<http://schema.org/identifier> "4192" ;
+	<http://schema.org/address> "Pº Echegaray y Caballero (frente C/Celma)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4529> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Esclusas de Valdegurriana" ;
+	<http://schema.org/identifier> "4529" ;
+	<http://schema.org/address> "Camino Canal Imperial km 89" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20613> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Expo Pabellón España" ;
+	<http://schema.org/identifier> "20613" ;
+	<http://schema.org/address> "Avda de Ranillas, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4508> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Federico Ozanam" ;
+	<http://schema.org/identifier> "4508" ;
+	<http://schema.org/address> "C/ Federico Ozanam" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20606> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Gabriela Mistral" ;
+	<http://schema.org/identifier> "20606" ;
+	<http://schema.org/address> "C/ Grupo de Viviendas Gabriela Mistral" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4605> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Glorieta J.R. Arana" ;
+	<http://schema.org/identifier> "4605" ;
+	<http://schema.org/address> "C/ 16 de Julio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4557> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Gomez de Avellaneda" ;
+	<http://schema.org/identifier> "4557" ;
+	<http://schema.org/address> "C/ Gertrudis Gomez de Avellaneda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4507> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Grupo Gral Urrutia" ;
+	<http://schema.org/identifier> "4507" ;
+	<http://schema.org/address> "C/ Antonio de Leyva" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4627> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Jardin Estepario" ;
+	<http://schema.org/identifier> "4627" ;
+	<http://schema.org/address> "Avda. del Séptimo Arte" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4445> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Jardines de Atenas" ;
+	<http://schema.org/identifier> "4445" ;
+	<http://schema.org/address> "Avda. Pablo Gargallo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4305> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Jardines de Avempace" ;
+	<http://schema.org/identifier> "4305" ;
+	<http://schema.org/address> "C/ Juan Carlos I de Borbón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4425> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Jardines de Lisboa" ;
+	<http://schema.org/identifier> "4425" ;
+	<http://schema.org/address> "Avda. Pablo Gargallo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4707> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Jardines García Laborda" ;
+	<http://schema.org/identifier> "4707" ;
+	<http://schema.org/address> "Ctra. Catorce Septiembre" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20612> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Jesús Gracia Mallén" ;
+	<http://schema.org/identifier> "20612" ;
+	<http://schema.org/address> "Avda de Ranillas, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4608> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Juan Manuel Perez" ;
+	<http://schema.org/identifier> "4608" ;
+	<http://schema.org/address> "C/ Embarcadero, 41" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4769> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Junta Vecinal El Paradero" ;
+	<http://schema.org/identifier> "4769" ;
+	<http://schema.org/address> "C/ El Paradero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4727> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Junta Vecinal Monzalbarba" ;
+	<http://schema.org/identifier> "4727" ;
+	<http://schema.org/address> "C/ Santa Ana, 34" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4591> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Kasan" ;
+	<http://schema.org/identifier> "4591" ;
+	<http://schema.org/address> "C/ Valerio Julio Ripol Urbano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4646> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Lago Rosales del Canal" ;
+	<http://schema.org/identifier> "4646" ;
+	<http://schema.org/address> "C/ Maurice Ravel, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20620> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental María de Aragón" ;
+	<http://schema.org/identifier> "20620" ;
+	<http://schema.org/address> "C/ María de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20611> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Marqués de San Felices Corredor Oliver" ;
+	<http://schema.org/identifier> "20611" ;
+	<http://schema.org/address> "C/ Marques de San Felices, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4549> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Matilde Sangüesa" ;
+	<http://schema.org/identifier> "4549" ;
+	<http://schema.org/address> "C/ Matilde Sangüesa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20619> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Monasterio de Samos" ;
+	<http://schema.org/identifier> "20619" ;
+	<http://schema.org/address> "C/ Monasterio de Samos, 18-20" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4565> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Mújica Laínez" ;
+	<http://schema.org/identifier> "4565" ;
+	<http://schema.org/address> "C/ Mújica Laínez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4687> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Ntra.Sra de Loreto" ;
+	<http://schema.org/identifier> "4687" ;
+	<http://schema.org/address> "C/ Nuestra Señora de Loreto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4509> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Oceano Atlántico" ;
+	<http://schema.org/identifier> "4509" ;
+	<http://schema.org/address> "C/ Oceano Atlántico" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20626> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Octavio Paz" ;
+	<http://schema.org/identifier> "20626" ;
+	<http://schema.org/address> "C/ Octavio Paz, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4585> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Paque Che Guevara" ;
+	<http://schema.org/identifier> "4585" ;
+	<http://schema.org/address> "Paque Che Guevara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4510> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Avda. de los Volcanes" ;
+	<http://schema.org/identifier> "4510" ;
+	<http://schema.org/address> "Avda. de los Volcanes" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4205> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Bruil" ;
+	<http://schema.org/identifier> "4205" ;
+	<http://schema.org/address> "C/ Asalto" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4650> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque calle Ibon de Anayet" ;
+	<http://schema.org/identifier> "4650" ;
+	<http://schema.org/address> "C/ Ibon de Anayet" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4525> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Calle Oviedo-Avda. América" ;
+	<http://schema.org/identifier> "4525" ;
+	<http://schema.org/address> "C/ Oviedo-Avda. América" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4589> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Caprichos de Goya" ;
+	<http://schema.org/identifier> "4589" ;
+	<http://schema.org/address> "Avda. General Militar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4245> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Castillo Palomar" ;
+	<http://schema.org/identifier> "4245" ;
+	<http://schema.org/address> "C/ Rioja" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20607> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque Ciudad de Maska" ;
+	<http://schema.org/identifier> "20607" ;
+	<http://schema.org/address> "C/ Fco. Rallo Lahoz, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28064> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque Clemente Mateo" ;
+	<http://schema.org/identifier> "28064" ;
+	<http://schema.org/address> "C/ Canarias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4667> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Clemente Mateo" ;
+	<http://schema.org/identifier> "4667" ;
+	<http://schema.org/address> "C/ Canarias" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4367> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Cº Las Torres" ;
+	<http://schema.org/identifier> "4367" ;
+	<http://schema.org/address> "Camino Las Torres" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4705> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Cº Los Muros" ;
+	<http://schema.org/identifier> "4705" ;
+	<http://schema.org/address> "Camino de los Muros" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4670> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Cº Monzalbarba" ;
+	<http://schema.org/identifier> "4670" ;
+	<http://schema.org/address> "Camino Monzalbarba" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4516> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Crónica del Alba" ;
+	<http://schema.org/identifier> "4516" ;
+	<http://schema.org/address> "Ronda Hispanidad - C/ Zafiro" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4347> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de Al Andalus" ;
+	<http://schema.org/identifier> "4347" ;
+	<http://schema.org/address> "Andador Teniente General Gutierrez Mellado" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4668> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de la Alameda" ;
+	<http://schema.org/identifier> "4668" ;
+	<http://schema.org/address> "Parque de la Alameda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4485> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de la Aljaferia" ;
+	<http://schema.org/identifier> "4485" ;
+	<http://schema.org/address> "Avda. Pablo Gargallo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20614> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque de la Palabra" ;
+	<http://schema.org/identifier> "20614" ;
+	<http://schema.org/address> "c/ Ibón s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4629> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de la Razon" ;
+	<http://schema.org/identifier> "4629" ;
+	<http://schema.org/address> "Avda Gómez Laguna" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4345> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de la Taifa de Saracosta" ;
+	<http://schema.org/identifier> "4345" ;
+	<http://schema.org/address> "Andador Teniente General Gutierrez Mellado" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4587> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de los Cineastas" ;
+	<http://schema.org/identifier> "4587" ;
+	<http://schema.org/address> "C.P.Hnos.Marx-C/M.Alvar Lopez" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4626> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de los Incredulos" ;
+	<http://schema.org/identifier> "4626" ;
+	<http://schema.org/address> "Via Iberica" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4586> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de los Poetas" ;
+	<http://schema.org/identifier> "4586" ;
+	<http://schema.org/address> "C/ Pablo Neruda" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4553> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque de Oriente" ;
+	<http://schema.org/identifier> "4553" ;
+	<http://schema.org/address> "C/ Balbino Orensanz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20615> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque del Agua" ;
+	<http://schema.org/identifier> "20615" ;
+	<http://schema.org/address> "Avda de Ranillas, 109" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4555> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque del Buen Humor" ;
+	<http://schema.org/identifier> "4555" ;
+	<http://schema.org/address> "Avda. de Ranillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4645> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque del Conocimiento" ;
+	<http://schema.org/identifier> "4645" ;
+	<http://schema.org/address> "C/ Martín Díez de Aux" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4566> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque del Respeto" ;
+	<http://schema.org/identifier> "4566" ;
+	<http://schema.org/address> "Avda. de Ranillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4265> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Delicias" ;
+	<http://schema.org/identifier> "4265" ;
+	<http://schema.org/address> "C/ Mosén Andrés Vicente" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4511> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Estrella Polar" ;
+	<http://schema.org/identifier> "4511" ;
+	<http://schema.org/address> "C/ Pegaso" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4628> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Felix de Azara" ;
+	<http://schema.org/identifier> "4628" ;
+	<http://schema.org/address> "Avda. Gomez Laguna" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20625> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque Goya" ;
+	<http://schema.org/identifier> "20625" ;
+	<http://schema.org/address> "C/ Manuel Lahoz Valle, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4325> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Grande" ;
+	<http://schema.org/identifier> "4325" ;
+	<http://schema.org/address> "Pº Isabel la Católica" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4708> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Huerto Frison" ;
+	<http://schema.org/identifier> "4708" ;
+	<http://schema.org/address> "C/ Doctor Sancho" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4725> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque junto Plaza de las Vaquillas" ;
+	<http://schema.org/identifier> "4725" ;
+	<http://schema.org/address> "Pza. de las Vaquillas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4348> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque La Granja" ;
+	<http://schema.org/identifier> "4348" ;
+	<http://schema.org/address> "Camino de Cabaldos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4349> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque la Memoria" ;
+	<http://schema.org/identifier> "4349" ;
+	<http://schema.org/address> "C/ Joaquín Sorolla" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4513> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque La Paz" ;
+	<http://schema.org/identifier> "4513" ;
+	<http://schema.org/address> "Pº Tierno Galvan" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4226> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Miraflores" ;
+	<http://schema.org/identifier> "4226" ;
+	<http://schema.org/address> "Pº de los Rosales" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4505> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Oliver" ;
+	<http://schema.org/identifier> "4505" ;
+	<http://schema.org/address> "Lagos de Millares" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4648> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Paco Lacasa" ;
+	<http://schema.org/identifier> "4648" ;
+	<http://schema.org/address> "Parque Paco Lacasa" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4354> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Pignatelli" ;
+	<http://schema.org/identifier> "4354" ;
+	<http://schema.org/address> "Pº de Cuellar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4665> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Ricardo Mur" ;
+	<http://schema.org/identifier> "4665" ;
+	<http://schema.org/address> "C/ Virgen de la Rosa (Bº Casetas)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4548> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Royo del Rabal" ;
+	<http://schema.org/identifier> "4548" ;
+	<http://schema.org/address> "C/ Royo del Rabal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4526> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque S. Viator-C/Pedrola" ;
+	<http://schema.org/identifier> "4526" ;
+	<http://schema.org/address> "C/ San Viator-C/Pedrola" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20599> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Parque San Pablo" ;
+	<http://schema.org/identifier> "20599" ;
+	<http://schema.org/address> "Pseo. Echegaray y Caballero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4285> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Sedetania" ;
+	<http://schema.org/identifier> "4285" ;
+	<http://schema.org/address> "Vía Hispanidad, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4590> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Tapices de Goya" ;
+	<http://schema.org/identifier> "4590" ;
+	<http://schema.org/address> "C/ Rafael Esteve Vilella" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4225> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Tenerias" ;
+	<http://schema.org/identifier> "4225" ;
+	<http://schema.org/address> "Pº Echegaray y Caballero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4545> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Tio Jorge" ;
+	<http://schema.org/identifier> "4545" ;
+	<http://schema.org/address> "C/ Valle de Broto - Fernando Gracia Gazulla" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4365> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Parque Torre Ramona" ;
+	<http://schema.org/identifier> "4365" ;
+	<http://schema.org/address> "C/ Tomás Higuera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4554> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Paseo de la Ribera" ;
+	<http://schema.org/identifier> "4554" ;
+	<http://schema.org/address> "C/ Cosuenda s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4515> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Paseo Tierno Galván" ;
+	<http://schema.org/identifier> "4515" ;
+	<http://schema.org/address> "Pº Tierno Galván-C/ García Condoy" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4568> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Pedro Saputo" ;
+	<http://schema.org/identifier> "4568" ;
+	<http://schema.org/address> "C/ Pedro Saputo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20610> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Pinares de Torrero- Barranco de la muerte" ;
+	<http://schema.org/identifier> "20610" ;
+	<http://schema.org/address> "C/ Fray Julián Garcés, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4528> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Pinares Valdegurriana" ;
+	<http://schema.org/identifier> "4528" ;
+	<http://schema.org/address> "C/ Valdegurriana" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4669> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza castillo" ;
+	<http://schema.org/identifier> "4669" ;
+	<http://schema.org/address> "Pza. Castillo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4512> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza de la Inmaculada" ;
+	<http://schema.org/identifier> "4512" ;
+	<http://schema.org/address> "Pza. de la Inmaculada" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4267> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Domingo Savio" ;
+	<http://schema.org/identifier> "4267" ;
+	<http://schema.org/address> "Pza. Santo Domingo Savio" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4506> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Lolita Parra" ;
+	<http://schema.org/identifier> "4506" ;
+	<http://schema.org/address> "Pza. Lolita Parra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4350> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Mayor" ;
+	<http://schema.org/identifier> "4350" ;
+	<http://schema.org/address> "Pza. Mayor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4592> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Ortilla" ;
+	<http://schema.org/identifier> "4592" ;
+	<http://schema.org/address> "Pza. Ortilla" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4647> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Peñetas" ;
+	<http://schema.org/identifier> "4647" ;
+	<http://schema.org/address> "Pza. Peñetas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4351> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Plaza Pintor Aguayo" ;
+	<http://schema.org/identifier> "4351" ;
+	<http://schema.org/address> "Pza. Pintor Aguayo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20622> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Puente de la Almozara" ;
+	<http://schema.org/identifier> "20622" ;
+	<http://schema.org/address> "Puente de la Almozara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4385> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Ribera del Ebro" ;
+	<http://schema.org/identifier> "4385" ;
+	<http://schema.org/address> "Pº Echegaray y Caballero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4550> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Ribera del Gállego" ;
+	<http://schema.org/identifier> "4550" ;
+	<http://schema.org/address> "C/ Rio Perejiles" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4767> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Riberas del Gallego San Juan Mozarrifar" ;
+	<http://schema.org/identifier> "4767" ;
+	<http://schema.org/address> "Campo de Futbol San Juan Mozarrifar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4547> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Río Perejiles" ;
+	<http://schema.org/identifier> "4547" ;
+	<http://schema.org/address> "C/ Río Perejiles" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4546> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Río Piedra" ;
+	<http://schema.org/identifier> "4546" ;
+	<http://schema.org/address> "C/ Río Piedra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4266> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Roger de Flor" ;
+	<http://schema.org/identifier> "4266" ;
+	<http://schema.org/address> "C/ Roger de Flor" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20605> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Salvador Madariaga" ;
+	<http://schema.org/identifier> "20605" ;
+	<http://schema.org/address> "C/ Salvador Madariaga, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20603> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental San Blas" ;
+	<http://schema.org/identifier> "20603" ;
+	<http://schema.org/address> "C/ San Blas 53-55" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20624> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental San José" ;
+	<http://schema.org/identifier> "20624" ;
+	<http://schema.org/address> "Vía Hispanidad, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20604> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Serrato" ;
+	<http://schema.org/identifier> "20604" ;
+	<http://schema.org/address> "C/ Sabiñanigo s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4405> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Sierra de Vicor" ;
+	<http://schema.org/identifier> "4405" ;
+	<http://schema.org/address> "C/ Sierra de Vicor, 1 y 27" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4607> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Sta Nunila" ;
+	<http://schema.org/identifier> "4607" ;
+	<http://schema.org/address> "C/ Santa Nunila" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4306> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Terrazas de CDM Delicias" ;
+	<http://schema.org/identifier> "4306" ;
+	<http://schema.org/address> "C/ Emilio Moreno Alcañiz, s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20621> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Toño Andía" ;
+	<http://schema.org/identifier> "20621" ;
+	<http://schema.org/address> "C/ Maurice Ravel , s/n" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4551> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Vadorrey" ;
+	<http://schema.org/identifier> "4551" ;
+	<http://schema.org/address> "C/ Nobleza Baturra" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20600> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Valdespartera" ;
+	<http://schema.org/identifier> "20600" ;
+	<http://schema.org/address> "C/ Luces de la Ciudad, 2" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28065> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Valmadrid" ;
+	<http://schema.org/identifier> "28065" ;
+	<http://schema.org/address> "C/ Paradero" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4671> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Venta del Olivar" ;
+	<http://schema.org/identifier> "4671" ;
+	<http://schema.org/address> "Venta del Olivar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4346> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Vía Hispanidad" ;
+	<http://schema.org/identifier> "4346" ;
+	<http://schema.org/address> "Vía Hispanidad, 31" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/4625> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación deportiva elemental Viñedo Viejo" ;
+	<http://schema.org/identifier> "4625" ;
+	<http://schema.org/address> "C/ Viñedo Viejo, 1" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/20598> a <http://schema.org/SportsActivityLocation> ;
+	<http://schema.org/name> "Instalación Deportiva Elemental Volver a Empezar" ;
+	<http://schema.org/identifier> "20598" ;
+	<http://schema.org/address> "C/ Volver a Empezar s/n" .
