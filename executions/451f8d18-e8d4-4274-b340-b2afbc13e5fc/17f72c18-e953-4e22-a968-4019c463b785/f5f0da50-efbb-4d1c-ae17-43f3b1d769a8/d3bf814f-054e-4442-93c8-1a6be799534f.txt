@@ -1,0 +1,198 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13422> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> "<p>academia de m&uacute;sica de titularidad privada</p>" ;
+	<http://schema.org/name> "Academia de Música Puerta Sancho" ;
+	<http://schema.org/email> "emdpuertasancho@mixmail.com" ;
+	<http://schema.org/telephone> "{tel=976 443 804 , fax= }" ;
+	<http://schema.org/url> "https://www.academias.com/en/zaragoza/musica-y-canto/mosica-y-danza-puerta-sancho/430" ;
+	<http://schema.org/address> "Avda. Puerta de Sancho, 14" ;
+	<http://schema.org/identifier> "13422" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13441> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> "<p>academia de m&uacute;sica de titularidad privada</p>" ;
+	<http://schema.org/name> "Academia de Música y Canto Bosco Yamaha" ;
+	<http://schema.org/telephone> "{tel=976 489 568 , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13441" ;
+	<http://schema.org/address> "C/ Rioja, 10" ;
+	<http://schema.org/identifier> "13441" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13442> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Academia de Música y Canto. Música Nova" ;
+	<http://schema.org/telephone> "{tel=976 319 981 , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=13441" ;
+	<http://schema.org/address> "C/ Viriato, 4" ;
+	<http://schema.org/identifier> "13442" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13444> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Academia de Música y Canto. Nairi Grigorian Arakimov" ;
+	<http://schema.org/telephone> "{tel=976 278 507 , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13444" ;
+	<http://schema.org/address> "C/ Maestro Marquina, 14" ;
+	<http://schema.org/identifier> "13444" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13541> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> "<p>Folkl&oacute;re aragon&eacute;s. Otras danzas.</p>" ;
+	<http://schema.org/name> "Academia de Música y Danza Estampa Baturra" ;
+	<http://schema.org/email> "estampa@estampabaturra.com" ;
+	<http://schema.org/telephone> "{tel=608 260 908 , fax= }" ;
+	<http://schema.org/url> "http://www.estampabaturra.com" ;
+	<http://schema.org/address> "C/ Batalla de Arapiles, 18" ;
+	<http://schema.org/identifier> "13541" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13446> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Academia de Música y Danza Miralbueno" ;
+	<http://schema.org/email> "academiamiralbueno@gmail.com" ;
+	<http://schema.org/telephone> "{tel=976 307 404  678 480 908, fax= }" ;
+	<http://schema.org/url> "http://www.academiamiralbueno.com/" ;
+	<http://schema.org/address> "Pza. Lagos Azules, 3" ;
+	<http://schema.org/identifier> "13446" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13560> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> "<p>Asociaci&oacute;n cultural</p>" ;
+	<http://schema.org/name> "ACGF Nobleza Baturra" ;
+	<http://schema.org/email> "tbetore@able.es" ;
+	<http://schema.org/telephone> "{tel=976 349 245 , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=13560" ;
+	<http://schema.org/address> "C/ Antonio Bravo, 9" ;
+	<http://schema.org/identifier> "13560" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13580> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> "<p>Escuela folkl&oacute;rica.</p>" ;
+	<http://schema.org/name> "Agrupación Folklorica Aragonesa Aires de Albada" ;
+	<http://schema.org/email> "airesalbada@msn.es" ;
+	<http://schema.org/telephone> "{tel=976 341 136 , fax= }" ;
+	<http://schema.org/url> "http://www.airesdealba.es.tl" ;
+	<http://schema.org/address> "C/ Los Fayos, 3" ;
+	<http://schema.org/identifier> "13580" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13910> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "C. Niccolo Paganini" ;
+	<http://schema.org/telephone> "{tel=976 21 49 99}" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13910" ;
+	<http://schema.org/address> "C/ Zurita, 6" ;
+	<http://schema.org/identifier> "13910" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13380> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> """<p>El Centro de Estudios Musicales \"Manuel de Falla\" fue inaugurado en Zaragoza en 1983 bajo la dirección de profesionales del campo de la música con una experiencia de casi diez años de labor docente.<br /><br />Abarca la formación musical de sus alumnos en grado elemental, medio y superior. Realiza durante los diez años siguientes un amplio y profundo trabajo de investigación en la labor pedagógico-musical, creando nuevos sistemas de enseñanza y diversos campos de actuación y participación que atañen a una completa educación musical en el alumnado.<br /><br />En 1993, conmemorando el X aniversario, y con una amplia plantilla de profesores especializados en el propio centro, crea la \"Escuela Pianística para el Desarrollo del Potencial Humano\". Esta Escuela Pianística se ha formado con el deseable propósito de conseguir un desarrollo integral del ser humano a través de un denominador común: la música, y concretamente el piano. Potencia de esta manera la práctica y ejecución musical como arte, ciencia y técnica, para desarrollo de todas las facultades humanas, intelectuales, físicas y afectivas.<br /><br />A lo largo de cada curso, el Centro de Estudios Musicales \"Manuel de Falla\" también organiza, con carácter gratuito, conciertos, audiciones y diversas actividades musicales que motivan y enriquecen el nivel cultural de todos sus alumnos.<br /> </p>""" ;
+	<http://schema.org/name> "Centro de Estudios Musicales Manuel de Falla" ;
+	<http://schema.org/email> "info@academiademusicafalla.com" ;
+	<http://schema.org/telephone> "{tel=976550706 , fax= }" ;
+	<http://schema.org/url> "http://www.academiademusicafalla.com/academia-musica-zaragoza.php" ;
+	<http://schema.org/address> "C/ Santa Teresa de Jesús, 29-35" ;
+	<http://schema.org/identifier> "13380" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13480> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Conservatorio de Música. Santa Cecilia" ;
+	<http://schema.org/telephone> "{tel=976271564 , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13480" ;
+	<http://schema.org/address> "C/ Mario Lasala Valdés, 6" ;
+	<http://schema.org/identifier> "13480" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/694> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> """<p>El Conservatorio consta de 2 plantas:</p><ul>    <li>1ª planta: Distribuidor-Sala de Espera, 10 aulas instrumentales, Sala de coro, Sala multiusos, Videoteca, Biblioteca, Secretaría, 3 Despachos: Director, Jefe de Estudios y Secretario, Conserjería, Servicios para profesores/alumnos.</li>    <li>2ª planta:Distribuidor-Sala de Espera, 15 aulas instrumentales, 4 aulas grandes de Lenguaje Musical, Biblioteca Departamento de Piano, Sala de Ensayos (112,36 m2), Sala de Profesores, Servicios individualizados para alumnos.</li></ul>""" ;
+	<http://schema.org/name> "Conservatorio Municipal Elemental de Música" ;
+	<http://schema.org/email> "conservatoriomusica@zaragoza.es" ;
+	<http://schema.org/telephone> "{tel=976 724960, fax=976 724958}" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/educacion/cmem/" ;
+	<http://schema.org/address> "C/ Domingo Miral, 3" ;
+	<http://schema.org/identifier> "694" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7705> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> """<p><br /><br /> </p>""" ;
+	<http://schema.org/name> "Conservatorio Profesional de Música de Zaragoza." ;
+	<http://schema.org/email> "cpmzaragoza@educa.aragon.es" ;
+	<http://schema.org/telephone> "{tel=976 201 928}" ;
+	<http://schema.org/url> "http://www.cpmzaragoza.com/" ;
+	<http://schema.org/address> "C/ San Vicente de Paúl, 39" ;
+	<http://schema.org/identifier> "7705" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/12480> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Conservatorio Superior de Música de Aragón (CSMA)" ;
+	<http://schema.org/email> "biblioteca@csma.es" ;
+	<http://schema.org/telephone> "{tel=976716980 , fax=976716981 }" ;
+	<http://schema.org/url> "http://www.csma.es/bibliotecaInform.do?enlaceMenuIzquierda=biblioteca&amp;menu=menuconserv" ;
+	<http://schema.org/address> "Vía Hispanidad, 22" ;
+	<http://schema.org/identifier> "12480" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13440> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Escuela de Música Amadeu" ;
+	<http://schema.org/telephone> "{tel=976758088 , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/cultura/observatorio/directorios/detalle_Centro?id=13440" ;
+	<http://schema.org/address> "C/ Fernando Díaz de Mendoza, 35" ;
+	<http://schema.org/identifier> "13440" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13421> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> """<p><span class=\"fbProfileBylineFragment\"><span class=\"fbProfileBylineLabel\"><span itemprop=\"address\" itemscope=\"itemscope\" itemtype=\"http://data-vocabulary.org/Address\"><br /></span></span></span></p>""" ;
+	<http://schema.org/name> "Escuela de Música y Danza Ángel Mingote C.A.M." ;
+	<http://schema.org/telephone> "{tel=976568484 , fax= }" ;
+	<http://schema.org/url> "https://www.facebook.com/angelmingote" ;
+	<http://schema.org/address> "Andador de los Hudíes, 6" ;
+	<http://schema.org/identifier> "13421" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13424> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Escuela de Música y Danza Balluarte Aragonés" ;
+	<http://schema.org/email> "baluarte@baluartearagones.net" ;
+	<http://schema.org/telephone> "{tel=976320894 , fax= }" ;
+	<http://schema.org/url> "http://www.baluartearagones.net" ;
+	<http://schema.org/address> "C/ Caspe, 33" ;
+	<http://schema.org/identifier> "13424" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/696> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> """<p>Las instalaciones de la Escuela constan de :</p><ul>    <li>20 aulas</li>    <li>1 Sala de Profesores</li>    <li>2 alamacenes</li>    <li>1 recepción</li>    <li>1 administración</li>    <li>1 dirección</li>    <li>1 secretaría, jefatura de estudios</li></ul>""" ;
+	<http://schema.org/name> "Escuela Municipal de Música y Danza I (Música Clásica y Folclore) -  C/ Domingo Miral" ;
+	<http://schema.org/email> "escuelamusica@zaragoza.es" ;
+	<http://schema.org/telephone> "{tel=976 724950, fax=976 721794}" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/educacion/emmd/" ;
+	<http://schema.org/address> "C/ Domingo Miral , 5" ;
+	<http://schema.org/identifier> "696" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/28> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> """<p>Las instalaciones de la Escuela constan de :</p><ul>    <li>13 aulas</li>    <li>1 almacén</li>    <li>1 recepción</li>    <li>1 Sala de Profesores</li>    <li>1 administración</li>    <li>2 salas de audiciones</li>    <li>1 subdirección</li></ul>""" ;
+	<http://schema.org/name> "Escuela Municipal de Musica y Danza II (Música Moderna) - C/ Armas" ;
+	<http://schema.org/email> "escuelamusicarmas@zaragoza.es" ;
+	<http://schema.org/telephone> "{tel=976 724902, fax=976 724542}" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=28" ;
+	<http://schema.org/address> "C/ Armas, 32" ;
+	<http://schema.org/identifier> "28" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13361> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Escuela Privada de Música y Danza Federico Chopin" ;
+	<http://schema.org/telephone> "{tel=976333435 / 675732528  , fax= }" ;
+	<http://schema.org/url> "http://www.chopinzaragoza.com/cgi-bin/chopin.pl" ;
+	<http://schema.org/address> "Centro DELICIAS; Urb. Parque Roma local 12 B" ;
+	<http://schema.org/identifier> "13361" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13363> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Escuelas de Música Yamaha" ;
+	<http://schema.org/telephone> "{tel=976 232344 , fax= }" ;
+	<http://schema.org/url> "http://es.yamaha.com/es/music_education/" ;
+	<http://schema.org/address> "Paseo Mª Agustín, 22 y 37" ;
+	<http://schema.org/identifier> "13363" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13447> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/description> """<div class=\"entry-content\"><div><p>El Estudio de música Adagio es un centro privado autorizado de grado elemental con número de autorización 50010454</p><p>En este centro se imparte ensañanza oficial de grado elemental. Los instrumentos autorizados son:</p><ul class=\"lista-2-col\">    <li>Piano</li>    <li>Flauta travesera</li>    <li>Violín</li>    <li>Guitara</li>    <li>Acordeón</li>    <li>Viola</li>    <li>Chelo</li>    <li>Clarinete</li>    <li>Flauta pico</li></ul><p>También se imparte grado medio no autorizado preparando las pruebas  de acceso a las distintas asignaturas y cursos, tanto a conservatorios  como a centros privados.</p></div></div>""" ;
+	<http://schema.org/name> "Estudio de Música Adagio" ;
+	<http://schema.org/email> "estudioadagio@hotmail.com" ;
+	<http://schema.org/telephone> "{tel=976232601 , fax= }" ;
+	<http://schema.org/address> "Residencial Paraíso, 5" ;
+	<http://schema.org/identifier> "13447" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13460> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Estudio de Música Eva María Pallás" ;
+	<http://schema.org/telephone> "{tel=976 744178 , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13460" ;
+	<http://schema.org/address> "C/ Cineasta Adolfo Aznar, 7" ;
+	<http://schema.org/identifier> "13460" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13445> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Instituto de Música de Zaragoza S.L." ;
+	<http://schema.org/telephone> "{tel=976228938 , fax= }" ;
+	<http://schema.org/address> "C/ Antonio Cánovas, 31" ;
+	<http://schema.org/identifier> "13445" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13340> a <http://schema.org/EducationalOrganization> ;
+	<http://schema.org/name> "Swing Escuela de Música" ;
+	<http://schema.org/telephone> "{tel=976595291 , fax= }" ;
+	<http://schema.org/url> "http://www.zaragoza.es/ciudad/centros/detalle_Centro?id=13340" ;
+	<http://schema.org/address> "C/ Conde de Sastago, 4" ;
+	<http://schema.org/identifier> "13340" .
