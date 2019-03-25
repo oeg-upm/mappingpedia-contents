@@ -1,0 +1,258 @@
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13807> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 22 38 86 , fax=976 23 39 71}" ;
+	<http://schema.org/address> "C/ Teniente Coronel Valenzuela, 2" ;
+	<http://schema.org/identifier> "13807" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         (No Concertada)</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]         (No Concertada)</li></ul>""" ;
+	<http://schema.org/email> "escolapiascalasanz@planalfa.es" ;
+	<http://schema.org/name> "Colegio Calasanz" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13842> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 51 96 55 , fax=976 52 46 45 }" ;
+	<http://schema.org/address> "C/ Rafael Alberti, 5" ;
+	<http://schema.org/identifier> "13842" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Bachillerato</li></ul>""" ;
+	<http://schema.org/email> "secretaria@elpilarmaristas.org" ;
+	<http://schema.org/name> "Colegio El Pilar - Maristas" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/13914> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 42 49 47 , fax=976 42 47 93 }" ;
+	<http://schema.org/address> "C/ Amistad, 6" ;
+	<http://schema.org/identifier> "13914" ;
+	<http://schema.org/description> """<ul>    <li>Educación Infantil</li>    <li>Segundo Ciclo de Educación Infantil (Concertada)</li>    <li>Educación Primaria</li>    <li>Educación Primaria (Concertada)</li>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria (Concertada)</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Auxiliar de comercio [COM101] [Diurno] (Concertada)</li>    <li>Auxiliar de reparación electromecánico de vehículos [TMV102] [Diurno] (Concertada)</li>    <li>Ayudante de instalaciones electrotécnicas y de telecomunicación [ELE101] [Diurno] (Concertada)</li>    <li>Bachillerato</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Comercio [COM201] [Diurno] (Concertada)</li>    <li>Cuidados Auxiliares de Enfermería [SAN201] [Diurno] (Concertada)</li>    <li>Electromecánica de Vehículos [MVA202*] [Diurno] (Concertada)</li>    <li>Electromecánica de Vehículos Automóviles [TMV202] [Diurno] (Concertada)</li>    <li>Equipos Electrónicos de Consumo [ELE201] [Diurno] (Concertada)</li>    <li>Farmacia y Parafarmacia [SAN202] [Diurno] (Concertada)</li>    <li>Gestión Administrativa  [ADG201] [Diurno] (Concertada)</li>    <li>Instalaciones Eléctricas y Automáticas [ELE202] [Diurno] (Concertada)</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración y Finanzas [ADM301] [Diurno] (Concertada)</li>    <li>Animación de Actividades Físicas y Deportivas [AFD301] [Diurno] (Concertada)</li>    <li>Higiene Bucodental [SAN304] [Diurno] (Concertada)</li>    <li>Instalaciones Electrotécnicas [ELE302*] [Diurno]<br />    (No Concertada)</li></ul>""" ;
+	<http://schema.org/email> "odsds@planalfa.es" ;
+	<http://schema.org/name> "Colegio Obra Diocesana Santo Domingo de Silos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7997> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 300 804, fax=976 314 403}" ;
+	<http://schema.org/address> "C/ Jarque de Moncayo, 10" ;
+	<http://schema.org/identifier> "7997" ;
+	<http://schema.org/description> """<ul>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Comercio [COM201] [Diurno]</li>    <li>Laboratorio de Imagen [CIS201] [Diurno]</li>    <li>Sistemas Microinformáticos y Redes [IFC201] [Diurno]</li>    <li>Sistemas Microinformáticos y Redes [IFC201] [Vespertino]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración de Sistemas Informáticos en Red [IFC301] [Diurno]</li>    <li>Desarrollo de Aplicaciones Informáticas [INF302*] [Diurno]</li>    <li>Desarrollo de Aplicaciones Multiplataforma [IFC302] [Diurno]</li>    <li>Desarrollo de Aplicaciones WEB [IFC303] [Diurno]</li>    <li>Gestión del Transporte [COM303] [Diurno]</li>    <li>Gestión del Transporte [COM303] [Nocturno]</li>    <li>Imagen [CIS301] [Diurno]</li>    <li>Producción de Audiovisuales, Radio y Espectáculos [CIS302] [Diurno]</li>    <li>Realización de Audiovisuales y Espectáculos [CIS303] [Vespertino]</li>    <li>Sistemas de Telecomunicación e Informáticos [ELE304] [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "ieslenzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "CPIFP Los Enlaces (Centro Público Integrado de Formación Profesional)" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7985> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 281 943, fax=976 28 35 46}" ;
+	<http://schema.org/address> "C/ París, 1" ;
+	<http://schema.org/identifier> "7985" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Ayudante de instalaciones electrotécnicas y de telecomunicación [ELE101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Equipos Electrónicos de Consumo [ELE201] [Diurno]</li>    <li>Gestión Administrativa  [ADG201] [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración y Finanzas [ADM301] [Vespertino]</li></ul>""" ;
+	<http://schema.org/email> "iesandzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Andalán" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7987> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 518 666, fax=976 73 01 69}" ;
+	<http://schema.org/address> "C/ Islas Canarias, 5" ;
+	<http://schema.org/identifier> "7987" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li></ul>""" ;
+	<http://schema.org/email> "avempace@avempace.com" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Avempace" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7988> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 467 000, fax=976 46 70 61}" ;
+	<http://schema.org/address> "C/ Corona de Aragón, 35" ;
+	<http://schema.org/identifier> "7988" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Bachillerato</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Gestión Administrativa  [ADG201] [Diurno]</li>    <li>Instalaciones Eléctricas y Automáticas [ELE202] [Diurno]</li>    <li>Instalaciones Eléctricas y Automáticas [ELE202] [Nocturno]</li>    <li>Laboratorio [QUI201] [Diurno]</li>    <li>Mecanizado [FME202] [Diurno]</li>    <li>Mecanizado [FME202] [Nocturno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración y Finanzas [ADM301] [Vespertino]</li>    <li>Desarrollo y Aplicación de Proyectos de Construcción [EOC301*] [Diurno]</li>    <li>Desarrollo y Aplicación de Proyectos de Construcción [EOC301*] [Vespertino]</li>    <li>Instalaciones Electrotécnicas [ELE302*] [Vespertino]</li>    <li>Laboratorio de Análisis y de Control de Calidad [QUI301] [Diurno]</li>    <li>Programación de la Producción en Fabricación Mecánica [FME304] [Vespertino]</li>    <li>Proyectos de Edificación [EOC301] [Diurno]</li>    <li>Proyectos de Edificación [EOC301] [Vespertino]</li>    <li>Química Ambiental [QUI306] [Vespertino]</li>    <li>Secretariado [ADM302] [Vespertino]</li>    <li>Sistemas Electrotécnicos y Automatizados [ELE302] [Vespertino]</li></ul>""" ;
+	<http://schema.org/email> "iescorzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Corona de Aragón" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7989> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 336 433, fax=976 32 62 34}" ;
+	<http://schema.org/address> "C/ Juan XXIII, 3" ;
+	<http://schema.org/identifier> "7989" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria     </li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria     </li>    <li>Bachillerato         </li>    <li>Bachillerato de Ciencias y Tecnología [Diurno] </li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesporzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) El Portillo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7990> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 527 500, fax=976 52 59 68}" ;
+	<http://schema.org/address> "Andador Pilar Cuartero, 3" ;
+	<http://schema.org/identifier> "7990" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria     </li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria </li>    <li>Bachillerato         </li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         </li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "Ieselazaragoza@Educa.Aragon.Es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Elaios" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7991> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 347 690, fax=976 53 38 48}" ;
+	<http://schema.org/address> "C/ Ramiro I de Aragón, 15" ;
+	<http://schema.org/identifier> "7991" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial         Auxiliar informático [IFC101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Ciencias y Tecnología [Nocturno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "Iesfazzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Félix de Azara" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7992> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 422 308, fax=976 59 42 96}" ;
+	<http://schema.org/address> "C/ Tomás Higuera, 60" ;
+	<http://schema.org/identifier> "7992" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesfgczaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Grande Covián" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7993> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 572 426, fax=976 57 44 71}" ;
+	<http://schema.org/address> "Avda. de los Estudiantes, s/n" ;
+	<http://schema.org/identifier> "7993" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)      Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)      Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Ayudante Administrativo [ADG101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Conducción de Actividades Físico-Deportivas en el Medio Natural [AFD201] [Diurno]</li>    <li>Gestión Administrativa  [ADG201] [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración y Finanzas [ADM301] [Diurno]</li>    <li>Animación de Actividades Físicas y Deportivas [AFD301] [Diurno]</li>    <li>Animación de Actividades Físicas y Deportivas [AFD301] [Vespertino]</li>    <li>Química Industrial [QUI304] [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesitazaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Itaca" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7994> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 353 361}" ;
+	<http://schema.org/address> "C/ Juan Carlos I de Borbón, 11" ;
+	<http://schema.org/identifier> "7994" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Jerónimo Zurita" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7995> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 258 620, fax=976 25 86 21}" ;
+	<http://schema.org/address> "C/ Cuarta Avenida, 13" ;
+	<http://schema.org/identifier> "7995" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)      Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)      Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Auxiliar de comercio [COM101] [Diurno]</li>    <li>Auxiliar en operaciones de fontanería, calefacción y climatización [IMA101] [Diurno]</li>    <li>Ayudante de instalaciones electrotécnicas y de telecomunicación [ELE101] [Diurno]</li>    <li>Bachillerato</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Instalaciones Eléctricas y Automáticas [ELE202] [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesjmbzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) José Manuel Blecua" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7999> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 331 803, fax=976 31 28 88}" ;
+	<http://schema.org/address> "C/ San Vicente Ferrer, s/n" ;
+	<http://schema.org/identifier> "7999" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria     </li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria     </li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Operario auxiliar en de mecanizado y montaje [FME101] [Diurno] </li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio </li>    <li>Atención Sociosanitaria [SSC201] [Diurno] </li>    <li>Soldadura y Calderería [FME203] [Diurno]     </li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Integración Social [SSC303] [Diurno]         </li>    <li>Interpretación de la Lengua de Signos [SSC304] [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesmmozaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) María Moliner" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8000> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 491 900, fax=976 49 18 29}" ;
+	<http://schema.org/address> "C/ José Luis Pomarón, 4" ;
+	<http://schema.org/identifier> "8000" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria     </li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria     </li>    <li>Bachillerato         </li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]         </li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "Iesmalzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Medina Albaida" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8001> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 402 004, fax=876 11 06 62}" ;
+	<http://schema.org/address> "Pº Isabel la Católica, 3" ;
+	<http://schema.org/identifier> "8001" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Ayudante Administrativo [ADG101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Comercio [COM201] [Diurno]</li>    <li>Cuidados Auxiliares de Enfermería [SAN201] [Diurno]</li>    <li>Cuidados Auxiliares de Enfermería [SAN201] [Nocturno]</li>    <li>Cuidados Auxiliares de Enfermería [SAN201] [Vespertino]</li>    <li>Gestión Administrativa  [ADG201] [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración y Finanzas [ADM301] [Diurno]</li>    <li>Comercio Internacional [COM301] [Diurno]</li>    <li>Dietética [SAN302] [Diurno]</li>    <li>Documentación Sanitaria [SAN303] [Diurno]</li>    <li>Imagen para el Diagnóstico [SAN305] [Vespertino]</li></ul>""" ;
+	<http://schema.org/email> "mcatalan@ies-mcatalan.com" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Miguel Catalán" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8002> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 732 125, fax=976 46 64 45}" ;
+	<http://schema.org/address> "C/ Gabriel García Márquez, 20" ;
+	<http://schema.org/identifier> "8002" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria     </li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria     </li>    <li>Programas de Cualificación Profesional Inicial         Auxiliar informático [IFC101] [Diurno]     </li>    <li>Bachillerato </li>    <li>Bachillerato de Ciencias y Tecnología [Diurno] </li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesmimozaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Miguel de Molinos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8003> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 330 450, fax=976 31 62 20}" ;
+	<http://schema.org/address> "C/ Vistabella, 8" ;
+	<http://schema.org/identifier> "8003" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Auxiliar de reparación electromecánico de vehículos [TMV102] [Diurno]</li>    <li>Ayudante de instalaciones electrotécnicas y de telecomunicación [ELE101] [Diurno]</li>    <li>Ayudante de Restaurante y Bar [HOT102] [Diurno]</li>    <li>Operario auxiliar en de mecanizado y montaje [FME101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Acabados de Construcción [EOC201] [Diurno]</li>    <li>Carrocería [TMV201] [Diurno]</li>    <li>Cocina y Gastronomía [HOT201] [Diurno]</li>    <li>Electromecánica de Vehículos [MVA202*] [Diurno]</li>    <li>Electromecánica de Vehículos Automóviles [TMV202] [Diurno]</li>    <li>Electromecánica de Vehículos Automóviles [TMV202] [Vespertino]</li>    <li>Equipos Electrónicos de Consumo [ELE201] [Diurno]</li>    <li>Servicios en Restauración [HOT203] [Diurno]</li>    <li>Soldadura y Calderería [FME203] [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Agencias de Viajes y Gestión de Eventos [HOT301] [Diurno]</li>    <li>Construcciones Metálicas [FME301] [Diurno]</li>    <li>Dirección de Cocina [HOT305] [Diurno]</li>    <li>Gestión de Alojamientos Turísticos [HOT302] [Diurno]</li>    <li>Mantenimiento Aeromecánico [MVA302] [Diurno]</li>    <li>Realización y Planes de Obra [EOC303] [Diurno]</li>    <li>Restauración [HOT304*] [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesmirzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Miralbueno" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8004> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 385 012, fax=976 25 54 20}" ;
+	<http://schema.org/address> "Camino de Miraflores" ;
+	<http://schema.org/identifier> "8004" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iespagazaragoza@educa.aragon.e" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Pablo Gargallo" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8005> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 491 015, fax=976 59 05 42}" ;
+	<http://schema.org/address> "C/ Batalla de Lepanto, 30" ;
+	<http://schema.org/identifier> "8005" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)      Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)      Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Auxiliar de Peluquería [IMP101] [Diurno]</li>    <li>Ayudante Administrativo [ADG101] [Diurno]</li>    <li>Ayudante de instalaciones electrotécnicas y de telecomunicación [ELE101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Gestión Administrativa  [ADG201] [Diurno]</li>    <li>Instalaciones de Telecomunicaciones [ELE203] [Diurno]</li>    <li>Peluquería [IMP203] [Vespertino]</li>    <li>Sistemas Microinformáticos y Redes [IFC201] [Vespertino]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración de Sistemas Informáticos en Red [IFC301] [Diurno]</li>    <li>Administración de Sistemas Informáticos en Red [IFC301] [Nocturno]</li>    <li>Administración y Finanzas [ADM301] [Diurno]</li>    <li>Desarrollo de Aplicaciones Informáticas [INF302*] [Diurno]</li>    <li>Desarrollo de Aplicaciones Multiplataforma [IFC302] [Diurno]</li>    <li>Desarrollo de Aplicaciones Multiplataforma [IFC302] [Nocturno]</li>    <li>Desarrollo de Productos Electrónicos [ELE301] [Diurno]</li>    <li>Desarrollo de Productos Electrónicos [ELE301] [Vespertino]</li></ul>""" ;
+	<http://schema.org/email> "iespsezaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Pablo Serrano" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8007> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 290 249, fax=976 20 36 35}" ;
+	<http://schema.org/address> "C/ Universidad 2-4" ;
+	<http://schema.org/identifier> "8007" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial         Ayudante de cocina [HOT101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Artes Escénicas, Música y Danza [Diurno]</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Nocturno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Comercio [COM201] [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Servicios al Consumidor [COM304] [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iespluzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Pedro de Luna" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8008> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 475 966, fax=976 47 54 36}" ;
+	<http://schema.org/address> "C/ Miguel de Asso, 5" ;
+	<http://schema.org/identifier> "8008" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Operario de reprografía [ARG101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Impresión en Artes Gráficas [ARG202] [Vespertino]</li>    <li>Preimpresión en Artes Gráficas [ARG203] [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Diseño y Producción Editorial [ARG301] [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesplozaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Pilar Lorengar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8009> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 333 878, fax=976 34 00 81}" ;
+	<http://schema.org/address> "C/ Jarque de Moncayo, 17" ;
+	<http://schema.org/identifier> "8009" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial         Ayudante Administrativo [ADG101] [Diurno]</li>    <li>Bachillerato         Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "secretaria@iespignatelli.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Ramón Pignatelli" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8010> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 405 180, fax=976 28 50 75}" ;
+	<http://schema.org/address> "C/ Ramón Pignatelli, 102" ;
+	<http://schema.org/identifier> "8010" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Auxiliar de Lavandería y arreglos de artículos textiles [TCP101] [Diurno]</li>    <li>Operario de viveros, jardines y centros de jardinería [AGA103] [Diurno]</li>    <li>Taller Profesional Especial [TPE100] [Diurno]</li>    <li>Transición a la Vida Adulta [TVA100] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesryczaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Ramón y Cajal" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8011> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 588 170, fax=976 57 04 08}" ;
+	<http://schema.org/address> "C/ Río Piedra, 4" ;
+	<http://schema.org/identifier> "8011" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Auxiliar de reparación de carrocería de vehículos [TMV101] [Diurno]</li>    <li>Auxiliar de reparación electromecánico de vehículos [TMV102] [Diurno]</li>    <li>Ayudante de instalaciones electrotécnicas y de telecomunicación [ELE101] [Diurno]</li>    <li>Bachillerato</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Electromecánica de Vehículos [MVA202*] [Diurno]</li>    <li>Electromecánica de Vehículos Automóviles [TMV202] [Diurno]</li>    <li>Emergencias Sanitarias [SAN203] [Nocturno]</li>    <li>Farmacia y Parafarmacia [SAN202] [Diurno]</li>    <li>Instalaciones Eléctricas y Automáticas [ELE202] [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Laboratorio de Diagnóstico Clínico [SAN306] [Vespertino]</li>    <li>Prótesis Dentales [SAN308] [Diurno]</li>    <li>Salud Ambiental [SAN310] [Vespertino]</li>    <li>Sistemas de Telecomunicación e Informáticos [ELE304] [Vespertino]</li></ul>""" ;
+	<http://schema.org/email> "iesrgazaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Río Gállego" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8012> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 324 200, fax=976 33 79 85}" ;
+	<http://schema.org/address> "Avda. Navarra, 141" ;
+	<http://schema.org/identifier> "8012" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Auxiliar de Peluquería [IMP101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Comercio [COM201] [Diurno]</li>    <li>Estética Personal Decorativa [IMP202] [Diurno]</li>    <li>Estética Personal Decorativa [IMP202] [Vespertino]</li>    <li>Gestión Administrativa  [ADG201] [Diurno]</li>    <li>Peluquería [IMP203] [Diurno]</li>    <li>Peluquería [IMP203] [Vespertino]</li>    <li>Sistemas Microinformáticos y Redes [IFC201] [Vespertino]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración y Finanzas [ADM301] [Diurno]</li>    <li>Asesoría de Imagen Personal [IMP301] [Diurno]</li>    <li>Desarrollo de Aplicaciones Informáticas [INF302*] [Diurno]</li>    <li>Desarrollo de Aplicaciones Informáticas [INF302*] [Nocturno]</li>    <li>Desarrollo de Aplicaciones Multiplataforma [IFC302] [Diurno]</li>    <li>Desarrollo de Aplicaciones Multiplataforma [IFC302] [Nocturno]</li>    <li>Estética [IMP302] [Diurno]</li>    <li>Gestión Comercial y Márketing [COM302] [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesshezaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Santiago Hernández" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8013> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 525 302, fax=976 52 56 92}" ;
+	<http://schema.org/address> "C/ Cineasta Segundo de Chomón, 4" ;
+	<http://schema.org/identifier> "8013" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Ayudante Administrativo [ADG101] [Diurno]</li>    <li>Ayudante de instalaciones electrotécnicas y de telecomunicación [ELE101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Gestión Administrativa  [ADG201] [Diurno]</li>    <li>Instalaciones de Telecomunicaciones [ELE203] [Diurno]</li>    <li>Sistemas Microinformáticos y Redes [IFC201] [Vespertino]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Administración de Sistemas Informáticos en Red [IFC301] [Diurno]</li>    <li>Administración y Finanzas [ADM301] [Vespertino]</li>    <li>Sistemas de Telecomunicación e Informáticos [ELE304] [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "info@iestiemposmodernos.com" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Tiempos Modernos" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8014> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 306 009, fax=976 564 268}" ;
+	<http://schema.org/address> "Pº Reyes de Aragón, 20" ;
+	<http://schema.org/identifier> "8014" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)      Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)      Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Auxiliar en operaciones de fontanería, calefacción y climatización [IMA101] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Carrocería [TMV201] [Diurno]</li>    <li>Electromecánica de Vehículos [MVA202*] [Diurno]</li>    <li>Electromecánica de Vehículos Automóviles [TMV202] [Diurno]</li>    <li>Fabricación a Medida e Instalación de Carpintería y Mueble [MAM201] [Diurno]</li>    <li>Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas [MSP201] [Diurno]</li>    <li>Montaje y Mantenimiento de Instalaciones de Frio, Climatización y Producción de Calor [MSP203] [Diurno]</li>    <li>Montaje y Mantenimiento de Instalaciones de Frio, Climatización y Producción de Calor [MSP203] [Nocturno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Automoción [TMV301] [Vespertino]</li>    <li>Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos [IMA301] [Vespertino]</li>    <li>Diseño en Fabricación Mecánica [FME302] [Diurno]</li>    <li>Eficiencia Energética y Energía Solar Térmica [ENA301] [Vespertino]</li>    <li>Mantenimiento de Equipo Industrial [MSP302] [Vespertino]</li>    <li>Prevención de Riesgos Profesionales [MSP304] [Vespertino]</li>    <li>Producción de Madera y Mueble [MAM302] [Vespertino]</li>    <li>Sistemas de Regulación y Control Automáticos [ELE303] [Vespertino]</li></ul>""" ;
+	<http://schema.org/email> "iesvdpzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria ) Virgen del Pilar" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/8006> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 506 628, fax=976 506630}" ;
+	<http://schema.org/address> "C/ La Fragua s/n" ;
+	<http://schema.org/identifier> "8006" ;
+	<http://schema.org/email> "iesparquegoya@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria)  Parque Goya" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7996> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 478 383, fax=976 47 84 06}" ;
+	<http://schema.org/address> "C/ Matilde Sangüesa Castañosa, 53" ;
+	<http://schema.org/identifier> "7996" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li></ul>""" ;
+	<http://schema.org/email> "iesazuzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria) La Azucarera" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/27879> a <http://schema.org/HighSchool> ;
+	<http://schema.org/address> "C/ Teniente Ortíz de Zárate 26" ;
+	<http://schema.org/identifier> "27879" ;
+	<http://schema.org/name> "IES (Instituto de Educación Secundaria) Picarral" .
+
+<http://www.zaragoza.es/api/recurso/urbanismo-infraestructuras/equipamiento/7998> a <http://schema.org/HighSchool> ;
+	<http://schema.org/telephone> "{tel=976 440 028, fax=976 437 309}" ;
+	<http://schema.org/address> "C/ Sierra de Vicor, 20" ;
+	<http://schema.org/identifier> "7998" ;
+	<http://schema.org/description> """<ul>    <li>ESO (1º y 2º Curso)         Primer Ciclo de Educación Secundaria Obligatoria</li>    <li>ESO (3º y 4º Curso)         Segundo Ciclo de Educación Secundaria Obligatoria</li>    <li>Programas de Cualificación Profesional Inicial</li>    <li>Operario en diseño y confección en textil, decoración y hogar [TCP102] [Diurno]</li>    <li>Bachillerato</li>    <li>Bachillerato de Ciencias y Tecnología [Diurno]</li>    <li>Bachillerato de Humanidades y Ciencias Sociales [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Medio</li>    <li>Atención Sociosanitaria [SSC201] [Diurno]</li>    <li>Atención Sociosanitaria [SSC201] [Nocturno]</li>    <li>Confección y Moda [TCP202] [Diurno]</li>    <li>Ciclos Formativos de Formación Profesional de Grado Superior</li>    <li>Anatomía Patológica y Citología [SAN301] [Diurno]</li>    <li>Educación Infantil (Formación Profesional) [SSC302] [Diurno]</li>    <li>Educación Infantil (Formación Profesional) [SSC302] [Vespertino]</li>    <li>Patronaje y Moda [TCP301] [Vespertino]</li></ul>""" ;
+	<http://schema.org/email> "Ieslbuzaragoza@educa.aragon.es" ;
+	<http://schema.org/name> "IES (Instituto de Enseñanza Secundaria) Luis Buñuel" .
